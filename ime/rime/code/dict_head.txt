@@ -1,0 +1,13 @@
+---
+name: zdvorak
+version: "0.1"
+sort: orginal
+columns:
+  - code
+  - text
+  - weight
+import_tables:
+ - zdvorak.symbols
+ - zdvorak.pinyin
+ #- zdvorak.first
+...
