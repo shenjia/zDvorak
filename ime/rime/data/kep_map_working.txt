@@ -1,0 +1,32 @@
+x (i)
+z (')
+ch (a)
+zh (o)
+sh (e)
+y (u)
+x (i)
+f (z)
+-----------------------------------------
+v (y) [l n]
+ia / ua (a) [a d g h i j k e o q]
+uo (o) [c a d g h k l n r s e t ' o]
+iang / uang (g) [j l n q i a g h k e o]
+ei (p) [b f g h l m n p e t w ']
+en (n)  [; b c a v g h k m n p r s e w ' o]
+in (b) [b j l m n p q i u]
+iu (q) [d j l m n q i]
+ong / iong (k) [c a d g h i j k l n q r s t u ' o]
+eng (.) [b c a d v g h k l m n p r s e t w ' o]
+ie (m) [b d j l m n p q t i]
+iao (l) [b d j l m n p q t i]
+ian (;) [b d j l m n p q t i]
+ou (,) [c a d v g h k l m n ; p r s e t u ' o]
+uan (j) [c a d g h j k l n q r s e t i u 'o]
+uai / ing (r) [a b d e g h j k l m n o p q t i u]
+ui / ue (c) [c a d g h i j k l n q r s e t ' u o]
+ai (')	[; b c a d g h k l m n p s e t w ' o]
+un (d) [c a d g h j k l q r s e t i ' o]
+ao (t) [; b c a d g h k l m n p r s e t u ' o]
+an (s) [; b c a d v g h k l m n p r s e t w u ' o]
+ang (h) [; b c a d v g h k l m n p r s e t w u ' o]
+----------------------------

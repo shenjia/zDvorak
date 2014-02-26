@@ -1,0 +1,183 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: double_pinyin_zdvorak
+  name: zDvorak双拼
+  version: "0.60"
+  author:
+    - 张砷镓 <zshenjia@gmail.com>
+  description: |
+    Dvorak键盘布局下的双拼方案。
+  dependencies:
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;,.'"
+  initials: "zyxwvutsrqponmlkjihgfedcba;'"
+  delimiter: " "  # 隔音符號用「'」；第一位的空白用來自動插入到音節邊界處
+  algebra:
+
+    - erase/^xx$/             # 碼表中有幾個拼音不明的字，編碼成xx了，消滅他
+    - derive/^([jqxy])u$/$1v/
+
+    - xform/^ch/A/            # 替換聲母鍵，用大寫以防與原有的字母混淆
+    - xform/^zh/O/            
+    - xform/^sh/E/
+    - xform/^y/U/
+    - xform/^x/I/
+    - xform/^f/Z/
+    - xform/^z/'/
+
+    - xform/^a$/;A/           # ;a = a
+    - xform/^ai$/;H/          # ;h = ai
+    - xform/^ang$/;'/         # ;' = ang
+    - xform/^ao$/;T/          # ;t = ao
+    - xform/^an$/;S/          # ;s = an
+    - xform/^o$/;O/           # ;o = o
+    - xform/^ou$/;U/          # ;u = ou
+    - xform/^e$/;E/           # ;e = e
+    - xform/^en$/;N/          # ;n = en
+    - xform/^er$/;R/          # ;r = er
+
+    - xform/ei$/P/        
+    - xform/ie$/M/
+    - xform/ian$/;/           # 在 ia an 之前
+    - xform/uan$/J/           # 在 ua an 之前
+    - xform/iu$/Q/
+    - xform/[iu]ang$/G/       # 在 ang an 之前
+    - xform/[ui]a$/A/
+    - xform/ing$|uai$/R/      # 在 in ua ai 之前
+    - xform/u[ei]$/C/
+    - xform/i?ong$/K/         # 在 ong 之前
+    - xform/eng$/\./          # 在 en 之前
+    - xform/ang$/'/           # 在 an 之前
+    - xform/an$/S/            
+    - xform/iao$/L/           # 在 ia ao 之前
+    - xform/en$/N/
+    - xform/ao$/T/
+    - xform/in$/B/     
+    - xform/ai$/H/　
+    - xform/ou$/,/
+    - xform/un$/D/
+    - xform/uo$/O/
+    - xform/v$/Y/
+    - xlit/QWERTYUIOPASDFGHJKLZXCVBNM/qwertyuiopasdfghjklzxcvbnm/  # 最後把雙拼碼全部變小寫
+
+translator:
+  dictionary: double_pinyin_zdvorak
+  prism: double_pinyin_zdvorak
+  preedit_format:
+              
+    - xform/;(\w)/0$1/                # 零聲母先改爲0，以方便後面的轉換
+
+    - "xform/(^| )u/$1y/"          # u = y
+    - "xform/(^| )i/$1x/"          # i = x
+    - "xform/(^| )z/$1f/"          # z = f
+    - "xform/(^| )'/$1z/"          # ' = z
+
+    - xform/(\w)n/$1en/               # n = en 
+
+    - xform/([cdghlnrstzaoe])o/$1uo/  # o = uo
+        
+    - xform/([nljqx])g/$1iang/        # g = uang / iang 
+    - xform/([aoeghk])g/$1uang/
+    
+    - xform/(\w)'/$1ang/              # ' = ang
+    - xform/(\w)\./$1eng/              # . = eng
+    
+    - xform/(\w)s/$1an/               # s = an 
+    - xform/(\w)b/$1in/               # b = in 
+    - xform/(\w)d/$1un/               # d = un
+    - xform/(\w);/$1ian/              # ; = ian
+    - xform/(\w)j/$1uan/              # j = uan
+
+    - xform/([dyjlxbtqnpm])r/$1ing/   # r = ing / uai
+    - xform/(\w)r/$1uai/
+
+    - xform/(\w),/$1ou/               # , = ou
+
+    - xform/([jqx])k/$1iong/          # k = ong / iong
+    - xform/(\w)k/$1ong/
+
+    - xform/([jqx])a/$1ia/            # a = a / ia
+
+    - xform/([nl])c/$1ve/             # c = ui / ue / ve
+    - xform/([jqxy])c/$1ue/
+    - xform/([cadghkrsetzo])c/$1ui/
+    
+    - xform/(\w)t/$1ao/               # t = ao
+    - xform/(\w)l/$1iao/              # l = iao
+
+    - xform/(\w)h/$1ai/               # h = ai
+    - xform/(\w)m/$1ie/               # m = ie
+    - xform/(\w)p/$1ei/               # p = ei
+
+    - xform/([nljqxy])y/$1ü/          # y = ü
+
+    - xform/(\w)q/$1iu/               # q = iu
+
+    - "xform/(^|[ '])a/$1ch/"         # a = ch
+    - "xform/(^|[ '])o/$1zh/"         # o = zh
+    - "xform/(^|[ '])e/$1sh/"         # e = sh
+
+    - xform/0uai/er/                  # 零声母特殊处理
+    - xform/0u/ou/
+    - xform/0i/ai/
+    - xform/0(\w)/$1/                 # 去除0
+
+reverse_lookup:
+  dictionary: stroke
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

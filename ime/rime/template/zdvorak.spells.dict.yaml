@@ -1,0 +1,9 @@
+---
+name: zdvorak.spells
+version: "0.1"
+sort: by_weight
+columns:
+  - code
+  - text
+  - weight
+...

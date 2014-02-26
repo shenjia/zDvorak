@@ -1,0 +1,9 @@
+---
+name: zdvorak.first
+version: "0.1"
+sort: orginal
+columns:
+  - code
+  - text
+  - weight
+...
