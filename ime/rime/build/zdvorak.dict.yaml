@@ -68,7 +68,7 @@ bspc	阪	65
 bsu	半	13186
 bsul	半	13186
 bse	班	11860
-bseu	班	11860
+bsel	班	11860
 bsm	板	5076
 bsmc	板	5076
 bs,	般	4577
@@ -264,10 +264,10 @@ b;ps	扁	1723
 b;.i	辩	587
 b;u	鞭	530
 b;uh	鞭	530
-b;.u	辨	506
+b;.l	辨	506
+b;.l	卞	249
 b;n	贬	292
 b;np	贬	292
-b;.l	卞	249
 b;c	匾	111
 b;cp	匾	111
 b;up	煸	56
@@ -2398,8 +2398,8 @@ lmm	劣	291
 lmms	劣	291
 lbm	林	12069
 lbmm	林	12069
-lbu	临	1838
-lbur	临	1838
+lbl	临	1838
+lblr	临	1838
 lbe	琳	1647
 lbem	琳	1647
 lb;	淋	781
@@ -2878,8 +2878,7 @@ gcl	贵	13963
 gcln	贵	13963
 gc,	鬼	6652
 gc,q	鬼	6652
-gcu	归	3754
-gcum	归	3754
+gclm	归	3754
 gcm	桂	1247
 gcmt	桂	1247
 gch	规	1058
@@ -3685,7 +3684,6 @@ j;kh	捡	1723
 j;us	剪	1712
 j;r'	简	1282
 j;ru	箭	1233
-j;ru	鉴	443
 j;m	检	1209
 j;mh	检	1209
 j;p	肩	1126
@@ -3693,10 +3691,10 @@ j;pn	肩	1126
 j;uh	尖	1070
 j;;t	渐	1037
 j;t	坚	894
-j;tu	柬	105
+j;tl	坚	894
 j;u;	煎	806
 j;e	监	724
-j;eu	监	724
+j;el	监	724
 j;,	舰	620
 j;,n	舰	620
 j;kg	拣	611
@@ -3704,6 +3702,7 @@ j;q	奸	548
 j;qa	奸	548
 j;a	碱	535
 j;ag	碱	535
+j;rl	鉴	443
 j;;n	溅	416
 j;v	荐	391
 j;va	荐	391
@@ -3716,6 +3715,7 @@ j;im	谏	188
 j;o	践	154
 j;og	践	154
 j;rg	笺	147
+j;tu	柬	105
 j;qk	艰	104
 j;eh	睑	92
 j;g	戋	83
@@ -3863,7 +3863,7 @@ jbhq	仅	6472
 jbp	尽	4781
 jbp'	尽	4781
 jbq	紧	4681
-jbqu	紧	4681
+jbql	紧	4681
 jbhs	今	4112
 jbs	劲	2175
 jbss	劲	2175
@@ -4509,7 +4509,7 @@ i;hu	仙	2749
 i;eu	显	2300
 i;qu	嫌	1751
 i;n	贤	1687
-i;nu	贤	1687
+i;nl	贤	1687
 i;p	限	1635
 i;pk	限	1635
 i;b	鲜	1571
@@ -5557,8 +5557,8 @@ ede	瞬	287
 edep	瞬	287
 edo	吮	107
 edoq	吮	107
-eru	帅	6051
-erul	帅	6051
+erl	帅	6051
+erll	帅	6051
 ern	甩	1689
 erng	甩	1689
 erk	摔	1397
@@ -5696,7 +5696,7 @@ enul	甚	2161
 ene	申	2151
 enel	珅	92
 enn	肾	1252
-ennu	肾	1252
+ennl	肾	1252
 enh	伸	997
 enhl	伸	997
 en.	审	993
@@ -5753,12 +5753,13 @@ eiig	试	6578
 eiao	石	6204
 eial	十	5976
 ei.q	室	5463
-eiu	师	4963
-eiua	师	4963
+eil	师	4963
+eila	师	4963
 eiit	诗	4945
 eihk	食	3981
 eio	史	3635
 eiox	史	3635
+eiu	世	3253
 eiul	世	3253
 ei.'	实	3087
 ei.r	施	2662
@@ -5798,7 +5799,6 @@ eikg	拭	165
 eisp	虱	153
 eior	噬	141
 eieg	匙	125
-eil	恃	121
 eilt	恃	121
 eim	柿	108
 eim.	柿	108
@@ -5853,7 +5853,7 @@ euet	暑	147
 euj	述	606
 eujm	述	606
 eu.	竖	546
-eu.u	竖	546
+eu.l	竖	546
 euhn	俞	510
 eueb	蜀	463
 eu.s	孰	459
