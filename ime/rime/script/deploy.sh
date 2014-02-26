@@ -25,6 +25,10 @@ echo "reload rime..."
 cp -f $ZDVORAK_PATH/ime/rime/build/*.yaml "$RIME_CONF_PATH"
 "$RIME_EXEC_PATH/Squirrel" --reload
 
+echo "commit github..."
+cd $ZDVORAK_PATH/ime/rime
+git commit -a -m "auto build"
+
 if [ -d "$SYNC_PATH" ];
 then
 	echo "sync dict..."
