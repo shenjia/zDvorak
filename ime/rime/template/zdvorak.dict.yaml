@@ -1,0 +1,15 @@
+---
+name: zdvorak
+version: "0.1"
+sort: orginal
+columns:
+  - code
+  - text
+  - weight
+import_tables:
+ #- zdvorak.symbols
+ - zdvorak.first
+ - zdvorak.second
+ #- zdvorak.spells
+ - zdvorak.words
+...

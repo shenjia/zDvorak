@@ -1,0 +1,25 @@
+a	 
+b	g
+c	w v z
+d	g b m w v z
+e
+g	d b m w v z
+h
+i	y j
+j	p y k
+k	p y
+l	n w v z
+m	g d
+n	l
+o	
+p	y q j k
+q	' , . p y
+r	w v z
+s	l v z
+t	z
+u	y
+v	s g c r l
+w	g c r l
+z	g r l
+;	',.
+'	;q

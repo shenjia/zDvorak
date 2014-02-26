@@ -1,0 +1,415 @@
+v (y)
+	lv
+	nv
+
+ai (htsd) [; b c a d g h k l m n p s e t w ' o]
+
+	b	dg	
+	m	dg	
+	p	k	
+	y	kp	
+	n	l	
+	q	p'	
+	j	p	
+	k	p	
+	c	w	
+	r	w	
+	;	'	
+
+	--- ' , . g w v z l
+
+an (htd) [; b c a d v g h k l m n p r s e t w u ' o]
+	
+	b	dg	
+	m	dg	
+	s	v	
+	c	vw	
+	r	vw	
+	p	k	
+	n	l	
+	q	p'	
+	j	p	
+	k	p	
+	;	'	
+
+	--- ' , . g w v z l y
+	
+ang (htd) [; b c a d v g h k l m n p r s e t w u ' o]
+
+	b	dg
+	m	dg
+	s	v
+	c	vw
+	r	vw
+	p	k
+	q	p'
+	n	l
+	j	pu
+	k	p
+	;	'
+
+	--- ' , . g w v z l y
+
+ao (htscrd) [; b c a d g h k l m n p r s e t u ' o]
+
+	b	dg
+	m	dg
+	p	k
+	y	ku
+	n	l
+	l	n
+	q	p
+	j	p
+	k	p
+	;	'
+
+	--- ' , . g w v z
+
+er (htnspgcrldkmjby;zqwv) [;]
+
+	--- ' , .
+
+en (htnd) [; b c a v g h k m n p r s e w ' o]
+
+	s	v
+	c	vw
+	r	vw
+	l	vw
+	b	g
+	m	g
+	p	k
+	y	k
+	l	ns
+	q	p'
+	j	p
+	k	p
+	;	'
+
+	--- ' , . g w v z
+
+ei (htp.,') [b f g h l m n p e t w ']
+
+	s	v
+	c	vw
+	r	vw
+	b	g
+	m	g
+	w	gl
+	v	gl
+	n	l
+	d	m
+	y	p
+	q	p'
+	j	p
+	k	p
+	;	'
+
+	--- g l z
+
+eng (ht.,'d) [b c a d v g h k l m n p r s e t w ' o]
+
+	b	dg
+	m	dg
+	s	v
+	c	vw
+	r	vw
+	p	k
+	y	k
+	n	l
+	q	p'
+	j	p
+	k	p
+	;	'
+
+	--- g l w v z
+
+ie (htscrd;) [b d j l m n p q t i]
+	
+	b	d
+	m	d
+	w	dl
+	v	dl
+	p	jq
+	k	jp
+	n	l
+	l	n
+	q	p
+	j	pi
+	'	q
+	,	q
+	.	q
+
+	--- g y z
+
+iu (htscrd;q) [d j l m n q i]
+	g	dm
+	b	d
+	m	d
+	w	dl
+	v	dl
+	z	dl
+	p	jq
+	k	j
+	n	l
+	l	n
+	'	q
+	,	q
+	.	q
+	j	i
+
+	--- y
+	
+ia (htnscrldj;q) [d j q i]
+	g	d
+	b	d
+	m	d
+	w	d
+	v	d
+	z	d
+	p	jq
+	k	j
+	'	q
+	,	q
+	.	q
+	j	i
+
+	--- y
+
+	
+iao (htscrd;) [b d j l m n p q t i]
+	b	d
+	m	d
+	w	dl
+	v	dl
+	p	jq
+	k	jp
+	n	l
+	l	n
+	q	p
+	j	pi
+	'	q
+	,	q
+	.	q
+
+	--- y g z
+	
+ian (htscrd;) [b d j l m n p q t i]
+	g	bm
+	b	d
+	m	d
+	w	dl
+	v	dl
+	p	jq
+	k	jp
+	n	l
+	l	n
+	q	p
+	j	pi
+	'	q
+	,	q
+	.	q
+
+	--- y z
+
+iang (htsgcrdmjb;q) [j l n q i]
+	p	jq
+	k	j
+	n	l
+	w	l
+	v	l
+	z	l
+	l	n
+	'	q
+	,	q
+	.	q
+	j	i
+
+	--- y
+
+iong (htnsgcrldmjb;zqwv) [j q i]
+	p	jq
+	k	j
+	'	q
+	,	q
+	.	q
+	j	i
+
+	--- y
+
+in (hts.crdmb;) [b j l m n p q i u]
+	g	bm
+	p	jq
+	k	jp
+	n	l
+	w	l
+	v	l
+	z	l
+	l	n
+	q	p
+	j	pi
+	'	q
+	,	q
+	.	q
+
+	--- y
+
+ing (htscrd;) [b d j l m n p q t i u]
+	b	d
+	m	d
+	w	dl
+	v	dl
+	p	jq
+	k	jp
+	n	l
+	l	n
+	q	p
+	j	pi
+	'	q
+	,	q
+	.	q
+
+	--- g y z
+
+ou (htd) [c a d v g h k l m n ; p r s e t u ' o]
+
+	b	dg
+	m	dg
+	s	v
+	c	v
+	r	v
+	l	vs
+	p	k
+	y	ku
+	n	l
+	l	n
+	'	;
+	,	;
+	.	;
+	q	p'
+	j	p
+	k	p
+	;	'
+
+	--- g w v z
+	
+ong (hts.c,r'dkj) [c a d g h k l n r s t u ' o]
+
+	g	d
+	b	dg
+	m	dg
+	p	k
+	y	ku
+	n	l
+	l	ns
+	;	'
+	q	'
+
+	--- w v z
+	
+ui (htns.c,r'dkj) [c a d g h k r s e t ' o]
+
+	g	d
+	b	dg
+	m	dg
+	p	k
+	y	k
+	l	s
+	;	'
+	q	'
+
+	--- w v z
+	
+un (htscrd) [c a d g h j k l q r s e t i ' o]
+
+	g	d
+	b	dg
+	m	dg
+	k	j
+	n	l
+	'	q
+	,	q
+	.	q
+	l	s
+	j	i	
+	;	'
+	q	'
+
+	--- w v z y p
+	
+uo (hts.c,r'dkj) [c a d g h k l n r s e t ' o]
+
+	g	d
+	b	dg
+	m	dg
+	p	k
+	y	k
+	n	l
+	l	ns
+	;	'
+	q	'
+
+	--- w v z
+	
+ua (htnsg.c,r'ldkj;q) [a g h k e o]
+	
+	b	g
+	m	g
+	w	g
+	v	g
+	z	g
+	p	k
+	y	k
+
+uai (htnsg.c,r'ldkj;q) [a g h k e o]
+	
+	b	g
+	m	g
+	w	g
+	v	g
+	z	g
+	p	k
+	y	k
+
+uan (htscrd) [c a d g h j k l n q r s e t i u 'o]
+
+	g	d
+	b	dg
+	m	dg
+	k	j
+	n	l
+	l	ns
+	'	q
+	,	q
+	.	q
+	j	i
+	q	'
+	;	'
+
+	--- w v z y p
+	
+uang (htnsg.c,r'ldkj;q) [a g h k e o]
+	
+	b	g
+	m	g
+	w	g
+	v	g
+	z	g
+	p	k
+	y	k
+	
+ue (htsgcrdmb;q) [j l n q i u]
+
+	p	jq
+	k	j
+	n	l
+	w	l
+	v	l
+	z	l
+	l	n
+	'	q
+	,	q
+	.	q
+	j	i
+
+	--- y
+	

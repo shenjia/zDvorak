@@ -1,18 +1,24 @@
 <?php
 error_reporting(E_ALL^E_NOTICE);
-define('WORKING_TABLE', __DIR__ . '/../code/working.txt');
-define('STRUCTURE_TABLE', __DIR__ . '/../code/structure.txt');
+define('WORKING_TABLE', __DIR__ . '/../data/working.txt');
+define('STRUCTURE_TABLE', __DIR__ . '/../data/structure.txt');
 require __DIR__ . '/helpers/Scanner.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
 
 $remains = array();
 $commits = array();
-$maps = Encoder::ins()->maps();
+$exists = array();
 
 $scanner = new Scanner(WORKING_TABLE);
-$scanner->scan(function($line)use(&$commits, &$remains, &$maps){
+$scanner->scan(function($line)use(&$commits, &$remains, &$exists){
 	
 	list($char, $parts) = explode("\t", trim($line));
+
+	// skip exists char
+	if (Encoder::ins()->encodeChar($char)) {
+		$exists[] = $char;
+		return;
+	}
 
 	// skip char without code
 	if (empty($parts)) {
@@ -43,5 +49,9 @@ foreach ($remains as $char) {
 	fputs($working, $char . "\t" . PHP_EOL);
 }
 fclose($working);
+
+if (!empty($exists)) {
+	echo count($exists) . ' exists, skipped.' . PHP_EOL;
+}
 
 echo count($commits) . ' commited, ' . count($remains) . ' remains.' . PHP_EOL;

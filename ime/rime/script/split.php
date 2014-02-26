@@ -1,8 +1,8 @@
 <?php
 error_reporting(E_ALL^E_NOTICE);
-define('STRUCTURE_TABLE', __DIR__ . '/../code/structure.txt');
-define('SYMBOLS_TABLE', __DIR__ . '/../code/symbols.txt');
-define('MAPS_TABLE', __DIR__ . '/../code/maps.txt');
+define('STRUCTURE_TABLE', __DIR__ . '/../data/structure.txt');
+define('SYMBOLS_TABLE', __DIR__ . '/../data/symbols.txt');
+define('MAPS_TABLE', __DIR__ . '/../data/maps.txt');
 
 require __DIR__ . '/helpers/Scanner.class.php';
 
