@@ -28,6 +28,7 @@ cp -f $ZDVORAK_PATH/ime/rime/build/*.yaml "$RIME_CONF_PATH"
 echo "commit github..."
 cd $ZDVORAK_PATH/ime/rime
 git commit -a -m "auto build"
+git push
 
 if [ -d "$SYNC_PATH" ];
 then
