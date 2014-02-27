@@ -136,7 +136,7 @@ btpb	豹	454
 btn	胞	271
 btnb	胞	271
 btee	曝	263
-bt.k	褒	181
+bt.m	褒	181
 btkh	葆	167
 bts	孢	72
 btssb	孢	72
@@ -269,7 +269,7 @@ b;u	煸	56
 b;up	煸	56
 b;ck	弁	54
 blt	表	18141
-bltk	表	18141
+bltm	表	18141
 blm	标	3068
 blma	标	3068
 blr	彪	786
@@ -843,7 +843,7 @@ mmsg	乜	2194
 mmk	蔑	60
 mmkg	蔑	60
 mbo	民	4896
-mbok	民	4896
+mbom	民	4896
 mbr	敏	2573
 mbrr	敏	2573
 mb'	闵	414
@@ -1890,7 +1890,7 @@ nsm	楠	720
 nsmt	楠	720
 nsoc	囡	169
 n't	囊	817
-n'tk	囊	817
+n'tm	囊	817
 n'o	囔	56
 n'ot	囔	56
 nt'	闹	4470
@@ -2017,7 +2017,7 @@ n,mc	耨	63
 nke	弄	24374
 nkek	弄	24374
 nkn	农	2318
-nknk	农	2318
+nknm	农	2318
 nkh	侬	1991
 nkhn	侬	1991
 nk;	浓	1519
@@ -2578,7 +2578,7 @@ gdme	棍	758
 gdt	辊	213
 gdte	辊	213
 gd.	衮	27
-gd.k	衮	27
+gd.m	衮	27
 gdl	丨	20
 grp	乖	18529
 grpl	乖	18529
@@ -2718,7 +2718,7 @@ gnok	哏	64
 gnm	根	6854
 gnmk	根	6854
 gne	艮	159
-gnek	艮	159
+gnem	艮	159
 gna	亘	63
 gnaa	亘	63
 g.a	更	48734
@@ -2820,7 +2820,7 @@ go.	郭	4365
 go.p	郭	4365
 gor	锅	1884
 goro	锅	1884
-go.k	裹	469
+go.m	裹	469
 gok	掴	73
 goko	掴	73
 goon	呙	16
@@ -4547,7 +4547,7 @@ igi	详	405
 igiu	详	405
 igr.	镶	328
 igcm	厢	281
-ig.k	襄	261
+ig.m	襄	261
 igmb	橡	95
 igh,	饷	71
 igpb	降	33
@@ -4781,7 +4781,7 @@ osr	占	10562
 osro	占	10562
 osrg	战	3991
 osp	展	3377
-ospk	展	3377
+ospm	展	3377
 ost	斩	974
 ostc	斩	974
 os;	沾	737
@@ -5043,7 +5043,7 @@ okn	肿	859
 oknl	肿	859
 okna	冢	213
 ok.	衷	209
-ok.k	衷	209
+ok.m	衷	209
 okle	盅	165
 okrp	锺	112
 okop	踵	43
@@ -5290,7 +5290,7 @@ anec	晨	1506
 antu	尘	1493
 anc	臣	1390
 anco	臣	1390
-anck	辰	833
+ancm	辰	833
 anpb	称	343
 anj	衬	338
 anjt	衬	338
@@ -5483,7 +5483,7 @@ erng	甩	1689
 erk	摔	1397
 erk.	摔	1397
 er.	衰	1170
-er.k	衰	1170
+er.m	衰	1170
 er.t	率	396
 eaoh	啥	40526
 eax	杀	22449
@@ -6296,7 +6296,7 @@ cc;	淬	78
 cc;.	淬	78
 cco	啐	71
 cco.	啐	71
-cc.k	衰	7
+cc.m	衰	7
 sjr	算	29938
 sjrk	算	29938
 sja	酸	2875
@@ -6343,7 +6343,7 @@ ss;	氵	20
 s'm	桑	1415
 s'mc	桑	1415
 s't	丧	421
-s'tk	丧	421
+s'tm	丧	421
 s'o	嗓	99
 s'om	嗓	99
 stk	扫	2033
@@ -6505,7 +6505,7 @@ ujp.	院	3519
 ujc'	愿	3339
 ujoo	圆	2854
 ujt	袁	2210
-ujtk	袁	2210
+ujtm	袁	2210
 ujcc	缘	2061
 ujk	苑	1349
 ujkb	苑	1349
@@ -6764,8 +6764,7 @@ ui.u	亦	5497
 uihm	伊	3849
 ui.'	意	3694
 uih.	依	3390
-ui.k	衣	2516
-ui.k	弈	122
+ui.m	衣	2516
 uix	义	2504
 uix'	义	2504
 ui.e	宜	2457
@@ -6824,6 +6823,7 @@ ui;x	漪	149
 uicn	疫	148
 uinh	胰	139
 uick	彝	139
+ui.k	弈	122
 ui;c	沂	100
 uihr	佚	83
 uiko	揖	81
@@ -7052,7 +7052,7 @@ waot	哇	15817
 wak	挖	4566
 wak.	挖	4566
 waa	瓦	3011
-waak	瓦	3011
+waam	瓦	3011
 wac	娃	1868
 wact	娃	1868
 wae	蛙	354
@@ -7186,7 +7186,7 @@ wpkp	萎	140
 wpcl	纬	314
 wp'	慰	306
 wp'p	慰	306
-wpek	畏	285
+wpem	畏	285
 wpkl	苇	273
 wpj	违	252
 wpjl	违	252
@@ -7298,7 +7298,7 @@ wuit	诬	68
 ;ht	埃	834
 ;htc	埃	834
 ;h.	哀	567
-;h.k	哀	567
+;h.m	哀	567
 ;ha	碍	248
 ;hae	碍	248
 ;he	暧	114
