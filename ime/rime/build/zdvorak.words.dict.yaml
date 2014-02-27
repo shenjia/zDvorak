@@ -200,7 +200,6 @@ bsbp	半杯	1
 bsb;	半边	1
 bsbo	斑驳	1
 bsbu	颁布	1
-bspp	般配	1
 bspr	扳平	1
 bsma	斑马	1
 bsm;	版面	1
@@ -1605,9 +1604,6 @@ pp;u	配偶	1
 pibt	皮包	1
 pibp	疲惫	1
 pibo	批驳	1
-pipa	琵琶	1
-pips	批判	1
-pipp	匹配	1
 pipi	皮皮	1
 pipr	批评	1
 pima	匹马	1
@@ -2267,7 +2263,6 @@ mpbr	没病	1
 mpbu	每部	1
 mpp;	每篇	1
 mppo	媒婆	1
-mppu	没谱	1
 mpmh	没买	1
 mpms	美满	1
 mpmt	眉毛	1
@@ -2729,6 +2724,7 @@ morn	默认	1
 mori	末日	1
 mo'i	墨子	1
 mo'u	模组	1
+moca	摩擦	1
 moc.	磨蹭	1
 mosd	磨损	1
 moso	摸索	1
@@ -3004,6 +3000,7 @@ zshg	泛黄	1
 zshe	饭盒	1
 zsh,	饭后	1
 zshk	翻红	1
+zshc	返回	1
 zsji	反击	1
 zsj;	犯贱	1
 zsju	饭局	1
@@ -3600,6 +3597,7 @@ zu'i	父子	1
 zu'k	副总	1
 zu'u	副作用	1
 zu'o	负责制	1
+zuch	福彩	1
 zuck	服从	1
 zush	复赛	1
 zuse	肤色	1
@@ -4502,7 +4500,6 @@ d;bs	点半	1
 d;bt	电报	1
 d;bl	电表	1
 d;bo	点播	1
-d;pr	点评	1
 d;pu	店铺	1
 d;mp	电煤	1
 d;m;	店面	1
@@ -4569,6 +4566,7 @@ d;oe	点着	1
 d;on	点阵	1
 d;ok	点钟	1
 d;ou	店主	1
+d;oc	点缀	1
 d;a'	电厂	1
 d;ae	电车	1
 d;ai	电池	1
@@ -5830,7 +5828,6 @@ trba	挺拔	1
 trbo	停泊	1
 trbu	听不	1
 trph	停牌	1
-trps	停盘	1
 trm'	挺忙	1
 trz'	停放	1
 trz.	霆锋	1
@@ -7595,7 +7592,6 @@ l;pn	脸盆	1
 l;p.	莲蓬	1
 l;pi	脸皮	1
 l;p;	连篇	1
-l;pu	脸谱	1
 l;m'	连忙	1
 l;m.	联盟	1
 l;mp	联袂	1
@@ -9275,6 +9271,7 @@ gu'i	谷子	1
 gu'o	故作	1
 guci	故此	1
 gusj	估算	1
+gusc	骨髓	1
 guuj	雇员	1
 guuc	古月	1
 guud	孤云	1
@@ -11695,7 +11692,6 @@ jibu	既不	1
 jip;	几篇	1
 jipl	机票	1
 jipb	极品	1
-jipr	几瓶	1
 jipo	击破	1
 jipu	吉普	1
 jim'	急忙	1
@@ -12525,7 +12521,6 @@ jbbi	金币	1
 jbb;	金边	1
 jbbu	进步	1
 jbph	金牌	1
-jbpt	浸泡	1
 jbp.	金鹏	1
 jbpr	仅凭	1
 jbpo	紧迫	1
@@ -13728,6 +13723,7 @@ qrr,	轻柔	1
 qr'h	请在	1
 qr''	青藏	1
 qr't	清早	1
+qrch	青菜	1
 qrc'	清仓	1
 qrct	情操	1
 qrcc	清脆	1
@@ -13905,7 +13901,6 @@ ijph	选派	1
 ijps	宣判	1
 ijpp	选配	1
 ijpl	选票	1
-ijpb	选聘	1
 ijmp	选美	1
 ijml	玄妙	1
 ijmb	选民	1
@@ -14074,6 +14069,7 @@ idhj	循环	1
 idh'	巡航	1
 idht	讯号	1
 idhu	寻呼	1
+idhc	巡回	1
 idja	询价	1
 idj;	巡检	1
 idjr	巡警	1
@@ -14886,7 +14882,6 @@ ibbr	新兵	1
 ibbu	信步	1
 ibps	新盘	1
 ibp;	芯片	1
-ibpb	新品	1
 ibmh	新买	1
 ibmb	新民	1
 ibmo	心魔	1
@@ -14993,6 +14988,7 @@ ibe.	新生	1
 ibei	心事	1
 ibe,	新手	1
 ibeu	新书	1
+ibec	薪水	1
 ibrj	心软	1
 ibrs	欣然	1
 ibrn	信任	1
@@ -16069,7 +16065,6 @@ oima	芝麻	1
 oimh	只卖	1
 oimn	之门	1
 oim.	之梦	1
-oimp	之美	1
 oimi	之谜	1
 oim;	直面	1
 oiml	之妙	1
@@ -17161,6 +17156,7 @@ anee	陈设	1
 ane.	陈升	1
 anei	尘世	1
 aneu	陈述	1
+anec	沉睡	1
 anre	趁热	1
 anru	沉入	1
 an't	趁早	1
@@ -17277,7 +17273,6 @@ aib'	翅膀	1
 aibt	吃饱	1
 aibi	吃不消	1
 aibu	吃不	1
-aipr	持平	1
 aima	尺码	1
 aimi	痴迷	1
 aim;	吃面	1
@@ -18749,7 +18744,6 @@ eubn	书本	1
 eubp	数倍	1
 eubl	鼠标	1
 eupi	树皮	1
-eup;	薯片	1
 eupr	书评	1
 euma	数码	1
 eum;	书面	1
@@ -21037,6 +21031,7 @@ siss	四散	1
 sisi	死死	1
 sisc	四岁	1
 siuj	寺院	1
+siuc	四月	1
 siua	嘶哑	1
 sius	四眼	1
 siu'	饲养	1
@@ -21694,7 +21689,6 @@ u'br	养病	1
 u'pi	羊皮	1
 u'p;	样片	1
 u'pb	样品	1
-u'pu	杨浦	1
 u'mt	羊毛	1
 u'mp	杨梅	1
 u'mr	扬名	1
@@ -22011,7 +22005,6 @@ uiph	一排	1
 uips	一盘	1
 uip'	一旁	1
 uipt	一炮	1
-uipn	一盆	1
 uip.	一碰	1
 uipi	一批	1
 uip;	一片	1
@@ -22450,7 +22443,6 @@ u,bl	游标	1
 u,bm	有别	1
 u,br	有病	1
 u,bu	又不	1
-u,pa	又怕	1
 u,ph	右派	1
 u,ps	优盘	1
 u,p;	诱骗	1
@@ -23720,7 +23712,6 @@ wu;s	午安	1
 ;sbt	安保	1
 ;sbp	安倍	1
 ;sb;	岸边	1
-;sph	安排	1
 ;smn	俺们	1
 ;smo	按摩	1
 ;smu	暗牧	1
@@ -24320,7 +24311,6 @@ phlp	拍了拍	1
 phgg	拍广告	1
 phhb	排行榜	1
 phqg	排气管	1
-phop	拍照片	1
 phas	派出所	1
 psdl	判断力	1
 psje	判决书	1
@@ -27615,7 +27605,6 @@ akwm	崇文门	1
 akwq	崇文区	1
 aubw	出版物	1
 aumb	触摸板	1
-aump	触摸屏	1
 auzd	出发点	1
 auzq	触发器	1
 auzl	厨房里	1
@@ -28445,6 +28434,7 @@ uasb	压缩包	1
 uasj	压缩机	1
 uasq	压岁钱	1
 uauh	亚运会	1
+uauc	亚运村	1
 usbb	眼巴巴	1
 usbe	演播室	1
 uszb	研发部	1
@@ -28863,6 +28853,7 @@ wurj	无人机	1
 wu't	武则天	1
 wu'l	屋子里	1
 wu'q	五子棋	1
+wuc'	误操作	1
 wusg	吴三桂	1
 wusw	无所谓	1
 wuuz	五月份	1
@@ -31938,7 +31929,6 @@ ijrz	心急如焚	1
 ijrt	心惊肉跳	1
 iqld	辛勤劳动	1
 iqbh	心情不好	1
-iipl	信息披露	1
 iipt	信息平台	1
 iizb	信息发布	1
 iizw	信息服务	1
