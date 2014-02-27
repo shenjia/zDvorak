@@ -105,7 +105,6 @@ bhbu	摆布	1
 bhpr	摆平	1
 bhma	白马	1
 bhms	摆满	1
-bhm'	百忙	1
 bhmt	白猫	1
 bhmi	百米	1
 bhmr	百名	1
@@ -1158,6 +1157,7 @@ buti	不提	1
 butl	不调	1
 butm	补贴	1
 butr	不停	1
+but,	不透	1
 butk	不同	1
 buto	不妥	1
 butc	不退	1
@@ -1896,6 +1896,7 @@ poae	破车	1
 poau	破除	1
 poen	颇深	1
 poei	迫使	1
+poe,	颇受	1
 poch	破财	1
 posd	破损	1
 poso	婆娑	1
@@ -3590,7 +3591,6 @@ zurn	夫人	1
 zurk	芙蓉	1
 zu'a	复杂	1
 zu'h	负载	1
-zu't	浮躁	1
 zu'e	负责	1
 zu'.	附赠	1
 zu'i	父子	1
@@ -4209,6 +4209,7 @@ dtgu	稻谷	1
 dtgo	到过	1
 dtgc	导轨	1
 dtke	刀客	1
+dtk,	道口	1
 dthh	倒还	1
 dth'	导航	1
 dtht	盗号	1
@@ -8861,6 +8862,7 @@ gego	各国	1
 gekh	隔开	1
 geke	各科	1
 gehe	隔阂	1
+geh,	歌喉	1
 gehc	歌会	1
 gejc	隔绝	1
 geji	各级	1
@@ -9657,6 +9659,7 @@ khkh	开开	1
 khkt	开考	1
 khke	开课	1
 khkn	开垦	1
+khk,	开口	1
 khko	开阔	1
 khha	开花	1
 khhg	开荒	1
@@ -10433,7 +10436,6 @@ hga.	皇城	1
 hgak	蝗虫	1
 hgea	黄沙	1
 hges	黄山	1
-hge'	皇上	1
 hgei	黄石	1
 hgrs	恍然	1
 hgrk	黄蓉	1
@@ -10445,6 +10447,7 @@ hguj	荒原	1
 hgus	谎言	1
 hgue	黄页	1
 hgui	黄奕	1
+hgu,	晃悠	1
 hgwp	皇位	1
 hgwu	荒芜	1
 hg;s	黄安	1
@@ -11555,6 +11558,7 @@ jjqi	卷起	1
 jjq;	捐钱	1
 jjqu	卷曲	1
 jji;	捐献	1
+jjo,	卷轴	1
 jjau	捐出	1
 jjeu	眷属	1
 jjrk	倦容	1
@@ -11846,7 +11850,6 @@ ji'.	激增	1
 ji'i	机子	1
 ji'u	机组	1
 jicd	寄存	1
-jic'	机舱	1
 jic.	基层	1
 jici	几次	1
 jicu	急促	1
@@ -11870,7 +11873,6 @@ jiws	几万	1
 jiw'	既往	1
 jiwp	极为	1
 jiwu	既无	1
-ji;'	激昂	1
 ji;e	饥饿	1
 ji;r	继而	1
 jabs	加班	1
@@ -12463,7 +12465,6 @@ jmib	戒心	1
 jmiu	接续	1
 jmoj	结转	1
 jmoa	结扎	1
-jmo'	结帐	1
 jmoe	接着	1
 jmoi	戒指	1
 jmok	接种	1
@@ -13140,11 +13141,11 @@ qcr.	却仍	1
 qc'h	却在	1
 qcsd	缺损	1
 qcuc	雀跃	1
-qcu'	缺氧	1
 qcut	却要	1
 qcue	却也	1
 qcui	却已	1
 qcub	却因	1
+qcu,	却又	1
 qcwp	缺位	1
 qcwu	却无	1
 qdza	群发	1
@@ -14199,7 +14200,6 @@ iirn	喜人	1
 iiri	昔日	1
 iir,	息肉	1
 iiru	吸入	1
-ii''	西藏	1
 ii't	洗澡	1
 ii'e	细则	1
 ii'i	西子	1
@@ -14213,11 +14213,11 @@ iisc	细碎	1
 iiuj	洗衣机	1
 iiuc	喜悦	1
 iiua	西亚	1
-iiu'	夕阳	1
 iiut	西药	1
 iiui	西医	1
 iiub	吸引	1
 iiur	吸引人	1
+iiu,	稀有	1
 iiuu	小心翼翼	1
 iiws	洗完	1
 iiw'	希望	1
@@ -14722,6 +14722,7 @@ igku	想哭	1
 igha	香花	1
 ight	想好	1
 ighe	祥和	1
+igh,	向后	1
 ighu	相互	1
 igho	香火	1
 ighc	相会	1
@@ -14747,7 +14748,6 @@ igig	想想	1
 igim	想写	1
 igib	相信	1
 igog	想找个	1
-igo'	乡长	1
 igot	想找	1
 igoe	想着	1
 igon	乡镇	1
@@ -14778,7 +14778,6 @@ ig'h	想在	1
 ig't	香皂	1
 ig'i	箱子	1
 ig',	想走	1
-ig'o	想做	1
 igcd	乡村	1
 igch	香菜	1
 igct	香草	1
@@ -14838,6 +14837,7 @@ imgp	写给	1
 imgo	写过	1
 imht	写好	1
 imhe	协和	1
+imh,	邂逅	1
 imhc	协会	1
 imjc	谢绝	1
 imjl	项目经理	1
@@ -18726,7 +18726,6 @@ e,so	收缩	1
 e,ud	受孕	1
 e,ua	受压	1
 e,us	首演	1
-e,u'	收养	1
 e,ut	首要	1
 e,ue	首页	1
 e,ui	收益	1
@@ -19867,7 +19866,6 @@ rc;s	瑞安	1
 'iru	自如	1
 'i'd	自尊	1
 'i'h	自在	1
-'i'e	自责	1
 'i'i	自尊心	1
 'ich	紫菜	1
 'ics	自残	1
@@ -20443,7 +20441,6 @@ c'es	苍山	1
 c'en	藏身	1
 c'e.	苍生	1
 c'eu	藏书	1
-c''h	藏在	1
 c'cu	仓促	1
 c's'	沧桑	1
 c'ur	苍蝇	1
@@ -21539,6 +21536,7 @@ uadi	压低	1
 uad;	雅典	1
 uadk	亚东	1
 uat.	牙疼	1
+uat,	丫头	1
 uatk	牙痛	1
 uali	压力	1
 ualr	哑铃	1
@@ -22209,10 +22207,10 @@ uiuj	医院	1
 uiuc	一月	1
 uiua	咿呀	1
 uius	一眼	1
-uiu'	一样	1
 uiut	医药	1
 uiui	意义	1
 uiub	意淫	1
+uiu,	已有	1
 uiuk	医用	1
 uiuu	易于	1
 uiwh	意外	1
@@ -22370,6 +22368,7 @@ url,	影楼	1
 urgg	荧光	1
 urgh	应该	1
 urgo	英国	1
+urk,	营口	1
 urha	樱花	1
 urhg	英皇	1
 urhs	英汉	1
@@ -23478,6 +23477,7 @@ wuti	物体	1
 wut;	五天	1
 wutl	武藤兰	1
 wutr	舞厅	1
+wut,	无头	1
 wutk	梧桐	1
 wuny	舞女	1
 wunh	无奈	1
@@ -23552,6 +23552,7 @@ wuoe	捂着	1
 wuon	误诊	1
 wuo.	无证	1
 wuoi	物质	1
+wuo,	五洲	1
 wuok	物种	1
 wuou	无助	1
 wuoo	污浊	1
@@ -23998,6 +23999,7 @@ wu;s	午安	1
 ;uhe	耦合	1
 ;uja	偶家	1
 ;uig	偶像	1
+;uo,	欧洲	1
 ;uei	欧式	1
 ;ueu	偶数	1
 ;urs	偶然	1
@@ -26574,7 +26576,6 @@ jmiq	接下去	1
 jmej	接收机	1
 jmeq	接收器	1
 jmrd	届人大	1
-jm'g	节奏感	1
 jbbl	进不了	1
 jbbq	进不去	1
 jbbo	禁不住	1
@@ -27653,7 +27654,6 @@ eddq	顺德区	1
 edkl	圣诞快乐	1
 edeo	顺时针	1
 eapb	沙坪坝	1
-eah'	傻孩子	1
 eaab	生产成本	1
 eaaj	生产厂家	1
 eaed	傻傻的	1
@@ -30985,7 +30985,6 @@ hlbt	哈利波特	1
 hrbe	哈尔滨市	1
 hbod	还不知道	1
 htoq	海通证券	1
-hg'e	海关总署	1
 hktk	海阔天空	1
 hjdw	还记得我	1
 hils	海峡两岸	1
@@ -33602,7 +33601,6 @@ uh's	炎黄子孙	1
 uhdq	沿海地区	1
 ujbg	研究报告	1
 ujzz	研究方法	1
-ujg'	研究工作	1
 ujkz	研究开发	1
 ujkt	研究课题	1
 ujjg	研究机构	1
@@ -34037,7 +34035,6 @@ wei'	网上下载	1
 weoz	网上支付	1
 weea	网上商城	1
 weuh	网上银行	1
-wuo'	网页制作	1
 wuej	网页设计	1
 wupl	网友评论	1
 wugd	网友观点	1
