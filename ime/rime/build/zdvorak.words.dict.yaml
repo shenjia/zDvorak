@@ -2262,6 +2262,7 @@ mpbr	没病	1
 mpbu	每部	1
 mpp;	每篇	1
 mppo	媒婆	1
+mppu	没谱	1
 mpmh	没买	1
 mpms	美满	1
 mpmt	眉毛	1
@@ -4500,6 +4501,7 @@ d;bs	点半	1
 d;bt	电报	1
 d;bl	电表	1
 d;bo	点播	1
+d;pr	点评	1
 d;pu	店铺	1
 d;mp	电煤	1
 d;m;	店面	1
@@ -5829,6 +5831,7 @@ trba	挺拔	1
 trbo	停泊	1
 trbu	听不	1
 trph	停牌	1
+trps	停盘	1
 trm'	挺忙	1
 trz'	停放	1
 trz.	霆锋	1
@@ -7592,6 +7595,7 @@ l;pn	脸盆	1
 l;p.	莲蓬	1
 l;pi	脸皮	1
 l;p;	连篇	1
+l;pu	脸谱	1
 l;m'	连忙	1
 l;m.	联盟	1
 l;mp	联袂	1
@@ -18745,6 +18749,7 @@ eubn	书本	1
 eubp	数倍	1
 eubl	鼠标	1
 eupi	树皮	1
+eup;	薯片	1
 eupr	书评	1
 euma	数码	1
 eum;	书面	1
@@ -23718,6 +23723,7 @@ wu;s	午安	1
 ;sbt	安保	1
 ;sbp	安倍	1
 ;sb;	岸边	1
+;sph	安排	1
 ;smn	俺们	1
 ;smo	按摩	1
 ;smu	暗牧	1
@@ -31934,6 +31940,7 @@ ijrz	心急如焚	1
 ijrt	心惊肉跳	1
 iqld	辛勤劳动	1
 iqbh	心情不好	1
+iipl	信息披露	1
 iipt	信息平台	1
 iizb	信息发布	1
 iizw	信息服务	1
