@@ -2164,6 +2164,7 @@ mtau	冒出	1
 mte.	茂盛	1
 mtei	冒失	1
 mtrs	贸然	1
+mtrk	毛绒	1
 mt'i	帽子	1
 mtsi	貌似	1
 mtus	冒烟	1
@@ -2226,6 +2227,7 @@ m.nq	蒙牛	1
 m.le	蒙了	1
 m.li	梦里	1
 m.lm	猛烈	1
+m.lk	朦胧	1
 m.lu	梦露	1
 m.gu	蒙古	1
 m.go	盟国	1
@@ -2518,6 +2520,7 @@ mlhc	描绘	1
 mlil	渺小	1
 mlim	描写	1
 mlod	瞄准	1
+mlok	秒钟	1
 mlea	秒杀	1
 mlei	藐视	1
 mleu	描述	1
@@ -2560,7 +2563,6 @@ mbqr	民情	1
 mbib	民心	1
 mboh	民主化	1
 mbo.	民政	1
-mbok	民众	1
 mbou	民主	1
 mbei	民事	1
 mbrc	敏锐	1
@@ -2676,7 +2678,6 @@ modi	摸底	1
 mote	模特	1
 mot,	魔头	1
 moto	摩托	1
-mony	魔女	1
 mons	磨难	1
 moni	模拟	1
 mon;	末年	1
@@ -3791,6 +3792,7 @@ dakh	打开	1
 dake	打瞌睡	1
 dak.	大坑	1
 dak,	大口	1
+dakk	打孔	1
 daku	大哭	1
 dakc	大亏	1
 daha	大话	1
@@ -3844,6 +3846,7 @@ daoe	打折	1
 daon	打针	1
 daoi	大致	1
 dao,	达州	1
+daok	大众	1
 daaj	大长今	1
 daag	大床	1
 daa'	大厂	1
@@ -4830,6 +4833,7 @@ dkgj	东莞	1
 dkgs	动感	1
 dkgk	动工	1
 dkgo	动过	1
+dkk,	洞口	1
 dkha	动画	1
 dkhh	东海	1
 dkhs	东汉	1
@@ -6904,7 +6908,6 @@ nkdq	弄丢	1
 nkdk	弄懂	1
 nkdu	浓度	1
 nkt;	农田	1
-nknk	浓浓	1
 nklh	弄来	1
 nkli	农历	1
 nklm	浓烈	1
@@ -7498,6 +7501,7 @@ lign	里根	1
 ligk	理工	1
 ligo	李国	1
 likh	离开	1
+liks	里看	1
 like	立刻	1
 likk	利空	1
 likc	李逵	1
@@ -9910,6 +9914,7 @@ kegh	课改	1
 kegk	可供	1
 kegc	可贵	1
 keks	可看	1
+kekt	可靠	1
 keke	苛刻	1
 kek,	可口	1
 kekk	可控	1
@@ -10233,6 +10238,7 @@ hagh	滑盖	1
 hagk	化工	1
 hago	划过	1
 hagc	划归	1
+hakh	花开	1
 hak'	华康	1
 haha	哈哈	1
 hahn	划痕	1
@@ -10403,6 +10409,7 @@ hgle	慌了	1
 hglp	黄磊	1
 hgl;	黄连	1
 hglg	荒凉	1
+hglk	黄龙	1
 hgga	黄瓜	1
 hggj	皇冠	1
 hgg'	黄冈	1
@@ -11469,6 +11476,7 @@ hcgo	回国	1
 hcgc	回归	1
 hckj	汇款	1
 hcks	会刊	1
+hckt	会考	1
 hck,	回扣	1
 hckc	回馈	1
 hchg	辉煌	1
@@ -12056,6 +12064,7 @@ j;go	见过	1
 j;gc	见鬼	1
 j;k'	健康	1
 j;kt	监考	1
+j;ke	剑客	1
 j;kk	监控	1
 j;ku	艰苦	1
 j;ha	简化	1
@@ -12428,6 +12437,7 @@ jmg,	结构	1
 jmgo	结果	1
 jmgc	接轨	1
 jmkj	借款	1
+jmkh	揭开	1
 jmk,	接口	1
 jmhd	结婚	1
 jmh,	节后	1
@@ -13040,6 +13050,7 @@ qjgu	颧骨	1
 qjgo	全国	1
 qjgc	权贵	1
 qjkj	全款	1
+qjkh	全开	1
 qjkt	全靠	1
 qjhg	拳皇	1
 qjh.	权衡	1
@@ -16114,6 +16125,7 @@ oigp	只给	1
 oigk	职工	1
 oigu	只顾	1
 oigo	治国	1
+oikr	之快	1
 oikt	只靠	1
 oike	止咳	1
 oik,	之口	1
@@ -16753,7 +16765,9 @@ aali	查理	1
 aal,	茶楼	1
 aagj	茶馆	1
 aago	查过	1
+aaka	插卡	1
 aaks	查看	1
+aakk	插孔	1
 aaha	插画	1
 aahu	茶壶	1
 aaho	查获	1
@@ -19074,6 +19088,7 @@ rei;	热线	1
 reil	热销	1
 reib	热心	1
 reoa	热轧	1
+reok	热衷	1
 reat	热潮	1
 rean	热忱	1
 rea.	热诚	1
@@ -21280,8 +21295,8 @@ ujd;	远点	1
 ujdr	原定	1
 ujdk	远东	1
 ujtl	远眺	1
+ujtm	原帖	1
 ujt,	源头	1
-ujtk	圆通	1
 ujtu	原图	1
 ujnp	院内	1
 ujn;	元年	1
@@ -22083,6 +22098,7 @@ uikj	一款	1
 uikr	一块	1
 uika	一卡	1
 uikh	一开	1
+uiks	一看	1
 uikt	依靠	1
 uike	一颗	1
 uik,	一口	1
@@ -22352,6 +22368,7 @@ urgg	荧光	1
 urgh	应该	1
 urgo	英国	1
 urk,	营口	1
+urkc	盈亏	1
 urha	樱花	1
 urhg	英皇	1
 urhs	英汉	1
@@ -22921,6 +22938,7 @@ wsgk	完工	1
 wsgu	万股	1
 wsgo	玩过	1
 wskr	万块	1
+wske	万科	1
 wsht	完好	1
 wsh,	完后	1
 wshu	万户	1
@@ -23235,6 +23253,7 @@ wpge	伟哥	1
 wpgk	围攻	1
 wpgo	未果	1
 wpkd	围困	1
+wpk,	胃口	1
 wpkk	为空	1
 wphd	未婚	1
 wphh	危害	1
@@ -24504,6 +24523,7 @@ mont	模拟题	1
 monq	模拟器	1
 molh	茉莉花	1
 molg	摩洛哥	1
+mokh	模块化	1
 mohq	磨合期	1
 moj'	摩羯座	1
 moig	墨西哥	1
@@ -28570,11 +28590,13 @@ urgu	应该用	1
 urgl	英格兰	1
 urgj	应根据	1
 urgr	英国人	1
+urkl	应考虑	1
 urje	应届生	1
 urju	应具有	1
 urou	应注意	1
 urej	影视剧	1
 ureq	影视圈	1
+urek	应收款	1
 urrh	应如何	1
 urcq	应采取	1
 urup	营养品	1
@@ -28749,6 +28771,7 @@ wpip	危险品	1
 wpio	维修站	1
 wpad	胃肠道	1
 wpan	未成年	1
+wpem	为什么	1
 wpeb	卫生部	1
 wpej	卫生间	1
 wpeo	卫生纸	1
@@ -32314,6 +32337,7 @@ o'qe	种族歧视	1
 ocgb	中层干部	1
 osoo	众所周知	1
 ould	主要领导	1
+oukt	中央空调	1
 oujw	中央军委	1
 ouqu	中央企业	1
 ouco	中央财政	1
@@ -33217,6 +33241,7 @@ rwqe	若无其事	1
 'osd	增长速度	1
 'ozw	增值服务	1
 'ouw	增值业务	1
+''kg	增资扩股	1
 'b'q	自暴自弃	1
 'bou	资本主义	1
 'bea	资本市场	1
@@ -33415,6 +33440,7 @@ ceck	此时此刻	1
 cmco	聪明才智	1
 ctrj	从天而降	1
 ctdw	从头到尾	1
+ctke	从头开始	1
 cnll	从哪里来	1
 clmu	从来没有	1
 clke	从零开始	1
