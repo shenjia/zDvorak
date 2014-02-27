@@ -9,7 +9,7 @@ columns:
 import_tables:
  - zdvorak.pinyin
 ...
-a	艹
+a	一
 a	亘
 a	亍
 a	丂
@@ -80,7 +80,6 @@ g	𠄌
 g	亅
 g	水
 g	氺
-h	一
 h	亻
 h	彳
 h	𠆢
@@ -218,6 +217,7 @@ u	耑
 u	八
 u	儿
 u	刂
+u	艹
 u	廾
 u	丌
 u	兀
