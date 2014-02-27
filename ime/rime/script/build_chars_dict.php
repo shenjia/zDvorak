@@ -3,8 +3,8 @@ error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
 
-//define('SHOW_LETTERS_COUNT', true);
-//define('COUNT_BY_WEIGHT', true);
+define('SHOW_LETTERS_COUNT', true);
+define('COUNT_BY_WEIGHT', true);
 define('SHOW_CONFLICTS', true);
 define('PASS_WEIGHT', 1000);
 //define('SHOW_REPLACED', true);
