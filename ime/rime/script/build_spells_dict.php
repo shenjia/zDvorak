@@ -52,9 +52,10 @@ $scanner->scan(function($line)use($maps, &$spells, &$chars, $skip_spells, &$skip
 	//echo $maps[$spell] . "\t" . $char . "\t" . $weight . PHP_EOL;
 });
 
+
 // sort by weight
-foreach ($spells as $spell => &$chars) {
-	arsort($chars);
+foreach ($spells as $spell => &$spell_chars) {
+	arsort($spell_chars);
 }
 
 // build dict
