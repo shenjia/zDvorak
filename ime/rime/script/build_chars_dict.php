@@ -3,7 +3,9 @@ error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
 
-define('SHOW_LETTERS_COUNT', true);
+define('FIRST_WEIGHT', 99999999);
+define('SECOND_WEIGHT', 99999999);
+//define('SHOW_LETTERS_COUNT', true);
 //define('COUNT_BY_WEIGHT', true);
 define('SHOW_CONFLICTS', true);
 define('PASS_WEIGHT', 1000);
@@ -15,26 +17,40 @@ define('BUILD_SECOND_DICT', true);
 $spells = require __DIR__ . '/../data/spells_chars.php';
 
 // build first dict
+$first = array();
 $dict = fopen(__DIR__ . '/../build/zdvorak.first.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.first.dict.yaml');
 fwrite($dict, $header . PHP_EOL);
-$first = file_get_contents(__DIR__ . '/../data/first.txt');
 if (defined('BUILD_FIRST_DICT')) {
-	fwrite($dict, $first . PHP_EOL);
+	$scanner = new Scanner(__DIR__ . '/../data/first.txt');
+	$scanner->scan(function($line)use(&$first, &$dict){
+		list($code, $char) = explode("\t", trim($line));
+		if (empty($code)) return;
+		fwrite($dict, $code . "\t" . $char . "\t" . FIRST_WEIGHT . PHP_EOL);
+		$first[$code] = array(
+			'char' => $char,
+			'weight' => FIRST_WEIGHT
+		);
+	});
 }
 fclose($dict);
 
 // build second dict
+$second = array();
 $dict = fopen(__DIR__ . '/../build/zdvorak.second.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.second.dict.yaml');
 fwrite($dict, $header . PHP_EOL);
 if (defined('BUILD_SECOND_DICT')) {
 	$scanner = new Scanner(__DIR__ . '/../data/second.txt');
 	$scanner->scan(function($line)use(&$second, &$dict){
-		list($spell, $char, $weight) = explode("\t", trim($line));
+		list($spell, $char) = explode("\t", trim($line));
 		if (empty($spell)) return;
 		$code = Encoder::ins()->encodeSpell($spell);
-		fwrite($dict, $code . "\t" . $char . "\t" . $weight . PHP_EOL);
+		fwrite($dict, $code . "\t" . $char . "\t" . SECOND_WEIGHT . PHP_EOL);
+		$second[$code] = array(
+			'char' => $char,
+			'weight' => SECOND_WEIGHT
+		);
 	});
 }
 fclose($dict);
@@ -83,6 +99,28 @@ foreach ($spells as $spell => $chars) {
 						'long' => array_merge($codes[$code][0], array('code' => $code))
 					); 
 				} 
+				// if the old one take second code, replace it
+				else if ($codes[$code][0]['char'] == $second[$spellCode]['char']) {
+					$codes[$code][0] = array(
+						'char' => $char,
+						'weight' => $weight
+					);
+					$replaced[] = array(
+						'short' => array_merge($second[$spellCode], array('code' => $spellCode)),
+						'long' => array_merge($codes[$code][0], array('code' => $code))
+					); 
+				}
+				// if the old one take first code, replace it
+				else if ($codes[$code][0]['char'] == $first[substr($spellCode, 0, 1)]['char']) {
+					$codes[$code][0] = array(
+						'char' => $char,
+						'weight' => $weight
+					);
+					$replaced[] = array(
+						'short' => array_merge($first[substr($spellCode, 0, 1)], array('code' => substr($spellCode, 0, 1))),
+						'long' => array_merge($codes[$code][0], array('code' => $code))
+					); 
+				}
 				// mark conflicts
 				else {
 					if (!isset($conflicts[$code])) {

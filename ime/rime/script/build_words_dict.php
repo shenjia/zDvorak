@@ -17,12 +17,20 @@ $scanner->scan(function($line)use(&$chars){
 	);
 });
 
+// load pharse
+$phrases = array();
+$scanner = new Scanner(__DIR__ . '/../data/phrases.txt');
+$scanner->scan(function($line)use(&$phrases){
+	$phrase = trim($line);
+	$phrases[$phrase] = 1;
+});
+
 // load words
 $words = array();
 $skip_words = array();
 $conflict_words = array();
 $scanner = new Scanner(__DIR__ . '/../data/spells_words.txt');
-$scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$chars){
+$scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$chars, &$phrases){
 	list($word, $spell, $weight) = explode("\t", trim($line));
 	$code = Encoder::ins()->encodeSpells($spell);
 	// skip if conflict with char
@@ -31,6 +39,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 		$conflict_words[] = $word;
 		return;
 	}
+
 	// insert if not exists
 	if (!isset($words[$code])) {
 		$words[$code] = array(
@@ -38,6 +47,14 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 			'weight' => $weight
 		);
 	} 
+	// swap x-chars phrase with 4-chars phrase
+	else if (mb_strlen($word, 'utf-8') == 4 and isset($phrases[$word]) and $words[$code]['word'] < 4) {
+		$skip_words[] = $words[$code]['word'];
+		$words[$code] = array(
+			'word' => $word,
+			'weight' => $weight
+		);
+	}
 	// swap if the new one got higher weight
 	else if ($weight >= $words[$code]['weight']) {
 		$skip_words[] = $words[$code]['word'];

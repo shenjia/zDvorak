@@ -979,7 +979,6 @@
 必杀	bi sha	268
 壁上	bi shang	137
 闭上	bi shang	443
-比上	bi shang	566
 毕生	bi sheng	259
 必胜	bi sheng	347
 彼时	bi shi	107
@@ -3062,8 +3061,6 @@
 每到	mei dao	631
 美得	mei de	184
 美德	mei de	582
-美的	mei de	958
-没得	mei de	2742
 没底	mei di	177
 美的	mei di	251
 没点	mei dian	125
@@ -6807,7 +6804,6 @@
 堵车	du che	608
 都城	du cheng	200
 独处	du chu	249
-读出	du chu	385
 毒蛇	du she	272
 独身	du shen	193
 都是	du shi	596
@@ -7441,7 +7437,6 @@
 讨个	tao ge	122
 逃过	tao guo	247
 逃课	tao ke	392
-掏空	tao kong	169
 桃花	tao hua	1682
 讨好	tao hao	624
 讨回	tao hui	167
@@ -8596,8 +8591,8 @@
 哪来	na lai	806
 拿来	na lai	2445
 纳兰	na lan	263
+哪里	na li	32936
 那里	na li	33200
-哪里	na li	37936
 那两	na liang	134
 那辆	na liang	305
 那该	na gai	108
@@ -8647,8 +8642,8 @@
 哪知	na zhi	182
 那支	na zhi	200
 那只	na zhi	1615
-哪种	na zhong	1392
-那种	na zhong	9255
+哪种	na zhong	10392
+那种	na zhong	19255
 那场	na chang	692
 拿出	na chu	3572
 那双	na shuang	623
@@ -10808,7 +10803,6 @@
 流窜	liu cuan	118
 留存	liu cun	258
 六次	liu ci	173
-硫酸	liu suan	366
 六四	liu si	210
 流苏	liu su	125
 流速	liu su	155
@@ -13300,8 +13294,8 @@
 口号	kou hao	1617
 口红	kou hong	228
 口诀	kou jue	129
-口角	kou jiao	179
-口交	kou jiao	434
+口交	kou jiao	134
+口角	kou jiao	379
 口径	kou jing	504
 口气	kou qi	1930
 扣钱	kou qian	210
@@ -15555,9 +15549,9 @@
 激动	ji dong	4415
 几度	ji du	290
 基督	ji du	499
-嫉妒	ji du	1508
 极度	ji du	1753
 季度	ji du	2061
+嫉妒	ji du	3508
 几多	ji duo	849
 及对	ji dui	106
 挤兑	ji dui	123
@@ -18020,6 +18014,7 @@
 起名	qi ming	339
 期末	qi mo	746
 其母	qi mu	127
+起了	qi le	200
 启发	qi fa	1126
 期房	qi fang	212
 七分	qi fen	226
@@ -20641,6 +20636,7 @@
 新民	xin min	371
 心魔	xin mo	119
 心目	xin mu	1491
+心无	xin wu	200
 新发	xin fa	162
 新法	xin fa	184
 心法	xin fa	203
@@ -20694,7 +20690,6 @@
 新老	xin lao	419
 心力	xin li	173
 心理	xin li	10937
-心里	xin li	16399
 信令	xin ling	243
 心灵	xin ling	4543
 新楼	xin lou	113
@@ -21996,7 +21991,6 @@
 阵势	zhen shi	150
 珍视	zhen shi	163
 真实	zhen shi	10328
-真是	zhen shi	21679
 真人	zhen ren	1241
 阵容	zhen rong	1215
 真如	zhen ru	219
@@ -22947,7 +22941,6 @@
 重任	zhong ren	570
 众人	zhong ren	2570
 终日	zhong ri	343
-中日	zhong ri	884
 重在	zhong zai	319
 中资	zhong zi	188
 种子	zhong zi	3037
@@ -23205,7 +23198,6 @@
 着陆	zhuo lu	135
 桌前	zhuo qian	149
 酌情	zhuo qing	244
-桌球	zhuo qiu	241
 着想	zhuo xiang	323
 着装	zhuo zhuang	427
 着重	zhuo zhong	902
@@ -23984,6 +23976,7 @@
 成品	cheng pin	1100
 城门	cheng men	291
 成名	cheng ming	960
+诚然	cheng ran	100
 乘法	cheng fa	165
 惩罚	cheng fa	1689
 成份	cheng fen	611
@@ -24222,6 +24215,7 @@
 抽调	chou diao	319
 抽动	chou dong	161
 抽屉	chou ti	662
+丑态	chou tai	500
 丑女	chou nv	320
 酬劳	chou lao	148
 丑陋	chou lou	779
@@ -33480,7 +33474,6 @@
 武士	wu shi	574
 务实	wu shi	808
 无视	wu shi	1368
-五十	wu shi	1392
 巫术	wu shu	131
 武术	wu shu	866
 无数	wu shu	4268
@@ -34441,6 +34434,7 @@
 不景气	bu jing qi	289
 不经意	bu jing yi	658
 不久前	bu jiu qian	679
+不就是	bu jiu shi	700
 不起眼	bu qi yan	368
 补习班	bu xi ban	132
 不下雨	bu xia yu	146
@@ -36129,8 +36123,6 @@
 来形容	lai xing rong	849
 来这里	lai zhe li	1107
 赖昌星	lai chang xing	129
-来实现	lai shi xian	837
-来参加	lai can jia	290
 来源于	lai yuan yu	1128
 来月经	lai yue jing	155
 来完成	lai wan cheng	516
@@ -38170,7 +38162,6 @@
 习近平	xi jin ping	163
 喜剧片	xi ju pian	159
 戏剧性	xi ju xing	323
-吸血鬼	xi xue gui	515
 细细的	xi xi de	229
 西西里	xi xi li	138
 嘻嘻嘻	xi xi xi	205
@@ -40104,7 +40095,6 @@
 综合症	zong he zheng	318
 综合征	zong he zheng	557
 总决赛	zong jue sai	716
-总经理	zong jing li	4200
 宗庆后	zong qing hou	141
 总指挥	zong zhi hui	216
 总产量	zong chan liang	231
@@ -40601,6 +40591,7 @@
 夜猫子	ye mao zi	223
 业发展	ye fa zhan	137
 也都是	ye dou shi	532
+也就是	ye jiu shi	500
 叶利钦	ye li qin	187
 液化气	ye hua qi	219
 耶和华	ye he hua	176
@@ -41600,6 +41591,8 @@
 别出心裁	bie chu xin cai	143
 别有用心	bie you yong xin	299
 别无选择	bie wu xuan ze	136
+别无他法	bie wu ta fa	100
+别无其他	bie wu qi ta	100
 彬彬有礼	bin bin you li	111
 滨海新区	bin hai xin qu	334
 并不代表	bing bu dai biao	966
@@ -41804,6 +41797,7 @@
 噼里啪啦	pi li pa la	110
 批量生产	pi liang sheng chan	200
 皮下组织	pi xia zu zhi	198
+翩然而至	pian ran er zhi	200
 翩翩起舞	pian pian qi wu	113
 漂亮女人	piao liang nv ren	137
 品牌价值	pin pai jia zhi	207
@@ -42221,6 +42215,7 @@
 非常重视	fei chang zhong shi	402
 非常重要	fei chang zhong yao	1561
 飞速发展	fei su fa zhan	302
+废寝忘食	fei qin wang shi	300
 匪夷所思	fei yi suo si	271
 佛罗伦萨	fo luo lun sa	207
 腐败分子	fu bai fen zi	174
@@ -42279,6 +42274,7 @@
 锻炼身体	duan lian shen ti	288
 断章取义	duan zhang qu yi	144
 短时间内	duan shi jian nei	782
+大驾光临	da jia guang lin	200
 大不相同	da bu xiang tong	142
 大不一样	da bu yi yang	114
 大名鼎鼎	da ming ding ding	247
@@ -42542,8 +42538,8 @@
 跌宕起伏	die dang qi fu	152
 喋喋不休	die die bu xiu	176
 跌跌撞撞	die die zhuang zhuang	142
-顶顶顶顶	ding ding ding ding	2124
 顶级域名	ding ji yu ming	133
+顶礼膜拜	ding li mo bai	200
 定期检查	ding qi jian cha	108
 定期存款	ding qi cun kuan	114
 定向增发	ding xiang zeng fa	336
@@ -42576,6 +42572,7 @@
 独立显卡	du li xian ka	249
 独立自主	du li zi zhu	165
 独立思考	du li si kao	173
+独善其身	du shan qi shen	200
 都江堰市	du jiang yan shi	113
 独具特色	du ju te se	164
 独生子女	du sheng zi nv	391
@@ -42704,6 +42701,7 @@
 天衣无缝	tian yi wu feng	134
 天文学家	tian wen xue jia	147
 天文数字	tian wen shu zi	118
+条条框框	tiao tiao kuang kuang	100
 条件反射	tiao jian fan she	148
 铁路建设	tie lu jian she	148
 铁路运输	tie lu yun shu	188
@@ -42996,6 +42994,7 @@
 理工学院	li gong xue yuan	125
 里克尔梅	li ke er mei	134
 利害关系	li hai guan xi	131
+离群索居	li qun suo ju	200
 离家出走	li jia chu zou	249
 理想信念	li xiang xin nian	107
 理想主义	li xiang zhu yi	202
@@ -43079,6 +43078,7 @@
 临床意义	lin chuang yi yi	161
 临床应用	lin chuang ying yong	288
 临时文件	lin shi wen jian	139
+灵丹妙药	ling dan miao yao	100
 另当别论	ling dang bie lun	124
 领导班子	ling dao ban zi	675
 领导干部	ling dao gan bu	1546
@@ -43255,7 +43255,7 @@
 高度重视	gao du zhong shi	1461
 高楼大厦	gao lou da sha	160
 高高兴兴	gao gao xing xing	194
-高高在上	gao gao zai shang	293
+高高在上	gao gao zai shang	2930
 高考成绩	gao kao cheng ji	181
 高级官员	gao ji guan yuan	154
 高级中学	gao ji zhong xue	129
@@ -43623,6 +43623,7 @@
 规划建设	gui hua jian she	281
 规划设计	gui hua she ji	284
 规章制度	gui zhang zhi du	499
+夸夸其谈	kua kua qi tan	200
 跨国公司	kua guo gong si	911
 跨国企业	kua guo qi ye	182
 宽带接入	kuan dai jie ru	126
@@ -43833,6 +43834,7 @@
 哗众取宠	hua zhong qu chong	215
 花言巧语	hua yan qiao yu	116
 花样年华	hua yang nian hua	125
+花草树木	hua cao shu mu	200
 环保部门	huan bao bu men	258
 环保总局	huan bao zong ju	132
 环保意识	huan bao yi shi	118
@@ -44468,6 +44470,7 @@
 进入游戏	jin ru you xi	146
 近在咫尺	jin zai zhi chi	189
 仅此而已	jin ci er yi	184
+井然有序	jing ran you xu	200
 经贸关系	jing mao guan xi	144
 经贸合作	jing mao he zuo	271
 精打细算	jing da xi suan	130
@@ -44780,6 +44783,7 @@
 亲身经历	qin shen jing li	328
 禽兽不如	qin shou bu ru	117
 亲眼目睹	qin yan mu du	188
+寝食难安	qin shi nan an	400
 情不自禁	qing bu zi jin	429
 青梅竹马	qing mei zhu ma	213
 轻描淡写	qing miao dan xie	209
@@ -45881,6 +45885,7 @@
 成本核算	cheng ben he suan	118
 瞠目结舌	cheng mu jie she	146
 承担责任	cheng dan ze ren	448
+成就圆满	cheng jiu yuan man	400
 成套设备	cheng tao she bei	109
 成立以来	cheng li yi lai	252
 城管执法	cheng guan zhi fa	113
@@ -46115,6 +46120,8 @@
 设施建设	she shi jian she	201
 摄影记者	she ying ji zhe	163
 摄影作品	she ying zuo pin	170
+深受其害	shen shou qi hai	100
+深山老林	shen shan lao lin	100
 深不可测	shen bu ke ce	107
 身不由己	shen bu you ji	232
 审批程序	shen pi cheng xu	116
@@ -46258,6 +46265,7 @@
 生物医药	sheng wu yi yao	120
 事半功倍	shi ban gong bei	202
 是不可能	shi bu ke neng	1260
+食不果腹	shi bu guo fu	100
 视频播放	shi pin bo fang	361
 视频聊天	shi pin liao tian	135
 视频格式	shi pin ge shi	105
@@ -46698,6 +46706,7 @@
 如日中天	ru ri zhong tian	140
 如此这般	ru ci zhe ban	122
 如此一来	ru ci yi lai	135
+如影随形	ru ying sui xing	200
 如愿以偿	ru yuan yi chang	190
 如有问题	ru you wen ti	132
 如鱼得水	ru yu de shui	132
@@ -47108,6 +47117,7 @@
 苏格拉底	su ge la di	172
 素质教育	su zhi jiao yu	615
 诉讼请求	su song qing qiu	171
+所思所想	suo si suo xiang	100
 所见所闻	suo jian suo wen	106
 所剩无几	suo sheng wu ji	117
 所在单位	suo zai dan wei	279
@@ -47220,6 +47230,7 @@
 研制成功	yan zhi cheng gong	179
 严重后果	yan zhong hou guo	193
 严重影响	yan zhong ying xiang	619
+言谈举止	yan tan ju zhi	200
 严肃处理	yan su chu li	168
 严严实实	yan yan shi shi	125
 奄奄一息	yan yan yi xi	143
@@ -47283,6 +47294,8 @@
 一步一步	yi bu yi bu	660
 一片空白	yi pian kong bai	272
 一篇文章	yi pian wen zhang	755
+一马当先	yi ma dang xian	300
+一马平川	yi ma ping chuan	400
 一脉相承	yi mai xiang cheng	137
 一鸣惊人	yi ming jing ren	108
 一模一样	yi mo yi yang	739
@@ -47969,6 +47982,7 @@
 五彩缤纷	wu cai bin fen	135
 五次会议	wu ci hui yi	180
 无私奉献	wu si feng xian	181
+无所不知	wu suo bu zhi	200
 无所不能	wu suo bu neng	148
 无所不在	wu suo bu zai	119
 无所事事	wu suo shi shi	359

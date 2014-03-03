@@ -8,7 +8,6 @@ x (i)
 f (z)
 -----------------------------------------
 v (y) [l n]
-ia / ua (a) [a d g h i j k e o q]
 uo (o) [c a d g h k l n r s e t ' o]
 iang / uang (g) [j l n q i a g h k e o]
 ei (p) [b f g h l m n p e t w ']
@@ -22,6 +21,7 @@ iao (l) [b d j l m n p q t i]
 ian (;) [b d j l m n p q t i]
 ou (,) [c a d v g h k l m n ; p r s e t u ' o]
 uan (j) [c a d g h j k l n q r s e t i u 'o]
+ia / ua (z) [d j q i a g h k e o]
 uai / ing (r) [a b d e g h j k l m n o p q t i u]
 ui / ue (c) [c a d g h i j k l n q r s e t ' u o]
 ai (')	[; b c a d g h k l m n p s e t w ' o]

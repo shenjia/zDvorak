@@ -372,6 +372,7 @@ un
 	shun
 	tun
 	xun
+	yun
 	zun
 	zhun
 uo

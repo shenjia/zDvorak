@@ -1004,7 +1004,6 @@
 蹁	pian	4
 楄	pian	6
 胼	pian	6
-扁	pian	11
 騙	pian	16
 谝	pian	33
 骈	pian	39
@@ -5946,7 +5945,6 @@
 嘏	gu	4
 鈷	gu	4
 稒	gu	5
-贾	gu	5
 梏	gu	5
 蠱	gu	6
 鸪	gu	6

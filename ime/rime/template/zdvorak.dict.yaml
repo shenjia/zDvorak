@@ -10,6 +10,6 @@ import_tables:
  #- zdvorak.symbols
  - zdvorak.first
  - zdvorak.second
- #- zdvorak.spells
+ - zdvorak.spells
  - zdvorak.words
 ...

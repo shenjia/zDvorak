@@ -12,3 +12,11 @@ patch:
       - {accept: "Shift+space", toggle: full_shape, when: always}
   recognizer:
     patterns:
+  punctuator:
+    full_shape:
+      ' ' : { commit: '　' }
+      ',' : { commit: ， }
+      '.' : { commit: 。 }
+    half_shape:
+      ',' : { commit: ， }
+      '.' : { commit: 。 }

@@ -80,7 +80,7 @@ speller:
     - xform/uan$/J/           # 在 ua an 之前
     - xform/iu$/Q/
     - xform/[iu]ang$/G/       # 在 ang an 之前
-    - xform/[ui]a$/A/
+    - xform/[ui]a$/Z/
     - xform/ing$|uai$/R/      # 在 in ua ai 之前
     - xform/u[ei]$/C/
     - xform/i?ong$/K/         # 在 ong 之前
@@ -134,7 +134,8 @@ translator:
     - xform/([jqx])k/$1iong/          # k = ong / iong
     - xform/(\w)k/$1ong/
 
-    - xform/([jqx])a/$1ia/            # a = a / ia
+    - xform/([djqx])z/$1ia/            # z = ia / ua
+    - xform/(\w)z/$1ua/
 
     - xform/([nl])c/$1ve/             # c = ui / ue / ve
     - xform/([jqxy])c/$1ue/

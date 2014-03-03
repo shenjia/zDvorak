@@ -1,417 +1,424 @@
-a	啊	99999999
-ai	爱	99999999
-an	安	99999999
-ang	昂	99999999
-ao	奥	99999999
-e	额	99999999
-en	恩	99999999
-er	而	99999999
-o	哦	99999999
-ou	噢	99999999
+a	啊
+ai	爱
+an	安
+ang	昂
+ao	奥
+e	哦
+en	恩
+er	而
+o	噢
+ou	偶
 
-ba	吧	99999999
-bai	白	99999999
-ban	办	99999999
-bang	帮	99999999
-bao	包	99999999
-bei	被	99999999
-ben	本	99999999
-beng	泵	99999999
-bi	比	99999999
-bian	便	99999999
-biao	表	99999999
-bie	别	99999999
-bin	斌	99999999
-bing	并	99999999
-bo	波	99999999
-bu	部	99999999
+ba	吧
+bai	白
+ban	办
+bang	帮
+bao	包
+bei	被
+ben	本
+beng	泵
+bi	比
+bian	便
+biao	表
+bie	别
+bin	斌
+bing	并
+bo	波
+bu	部
 
-ca	擦	99999999
-cai	菜	99999999
-can	惨	99999999
-cang	藏	99999999
-cao	草	99999999
-ce	测	99999999
-cen	参	99999999
-ceng	曾	99999999
-ci	次	99999999
-cong	从	99999999
-cou	凑	99999999
-cu	粗	99999999
-cuan	窜	99999999
-cui	催	99999999
-cun	村	99999999
-cuo	错	99999999
+ca	擦
+cai	菜
+can	惨
+cang	藏
+cao	草
+ce	测
+cen	参
+ceng	曾
+ci	次
+cong	从
+cou	凑
+cu	粗
+cuan	窜
+cui	催
+cun	存
+cuo	错
 
-cha	差	99999999
-chai	拆	99999999
-chan	产	99999999
-chang	长	99999999
-chao	超	99999999
-che	车	99999999
-chen	陈	99999999
-cheng	成	99999999
-chi	吃	99999999
-chong	冲	99999999
-chou	抽	99999999
-chu	出	99999999
-chuai	踹	99999999
-chuan	传	99999999
-chuang	床	99999999
-chui	吹	99999999
-chun	春	99999999
-chuo	戳	99999999
+cha	差
+chai	拆
+chan	产
+chang	常
+chao	超
+che	车
+chen	陈
+cheng	成
+chi	吃
+chong	冲
+chou	抽
+chu	出
+chuai	踹
+chuan	传
+chuang	床
+chui	吹
+chun	春
+chuo	戳
 
-da	大	99999999
-dai	带	99999999
-dan	但	99999999
-dang	当	99999999
-dao	到	99999999
-de	得	99999999
-deng	等	99999999
-di	地	99999999
-dian	点	99999999
-diao	掉	99999999
-die	跌	99999999
-ding	定	99999999
-diu	丢	99999999
-dong	动	99999999
-dou	都	99999999
-du	读	99999999
-duan	段	99999999
-dui	对	99999999
-dun	吨	99999999
-duo	多	99999999
+da	大
+dai	带
+dan	但
+dang	当
+dao	到
+de	得
+deng	等
+di	地
+dia	嗲
+dian	点
+diao	掉
+die	跌
+ding	定
+diu	丢
+dong	动
+dou	都
+du	读
+duan	段
+dui	对
+dun	吨
+duo	多
 
-fa	发	99999999
-fan	饭	99999999
-fang	放	99999999
-fei	飞	99999999
-fen	分	99999999
-feng	风	99999999
-fo	佛	99999999
-fou	否	99999999
-fu	副	99999999
+fa	发
+fan	反
+fang	方
+fei	飞
+fen	分
+feng	风
+fo	佛
+fou	否
+fu	副
 
-gai	该	99999999
-gan	干	99999999
-gang	刚	99999999
-gao	高	99999999
-ge	各	99999999
-gei	给	99999999
-gen	跟	99999999
-geng	更	99999999
-gong	共	99999999
-gou	够	99999999
-gu	股	99999999
-gua	挂	99999999
-guai	乖	99999999
-guan	管	99999999
-guang	光	99999999
-gui	贵	99999999
-gun	滚	99999999
-guo	过	99999999
+ga	嘎
+gai	该
+gan	干
+gang	刚
+gao	高
+ge	各
+gei	给
+gen	跟
+geng	更
+gong	共
+gou	够
+gu	股
+gua	挂
+guai	乖
+guan	管
+guang	光
+gui	贵
+gun	滚
+guo	过
 
-hai	还	99999999
-han	汗	99999999
-hang	行	99999999
-hao	好	99999999
-he	何	99999999
-hei	黑	99999999
-hen	很	99999999
-heng	横	99999999
-hong	红	99999999
-hou	后	99999999
-hu	胡	99999999
-hua	话	99999999
-huai	坏	99999999
-huan	换	99999999
-huang	黄	99999999
-hui	会	99999999
-hun	混	99999999
-huo	或	99999999
+ha	哈
+hai	还
+han	汗
+hang	行
+hao	好
+he	何
+hei	黑
+hen	很
+heng	横
+hong	红
+hou	后
+hu	胡
+hua	话
+huai	坏
+huan	换
+huang	黄
+hui	会
+hun	混
+huo	或
 
-ji	及	99999999
-jia	家	99999999
-jian	见	99999999
-jiang	将	99999999
-jiao	叫	99999999
-jie	接	99999999
-jin	进	99999999
-jing	经	99999999
-jiong	窘	99999999
-jiu	久	99999999
-ju	据	99999999
-juan	卷	99999999
-jue	觉	99999999
-jun	均	99999999
+ji	及
+jia	家
+jian	见
+jiang	将
+jiao	交
+jie	接
+jin	进
+jing	经
+jiong	窘
+jiu	九
+ju	据
+juan	卷
+jue	觉
+jun	均
 
-ka	卡	99999999
-kai	开	99999999
-kan	看	99999999
-kang	抗	99999999
-kao	靠	99999999
-ke	可	99999999
-ken	肯	99999999
-keng	坑	99999999
-kong	空	99999999
-kou	口	99999999
-ku	哭	99999999
-kuai	快	99999999
-kuan	款	99999999
-kuang	狂	99999999
-kui	亏	99999999
-kun	困	99999999
-kuo	扩	99999999
+ka	卡
+kai	开
+kan	看
+kang	抗
+kao	靠
+ke	可
+ken	肯
+keng	坑
+kong	空
+kou	口
+ku	哭
+kua	夸
+kuai	快
+kuan	款
+kuang	狂
+kui	亏
+kun	困
+kuo	扩
 
-la	啦	99999999
-lai	来	99999999
-lan	蓝	99999999
-lang	狼	99999999
-lao	老	99999999
-le	乐	99999999
-lei	类	99999999
-leng	冷	99999999
-li	里	99999999
-lian	连	99999999
-liang	两	99999999
-liao	聊	99999999
-lie	列	99999999
-lin	林	99999999
-ling	另	99999999
-liu	刘	99999999
-long	龙	99999999
-lou	楼	99999999
-lu	路	99999999
-lue	略	99999999
-luan	乱	99999999
-lun	论	99999999
-luo	罗	99999999
-lv	率	99999999
+la	啦
+lai	来
+lan	蓝
+lang	狼
+lao	老
+le	乐
+lei	类
+leng	冷
+li	里
+lian	连
+liang	两
+liao	聊
+lie	列
+lin	林
+ling	另
+liu	刘
+long	龙
+lou	楼
+lu	路
+lue	略
+luan	乱
+lun	论
+luo	罗
+lv	率
 
-ma	吗	99999999
-mai	买	99999999
-man	慢	99999999
-mang	忙	99999999
-mao	毛	99999999
-me	么	99999999
-mei	每	99999999
-men	门	99999999
-meng	梦	99999999
-mi	米	99999999
-mian	面	99999999
-miao	秒	99999999
-mie	灭	99999999
-min	民	99999999
-ming	名	99999999
-miu	谬	99999999
-mo	莫	99999999
-mou	某	99999999
-mu	木	99999999
+ma	吗
+mai	买
+man	慢
+mang	忙
+mao	毛
+me	么
+mei	每
+men	门
+meng	梦
+mi	米
+mian	面
+miao	秒
+mie	灭
+min	民
+ming	名
+miu	谬
+mo	莫
+mou	某
+mu	木
 
-na	那	99999999
-nai	乃	99999999
-nan	男	99999999
-nang	囊	99999999
-nao	闹	99999999
-ne	呢	99999999
-nei	内	99999999
-nen	嫩	99999999
-neng	能	99999999
-ni	拟	99999999
-nian	年	99999999
-niang	娘	99999999
-niao	鸟	99999999
-nie	捏	99999999
-nin	您	99999999
-ning	宁	99999999
-niu	牛	99999999
-nou	耨	99999999
-nong	弄	99999999
-nu	怒	99999999
-nue	虐	99999999
-nuan	暖	99999999
-nuo	诺	99999999
-nv	女	99999999
+na	那
+nai	乃
+nan	男
+nang	囊
+nao	闹
+ne	呢
+nei	内
+nen	嫩
+neng	能
+ni	拟
+nian	年
+niang	娘
+niao	鸟
+nie	捏
+nin	您
+ning	宁
+niu	牛
+nou	耨
+nong	弄
+nu	怒
+nue	虐
+nuan	暖
+nuo	诺
+nv	女
 
-pa	怕	99999999
-pai	拍	99999999
-pan	盘	99999999
-pang	胖	99999999
-pao	跑	99999999
-pei	陪	99999999
-pen	喷	99999999
-peng	碰	99999999
-pi	皮	99999999
-pian	片	99999999
-piao	票	99999999
-pie	撇	99999999
-pin	品	99999999
-ping	凭	99999999
-po	破	99999999
-pou	剖	99999999
-pu	普	99999999
+pa	怕
+pai	拍
+pan	盘
+pang	胖
+pao	跑
+pei	陪
+pen	喷
+peng	碰
+pi	皮
+pian	片
+piao	票
+pie	撇
+pin	品
+ping	凭
+po	破
+pou	剖
+pu	普
 
-qi	其	99999999
-qia	掐	99999999
-qian	钱	99999999
-qiang	强	99999999
-qiao	桥	99999999
-qie	且	99999999
-qin	亲	99999999
-qing	请	99999999
-qiong	穷	99999999
-qiu	求	99999999
-qu	取	99999999
-quan	全	99999999
-que	却	99999999
-qun	群	99999999
+qi	其
+qia	掐
+qian	千
+qiang	强
+qiao	桥
+qie	且
+qin	亲
+qing	请
+qiong	穷
+qiu	求
+qu	取
+quan	全
+que	却
+qun	群
 
-ran	然	99999999
-rang	让	99999999
-rao	绕	99999999
-re	热	99999999
-ren	任	99999999
-reng	仍	99999999
-ri	日	99999999
-rong	荣	99999999
-rou	容	99999999
-ru	如	99999999
-ruan	软	99999999
-rui	瑞	99999999
-run	润	99999999
-ruo	若	99999999
+ran	然
+rang	让
+rao	绕
+re	热
+ren	任
+reng	仍
+ri	日
+rong	荣
+rou	肉
+ru	如
+ruan	软
+rui	瑞
+run	润
+ruo	若
 
-sa	撒	99999999
-sai	赛	99999999
-san	散	99999999
-sang	桑	99999999
-sao	扫	99999999
-se	色	99999999
-sen	森	99999999
-seng	僧	99999999
-si	死	99999999
-song	送	99999999
-sou	搜	99999999
-su	素	99999999
-suan	算	99999999
-sui	岁	99999999
-sun	孙	99999999
-suo	所	99999999
+sa	撒
+sai	赛
+san	散
+sang	桑
+sao	扫
+se	色
+sen	森
+seng	僧
+si	死
+song	送
+sou	搜
+su	素
+suan	算
+sui	岁
+sun	孙
+suo	所
 
-sha	啥	99999999
-shai	筛	99999999
-shan	山	99999999
-shang	上	99999999
-shao	少	99999999
-she	设	99999999
-shei	谁	99999999
-shen	神	99999999
-sheng	生	99999999
-shi	事	99999999
-shou	收	99999999
-shu	书	99999999
-shuai	帅	99999999
-shuan	栓	99999999
-shuang	双	99999999
-shui	谁	99999999
-shun	顺	99999999
-shuo	说	99999999
+sha	杀
+shai	筛
+shan	山
+shang	上
+shao	少
+she	设
+shei	谁
+shen	神
+sheng	生
+shi	事
+shou	手
+shu	书
+shua	刷
+shuai	帅
+shuan	栓
+shuang	双
+shui	水
+shun	顺
+shuo	说
 
-ta	她	99999999
-tai	太	99999999
-tan	谈	99999999
-tang	汤	99999999
-tao	套	99999999
-te	特	99999999
-tei	忒	99999999
-teng	疼	99999999
-ti	提	99999999
-tian	天	99999999
-tiao	条	99999999
-tie	贴	99999999
-ting	听	99999999
-tong	同	99999999
-tou	头	99999999
-tu	土	99999999
-tuan	团	99999999
-tui	退	99999999
-tun	吞	99999999
-tuo	托	99999999
+ta	她
+tai	太
+tan	谈
+tang	汤
+tao	套
+te	特
+tei	忒
+teng	疼
+ti	提
+tian	天
+tiao	条
+tie	贴
+ting	听
+tong	同
+tou	头
+tu	土
+tuan	团
+tui	退
+tun	吞
+tuo	托
 
-wa	哇	99999999
-wai	外	99999999
-wan	万	99999999
-wang	王	99999999
-wei	为	99999999
-wen	问	99999999
-weng	翁	99999999
-wo	喔	99999999
-wu	无	99999999
+wa	哇
+wai	外
+wan	万
+wang	王
+wei	为
+wen	文
+weng	翁
+wo	喔
+wu	无
 
-xi	系	99999999
-xia	下	99999999
-xian	先	99999999
-xiang	想	99999999
-xiao	笑	99999999
-xie	写	99999999
-xin	心	99999999
-xing	行	99999999
-xiong	兄	99999999
-xiu	修	99999999
-xu	需	99999999
-xuan	选	99999999
-xue	学	99999999
-xun	寻	99999999
+xi	系
+xia	下
+xian	先
+xiang	想
+xiao	笑
+xie	写
+xin	新
+xing	行
+xiong	兄
+xiu	修
+xu	需
+xuan	选
+xue	学
+xun	寻
 
-ya	呀	99999999
-yan	眼	99999999
-yang	样	99999999
-yao	要	99999999
-ye	也	99999999
-yi	以	99999999
-yin	因	99999999
-ying	应	99999999
-yo	哟	99999999
-yong	用	99999999
-you	有	99999999
-yu	与	99999999
-yuan	元	99999999
-yue	月	99999999
+ya	呀
+yan	眼
+yang	样
+yao	要
+ye	也
+yi	以
+yin	因
+ying	应
+yo	哟
+yong	用
+you	有
+yu	与
+yuan	元
+yue	月
+yun	云
 
-za	咋	99999999
-zai	再	99999999
-zan	咱	99999999
-zang	脏	99999999
-zao	早	99999999
-ze	则	99999999
-zei	贼	99999999
-zen	怎	99999999
-zeng	增	99999999
-zi	子	99999999
-zong	总	99999999
-zou	走	99999999
-zu	组	99999999
-zuan	钻	99999999
-zui	最	99999999
-zun	尊	99999999
-zuo	做	99999999
+za	咋
+zai	再
+zan	咱
+zang	脏
+zao	早
+ze	则
+zei	贼
+zen	怎
+zeng	增
+zi	子
+zong	总
+zou	走
+zu	组
+zuan	钻
+zui	最
+zun	尊
+zuo	做
 
-zhai	摘	99999999
-zhan	站	99999999
-zhang	张	99999999
-zhao	找	99999999
-zhe	着	99999999
-zhen	真	99999999
-zheng	正	99999999
-zhi	之	99999999
-zhong	中	99999999
-zhou	周	99999999
-zhu	主	99999999
-zhua	抓	99999999
-zhuai	拽	99999999
-zhuan	转	99999999
-zhuang	装	99999999
-zhui	追	99999999
-zhun	准	99999999
-zhuo	卓	99999999
+zha	炸
+zhai	摘
+zhan	占
+zhang	张
+zhao	找
+zhe	着
+zhen	真
+zheng	正
+zhi	只
+zhong	中
+zhou	周
+zhu	主
+zhua	抓
+zhuai	拽
+zhuan	专
+zhuang	装
+zhui	追
+zhun	准
+zhuo	卓
