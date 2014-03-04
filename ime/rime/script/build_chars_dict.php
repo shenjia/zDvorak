@@ -5,7 +5,7 @@ require __DIR__ . '/helpers/Encoder.class.php';
 
 define('FIRST_WEIGHT', 99999999);
 define('SECOND_WEIGHT', 99999999);
-//define('SHOW_LETTERS_COUNT', true);
+define('SHOW_LETTERS_COUNT', true);
 //define('COUNT_BY_WEIGHT', true);
 define('SHOW_CONFLICTS', true);
 define('PASS_WEIGHT', 1000);

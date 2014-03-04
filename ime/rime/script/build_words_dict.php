@@ -1,4 +1,5 @@
 <?php
+exit();
 error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';

@@ -24025,9 +24025,9 @@
 乘机	cheng ji	408
 成绩	cheng ji	9716
 成家	cheng jia	372
-成见	cheng jian	157
 承建	cheng jian	212
 城建	cheng jian	410
+成见	cheng jian	557
 成教	cheng jiao	109
 城郊	cheng jiao	197
 成交	cheng jiao	2868
@@ -36412,6 +36412,7 @@
 流水线	liu shui xian	300
 流水帐	liu shui zhang	185
 刘若英	liu ruo ying	399
+留声机	liu sheng ji	200
 六月份	liu yue fen	187
 留言板	liu yan ban	540
 留言本	liu yan ben	238
@@ -41770,6 +41771,7 @@
 排放标准	pai fang biao zhun	133
 拍照手机	pai zhao shou ji	113
 排忧解难	pai you jie nan	124
+抛诸脑后	pao zhu nao hou	200
 抛砖引玉	pao zhuan yin yu	172
 蓬勃发展	peng bo fa zhan	347
 朋友之间	peng you zhi jian	115
@@ -41994,6 +41996,7 @@
 民意调查	min yi diao cha	154
 民营经济	min ying jing ji	334
 民营企业	min ying qi ye	1208
+名言警句	ming yan jing ju	200
 名牌大学	ming pai da xue	188
 名牌产品	ming pai chan pin	196
 明码标价	ming ma biao jia	129
@@ -42424,6 +42427,7 @@
 登记注册	deng ji zhu ce	152
 登记手续	deng ji shou xu	153
 等一系列	deng yi xi lie	660
+低人一等	di ren yi deng	200
 地方特色	di fang te se	141
 地方经济	di fang jing ji	111
 地方政府	di fang zheng fu	1569
@@ -43865,6 +43869,7 @@
 欢迎光临	huan ying guang lin	546
 欢迎加入	huan ying jia ru	177
 换位思考	huan wei si kao	124
+荒谬可笑	huang miu ke xiao	200
 黄土高原	huang tu gao yuan	119
 晃晃悠悠	huang huang you you	105
 黄金价格	huang jin jia ge	121
@@ -44055,6 +44060,7 @@
 绝对不是	jue dui bu shi	611
 绝对优势	jue dui you shi	202
 绝无仅有	jue wu jin you	151
+绝口不提	jue kou bu ti	200
 竣工验收	jun gong yan shou	141
 军国主义	jun guo zhu yi	197
 军事力量	jun shi li liang	148
@@ -44249,6 +44255,7 @@
 家喻户晓	jia yu hu xiao	276
 见不得人	jian bu de ren	138
 减肥瘦身	jian fei shou shen	184
+坚不可摧	jian bu ke cui	200
 坚定不移	jian ding bu yi	418
 监督管理	jian du guan li	618
 监督工作	jian du gong zuo	118
@@ -46801,6 +46808,7 @@
 资格证书	zi ge zheng shu	255
 资格审查	zi ge shen cha	198
 自古以来	zi gu yi lai	259
+自古至今	zi gu zhi jin	200
 自觉遵守	zi jue zun shou	151
 自己动手	zi ji dong shou	284
 自己喜欢	zi ji xi huan	941
@@ -46835,6 +46843,7 @@
 自身建设	zi shen jian she	185
 自生自灭	zi sheng zi mie	112
 自始至终	zi shi zhi zhong	255
+自私自利	zi si zi li	200
 自然风光	zi ran feng guang	149
 自然条件	zi ran tiao jian	154
 自然规律	zi ran gui lv	151
@@ -46987,6 +46996,7 @@
 财务软件	cai wu ruan jian	109
 财务人员	cai wu ren yuan	115
 财务总监	cai wu zong jian	135
+惨无人道	can wu ren dao	200
 惨不忍睹	can bu ren du	310
 参考价格	can kao jia ge	115
 参考资料	can kao zi liao	167
@@ -47931,6 +47941,7 @@
 物流中心	wu liu zhong xin	178
 乌鲁木齐	wu lu mu qi	748
 无关紧要	wu guan jin yao	216
+无关痛痒	wu guan tong yang	216
 五个方面	wu ge fang mian	155
 务工人员	wu gong ren yuan	105
 无可挑剔	wu ke tiao ti	137
@@ -47997,6 +48008,7 @@
 物业公司	wu ye gong si	417
 五一期间	wu yi qi jian	154
 五一长假	wu yi chang jia	134
+无一例外	wu yi li wai	200
 无影无踪	wu ying wu zong	200
 物有所值	wu you suo zhi	132
 无忧无虑	wu you wu lv	300
