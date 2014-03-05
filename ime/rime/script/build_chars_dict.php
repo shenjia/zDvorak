@@ -8,7 +8,7 @@ define('SECOND_WEIGHT', 99999999);
 define('SHOW_LETTERS_COUNT', true);
 //define('COUNT_BY_WEIGHT', true);
 define('SHOW_CONFLICTS', true);
-define('PASS_WEIGHT', 1000);
+define('PASS_WEIGHT', 800);
 //define('SHOW_REPLACED', true);
 define('BUILD_FIRST_DICT', true);
 define('BUILD_SECOND_DICT', true);

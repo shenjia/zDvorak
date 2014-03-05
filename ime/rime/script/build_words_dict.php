@@ -1,5 +1,4 @@
 <?php
-exit();
 error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
@@ -40,7 +39,11 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 		$conflict_words[] = $word;
 		return;
 	}
-
+	// skip if have 4 chars but not a phrase
+	if (mb_strlen($word, 'utf-8') == 4 and !isset($phrases[$word])) {
+		$skip_words[] = $word;
+		return;
+	}
 	// insert if not exists
 	if (!isset($words[$code])) {
 		$words[$code] = array(

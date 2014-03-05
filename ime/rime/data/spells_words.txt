@@ -3376,6 +3376,7 @@
 免于	mian yu	182
 棉袄	mian ao	191
 面额	mian e	114
+妙计	miao ji	100
 苗圃	miao pu	182
 渺茫	miao mang	348
 苗苗	miao miao	190
@@ -21044,6 +21045,7 @@
 休想	xiu xiang	107
 修行	xiu xing	682
 秀秀	xiu xiu	305
+休止	xiu zhi	100
 袖珍	xiu zhen	147
 修真	xiu zhen	160
 休整	xiu zheng	214
@@ -39175,6 +39177,7 @@
 超低价	chao di jia	200
 超能力	chao neng li	130
 超链接	chao lian jie	212
+炒鱿鱼	chao you yu	200
 炒股票	chao gu piao	206
 超喜欢	chao xi huan	187
 朝鲜族	chao xian zu	158
@@ -41615,6 +41618,7 @@
 博士学位	bo shi xue wei	429
 薄弱环节	bo ruo huan jie	211
 不怕不怕	bu pa bu pa	183
+不偏不倚	bu pian bu yi	100
 部门经理	bu men jing li	203
 不明不白	bu ming bu bai	135
 不谋而合	bu mou er he	140
@@ -41871,6 +41875,7 @@
 忙忙碌碌	mang mang lu lu	166
 茫茫人海	mang mang ren hai	137
 忙里偷闲	mang li tou xian	125
+冒名顶替	mao ming ding ti	100
 矛盾纠纷	mao dun jiu fen	114
 毛骨悚然	mao gu song ran	168
 毛细血管	mao xi xue guan	168
@@ -43032,6 +43037,7 @@
 利用效率	li yong xiao lv	109
 利用网络	li yong wang luo	131
 联邦政府	lian bang zheng fu	171
+连绵不断	lian mian bu duan	100
 连带责任	lian dai ze ren	173
 恋恋不舍	lian lian bu she	125
 联合起来	lian he qi lai	254
@@ -43082,6 +43088,7 @@
 临床意义	lin chuang yi yi	161
 临床应用	lin chuang ying yong	288
 临时文件	lin shi wen jian	139
+另起炉灶	ling qi lu zao	200
 灵丹妙药	ling dan miao yao	100
 另当别论	ling dang bie lun	124
 领导班子	ling dao ban zi	675
@@ -45582,7 +45589,6 @@
 中年男子	zhong nian nan zi	238
 中老年人	zhong lao nian ren	166
 中共党员	zhong gong dang yuan	125
-中共中央	zhong gong zhong yang	857
 中国北方	zhong guo bei fang	111
 中国平安	zhong guo ping an	242
 中国媒体	zhong guo mei ti	115
@@ -46964,6 +46970,7 @@
 最重要的	zui zhong yao de	3892
 最终用户	zui zhong yong hu	152
 最主要的	zui zhu yao de	1019
+醉生梦死	zui sheng meng si	100
 最受关注	zui shou guan zhu	113
 最受欢迎	zui shou huan ying	514
 最有价值	zui you jia zhi	179
@@ -47077,6 +47084,7 @@
 森林防火	sen lin fang huo	147
 森林公园	sen lin gong yuan	276
 森林资源	sen lin zi yuan	151
+伺机而动	si ji er dong	100
 四面八方	si mian ba fang	233
 私募基金	si mu ji jin	251
 司法部门	si fa bu men	111
@@ -47493,6 +47501,7 @@
 银行账户	yin hang zhang hu	121
 银行存款	yin hang cun kuan	229
 银河证券	yin he zheng quan	125
+引经据典	yin jing ju dian	200
 引进外资	yin jin wai zi	113
 音像制品	yin xiang zhi pin	172
 隐形眼镜	yin xing yan jing	226
@@ -47537,7 +47546,6 @@
 营销策略	ying xiao ce lue	193
 营销策划	ying xiao ce hua	147
 营销网络	ying xiao wang luo	113
-影响因素	ying xiang yin su	276
 英雄无敌	ying xiong wu di	129
 硬着头皮	ying zhe tou pi	243
 应试教育	ying shi jiao yu	189
@@ -48103,4 +48111,3 @@
 欧洲国家	ou zhou guo jia	193
 欧洲市场	ou zhou shi chang	170
 宫保拼音	gong bao pin yin	100
-中华人民共和国	zhong hua ren min gong he guo	2000

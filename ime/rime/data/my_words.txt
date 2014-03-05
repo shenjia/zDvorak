@@ -5,28 +5,10 @@
 曹瑛	cao ying
 周玺权	zhou xi quan
 徐会侠	xu hui xia
-胡震生	hu zhen sheng
-王磊	wang lei
-杜健	du jian
-高敏	gao min
-高原	gao yuan
-胡秀龙	hu xiu long
-黄贺	huang he
-李岩	li yan
-梁丽梅	liang li mei
-马慧	ma hui
-宋友仁	song you ren
-孙献灿	sun xian can
-王海寒	wang hai han
-王浩	wang hao
-王晶	wang jing
-王维	wang wei
-姚宏杰	yao hong jie
 赶集	gan ji
 别称	bie cheng
 简称	jian cheng
 能不能	neng bu neng
-冒名顶替	mao ming ding ti
 计算机	ji suan ji
 编程	bian cheng
 终止	zhong zhi

@@ -13,7 +13,7 @@ ba	吧
 bai	白
 ban	办
 bang	帮
-bao	包
+bao	饱
 bei	被
 ben	本
 beng	泵
@@ -28,7 +28,7 @@ bu	部
 
 ca	擦
 cai	菜
-can	惨
+can	参
 cang	藏
 cao	草
 ce	测
