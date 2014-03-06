@@ -11,5 +11,5 @@ import_tables:
  - zdvorak.first
  - zdvorak.second
  - zdvorak.spells
- - zdvorak.words
+ #- zdvorak.words
 ...

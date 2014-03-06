@@ -4812,11 +4812,11 @@
 黎	li	2323
 例	li	2655
 丽	li	3385
+离	li	4937
 利	li	4951
 立	li	4957
 理	li	7822
 力	li	8983
-离	li	9937
 李	li	14513
 里	li	98050
 倆	lia	58
@@ -8337,12 +8337,12 @@
 锦	jin	1647
 斤	jin	2111
 劲	jin	2175
-今	jin	4112
+金	jin	4112
 紧	jin	4681
 尽	jin	4781
 仅	jin	6472
 近	jin	15029
-金	jin	15142
+今	jin	15142
 进	jin	24648
 鶁	jing	0
 鵛	jing	0
@@ -13715,7 +13715,6 @@
 岝	zuo	0
 繓	zuo	1
 葄	zuo	1
-撮	zuo	1
 筰	zuo	2
 葃	zuo	2
 侳	zuo	3
@@ -14044,8 +14043,8 @@
 厝	cuo	65
 挫	cuo	401
 措	cuo	545
-搓	cuo	724
-撮	cuo	1029
+撮	cuo	729
+搓	cuo	824
 错	cuo	22088
 慛	cui	0
 竁	cui	0
@@ -16458,7 +16457,6 @@
 瑋	wei	8
 幃	wei	8
 緯	wei	8
-遗	wei	8
 涠	wei	8
 艉	wei	9
 煟	wei	9

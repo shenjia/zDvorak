@@ -71,7 +71,6 @@ baos	霸占	1
 bao'	巴掌	1
 baoe	把这	1
 baok	八种	1
-baou	霸主	1
 baae	把车	1
 baa.	八成	1
 baai	把持	1
@@ -138,12 +137,12 @@ bhl;	百联	1
 bhlr	白领	1
 bhlu	白鹭	1
 bhgg	白光	1
+bhge	百个	1
 bhgp	败给	1
 bhgk	白宫	1
 bhgu	白骨	1
 bhgo	百果	1
 bhkh	掰开	1
-bhke	百科	1
 bhhz	百花	1
 bhhr	败坏	1
 bhht	摆好	1
@@ -230,6 +229,7 @@ bslu	半路	1
 bslo	半裸	1
 bsge	办公室	1
 bsgk	办公	1
+bsgc	版规	1
 bskr	板块	1
 bska	板卡	1
 bskk	半空	1
@@ -292,6 +292,7 @@ bswu	版务	1
 bs;s	办案	1
 b'b'	帮帮	1
 b'ph	帮派	1
+b'm'	帮忙	1
 b'zp	绑匪	1
 b'zu	帮扶	1
 b'ds	榜单	1
@@ -416,8 +417,8 @@ btei	宝石	1
 bte,	保守	1
 btec	保税	1
 btrk	包容	1
-bt'h	抱在	1
 bt''	宝藏	1
+bt't	暴躁	1
 bt'i	包子	1
 bt',	暴走	1
 bt'o	宝座	1
@@ -428,6 +429,7 @@ btuj	抱怨	1
 btuc	包月	1
 btus	保研	1
 btu'	保养	1
+btue	报业	1
 btui	报以	1
 btur	报应	1
 btu,	保佑	1
@@ -585,6 +587,7 @@ bpk,	被扣	1
 bpkk	被控	1
 bphh	北海	1
 bphs	北韩	1
+bph'	北航	1
 bpht	备好	1
 bphp	被黑	1
 bph,	背后	1
@@ -627,7 +630,6 @@ bpeu	倍数	1
 bpec	杯水	1
 bpru	被褥	1
 bp'a	被砸	1
-bp'.	倍增	1
 bp'i	杯子	1
 bpcs	悲惨	1
 bpce	北侧	1
@@ -636,6 +638,7 @@ bpsk	背诵	1
 bpuj	北苑	1
 bpuc	北约	1
 bpua	被压	1
+bpu'	北洋	1
 bpur	背影	1
 bpu,	北邮	1
 bpuk	备用	1
@@ -645,6 +648,7 @@ bpwn	被问	1
 bpwp	卑微	1
 bpwo	被我	1
 bp;h	悲哀	1
+bp;s	备案	1
 bp;r	贝尔	1
 bp;u	北欧	1
 bib'	臂膀	1
@@ -835,11 +839,13 @@ b;ru	编入	1
 b;'j	编纂	1
 b;'h	便在	1
 b;'t	编造	1
+b;'i	辫子	1
 b;ce	鞭策	1
 b;se	变色	1
 b;su	变速	1
 b;uj	边缘	1
 b;us	边沿	1
+b;u'	变样	1
 b;ut	便要	1
 b;ui	编译	1
 b;u,	便有	1
@@ -932,6 +938,7 @@ bmeu	别墅	1
 bmeo	别说	1
 bmr'	别让	1
 bmrn	别人	1
+bm'h	别再	1
 bm',	别走	1
 bmsi	憋死	1
 bmu'	别样	1
@@ -984,6 +991,7 @@ brlm	并列	1
 brlk	冰龙	1
 brgd	冰棍	1
 brgs	饼干	1
+brgp	并给	1
 brg,	并购	1
 brkr	冰块	1
 brke	并可	1
@@ -1058,12 +1066,12 @@ bote	波特	1
 botk	拨通	1
 bonk	拨弄	1
 bols	波兰	1
-bol'	波浪	1
 bole	伯乐	1
 boli	玻璃	1
 bolb	柏林	1
 bolo	菠萝	1
 boge	伯格	1
+bokj	拨款	1
 bokh	拨开	1
 boke	博客	1
 bohh	渤海	1
@@ -1149,11 +1157,11 @@ budu	部电影	1
 budo	不多	1
 budc	不对	1
 buts	不谈	1
+but.	不疼	1
 buti	不提	1
 butl	不调	1
 butm	补贴	1
 butr	不停	1
-but,	不透	1
 butk	不同	1
 buto	不妥	1
 butc	不退	1
@@ -1165,9 +1173,9 @@ bulj	不乱	1
 buld	不论	1
 buly	步履	1
 bulh	不亦乐乎	1
-bul'	布朗	1
 bult	不老	1
 bule	不了	1
+bul.	不冷	1
 bulp	不累	1
 buli	不利	1
 bul;	不练	1
@@ -1184,6 +1192,7 @@ bugg	不光	1
 bugr	不乖	1
 bugh	不该	1
 bugs	不敢	1
+bugt	不高	1
 bugn	不跟	1
 bugp	不给	1
 bug,	不够	1
@@ -1195,7 +1204,6 @@ bukr	不快	1
 buka	不卡	1
 bukh	不开	1
 buks	不看	1
-bukt	补考	1
 buke	不可	1
 bukn	不肯	1
 buk,	不扣	1
@@ -1259,6 +1267,7 @@ buoo	捕捉	1
 buaj	不穿	1
 buaa	不差	1
 bua'	补偿	1
+bua.	不成	1
 buai	不吃	1
 bua,	不愁	1
 buak	补充	1
@@ -1324,6 +1333,7 @@ bu;r	不二	1
 papa	怕怕	1
 padt	爬到	1
 pale	怕了	1
+pal.	怕冷	1
 pago	爬过	1
 pake	帕克	1
 paiz	趴下	1
@@ -1360,6 +1370,7 @@ phlh	派来	1
 phl;	排练	1
 phlg	排量	1
 phlm	排列	1
+phgu	排骨	1
 phgo	拍过	1
 phke	派克	1
 phhr	徘徊	1
@@ -1545,6 +1556,7 @@ p.o'	膨胀	1
 p.oe	捧着	1
 p.oi	烹制	1
 p.a'	捧场	1
+p.au	碰触	1
 p.e'	碰上	1
 p.rn	烹饪	1
 p.sk	蓬松	1
@@ -1589,6 +1601,7 @@ ppe,	配售	1
 ppse	配色	1
 ppsk	配送	1
 ppuc	配乐	1
+ppu'	培养	1
 ppui	配以	1
 ppub	配音	1
 ppu,	配有	1
@@ -1761,7 +1774,6 @@ pble	拼了	1
 pblp	品类	1
 pbge	品格	1
 pbkd	贫困	1
-pbku	贫苦	1
 pbhs	贫寒	1
 pbji	贫瘠	1
 pbjm	拼接	1
@@ -1888,6 +1900,7 @@ poju	颇具	1
 poqm	迫切	1
 poii	婆媳	1
 poos	破绽	1
+poas	破产	1
 poae	破车	1
 poau	破除	1
 poen	颇深	1
@@ -2169,6 +2182,7 @@ mtau	冒出	1
 mte.	茂盛	1
 mtei	冒失	1
 mtrs	贸然	1
+mtrk	毛绒	1
 mt'i	帽子	1
 mtsi	貌似	1
 mtus	冒烟	1
@@ -2231,6 +2245,7 @@ m.nq	蒙牛	1
 m.le	蒙了	1
 m.li	梦里	1
 m.lm	猛烈	1
+m.lk	朦胧	1
 m.lu	梦露	1
 m.gu	蒙古	1
 m.go	盟国	1
@@ -2367,7 +2382,6 @@ mpri	每日	1
 mprk	美容	1
 mp'h	没在	1
 mp'i	妹子	1
-mp'u	魅族	1
 mp'o	没做	1
 mpc.	每层	1
 mpci	每次	1
@@ -2385,6 +2399,7 @@ mpui	每一	1
 mpur	美英	1
 mpu,	没有	1
 mpuk	没用	1
+mpuu	没有用	1
 mpws	没完	1
 mpw'	美网	1
 mpwn	美文	1
@@ -2524,6 +2539,7 @@ mlhc	描绘	1
 mlil	渺小	1
 mlim	描写	1
 mlod	瞄准	1
+mlok	秒钟	1
 mlea	秒杀	1
 mlei	藐视	1
 mleu	描述	1
@@ -2553,6 +2569,7 @@ mbns	闽南	1
 mbgs	敏感	1
 mbge	民歌	1
 mbgk	民工	1
+mbgo	民国	1
 mbh'	民航	1
 mbj;	民间	1
 mbjg	岷江	1
@@ -2567,7 +2584,6 @@ mboh	民主化	1
 mbo.	民政	1
 mbok	民众	1
 mbou	民主	1
-mbe.	民生	1
 mbei	民事	1
 mbrc	敏锐	1
 mb'u	民族	1
@@ -2683,7 +2699,6 @@ modi	摸底	1
 mote	模特	1
 mot,	魔头	1
 moto	摩托	1
-mony	魔女	1
 mons	磨难	1
 moni	模拟	1
 mon;	末年	1
@@ -2911,6 +2926,7 @@ zao'	法杖	1
 zaoe	发展商	1
 zao.	发证	1
 zaoi	法制	1
+zaad	发春	1
 zaae	发车	1
 zaa,	发愁	1
 zaau	发出	1
@@ -3042,7 +3058,6 @@ zse,	反手	1
 zseu	番薯	1
 zsri	反日	1
 zsrk	繁荣	1
-zs'a	繁杂	1
 zs'h	凡在	1
 zs't	烦躁	1
 zs'i	贩子	1
@@ -3232,13 +3247,11 @@ znh'	分行	1
 znht	分号	1
 znhn	愤恨	1
 znhk	分红	1
-znhu	分户	1
 znhc	分会	1
 znji	分级	1
 znjz	分家	1
 znjm	分解	1
 znjb	奋进	1
-znju	分局	1
 znqj	分权	1
 znqi	分歧	1
 znq;	分钱	1
@@ -3258,7 +3271,6 @@ znah	分拆	1
 zna'	分厂	1
 znan	粉尘	1
 zna.	分成	1
-znau	分出	1
 znez	粉刷	1
 zne'	份上	1
 znet	焚烧	1
@@ -3314,7 +3326,6 @@ z.le	疯了	1
 z.lp	风雷	1
 z.li	锋利	1
 z.lg	风量	1
-z.lb	枫林	1
 z.lr	风铃	1
 z.lq	风流	1
 z.gg	风光	1
@@ -3536,8 +3547,10 @@ zul;	妇联	1
 zull	辅料	1
 zulr	涪陵	1
 zulu	俘虏	1
+zugh	覆盖	1
 zug'	赴港	1
 zugp	付给	1
+zugu	复古	1
 zugo	富国	1
 zugc	富贵	1
 zukz	浮夸	1
@@ -3577,7 +3590,6 @@ zuo,	福州	1
 zuok	附中	1
 zuou	辅助	1
 zuoo	附着	1
-zuaa	复查	1
 zuai	扶持	1
 zua,	复仇	1
 zuau	付出	1
@@ -3595,7 +3607,9 @@ zurt	富饶	1
 zurn	夫人	1
 zurk	芙蓉	1
 zu'a	复杂	1
+zu'h	负载	1
 zu't	浮躁	1
+zu'e	负责	1
 zu'.	附赠	1
 zu'i	父子	1
 zu'k	副总	1
@@ -3606,12 +3620,10 @@ zuck	服从	1
 zush	复赛	1
 zuse	肤色	1
 zusk	附送	1
-zusu	复苏	1
 zuuj	复印件	1
 zuud	浮云	1
 zuus	敷衍	1
 zuu'	抚养	1
-zuut	服药	1
 zuue	副业	1
 zuui	服役	1
 zuub	复印	1
@@ -3672,6 +3684,7 @@ dj's	短暂	1
 dj't	锻造	1
 dj'i	端子	1
 dj'o	当家作主	1
+djc.	断层	1
 djsk	断送	1
 djus	断言	1
 djuu	短语	1
@@ -3786,9 +3799,11 @@ dagr	打怪	1
 dagh	大概	1
 dags	大公司	1
 dag'	大纲	1
+dagt	大搞	1
 dage	大哥	1
 dagp	打给	1
 dag,	大狗	1
+dagk	打工	1
 dagu	大观园	1
 dago	大国	1
 dakj	大款	1
@@ -3853,6 +3868,7 @@ daoe	打折	1
 daon	打针	1
 daoi	大致	1
 dao,	达州	1
+daok	大众	1
 daou	打住	1
 daaj	大长今	1
 daag	大床	1
@@ -3913,6 +3929,7 @@ daw'	大王	1
 dawp	大卫	1
 dawo	打我	1
 dawu	大雾	1
+da;h	大碍	1
 da;s	答案	1
 da;e	大额	1
 da;r	大二	1
@@ -3974,6 +3991,7 @@ dhe,	代收	1
 dheu	袋鼠	1
 dhrn	待人	1
 dhru	带入	1
+dh'h	呆在	1
 dh'i	袋子	1
 dh',	带走	1
 dh'u	傣族	1
@@ -4019,7 +4037,7 @@ dst;	丹田	1
 dstl	单挑	1
 dst,	弹头	1
 dsna	但那	1
-dsn'	胆囊	1
+dsn.	但能	1
 dsni	但你	1
 dsls	淡蓝	1
 dsle	淡了	1
@@ -4029,17 +4047,19 @@ dsgh	但该	1
 dsgs	单干	1
 dsg'	担纲	1
 dsgt	蛋糕	1
+dsge	单个	1
 dskt	单靠	1
-dske	蛋壳	1
 dshz	淡化	1
 dshg	蛋黄	1
 dshh	但还	1
 dsht	单号	1
+dshe	但还是	1
 dshn	但很	1
 dsji	单击	1
 dsjz	单价	1
 dsj;	单间	1
 dsjq	单就	1
+dsju	单据	1
 dsqc	但却	1
 dsqi	但其	1
 dsqm	胆怯	1
@@ -4053,7 +4073,6 @@ dsil	胆小	1
 dsig	单项	1
 dsib	担心	1
 dsir	单行	1
-dso'	单张	1
 dsoe	但这	1
 dso.	单证	1
 dsoi	胆汁	1
@@ -4216,7 +4235,6 @@ dtgu	稻谷	1
 dtgo	大庭广众	1
 dtgc	导轨	1
 dtke	刀客	1
-dtk,	道口	1
 dthh	倒还	1
 dth'	导航	1
 dtht	盗号	1
@@ -4442,10 +4460,11 @@ digo	帝国	1
 digc	递归	1
 dikr	地块	1
 dikh	低开	1
+dik'	抵抗	1
 dike	迪克	1
+dik,	抵扣	1
 dikk	低空	1
 diku	底裤	1
-dihc	诋毁	1
 dijd	敌军	1
 diji	低级	1
 dijz	低价	1
@@ -4481,13 +4500,11 @@ die'	地上	1
 die.	低声	1
 diei	第十	1
 dieo	地说	1
-diec	地税	1
 dirn	敌人	1
 di't	缔造	1
 di'.	递增	1
 di'i	弟子	1
 di'o	底座	1
-dic.	底层	1
 diss	第三	1
 dise	底色	1
 disi	第四	1
@@ -4530,6 +4547,7 @@ d;dr	奠定	1
 d;dk	电动	1
 d;du	电镀	1
 d;th	电台	1
+d;t'	殿堂	1
 d;ti	电梯	1
 d;t,	点头	1
 d;nt	电脑	1
@@ -4571,6 +4589,7 @@ d;i;	电线	1
 d;ib	电信	1
 d;ir	典型	1
 d;os	电站	1
+d;o'	店长	1
 d;oe	点着	1
 d;on	点阵	1
 d;ok	点钟	1
@@ -4591,7 +4610,6 @@ d;'u	电阻	1
 d;ch	点菜	1
 d;ci	点此	1
 d;uj	电源	1
-d;ua	电压	1
 d;u'	点样	1
 d;ub	电影版	1
 d;ur	电影	1
@@ -4811,7 +4829,6 @@ dkbi	动笔	1
 dkb;	东边	1
 dkbu	东部	1
 dkpo	东坡	1
-dkma	懂吗	1
 dkmh	动脉	1
 dkms	动漫	1
 dkmn	东门	1
@@ -4842,6 +4859,7 @@ dkgj	东莞	1
 dkgs	动感	1
 dkgk	动工	1
 dkgo	动过	1
+dkk,	洞口	1
 dkhz	动画	1
 dkhh	东海	1
 dkhs	东汉	1
@@ -5035,6 +5053,7 @@ dokk	多空	1
 dokc	多亏	1
 dohz	多花	1
 doha	多哈	1
+doht	多好	1
 dohe	多喝	1
 dohu	多户	1
 dohc	夺回	1
@@ -5054,6 +5073,7 @@ doim	多谢	1
 doib	多心	1
 doir	惰性	1
 dooj	多赚	1
+doo'	多张	1
 dooe	躲着	1
 dooi	多只	1
 dook	多种	1
@@ -5269,6 +5289,7 @@ thg'	抬杠	1
 thgt	太高	1
 thgu	太古	1
 thgo	泰国	1
+thgc	太贵	1
 thkr	太快	1
 thkk	太空	1
 thhr	太坏	1
@@ -5303,7 +5324,6 @@ thoe	台州市	1
 tho,	台州	1
 thok	太重	1
 thaa	太差	1
-tha'	太长	1
 thai	太迟	1
 tha,	太丑	1
 ther	太帅	1
@@ -5405,6 +5425,7 @@ t'za	烫发	1
 t'zn	糖分	1
 t'dh	唐代	1
 t'di	堂弟	1
+t't'	糖糖	1
 t'l'	螳螂	1
 t'lp	糖类	1
 t'ge	堂哥	1
@@ -5432,6 +5453,7 @@ t''h	躺在	1
 t'se	搪塞	1
 t's.	唐僧	1
 t'sk	唐宋	1
+t'uj	汤圆	1
 t'wp	汤唯	1
 ttbt	淘宝	1
 ttbi	逃避	1
@@ -5456,6 +5478,7 @@ ttgo	逃过	1
 ttke	逃课	1
 tthz	桃花	1
 ttht	讨好	1
+tthc	讨回	1
 ttji	套机	1
 ttj;	套件	1
 ttqi	淘气	1
@@ -5497,7 +5520,6 @@ tedr	特定	1
 tedo	特多	1
 tela	特拉	1
 teli	特例	1
-teg'	特钢	1
 tegk	特工	1
 tekd	特困	1
 tekr	特快	1
@@ -5568,6 +5590,7 @@ til;	提炼	1
 tilg	体谅	1
 tig'	提纲	1
 tigt	提高	1
+tige	提供商	1
 tigk	提供	1
 tigo	提过	1
 tikj	提款	1
@@ -5591,7 +5614,6 @@ tiim	提携	1
 tiir	提醒	1
 tiiu	体恤	1
 tion	提振	1
-tio.	体征	1
 tioi	体制	1
 tiok	体重	1
 tia'	提倡	1
@@ -5778,7 +5800,6 @@ tlau	跳出	1
 tle'	跳上	1
 tle.	跳绳	1
 tlei	调试	1
-tleu	条数	1
 tlec	跳水	1
 tlru	跳入	1
 tl't	跳蚤	1
@@ -6022,6 +6043,7 @@ tklr	统领	1
 tklu	通路	1
 tklo	通络	1
 tkgj	通关	1
+tkgs	同感	1
 tkgt	通告	1
 tkgk	童工	1
 tkgo	通过	1
@@ -6069,6 +6091,7 @@ tka,	统筹	1
 tkau	痛楚	1
 tked	通顺	1
 tker	统帅	1
+tke'	同上	1
 tkei	同时	1
 tkeu	同时又	1
 tkri	同日	1
@@ -6140,6 +6163,7 @@ turs	突然	1
 tur'	土壤	1
 turn	土人	1
 turu	突入	1
+tu'h	屠宰	1
 tu'i	兔子	1
 tuc.	图层	1
 tusi	土司	1
@@ -6221,12 +6245,10 @@ tcto	推脱	1
 tcna	推拿	1
 tcld	推论	1
 tcli	推理	1
-tclu	退路	1
 tcgg	推广	1
 tcgt	推高	1
 tcgp	推给	1
 tckj	退款	1
-tckh	推开	1
 tchz	退化	1
 tchj	退还	1
 tch,	退后	1
@@ -6357,6 +6379,7 @@ nalh	拿来	1
 nals	纳兰	1
 nali	那里	1
 nalg	那辆	1
+nagh	哪个好	1
 nags	哪敢	1
 nage	那个	1
 nagn	那根	1
@@ -6430,7 +6453,6 @@ nhjq	耐久	1
 nhib	耐心	1
 nhir	耐性	1
 nhoi	乃至	1
-nhaa	奶茶	1
 nhei	乃是	1
 nhe,	耐受	1
 nhec	奶水	1
@@ -6512,6 +6534,7 @@ nsai	难吃	1
 nsak	南充	1
 nsau	难处	1
 nsea	南沙	1
+nses	南山	1
 nse.	男生	1
 nsei	男士	1
 nse,	难受	1
@@ -6731,6 +6754,7 @@ nioj	逆转	1
 nion	你真	1
 nioi	你只	1
 niaa	逆差	1
+nia.	昵称	1
 niea	泥沙	1
 nie'	霓裳	1
 niei	你是	1
@@ -6780,6 +6804,7 @@ n;lt	年老	1
 n;li	年里	1
 n;lr	年龄	1
 n;gj	年关	1
+n;gt	年糕	1
 n;hz	年华	1
 n;h,	年后	1
 n;ho	年货	1
@@ -6825,6 +6850,7 @@ nl;r	鸟儿	1
 ngng	娘娘	1
 ngjz	娘家	1
 ngjq	酿酒	1
+nga.	酿成	1
 ng't	酿造	1
 ng'i	娘子	1
 nmps	涅磐	1
@@ -6854,7 +6880,6 @@ nbue	您也	1
 nbui	您已	1
 nbu,	您有	1
 nrbo	宁波	1
-nrm.	柠檬	1
 nrde	宁德	1
 nrnr	宁宁	1
 nrgu	凝固	1
@@ -6885,7 +6910,6 @@ nqnq	牛牛	1
 nql'	牛郎	1
 nqgu	牛股	1
 nqk,	纽扣	1
-nqkc	扭亏	1
 nqjl	牛角	1
 nqjb	牛津	1
 nqju	扭矩	1
@@ -7007,6 +7031,7 @@ lddt	轮到	1
 ldd;	论点	1
 lddl	论调	1
 lddu	轮渡	1
+ldth	轮胎	1
 ldts	论坛	1
 ldti	论题	1
 ldli	伦理	1
@@ -7102,6 +7127,7 @@ laqu	拉去	1
 laii	拉稀	1
 laiz	落下	1
 laoe	拉着	1
+laou	蜡烛	1
 laa'	拉长	1
 laae	拉扯	1
 laau	拉出	1
@@ -7292,9 +7318,11 @@ ltlu	老路	1
 ltlo	老罗	1
 ltgt	老高	1
 ltge	老歌	1
+ltgk	老公	1
 ltgu	牢固	1
 ltgo	老郭	1
 ltgc	老鬼	1
+ltkj	老款	1
 ltkt	牢靠	1
 ltku	劳苦	1
 lthz	老化	1
@@ -7337,6 +7365,7 @@ lteo	老说	1
 ltrn	老人	1
 lt't	老早	1
 lt'i	老子	1
+lt'k	老总	1
 lt'o	劳作	1
 ltch	老蔡	1
 ltsd	老孙	1
@@ -7348,6 +7377,7 @@ ltuj	老远	1
 ltu'	老样子	1
 ltut	老妖	1
 ltue	老爷	1
+ltub	烙印	1
 ltur	老鹰	1
 ltu,	老友	1
 ltwh	老外	1
@@ -7468,6 +7498,7 @@ lidu	力度	1
 lido	利多	1
 lidc	离队	1
 lita	理他	1
+lit'	礼堂	1
 litt	李涛	1
 liti	立体	1
 lit;	李天	1
@@ -7500,6 +7531,7 @@ lign	里根	1
 ligk	理工	1
 ligo	李国	1
 likh	离开	1
+liks	里看	1
 like	立刻	1
 likk	利空	1
 likc	李逵	1
@@ -7565,6 +7597,7 @@ liso	利索	1
 liuj	梨园	1
 liud	李云	1
 liua	李宇春	1
+liu'	李阳	1
 liue	里也	1
 liui	利益	1
 liur	理应	1
@@ -7698,7 +7731,6 @@ llrt	缭绕	1
 llrn	撩人	1
 ll'i	料子	1
 ll'u	辽足	1
-llu'	疗养	1
 lgba	两把	1
 lgbh	两百	1
 lgbs	凉拌	1
@@ -7792,7 +7824,6 @@ lgoi	两只	1
 lgo,	两周	1
 lgok	两种	1
 lgou	梁祝	1
-lgaa	凉茶	1
 lgas	量产	1
 lga'	两场	1
 lgae	辆车	1
@@ -7803,7 +7834,6 @@ lgeh	晾晒	1
 lges	梁山	1
 lget	量少	1
 lgen	量身	1
-lge.	两声	1
 lgei	粮食	1
 lge,	两手	1
 lgec	凉水	1
@@ -7824,7 +7854,6 @@ lgs,	两艘	1
 lgsc	两岁	1
 lguc	两月	1
 lgus	两眼	1
-lgu'	两样	1
 lgut	良药	1
 lgue	两页	1
 lgui	凉意	1
@@ -7880,6 +7909,7 @@ lblm	凛冽	1
 lblb	琳琳	1
 lbg'	临港	1
 lbgo	邻国	1
+lbkn	林肯	1
 lbhh	林海	1
 lbjz	邻家	1
 lbj;	林间	1
@@ -8005,6 +8035,7 @@ lqdt	留到	1
 lqde	刘德	1
 lqd;	六点	1
 lqdk	流动	1
+lqt'	流淌	1
 lqtt	刘涛	1
 lqti	流体	1
 lqt;	六天	1
@@ -8060,7 +8091,7 @@ lqok	六种	1
 lqou	留住	1
 lqaj	流传	1
 lqas	流产	1
-lqa.	流程	1
+lqa'	流畅	1
 lqau	流出	1
 lqea	流沙	1
 lqen	留神	1
@@ -8137,7 +8168,6 @@ lkg'	龙岗	1
 lkge	龙哥	1
 lkgk	龙宫	1
 lkgu	龙骨	1
-lkka	龙卡	1
 lkhz	龙华	1
 lkhu	龙湖	1
 lkjg	龙江	1
@@ -8151,6 +8181,7 @@ lkot	笼罩	1
 lko,	龙舟	1
 lkok	隆重	1
 lkou	龙珠	1
+lka.	龙城	1
 lkes	龙山	1
 lk'i	笼子	1
 lk'u	龙族	1
@@ -8237,14 +8268,15 @@ lona	罗纳	1
 loni	罗尼	1
 lola	罗拉	1
 lols	罗兰	1
-lole	落了	1
 lolp	落泪	1
 loli	萝莉	1
 loll	裸聊	1
 lolm	罗列	1
 lolu	裸露	1
 lolo	落落	1
+loge	罗格	1
 logu	锣鼓	1
+lokj	落款	1
 lokk	落空	1
 lohz	落花	1
 lohs	罗汉	1
@@ -8387,7 +8419,6 @@ gjc'	馆藏	1
 gjce	观测	1
 gjsi	官司	1
 gjuj	官员	1
-gjua	关押	1
 gjui	冠以	1
 gjub	观音	1
 gjur	观影	1
@@ -8626,6 +8657,7 @@ gsot	感召	1
 gsoe	甘蔗	1
 gsoi	感知	1
 gso,	赣州	1
+gsat	赶超	1
 gsau	感触	1
 gsea	干啥	1
 gse'	赶上	1
@@ -8825,6 +8857,7 @@ gt;r	高二	1
 gebs	个半	1
 gebi	隔壁	1
 gebm	个别	1
+gebo	胳膊	1
 gebu	各部	1
 geph	各派	1
 gemn	哥们	1
@@ -8862,7 +8895,6 @@ gekh	隔开	1
 geke	各科	1
 gehz	歌华	1
 gehe	隔阂	1
-geh,	歌喉	1
 gehc	歌会	1
 gejc	隔绝	1
 geji	各级	1
@@ -9103,6 +9135,7 @@ gkgs	公干	1
 gkgt	公告	1
 gkgp	供给	1
 gkgk	公共	1
+gkgu	巩固	1
 gkkj	公款	1
 gkkg	工况	1
 gkkh	公开	1
@@ -9166,6 +9199,7 @@ gkrn	工人	1
 gkru	攻入	1
 gk'h	公仔	1
 gk'i	工资	1
+gk'o	工作	1
 gkcd	共存	1
 gkce	公测	1
 gksd	公孙	1
@@ -9173,7 +9207,6 @@ gksi	公司	1
 gksu	公诉	1
 gksc	弓虽	1
 gkuj	公园	1
-gkuc	公约	1
 gkud	公允	1
 gku'	供养	1
 gkut	公钥	1
@@ -9251,6 +9284,7 @@ guig	故乡	1
 guir	孤星	1
 guog	古装	1
 guo'	故障	1
+guoe	骨折	1
 guon	古镇	1
 guo.	古筝	1
 guoi	股指	1
@@ -9264,6 +9298,7 @@ gueu	古树	1
 gurs	固然	1
 gurn	古人	1
 gur,	骨肉	1
+gu'h	股灾	1
 gu'i	谷子	1
 gu'o	故作	1
 guci	故此	1
@@ -9325,6 +9360,7 @@ gogs	果敢	1
 gogt	过高	1
 goge	国歌	1
 gogk	国共	1
+gogo	果果	1
 gokr	过快	1
 goke	过客	1
 goku	国库	1
@@ -9388,6 +9424,7 @@ gown	过问	1
 gowo	过我	1
 gowu	国务院	1
 go;s	国安	1
+go;t	国奥	1
 gcbt	瑰宝	1
 gcbi	规避	1
 gcbb	贵宾	1
@@ -9406,7 +9443,6 @@ gcd;	贵点	1
 gcdr	规定	1
 gcdc	归队	1
 gcth	柜台	1
-gct,	龟头	1
 gcny	闺女	1
 gcna	归纳	1
 gcly	规律	1
@@ -9466,7 +9502,7 @@ kzbt	挎包	1
 kzda	夸大	1
 kzdl	垮掉	1
 kzdu	跨度	1
-kzta	垮塌	1
+kzth	垮台	1
 kzgo	跨国	1
 kzh'	跨行	1
 kzjg	夸奖	1
@@ -9554,6 +9590,7 @@ krdt	快到	1
 krdi	快递	1
 krd;	快点	1
 krtr	快艇	1
+krlh	快来	1
 krle	快乐	1
 krgs	快感	1
 krgk	快攻	1
@@ -9654,7 +9691,6 @@ khkh	开开	1
 khkt	开考	1
 khke	开课	1
 khkn	开垦	1
-khk,	开口	1
 khko	开阔	1
 khhz	开花	1
 khhg	开荒	1
@@ -9833,7 +9869,6 @@ ktlu	考录	1
 ktgj	考官	1
 ktgu	考古	1
 ktgo	考过	1
-ktkt	考考	1
 kthe	考核	1
 kth,	靠后	1
 ktjj	考卷	1
@@ -9856,6 +9891,7 @@ kte'	考上	1
 kte.	考生	1
 ktei	考试	1
 ktr,	烤肉	1
+ktru	考入	1
 kt'h	靠在	1
 ktua	烤鸭	1
 ktus	考研	1
@@ -9913,6 +9949,7 @@ kegh	课改	1
 kegk	可供	1
 kegc	可贵	1
 keks	可看	1
+kekt	可靠	1
 keke	苛刻	1
 kek,	可口	1
 kekk	可控	1
@@ -9948,6 +9985,7 @@ keim	科协	1
 keib	可信	1
 keir	可行	1
 keos	客栈	1
+keo'	科长	1
 keoe	可这	1
 keon	可真	1
 keoi	克制	1
@@ -10064,6 +10102,7 @@ kkt,	空头	1
 kkns	空难	1
 kklr	空灵	1
 kklk	恐龙	1
+kkg'	空港	1
 kkgt	控告	1
 kkge	空格	1
 kkgu	控股	1
@@ -10139,6 +10178,7 @@ kue.	哭声	1
 kueu	酷暑	1
 kure	酷热	1
 kurc	酷睿	1
+ku't	枯燥	1
 ku'i	裤子	1
 kucd	库存	1
 kuse	苦涩	1
@@ -10233,6 +10273,7 @@ hzgh	滑盖	1
 hzgk	化工	1
 hzgo	划过	1
 hzgc	划归	1
+hzkh	花开	1
 hzk'	华康	1
 hzhz	花花	1
 hzhn	划痕	1
@@ -10400,10 +10441,10 @@ hgdk	晃动	1
 hgt'	荒唐	1
 hgnq	黄牛	1
 hglj	慌乱	1
-hgle	慌了	1
 hglp	黄磊	1
 hgl;	黄连	1
 hglg	荒凉	1
+hglk	黄龙	1
 hggz	黄瓜	1
 hggj	皇冠	1
 hgg'	黄冈	1
@@ -10615,13 +10656,15 @@ hhat	海潮	1
 hha.	海城	1
 hhak	害虫	1
 hhau	害处	1
+hhe'	海上	1
 hhet	还少	1
 hhen	海参	1
-hhe.	还剩	1
 hhei	还是	1
 hheo	还说	1
 hhec	海水	1
+hhr'	还让	1
 hhrn	害人	1
+hh'h	还在	1
 hh't	还早	1
 hh'p	海贼	1
 hh'i	孩子	1
@@ -10729,6 +10772,7 @@ h'qr	行情	1
 h'i;	航线	1
 h'il	杭萧	1
 h'ir	航行	1
+h'o'	行长	1
 h'o,	杭州	1
 h'a.	杭城	1
 h'ei	夯实	1
@@ -10782,7 +10826,6 @@ htle	好了	1
 htl.	好冷	1
 htlp	好累	1
 htlr	号令	1
-htl,	号楼	1
 htgs	好感	1
 htge	好歌	1
 htgo	好过	1
@@ -10831,12 +10874,14 @@ hte,	好受	1
 hteu	好书	1
 hteo	好说	1
 htrs	浩然	1
+htr'	好日子	1
 htre	好热	1
 htrn	好人	1
 ht'h	好在	1
 ht'i	耗子	1
 ht'o	好做	1
 htch	耗材	1
+htcs	好惨	1
 htse	好色	1
 htsi	好似	1
 htuj	好远	1
@@ -10893,6 +10938,7 @@ heti	合体	1
 het;	和田	1
 hetk	合同	1
 henh	喝奶	1
+hen.	核能	1
 henp	河内	1
 heni	和你	1
 helh	何来	1
@@ -10911,6 +10957,7 @@ heku	何苦	1
 hehz	荷花	1
 hehj	合欢	1
 hehg	和黄	1
+heht	和好	1
 hehu	呵护	1
 heji	合计	1
 hejm	和解	1
@@ -11237,7 +11284,6 @@ hkir	红星	1
 hkiq	红袖	1
 hkoa	轰炸	1
 hkok	红肿	1
-hkad	红唇	1
 hkaa	红茶	1
 hkan	红尘	1
 hket	红烧	1
@@ -11377,6 +11423,7 @@ hohh	祸害	1
 hoht	货号	1
 hoh,	火候	1
 hohk	火红	1
+hohu	火狐	1
 hoho	活活	1
 hoji	伙计	1
 hojz	货架	1
@@ -11471,6 +11518,7 @@ hclo	回落	1
 hcgj	会馆	1
 hcgd	回滚	1
 hcgh	会更好	1
+hcgn	灰姑娘	1
 hcg.	会更	1
 hcgp	会给	1
 hcg,	回购	1
@@ -11479,6 +11527,7 @@ hcgo	回国	1
 hcgc	回归	1
 hckj	汇款	1
 hcks	会刊	1
+hckt	会考	1
 hck,	回扣	1
 hckc	回馈	1
 hchz	绘画	1
@@ -11492,7 +11541,6 @@ hchc	回回	1
 hcji	汇集	1
 hcjz	回家	1
 hcj;	会见	1
-hcjl	回教	1
 hcjg	会将	1
 hcjb	灰烬	1
 hcjr	回京	1
@@ -11514,11 +11562,11 @@ hcon	会诊	1
 hcoi	绘制	1
 hco,	惠州	1
 hcaj	回传	1
-hca'	会场	1
 hcae	回车	1
 hcan	灰尘	1
 hca.	回城	1
 hcak	蛔虫	1
+hcau	汇出	1
 hce'	会上	1
 hce.	回升	1
 hcei	回事	1
@@ -11527,7 +11575,6 @@ hceo	会说	1
 hcr'	会让	1
 hcrk	毁容	1
 hcru	汇入	1
-hc'h	会在	1
 hc'k	汇总	1
 hc'u	回族	1
 hc'o	会做	1
@@ -11563,7 +11610,6 @@ jjqi	卷起	1
 jjq;	捐钱	1
 jjqu	卷曲	1
 jji;	捐献	1
-jjo,	卷轴	1
 jjau	捐出	1
 jjeu	眷属	1
 jjrk	倦容	1
@@ -11766,6 +11812,7 @@ jilo	击落	1
 jigj	机关	1
 jigg	激光	1
 jigh	技改	1
+jigt	极高	1
 jige	几个	1
 jign	几根	1
 jigp	寄给	1
@@ -11830,8 +11877,8 @@ jioc	脊椎	1
 jiaj	击穿	1
 jiag	机床	1
 jiaa	稽查	1
+jia'	机场	1
 jiae	机车	1
-jia.	集成	1
 jiai	鸡翅	1
 jia,	记仇	1
 jiau	基础	1
@@ -11846,13 +11893,14 @@ jirs	既然	1
 jirn	几人	1
 jiri	几日	1
 jir,	肌肉	1
+ji'h	记载	1
 ji's	积攒	1
 ji't	及早	1
 ji'.	激增	1
 ji'i	机子	1
 ji'u	机组	1
 jicd	寄存	1
-jic.	基层	1
+jic'	机舱	1
 jici	几次	1
 jicu	急促	1
 jico	记错	1
@@ -11871,12 +11919,12 @@ jiui	记忆	1
 jiub	基因	1
 jiu,	既有	1
 jiuk	急用	1
-jiuu	基于	1
 jiws	几万	1
 jiw'	既往	1
 jiwp	极为	1
 jiwu	既无	1
 ji;s	吉安	1
+ji;'	激昂	1
 ji;e	饥饿	1
 ji;r	继而	1
 jzbs	加班	1
@@ -11962,7 +12010,6 @@ jzo,	加州	1
 jzok	家中	1
 jzou	家住	1
 jzad	甲醇	1
-jzaa	价差	1
 jzas	家产	1
 jza'	家常	1
 jzat	假钞	1
@@ -11975,6 +12022,7 @@ jzea	加沙	1
 jzes	假山	1
 jze'	加上	1
 jzee	假设	1
+jzen	加深	1
 jzei	驾驶	1
 jze,	加收	1
 jzeu	家属	1
@@ -11984,12 +12032,12 @@ jzrn	家人	1
 jzri	假日	1
 jzru	加入	1
 jzro	假若	1
+jz'a	夹杂	1
 jz'h	加载	1
 jz'i	架子	1
 jz'u	家族	1
 jz'o	佳作	1
 jzcd	家村	1
-jzc.	夹层	1
 jzcu	加粗	1
 jzsi	解放思想	1
 jzsu	加速	1
@@ -12133,7 +12181,6 @@ j;ce	检测	1
 j;su	减速	1
 j;so	检索	1
 j;uc	简约	1
-j;ua	减压	1
 j;ut	简要	1
 j;ue	建业	1
 j;ui	建议	1
@@ -12176,12 +12223,15 @@ jldo	较多	1
 jldc	校对	1
 jlta	教他	1
 jlts	交谈	1
+jlt'	教堂	1
 jlti	交替	1
 jltl	教条	1
+jlt,	交投	1
 jltk	交通	1
 jltu	教徒	1
 jlna	缴纳	1
 jlns	较难	1
+jln'	胶囊	1
 jlnn	娇嫩	1
 jlni	教你	1
 jlly	焦虑	1
@@ -12237,9 +12287,9 @@ jliq	交响曲	1
 jlod	校准	1
 jloa	狡诈	1
 jlos	交战	1
+jlo'	脚掌	1
 jloe	叫着	1
 jlon	较真	1
-jlo.	矫正	1
 jloi	交织	1
 jlok	较重	1
 jlou	教主	1
@@ -12247,7 +12297,6 @@ jlag	叫床	1
 jlaa	交叉	1
 jla'	较长	1
 jlae	轿车	1
-jla.	教程	1
 jlau	交出	1
 jlea	叫啥	1
 jle'	脚上	1
@@ -12259,6 +12308,7 @@ jlei	教师	1
 jle,	教授	1
 jleu	教书	1
 jlec	浇水	1
+jlr'	叫嚷	1
 jlrn	叫人	1
 jlrk	交融	1
 jlro	较弱	1
@@ -12309,6 +12359,7 @@ jgns	江南	1
 jgnr	江宁	1
 jglh	将来	1
 jgli	居高临下	1
+jglb	降临	1
 jglr	将领	1
 jglq	江流	1
 jglo	降落	1
@@ -12434,13 +12485,14 @@ jmlk	接龙	1
 jmlu	揭露	1
 jmgj	接管	1
 jmgs	秸秆	1
+jmge	借个	1
 jmgp	借给	1
 jmg,	结构	1
 jmgu	解雇	1
 jmgo	结果	1
 jmgc	接轨	1
 jmkj	借款	1
-jmke	捷克	1
+jmkh	揭开	1
 jmk,	接口	1
 jmhd	结婚	1
 jmh,	节后	1
@@ -12528,6 +12580,7 @@ jbb;	金边	1
 jbbu	进步	1
 jbph	金牌	1
 jbpt	浸泡	1
+jbp.	金鹏	1
 jbpr	仅凭	1
 jbpo	紧迫	1
 jbma	金马	1
@@ -12761,8 +12814,8 @@ jraa	警察	1
 jra'	经常	1
 jrae	警车	1
 jra.	京城	1
+jre'	经商	1
 jren	精神	1
-jre.	经省	1
 jrei	竟是	1
 jre,	经受	1
 jreu	经书	1
@@ -12771,6 +12824,7 @@ jrrs	竟然	1
 jrrn	惊人	1
 jrrc	精锐	1
 jr'i	镜子	1
+jr'o	静坐	1
 jrch	精彩	1
 jrcc	精粹	1
 jrsj	精算	1
@@ -12805,6 +12859,7 @@ jqbh	九百	1
 jqbs	旧版	1
 jqbp	就被	1
 jqbm	就别	1
+jqbu	就不	1
 jqpa	就怕	1
 jqpt	就跑	1
 jqpr	酒瓶	1
@@ -12844,6 +12899,7 @@ jqge	九个	1
 jqgn	就跟	1
 jqg.	就更	1
 jqgp	就给	1
+jqg,	就够	1
 jqgo	救国	1
 jqgc	酒鬼	1
 jqkr	就快	1
@@ -13002,7 +13058,6 @@ juai	锯齿	1
 juau	举出	1
 juei	局势	1
 jue,	举手	1
-jueu	拘束	1
 jueo	据说	1
 jurs	居然	1
 jurn	巨人	1
@@ -13053,8 +13108,10 @@ qjgu	颧骨	1
 qjgo	全国	1
 qjgc	权贵	1
 qjkj	全款	1
+qjkh	全开	1
 qjkt	全靠	1
 qjhg	拳皇	1
+qjh.	权衡	1
 qjhp	全黑	1
 qjhc	全会	1
 qjjd	全军	1
@@ -13079,7 +13136,6 @@ qjo.	权证	1
 qjoi	全职	1
 qjo,	泉州	1
 qjok	权重	1
-qja'	全场	1
 qjae	全车	1
 qja.	全程	1
 qje'	券商	1
@@ -13148,7 +13204,6 @@ qcut	却要	1
 qcue	却也	1
 qcui	却已	1
 qcub	却因	1
-qcu,	却又	1
 qcwp	缺位	1
 qcwu	却无	1
 qdza	群发	1
@@ -13201,13 +13256,12 @@ qidi	启迪	1
 qid;	起点	1
 qidk	启动	1
 qidu	气度	1
-qita	其他	1
 qitt	乞讨	1
 qiti	气体	1
 qit;	七天	1
 qitl	起跳	1
 qitk	期铜	1
-qin.	岂能	1
+qin'	气囊	1
 qinp	期内	1
 qin;	七年	1
 qilh	起来	1
@@ -13231,6 +13285,7 @@ qiks	期刊	1
 qihz	企划	1
 qihj	奇幻	1
 qih'	启航	1
+qiht	旗号	1
 qihe	契合	1
 qihp	漆黑	1
 qih,	气候	1
@@ -13281,6 +13336,7 @@ qiri	七日	1
 qirc	奇瑞	1
 qi'h	骑在	1
 qi'i	妻子	1
+qich	器材	1
 qics	凄惨	1
 qict	起草	1
 qici	其次	1
@@ -13290,7 +13346,6 @@ qiso	其所	1
 qisc	七岁	1
 qiuj	企业家	1
 qiuc	七月	1
-qiua	气压	1
 qiue	企业	1
 qiui	奇异	1
 qiu,	汽油	1
@@ -13406,6 +13461,7 @@ q;ei	前世	1
 q;e,	牵手	1
 q;eu	签署	1
 q;ec	潜水	1
+q;r'	谦让	1
 q;ri	前日	1
 q;'h	潜在	1
 q;'e	谴责	1
@@ -13723,6 +13779,7 @@ qrec	清水	1
 qrre	清热	1
 qrrn	情人	1
 qrr,	轻柔	1
+qr'h	请在	1
 qr''	青藏	1
 qr't	清早	1
 qrch	青菜	1
@@ -13836,7 +13893,6 @@ quna	去哪	1
 qunp	区内	1
 quni	娶你	1
 qun;	去年	1
-qule	去了	1
 quli	区里	1
 qulq	去留	1
 qugg	去逛	1
@@ -13867,6 +13923,7 @@ quig	趋向	1
 quoz	区政府	1
 quo'	区长	1
 quot	去找	1
+quoe	曲折	1
 quo.	取证	1
 quoi	取值	1
 quo,	衢州	1
@@ -13885,7 +13942,6 @@ quru	屈辱	1
 qu'i	曲子	1
 qu',	取走	1
 qu'o	去做	1
-quch	取材	1
 quss	驱散	1
 qusi	去死	1
 quuj	屈原	1
@@ -13967,6 +14023,7 @@ ijch	选材	1
 ijuj	轩辕	1
 ijud	眩晕	1
 ijua	悬崖	1
+iju'	宣扬	1
 ijut	炫耀	1
 ijui	悬疑	1
 ijuk	选用	1
@@ -14153,7 +14210,6 @@ iiks	细看	1
 iiku	西裤	1
 iihz	细化	1
 iihj	喜欢	1
-iiha	喜欢吃	1
 iihs	稀罕	1
 iiht	喜好	1
 iihu	西湖	1
@@ -14188,8 +14244,8 @@ iion	溪镇	1
 iioi	细致	1
 iio,	西周	1
 iiok	戏中	1
+iia'	细长	1
 iiae	洗车	1
-iia.	西城	1
 iiez	洗刷	1
 iied	吸吮	1
 iier	蟋蟀	1
@@ -14219,7 +14275,6 @@ iisc	细碎	1
 iiuj	喜新厌旧	1
 iiuc	喜悦	1
 iiua	西亚	1
-iius	吸烟	1
 iiu'	夕阳	1
 iiut	西药	1
 iiui	西医	1
@@ -14289,6 +14344,7 @@ izgc	下跪	1
 izke	下课	1
 izhz	下滑	1
 izhr	吓坏	1
+izhh	下海	1
 izhe	下颌	1
 izh,	夏侯	1
 izhu	吓唬	1
@@ -14462,6 +14518,7 @@ i;uk	先用	1
 i;uu	限于	1
 i;wn	先问	1
 i;wp	纤维	1
+i;;h	腺癌	1
 i;;e	限额	1
 ilbh	小白	1
 ilbs	小班	1
@@ -14630,6 +14687,7 @@ ilrk	笑容	1
 il'h	消灾	1
 il'e	小泽	1
 il'i	小子	1
+il'u	小组	1
 il'c	小嘴	1
 ilch	小菜	1
 ilct	小草	1
@@ -14762,6 +14820,7 @@ igo'	乡长	1
 igot	想找	1
 igoe	想着	1
 igon	乡镇	1
+igo.	象征	1
 igoi	相知	1
 igok	相中	1
 igou	相助	1
@@ -14782,6 +14841,7 @@ ige,	享受	1
 igeu	橡树	1
 igeo	想说	1
 igec	香水	1
+igr'	想让	1
 igrk	向日葵	1
 ig'h	想在	1
 ig't	香皂	1
@@ -14836,7 +14896,6 @@ imtl	协调	1
 imtk	协同	1
 imna	谢娜	1
 imla	谢拉	1
-imle	写了	1
 imlp	鞋类	1
 imli	协力	1
 iml,	泄漏	1
@@ -14847,7 +14906,6 @@ imgp	写给	1
 imgo	写过	1
 imht	写好	1
 imhe	协和	1
-imh,	邂逅	1
 imhc	协会	1
 imjc	谢绝	1
 imjl	邪教	1
@@ -14861,6 +14919,7 @@ imib	写信	1
 imiu	些许	1
 imog	卸妆	1
 imot	写照	1
+imoe	写着	1
 imon	写真	1
 imou	协助	1
 imaa	斜插	1
@@ -15005,10 +15064,10 @@ ibrs	欣然	1
 ibrn	信任	1
 ibru	心如	1
 ibrc	新锐	1
-ib''	心脏	1
 ib'.	新增	1
 ib'i	薪资	1
 ib'o	新作	1
+ib'c	心醉	1
 ibcd	新村	1
 ibci	新词	1
 ibsj	心酸	1
@@ -15111,7 +15170,6 @@ iruc	星月	1
 irud	幸运	1
 irue	兴业	1
 irui	幸运星	1
-iruu	性欲	1
 irw'	兴旺	1
 irwn	行文	1
 irwp	行为	1
@@ -15186,6 +15244,7 @@ iqir	修行	1
 iqiq	秀秀	1
 iqoi	休止	1
 iqon	修真	1
+iqo.	修正	1
 iqou	修筑	1
 iqa'	修长	1
 iqae	修车	1
@@ -15556,7 +15615,7 @@ oswu	站务	1
 o'bn	账本	1
 o'bp	长辈	1
 o'bb	张斌	1
-o'p.	帐篷	1
+o'p'	长胖	1
 o'ms	长满	1
 o'mn	丈母娘	1
 o'm;	账面	1
@@ -15596,7 +15655,6 @@ o'kh	张开	1
 o'k,	张口	1
 o'kk	掌控	1
 o'hz	张华	1
-o'hh	张海	1
 o'ht	帐号	1
 o'hk	张宏	1
 o'hu	账户	1
@@ -15673,7 +15731,6 @@ otgk	招工	1
 otgu	照顾	1
 otgo	找过	1
 otkh	召开	1
-otks	照看	1
 otkt	招考	1
 othj	召唤	1
 oth'	招行	1
@@ -15753,6 +15810,7 @@ oed,	这都	1
 oedk	这栋	1
 oedc	这对	1
 oeth	这台	1
+oet'	这趟	1
 oet.	折腾	1
 oet;	这天	1
 oetl	这条	1
@@ -15785,6 +15843,7 @@ oeji	这几	1
 oejz	这家	1
 oej;	这件	1
 oejl	这叫	1
+oejg	浙江	1
 oejm	这届	1
 oejq	这就	1
 oeju	这句	1
@@ -15796,15 +15855,14 @@ oeii	浙西	1
 oeiz	这下	1
 oeig	这项	1
 oeim	这些	1
+oeog	这桩	1
 oeo'	这张	1
 oeot	这招	1
 oeon	这真	1
 oeoi	这只	1
 oeo,	这周	1
-oeok	这种	1
 oeou	遮住	1
 oea'	这场	1
-oeae	这车	1
 oeeg	这首歌	1
 oee'	浙商	1
 oeee	折射	1
@@ -15829,6 +15887,7 @@ oeso	这所	1
 oeus	遮掩	1
 oeu'	这样	1
 oeut	这一天	1
+oeue	这也是	1
 oeui	这一	1
 oeu,	这又	1
 oeuu	这与	1
@@ -15872,6 +15931,7 @@ ongj	贞观	1
 ongr	真乖	1
 onge	真个	1
 ong,	真够	1
+ongc	珍贵	1
 onkr	真快	1
 onkk	真空	1
 onhz	真话	1
@@ -15914,6 +15974,7 @@ onen	真身	1
 onei	真实	1
 onrk	阵容	1
 onru	真如	1
+on'h	赈灾	1
 on'i	阵子	1
 on'o	振作	1
 onc'	珍藏	1
@@ -16070,6 +16131,7 @@ oibl	指标	1
 oibb	之滨	1
 oibr	治病	1
 oibo	直播	1
+oibu	支部	1
 oipa	只怕	1
 oiph	指派	1
 oipp	支配	1
@@ -16134,18 +16196,20 @@ oilr	指令	1
 oilq	直流	1
 oilu	之路	1
 oigj	直观	1
+oigg	之光	1
 oigr	只怪	1
+oigs	质感	1
 oig'	志刚	1
 oigt	之高	1
 oigp	只给	1
 oigk	职工	1
+oigu	只顾	1
 oigo	治国	1
-oiks	只看	1
+oikr	之快	1
 oikt	只靠	1
 oike	止咳	1
 oik,	之口	1
 oikk	指控	1
-oiku	之苦	1
 oihz	之花	1
 oihj	置换	1
 oihd	之魂	1
@@ -16216,6 +16280,7 @@ oiri	之日	1
 oiru	植入	1
 oi'd	至尊	1
 oi'h	只在	1
+oi't	制造	1
 oi'e	职责	1
 oi'i	之子	1
 oi'u	制造业	1
@@ -16235,7 +16300,6 @@ oiuc	制约	1
 oiua	质押	1
 oius	直言	1
 oiu'	止痒	1
-oiut	只要	1
 oiue	职业	1
 oiui	之一	1
 oiub	指引	1
@@ -16472,7 +16536,6 @@ oun;	逐年	1
 ounb	祝您	1
 ouli	主力	1
 oulb	竹林	1
-oulr	朱令	1
 oulq	主流	1
 oul,	主楼	1
 ougj	主管	1
@@ -16511,6 +16574,7 @@ ouiq	主修	1
 ouoa	驻扎	1
 ouoh	住宅	1
 ouos	主站	1
+ouo'	主张	1
 ouoe	住着	1
 ouon	助阵	1
 ouoi	主旨	1
@@ -16785,8 +16849,8 @@ aali	查理	1
 aal,	茶楼	1
 aagj	茶馆	1
 aago	查过	1
+aaka	插卡	1
 aaks	查看	1
-aak,	插口	1
 aakk	插孔	1
 aahz	插画	1
 aahu	茶壶	1
@@ -16866,6 +16930,7 @@ asiz	产下	1
 asil	产销	1
 asoe	缠着	1
 asoi	产值	1
+asou	缠住	1
 asas	潺潺	1
 asau	产出	1
 asen	缠身	1
@@ -16873,6 +16938,7 @@ ase.	产生	1
 asei	阐释	1
 aseu	阐述	1
 asrt	缠绕	1
+as'a	掺杂	1
 as'i	产自	1
 as'k	禅宗	1
 asue	产业	1
@@ -16976,6 +17042,7 @@ a'so	场所	1
 a'uj	长远	1
 a'uc	长约	1
 a'us	肠炎	1
+a'u'	徜徉	1
 a'ue	长夜	1
 a'ui	倡议	1
 a'u,	常有	1
@@ -17138,7 +17205,6 @@ anzu	沉浮	1
 and;	沉淀	1
 antt	陈涛	1
 antk	沉痛	1
-antu	尘土	1
 anto	衬托	1
 anni	沉溺	1
 ann;	陈年	1
@@ -17180,6 +17246,7 @@ aneu	陈述	1
 anre	趁热	1
 anru	沉入	1
 an't	趁早	1
+an'c	沉醉	1
 ansi	沉思	1
 anuj	尘缘	1
 anud	陈云	1
@@ -17274,7 +17341,6 @@ a.e,	承受	1
 a.eu	成熟	1
 a.rn	承认	1
 a.ri	成日	1
-a.'h	承载	1
 a.'s	称赞	1
 a.'i	橙子	1
 a.'u	承租	1
@@ -17397,7 +17463,6 @@ a,ic	抽血	1
 a,ig	抽象	1
 a,oe	瞅着	1
 a,aa	抽查	1
-a,a'	惆怅	1
 a,a,	臭臭	1
 a,ak	臭虫	1
 a,au	抽出	1
@@ -17435,7 +17500,6 @@ akdu	重读	1
 akt;	冲天	1
 aktu	冲突	1
 aklh	重来	1
-akl'	冲浪	1
 akle	冲了	1
 aklg	冲凉	1
 akgt	崇高	1
@@ -17484,6 +17548,7 @@ akci	冲刺	1
 aksu	重塑	1
 akua	冲压	1
 akus	重演	1
+aku'	重阳	1
 akub	冲印	1
 akur	充盈	1
 akuk	重用	1
@@ -17614,6 +17679,7 @@ auus	出演	1
 auue	初夜	1
 auui	初一	1
 auu,	出游	1
+auuu	处于	1
 auwh	除外	1
 auw'	楚王	1
 auwn	初吻	1
@@ -17838,6 +17904,7 @@ esli	山里	1
 eslg	善良	1
 eslb	山林	1
 eslr	山岭	1
+eslu	山路	1
 esgg	闪光	1
 esgt	山高	1
 esge	山歌	1
@@ -17882,6 +17949,7 @@ es'p	山贼	1
 es'i	擅自	1
 escd	闪存	1
 esua	山崖	1
+esu'	山羊	1
 esue	山野	1
 esui	善意	1
 esuk	善用	1
@@ -18031,6 +18099,7 @@ e'su	上诉	1
 e'uj	商业街	1
 e'uc	上月	1
 e'us	上演	1
+e'u'	上扬	1
 e'ue	商业	1
 e'ui	上衣	1
 e'ub	上瘾	1
@@ -18120,7 +18189,6 @@ eenk	涉农	1
 eeld	社论	1
 eeli	设立	1
 eelm	涉猎	1
-eeke	社科	1
 eek,	蛇口	1
 eehz	奢华	1
 eehc	社会	1
@@ -18134,6 +18202,7 @@ eequ	社区	1
 eeiz	设下	1
 eei;	涉嫌	1
 eeig	设想	1
+eeo'	社长	1
 eeoi	设置	1
 eea.	射程	1
 eeai	奢侈	1
@@ -18258,7 +18327,7 @@ en't	深造	1
 en'i	身子	1
 en'u	神族	1
 ench	身材	1
-enc.	深层	1
+enc'	深藏	1
 ense	神色	1
 ensi	深思	1
 ensu	申诉	1
@@ -18414,6 +18483,7 @@ eibp	是被	1
 eibi	势必	1
 eib;	事变	1
 eibm	识别	1
+eibo	世博	1
 eibu	深信不疑	1
 eiph	实拍	1
 eips	实盘	1
@@ -18485,13 +18555,14 @@ eilq	十六	1
 eilu	实录	1
 eilo	失落	1
 eigj	使馆	1
+eigg	时光	1
+eigh	是该	1
 eigs	实干	1
 eige	是个	1
 eigp	是给	1
 eigk	施工	1
 eigu	事故	1
 eigo	试过	1
-eikg	实况	1
 eikr	石块	1
 eiks	是看	1
 eikt	是靠	1
@@ -18556,6 +18627,7 @@ eia'	市场	1
 eiae	试车	1
 eia.	时称	1
 eiau	使出	1
+eiea	是啥	1
 eie'	时尚	1
 eiee	施舍	1
 eien	失身	1
@@ -18598,7 +18670,6 @@ eiuc	十月	1
 eiua	是呀	1
 eius	实验	1
 eiu'	式样	1
-eiut	是要	1
 eiue	事业	1
 eiui	十一	1
 eiur	适应	1
@@ -18665,6 +18736,7 @@ e,gs	手感	1
 e,g'	首钢	1
 e,gt	手稿	1
 e,ge	首个	1
+e,g,	收购	1
 e,gk	手工	1
 e,go	受过	1
 e,kj	收款	1
@@ -18680,6 +18752,7 @@ e,ht	收好	1
 e,h.	守恒	1
 e,h,	售后	1
 e,hu	守护	1
+e,ho	收获	1
 e,hc	收回	1
 e,jj	手绢	1
 e,jd	守军	1
@@ -18801,6 +18874,7 @@ eulb	树林	1
 eul,	疏漏	1
 eulo	数落	1
 eugg	曙光	1
+eugs	树干	1
 eugt	书稿	1
 euge	数个	1
 eugn	树根	1
@@ -18851,7 +18925,6 @@ eurk	输入框	1
 euru	输入	1
 eu'i	数字	1
 eu'u	数组	1
-eu'c	赎罪	1
 euch	蔬菜	1
 euci	数次	1
 euck	树丛	1
@@ -19114,6 +19187,7 @@ rei;	热线	1
 reil	热销	1
 reib	热心	1
 reoa	热轧	1
+reok	热衷	1
 reat	热潮	1
 rean	热忱	1
 rea.	热诚	1
@@ -19540,7 +19614,6 @@ rc;s	瑞安	1
 'hdr	再顶	1
 'hdu	再度	1
 'hdo	再多	1
-'hta	在他	1
 'hts	再谈	1
 'hti	载体	1
 'ht;	再添	1
@@ -19712,12 +19785,12 @@ rc;s	瑞安	1
 'trn	遭人	1
 'tri	早日	1
 't'h	早在	1
-'t't	早早	1
 't'o	造作	1
 'tcs	早餐	1
 'tsi	早死	1
 'tud	早孕	1
 'tu'	遭殃	1
+'tut	造谣	1
 'tui	早已	1
 'tub	噪音	1
 'tur	造影	1
@@ -19786,6 +19859,7 @@ rc;s	瑞安	1
 '.e.	增生	1
 '.e,	增收	1
 '.'i	增资	1
+'.c'	增仓	1
 '.se	增色	1
 '.sk	赠送	1
 '.su	增速	1
@@ -19933,7 +20007,6 @@ rc;s	瑞安	1
 ',gt	走高	1
 ',g,	走狗	1
 ',go	走过	1
-',kh	走开	1
 ',ht	走好	1
 ',h,	走后	1
 ',hk	走红	1
@@ -20124,6 +20197,7 @@ rc;s	瑞安	1
 'oke	做客	1
 'okk	做空	1
 'ohz	作画	1
+'oht	做好	1
 'ohc	做回	1
 'oji	座机	1
 'ojz	作家	1
@@ -20227,6 +20301,7 @@ rc;s	瑞安	1
 'cok	最终	1
 'cad	嘴唇	1
 'caa	最差	1
+'ca'	最长	1
 'cai	最迟	1
 'cau	最初	1
 'cer	最帅	1
@@ -20447,6 +20522,7 @@ csuc	参阅	1
 csus	参演	1
 csu'	残阳	1
 csub	餐饮	1
+csuu	参与	1
 cs;s	惨案	1
 c'bh	苍白	1
 c'bt	藏宝	1
@@ -20575,6 +20651,7 @@ cin;	次年	1
 cilp	此类	1
 cigp	赐给	1
 cigu	刺骨	1
+cikj	此款	1
 cika	磁卡	1
 cike	此刻	1
 ciku	词库	1
@@ -21042,7 +21119,6 @@ sia.	四成	1
 sia,	丝绸	1
 siau	四处	1
 siea	厮杀	1
-sie'	死伤	1
 siee	四射	1
 sien	死神	1
 siei	四是	1
@@ -21372,7 +21448,6 @@ ujoc	圆锥	1
 ujag	原创	1
 ujas	原产	1
 uja'	原厂	1
-ujat	元朝	1
 uja.	远程	1
 ujau	远处	1
 ujer	元帅	1
@@ -21576,8 +21651,8 @@ uali	压力	1
 ualr	哑铃	1
 uagj	亚冠	1
 uagt	牙膏	1
+uage	雅阁	1
 uagn	压根	1
-uake	牙科	1
 uahj	丫鬟	1
 uahu	雅虎	1
 uajd	亚军	1
@@ -21631,6 +21706,7 @@ usdu	研读	1
 usth	研讨会	1
 ustt	研讨	1
 ust,	烟头	1
+ustu	沿途	1
 usld	言论	1
 uslp	眼泪	1
 usli	眼里	1
@@ -21638,6 +21714,7 @@ usl;	演练	1
 usll	颜料	1
 uslu	沿路	1
 usgg	眼光	1
+usgh	掩盖	1
 usge	严格	1
 usgo	演过	1
 uskg	眼眶	1
@@ -21645,6 +21722,7 @@ usks	眼看	1
 uske	眼科	1
 usku	严酷	1
 ushz	烟花	1
+ushg	炎黄	1
 ushh	沿海	1
 ushs	严寒	1
 ushe	沿河	1
@@ -21688,8 +21766,8 @@ usai	延迟	1
 usau	演出	1
 useg	眼霜	1
 uses	燕山	1
+usee	衍射	1
 usen	眼神	1
-use.	衍生	1
 usei	演示	1
 use,	验收	1
 useu	眼熟	1
@@ -21697,6 +21775,7 @@ useo	演说	1
 usec	盐水	1
 usre	炎热	1
 us'i	燕子	1
+us',	演奏	1
 usc'	掩藏	1
 usci	言辞	1
 usck	烟囱	1
@@ -21711,6 +21790,7 @@ usue	烟叶	1
 usui	演绎	1
 usur	眼影	1
 usuk	沿用	1
+usuu	言语	1
 usw'	阎王	1
 uswp	烟味	1
 uswo	燕窝	1
@@ -21727,6 +21807,7 @@ u'mt	羊毛	1
 u'mp	杨梅	1
 u'mr	扬名	1
 u'm,	杨某	1
+u'mu	仰慕	1
 u'zs	扬帆	1
 u'z'	洋房	1
 u'zn	养分	1
@@ -21783,7 +21864,6 @@ u'rk	羊绒	1
 u''i	样子	1
 u'ck	洋葱	1
 u'us	养眼	1
-u'u'	痒痒	1
 u'ui	洋溢	1
 u'w'	仰望	1
 u'wp	阳痿	1
@@ -21821,7 +21901,6 @@ utt.	腰疼	1
 uttl	窈窕	1
 uttr	要听	1
 uttk	腰痛	1
-utna	要拿	1
 utn.	要能	1
 utni	要你	1
 utnm	妖孽	1
@@ -21846,7 +21925,6 @@ utkk	遥控	1
 utku	要哭	1
 uthz	要花	1
 uthg	摇晃	1
-uthh	要害	1
 utht	一塌糊涂	1
 uthe	吆喝	1
 uthc	要回	1
@@ -21883,6 +21961,7 @@ ute'	咬伤	1
 utet	要少	1
 utei	要是	1
 uteo	要说	1
+utec	药水	1
 utr'	要让	1
 utrt	妖娆	1
 ut'h	要在	1
@@ -21942,7 +22021,6 @@ ueth	也太	1
 ueti	液体	1
 uetr	一视同仁	1
 uens	也难	1
-uen.	也能	1
 uenp	业内	1
 uely	耶律	1
 uelh	也来	1
@@ -21997,6 +22075,7 @@ ueeu	页数	1
 ueeo	也说	1
 uer'	也让	1
 uern	野人	1
+ue'h	也在	1
 ue'i	叶子	1
 ue'o	也做	1
 uech	野菜	1
@@ -22007,6 +22086,7 @@ uesj	也算	1
 uese	夜色	1
 uesu	耶稣	1
 ueus	有声有色	1
+ueut	也要	1
 ueue	一生一世	1
 ueui	也已	1
 ueub	摇身一变	1
@@ -22044,7 +22124,7 @@ uipl	一票	1
 uipm	一瞥	1
 uipb	一品	1
 uipr	一瓶	1
-uima	姨妈	1
+uimh	义卖	1
 uims	已满	1
 uimt	一毛	1
 uimn	一门	1
@@ -22083,12 +22163,13 @@ uidc	一堆	1
 uitj	一团	1
 uith	一台	1
 uits	一探	1
-uit'	一趟	1
 uitt	一套	1
+uit.	伊藤	1
 uiti	一体	1
 uit;	一天	1
 uitl	一条	1
 uitm	一帖	1
+uitr	一听	1
 uit,	一头	1
 uitk	异想天开	1
 uitu	意图	1
@@ -22096,13 +22177,12 @@ uito	依托	1
 uitc	一推	1
 uiny	一女	1
 uins	以南	1
-uin.	异能	1
 uinp	以内	1
 uini	旖旎	1
 uin;	一年	1
 uild	一轮	1
 uily	一律	1
-uils	一览	1
+uila	一连串	1
 uil'	伊朗	1
 uil.	一愣	1
 uilp	一类	1
@@ -22122,8 +22202,11 @@ uige	一个	1
 uign	一根	1
 uig,	异构	1
 uigu	一股	1
+uigo	一国	1
+uigc	衣柜	1
 uikj	一款	1
 uikr	一块	1
+uika	一卡	1
 uikh	一开	1
 uikt	依靠	1
 uike	一颗	1
@@ -22186,8 +22269,8 @@ uiaj	遗传	1
 uiad	乙醇	1
 uiaa	忧心忡忡	1
 uias	遗产	1
-uia'	一场	1
 uiae	一车	1
+uia.	已成	1
 uiai	一尺	1
 uia,	一筹	1
 uiau	一处	1
@@ -22210,9 +22293,11 @@ uir.	一扔	1
 uiri	一日	1
 uiru	一如	1
 ui'd	一尊	1
+ui'h	一再	1
 ui't	一早	1
+ui'e	一则	1
 ui'i	椅子	1
-ui',	一走	1
+ui'k	一宗	1
 ui'u	一组	1
 ui'o	一座	1
 uicd	一寸	1
@@ -22393,6 +22478,7 @@ urgg	荧光	1
 urgh	应该	1
 urgo	英国	1
 urk,	营口	1
+urkc	盈亏	1
 urhz	樱花	1
 urhg	英皇	1
 urhs	英汉	1
@@ -22582,8 +22668,8 @@ u,oi	优质	1
 u,ok	有种	1
 u,ou	有助于	1
 u,aj	游船	1
-u,a'	有偿	1
 u,ae	有车	1
+u,a.	又称	1
 u,ai	又出现	1
 u,a,	忧愁	1
 u,ak	幼虫	1
@@ -22602,7 +22688,6 @@ u,rs	悠然	1
 u,r'	又让	1
 u,rn	有人	1
 u,ru	幼儿园	1
-u,'h	又在	1
 u,'n	又怎	1
 u,'i	游子	1
 u,',	游走	1
@@ -22616,7 +22701,6 @@ u,sd	有损	1
 u,se	有色	1
 u,so	有所	1
 u,uj	有缘	1
-u,ua	优雅	1
 u,us	有意思	1
 u,u'	悠扬	1
 u,ut	又要	1
@@ -22655,7 +22739,6 @@ ukdo	用得着	1
 ukta	用它	1
 uktu	用途	1
 uklh	用来	1
-ukls	慵懒	1
 ukle	永乐	1
 ukli	用力	1
 ukll	用料	1
@@ -22683,6 +22766,7 @@ ukib	用心	1
 ukir	永兴	1
 ukog	泳装	1
 ukoe	用着	1
+uko.	雍正	1
 ukoi	用纸	1
 uko,	永州	1
 ukok	臃肿	1
@@ -22700,6 +22784,7 @@ ukrn	用人	1
 ukru	涌入	1
 uk'h	用在	1
 uk'o	用作	1
+uk'c	用嘴	1
 ukcd	永存	1
 ukcs	用餐	1
 ukci	用词	1
@@ -22738,7 +22823,6 @@ uud;	雨点	1
 uudl	语调	1
 uudr	预订	1
 uuta	与他	1
-uut'	鱼塘	1
 uut;	雨天	1
 uut,	鱼头	1
 uuny	玉女	1
@@ -22773,7 +22857,6 @@ uuhz	余华	1
 uuhj	玉环	1
 uuhh	遇害	1
 uuhs	御寒	1
-uuh'	余杭	1
 uuhe	愈合	1
 uuh,	雨后	1
 uuho	与会者	1
@@ -22784,7 +22867,6 @@ uujz	瑜伽	1
 uuj;	遇见	1
 uujm	御姐	1
 uujr	预警	1
-uuju	应有尽有	1
 uuqj	玉泉	1
 uuqi	预期	1
 uuqq	欲求	1
@@ -22803,7 +22885,6 @@ uuok	雨中	1
 uuou	预祝	1
 uuaj	渔船	1
 uuad	愚蠢	1
-uua'	浴场	1
 uuai	鱼翅	1
 uuee	严严实实	1
 uuei	于是	1
@@ -22826,11 +22907,10 @@ uuso	寓所	1
 uuuj	余元	1
 uuuc	预约	1
 uuut	余姚	1
+uuue	跃跃欲试	1
 uuui	一言一行	1
-uuub	语音	1
 uuu,	遇有	1
 uuuk	御用	1
-uuuu	隐隐约约	1
 uuws	余万	1
 uuw'	欲望	1
 uuwn	语文	1
@@ -22843,7 +22923,6 @@ wadt	挖到	1
 wadi	洼地	1
 wakg	挖矿	1
 wakt	哇靠	1
-wak.	挖坑	1
 waku	挖苦	1
 wajc	挖掘	1
 wajm	瓦解	1
@@ -22856,6 +22935,7 @@ wa;r	娃儿	1
 whbt	外包	1
 whbi	外币	1
 whb;	外边	1
+whbl	外表	1
 whbb	外宾	1
 whbu	外部	1
 whph	外派	1
@@ -22957,7 +23037,6 @@ wsd,	豌豆	1
 wsdo	万多	1
 wsth	万台	1
 wstk	万通	1
-wsn.	万能	1
 wsn;	晚年	1
 wsnk	玩弄	1
 wsle	完了	1
@@ -22970,6 +23049,7 @@ wsgk	完工	1
 wsgu	万股	1
 wsgo	玩过	1
 wskr	万块	1
+wske	万科	1
 wsht	完好	1
 wsh,	完后	1
 wshu	万户	1
@@ -22998,7 +23078,6 @@ wsoe	玩着	1
 wso.	完整	1
 wso,	万州	1
 wsok	万众	1
-wsa.	完成	1
 wsez	玩耍	1
 wses	完善	1
 wse'	晚上	1
@@ -23103,6 +23182,7 @@ w'oe	望着	1
 w'on	王振	1
 w'oi	网址	1
 w'a'	往常	1
+w'at	王朝	1
 w'a.	王城	1
 w'ak	网虫	1
 w'e'	网上	1
@@ -23190,6 +23270,7 @@ wnig	蚊香	1
 wnib	温馨	1
 wnik	文胸	1
 wnoh	文摘	1
+wno'	文章	1
 wnoe	温州市	1
 wnoi	闻之	1
 wno,	温州	1
@@ -23198,6 +23279,7 @@ wnou	稳住	1
 wnaj	汶川	1
 wnag	温床	1
 wnaa	温差	1
+wna'	文昌	1
 wnak	蚊虫	1
 wned	温顺	1
 wnes	文山	1
@@ -23209,6 +23291,7 @@ wnrd	温润	1
 wnre	温热	1
 wnrn	文人	1
 wnr,	温柔	1
+wn'e	问责	1
 wn'i	文字	1
 wncd	温存	1
 wnch	文采	1
@@ -23286,6 +23369,7 @@ wpgk	围攻	1
 wpgo	未果	1
 wpgc	违规	1
 wpkd	围困	1
+wpk,	胃口	1
 wpkk	为空	1
 wphd	未婚	1
 wphh	危害	1
@@ -23356,6 +23440,7 @@ wpuj	委员	1
 wpua	维亚	1
 wpus	威严	1
 wpu'	喂养	1
+wpue	伟业	1
 wpui	唯一	1
 wpuu	位于	1
 wpws	委婉	1
@@ -23454,6 +23539,7 @@ wo'h	我在	1
 wo't	我早	1
 wo',	我走	1
 wo'k	我总	1
+wo'o	我做	1
 wo'c	我最	1
 woch	我才	1
 woc.	我曾	1
@@ -23510,7 +23596,6 @@ wuti	物体	1
 wut;	五天	1
 wutl	武藤兰	1
 wutr	舞厅	1
-wut,	无头	1
 wutk	梧桐	1
 wuny	舞女	1
 wunh	无奈	1
@@ -23583,8 +23668,8 @@ wuiu	无需	1
 wuog	武装	1
 wuoe	捂着	1
 wuon	误诊	1
+wuo.	无证	1
 wuoi	物质	1
-wuo,	五洲	1
 wuok	物种	1
 wuou	毋庸置疑	1
 wuoo	污浊	1
@@ -23594,7 +23679,6 @@ wua'	无偿	1
 wuan	无尘	1
 wua.	五成	1
 wuai	无耻	1
-wuau	无处	1
 wueg	无双	1
 wuea	误杀	1
 wues	巫山	1
@@ -23613,6 +23697,7 @@ wu'k	无踪	1
 wu'c	无罪	1
 wuch	五彩	1
 wucs	午餐	1
+wuc.	五层	1
 wuci	五次	1
 wuck	无从	1
 wusd	无损	1
@@ -23776,6 +23861,7 @@ wu;s	午安	1
 ;sl;	暗恋	1
 ;slq	暗流	1
 ;slu	安陆	1
+;sg'	鞍钢	1
 ;sge	安格	1
 ;sk'	安康	1
 ;sht	暗号	1
@@ -23810,11 +23896,12 @@ wu;s	午安	1
 ;sed	安顺	1
 ;sea	暗杀	1
 ;ses	鞍山	1
+;se'	岸上	1
 ;sen	安神	1
-;se.	安生	1
 ;sei	暗示	1
 ;seo	按说	1
 ;srs	安然	1
+;s'h	安在	1
 ;s''	安葬	1
 ;s'i	案子	1
 ;sc'	暗藏	1
@@ -23822,6 +23909,7 @@ wu;s	午安	1
 ;ssj	暗算	1
 ;suj	按原	1
 ;suc	按月	1
+;su'	安阳	1
 ;sue	暗夜	1
 ;sui	安逸	1
 ;sur	暗影	1
@@ -24027,6 +24115,7 @@ wu;s	午安	1
 ;ulu	欧莱雅	1
 ;ugj	欧冠	1
 ;uge	讴歌	1
+;uhe	耦合	1
 ;ujz	偶家	1
 ;uig	偶像	1
 ;uo,	欧洲	1
@@ -24095,6 +24184,7 @@ bsb'	半辈子	1
 bsbt	半边天	1
 bsnb	半年报	1
 bsgb	班干部	1
+bsgu	半个月	1
 bsgt	办公厅	1
 bsgl	办公楼	1
 bsgh	办公会	1
@@ -24173,6 +24263,7 @@ bnlt	本论坛	1
 bnlm	本栏目	1
 bngs	本公司	1
 bngd	本规定	1
+bnht	本合同	1
 bnjj	本基金	1
 bniq	本学期	1
 bnit	本系统	1
@@ -24513,6 +24604,7 @@ miht	猕猴桃	1
 miql	米其林	1
 mieo	秘书长	1
 miea	秘书处	1
+mi'u	米左右	1
 miue	米以上	1
 m;ba	面包车	1
 m;bl	免不了	1
@@ -24532,6 +24624,7 @@ mbjd	民进党	1
 mbob	民政部	1
 mboj	目不转睛	1
 mbod	民主党	1
+mrbo	明摆着	1
 mrlh	命令行	1
 mrie	名学生	1
 mrib	明细表	1
@@ -24554,6 +24647,7 @@ mont	模拟题	1
 monq	模拟器	1
 molh	茉莉花	1
 molg	摩洛哥	1
+mokh	模块化	1
 mohq	磨合期	1
 moj'	摩羯座	1
 moig	墨西哥	1
@@ -24626,6 +24720,7 @@ zsou	范志毅	1
 zsal	翻出来	1
 zs'u	反作用	1
 zscw	犯错误	1
+zsua	反映出	1
 zsud	反应堆	1
 zsuq	反应器	1
 zswq	范玮琪	1
@@ -24696,7 +24791,6 @@ zpql	飞起来	1
 zpqw	废弃物	1
 zpii	非线性	1
 zpiq	飞行器	1
-zpoa	非正常	1
 zpoe	非正式	1
 zpol	非主流	1
 zpad	非常大	1
@@ -25020,7 +25114,6 @@ d;ca	电磁场	1
 d;ui	电源线	1
 d;up	电影票	1
 d;ul	电影里	1
-d;uu	电影院	1
 dliq	掉下去	1
 dlab	调查表	1
 dla'	调查组	1
@@ -25267,6 +25360,7 @@ tupi	突破性	1
 tuzi	突发性	1
 tuds	土豆丝	1
 tudw	土豆网	1
+tuta	土特产	1
 tuns	突尼斯	1
 tulz	吐鲁番	1
 tujd	突击队	1
@@ -25279,6 +25373,7 @@ tuwb	图文版	1
 turq	土耳其	1
 toms	托马斯	1
 tolj	拖拉机	1
+togr	托管人	1
 togl	脱光了	1
 toaq	拖出去	1
 touz	脱衣服	1
@@ -25486,6 +25581,7 @@ lsqd	篮球队	1
 lsqa	篮球场	1
 lsqs	篮球赛	1
 lsag	蓝筹股	1
+lsuu	懒洋洋	1
 lswl	烂尾楼	1
 l'ip	郎咸平	1
 ltbi	老百姓	1
@@ -25560,11 +25656,12 @@ liie	李先生	1
 liih	理想化	1
 liij	离心机	1
 liad	理查德	1
-liah	李昌镐	1
 liab	里程碑	1
+liem	李世民	1
 lieh	理事会	1
 liej	历史剧	1
 lirl	利润率	1
+li'a	李自成	1
 li'e	李宗盛	1
 lisb	里斯本	1
 liul	利用率	1
@@ -25625,6 +25722,7 @@ lgwe	两位数	1
 lmbo	列表中	1
 lmgi	劣根性	1
 lbbj	淋巴结	1
+lbmm	林妹妹	1
 lbdu	林黛玉	1
 lbjj	林俊杰	1
 lbjd	临界点	1
@@ -25798,6 +25896,7 @@ gtnd	高难度	1
 gtnj	高年级	1
 gtld	高利贷	1
 gtgd	高高的	1
+gtg'	高个子	1
 gtgi	高跟鞋	1
 gtkj	高科技	1
 gthn	高耗能	1
@@ -25841,7 +25940,6 @@ gnjd	根据地	1
 gnwl	跟我来	1
 gnwe	跟我说	1
 g.pl	更漂亮	1
-g.mh	更美好	1
 g.zb	更方便	1
 g.dd	更多的	1
 g.nq	更年期	1
@@ -26094,6 +26192,7 @@ kejj	科技局	1
 kei'	可选择	1
 keih	科学化	1
 keiu	科学院	1
+keie	可享受	1
 keoj	可直接	1
 keow	科植物	1
 keeq	可申请	1
@@ -26445,6 +26544,7 @@ jing	纪念馆	1
 jinq	几年前	1
 jigq	激光器	1
 jigr	几个人	1
+jig'	几个字	1
 jigu	几个月	1
 jihs	季后赛	1
 jihm	激活码	1
@@ -26517,6 +26617,7 @@ j;tb	剪贴板	1
 j;tz	剪头发	1
 j;lb	健力宝	1
 j;gm	建国门	1
+j;gh	建国后	1
 j;kw	健康网	1
 j;he	件好事	1
 j;je	尖叫声	1
@@ -27070,7 +27171,6 @@ imgu	协管员	1
 imil	谢谢了	1
 imoj	写真集	1
 imat	谢长廷	1
-imal	写出来	1
 imem	些什么	1
 imrj	写日记	1
 im'l	写字楼	1
@@ -27106,6 +27206,7 @@ ibed	新生代	1
 ibel	新势力	1
 ibej	新手机	1
 ibrd	信任度	1
+ib'b	心脏病	1
 ibul	新一轮	1
 ibuo	信用证	1
 ibud	信誉度	1
@@ -27269,6 +27370,7 @@ oelt	这两天	1
 oelo	这两种	1
 oegr	这个人	1
 oeg'	这个字	1
+oegc	这个词	1
 oehr	这会儿	1
 oejt	这几天	1
 oejn	这几年	1
@@ -27474,6 +27576,7 @@ oucm	注册码	1
 oucj	注册机	1
 ousj	珠三角	1
 ousz	住宿费	1
+ouuo	朱元璋	1
 ouud	注意点	1
 ouul	注意力	1
 oomc	捉迷藏	1
@@ -27624,6 +27727,7 @@ aiiq	吃下去	1
 aiii	持续性	1
 aiem	吃什么	1
 ai'c	吃早餐	1
+aiuo	持有者	1
 aiur	持有人	1
 aiwz	吃完饭	1
 a,dz	臭豆腐	1
@@ -27633,6 +27737,7 @@ akzq	冲锋枪	1
 akzi	重复性	1
 akdq	充电器	1
 akdi	重定向	1
+akjl	冲击力	1
 akql	充其量	1
 akqh	重启后	1
 akqe	重庆市	1
@@ -28031,6 +28136,7 @@ ruop	乳制品	1
 ruaq	入场券	1
 ruee	如是说	1
 rucd	如此多	1
+ruco	如此之	1
 robe	若不是	1
 romu	若没有	1
 'ahd	杂货店	1
@@ -28101,6 +28207,7 @@ romu	若没有	1
 'ibe	淄博市	1
 'imd	自相矛盾	1
 'iml	子目录	1
+'im'	字幕组	1
 'izj	字符集	1
 'idu	自定义	1
 'idd	自动档	1
@@ -28355,6 +28462,7 @@ silb	司令部	1
 silj	四六级	1
 sigr	四个人	1
 sig'	四个字	1
+sigu	四个月	1
 sikd	斯柯达	1
 sijd	四季度	1
 sija	私家车	1
@@ -28469,7 +28577,6 @@ uaob	亚洲杯	1
 uaoq	亚洲区	1
 uaor	亚洲人	1
 uard	亚热带	1
-ua'l	亚足联	1
 uasb	压缩包	1
 uasj	压缩机	1
 uasq	压岁钱	1
@@ -28478,6 +28585,7 @@ usbb	眼巴巴	1
 usbe	演播室	1
 uszb	研发部	1
 uste	烟台市	1
+usjh	研究会	1
 usjo	研究者	1
 usje	研究生	1
 usjs	研究所	1
@@ -28555,6 +28663,7 @@ uinb	一年半	1
 uind	一年多	1
 uinn	一年内	1
 uinl	一年来	1
+uinh	一年后	1
 uinq	一年前	1
 uilk	用心良苦	1
 uilb	一览表	1
@@ -28574,9 +28683,8 @@ uiq'	一起走	1
 uiqw	一起玩	1
 uiij	医学界	1
 uiiu	医学院	1
-uiih	胰腺癌	1
+uii'	一下子	1
 uiie	意向书	1
-uioa	一张床	1
 uioz	一阵风	1
 uiom	一只猫	1
 uiol	意志力	1
@@ -28627,6 +28735,7 @@ urgu	应该用	1
 urgl	英格兰	1
 urgj	应根据	1
 urgr	英国人	1
+urkl	应考虑	1
 urha	萤火虫	1
 urje	应届生	1
 urju	应具有	1
@@ -28886,6 +28995,7 @@ wuqz	物权法	1
 wuie	无锡市	1
 wuid	无线电	1
 wuij	五星级	1
+wuoh	无障碍	1
 wuoj	无止境	1
 wued	五十多	1
 wuew	五十万	1
@@ -28894,7 +29004,6 @@ wurh	无任何	1
 wu't	武则天	1
 wu'l	屋子里	1
 wu'q	五子棋	1
-wuc'	误操作	1
 wusg	吴三桂	1
 wusw	无所谓	1
 wuuz	五月份	1
@@ -29451,7 +29560,6 @@ qjzm	全军覆没	1
 qego	全神贯注	1
 qqee	确确实实	1
 qubk	缺一不可	1
-qbae	泣不成声	1
 qjbh	气急败坏	1
 qiil	齐心协力	1
 qoim	旗帜鲜明	1
@@ -29605,7 +29713,6 @@ aerh	出神入化	1
 artd	出人头地	1
 arul	出人意料	1
 a'qa	出租汽车	1
-aauu	绰绰有余	1
 atsq	垂头丧气	1
 elao	顺理成章	1
 eq'r	顺其自然	1
@@ -29874,6 +29981,7 @@ uobt	与众不同	1
 uoia	语重心长	1
 uegj	与世隔绝	1
 uejj	与时俱进	1
+urj'	与日俱增	1
 uucc	郁郁葱葱	1
 uwlc	语无伦次	1
 wzou	万分之一	1

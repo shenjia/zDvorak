@@ -100,5 +100,14 @@ foreach ($words as $code => $word) {
 }
 fclose($dict);
 
+// save skip 2-chars words
+$file = fopen(__DIR__ . '/../data/skiped_words.txt', 'w');
+foreach ($skip_words as $word) {
+	if (mb_strlen($word, 'utf-8') == 2) {
+		fputs($file, $word . "\t" . PHP_EOL);
+	}
+}
+fclose($file);
+
 // done
 echo 'Done.' . PHP_EOL;

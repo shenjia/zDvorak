@@ -69,6 +69,11 @@ foreach ($spells as $spell => $chars) {
 		if ($charCode && $spellCode) {
 			$code = $spellCode . $charCode;
 			$short = $spellCode . substr($charCode, 0, 1);
+			
+			// skip if already take first or second code
+			if ($char == $first[substr($spellCode, 0, 1)]['char'] 
+		     || $char == $second[$spellCode]['char'] ) continue;
+					
 			// use short code first
 			if (!isset($codes[$short])) {
 				$codes[$short] = array(array(
@@ -99,28 +104,6 @@ foreach ($spells as $spell => $chars) {
 						'long' => array_merge($codes[$code][0], array('code' => $code))
 					); 
 				} 
-				// if the old one take second code, replace it
-				else if ($codes[$code][0]['char'] == $second[$spellCode]['char']) {
-					$codes[$code][0] = array(
-						'char' => $char,
-						'weight' => $weight
-					);
-					$replaced[] = array(
-						'short' => array_merge($second[$spellCode], array('code' => $spellCode)),
-						'long' => array_merge($codes[$code][0], array('code' => $code))
-					); 
-				}
-				// if the old one take first code, replace it
-				else if ($codes[$code][0]['char'] == $first[substr($spellCode, 0, 1)]['char']) {
-					$codes[$code][0] = array(
-						'char' => $char,
-						'weight' => $weight
-					);
-					$replaced[] = array(
-						'short' => array_merge($first[substr($spellCode, 0, 1)], array('code' => substr($spellCode, 0, 1))),
-						'long' => array_merge($codes[$code][0], array('code' => $code))
-					); 
-				}
 				// mark conflicts
 				else {
 					if (!isset($conflicts[$code])) {
@@ -181,12 +164,15 @@ if (defined('SHOW_LETTERS_COUNT')) {
 }
 
 // print replaced chars
-if (defined('SHOW_REPLACED')) {
-	foreach ($replaced as $replace) {
+$file = fopen(__DIR__ . '/../data/replaced_chars.txt', 'w');
+foreach ($replaced as $replace) {
+	fputs($file, $replace['short']['char'] . "\t" . PHP_EOL);
+	if (defined('SHOW_REPLACED')) {
 		echo $replace['short']['char'] . ' [' . $replace['short']['code'] . '] , ' 
-		   . $replace['long']['char'] . ' [' . $replace['long']['code']. ']' . PHP_EOL;
+	   	   . $replace['long']['char'] . ' [' . $replace['long']['code']. ']' . PHP_EOL;
 	}
 }
+fclose($file);
 if (count($replaced) > 0) {
 	echo 'replaced chars: ' . count($replaced) . PHP_EOL;
 } 

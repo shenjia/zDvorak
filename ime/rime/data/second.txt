@@ -86,7 +86,7 @@ duo	多
 
 fa	发
 fan	反
-fang	方
+fang	放
 fei	飞
 fen	分
 feng	风
@@ -143,7 +143,7 @@ jie	接
 jin	进
 jing	经
 jiong	窘
-jiu	九
+jiu	酒
 ju	据
 juan	卷
 jue	觉
@@ -154,7 +154,7 @@ kai	开
 kan	看
 kang	抗
 kao	靠
-ke	可
+ke	课
 ken	肯
 keng	坑
 kong	空
@@ -247,18 +247,18 @@ pei	陪
 pen	喷
 peng	碰
 pi	皮
-pian	片
+pian	篇
 piao	票
 pie	撇
 pin	品
-ping	凭
+ping	平
 po	破
 pou	剖
 pu	普
 
 qi	其
 qia	掐
-qian	千
+qian	钱
 qiang	强
 qiao	桥
 qie	且
@@ -278,7 +278,7 @@ re	热
 ren	任
 reng	仍
 ri	日
-rong	荣
+rong	容
 rou	肉
 ru	如
 ruan	软
@@ -346,7 +346,7 @@ tuo	托
 
 wa	哇
 wai	外
-wan	万
+wan	玩
 wang	王
 wei	为
 wen	文
@@ -358,7 +358,7 @@ xi	系
 xia	下
 xian	先
 xiang	想
-xiao	笑
+xiao	小
 xie	写
 xin	新
 xing	行
@@ -405,7 +405,7 @@ zuo	做
 
 zha	炸
 zhai	摘
-zhan	占
+zhan	站
 zhang	张
 zhao	找
 zhe	着

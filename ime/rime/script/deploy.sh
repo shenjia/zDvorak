@@ -18,8 +18,8 @@ $PHP_PARSER $ZDVORAK_PATH/ime/rime/script/build_symbols_dict.php
 echo "build chars dictionary..." 
 $PHP_PARSER $ZDVORAK_PATH/ime/rime/script/build_chars_dict.php
 
-echo "build words dictionary..." 
-$PHP_PARSER $ZDVORAK_PATH/ime/rime/script/build_words_dict.php
+#echo "build words dictionary..." 
+#$PHP_PARSER $ZDVORAK_PATH/ime/rime/script/build_words_dict.php
 
 echo "reload rime..."
 cp -f $ZDVORAK_PATH/ime/rime/build/*.yaml "$RIME_CONF_PATH"
