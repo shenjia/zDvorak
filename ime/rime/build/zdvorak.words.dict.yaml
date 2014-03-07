@@ -672,7 +672,6 @@ bidj	弊端	1
 bidt	逼到	1
 bide	彼得	1
 bidr	必定	1
-bidu	必读	1
 bidc	比对	1
 bita	比他	1
 bite	比特	1
@@ -1055,7 +1054,6 @@ bomo	薄膜	1
 bomu	伯母	1
 boz'	播放	1
 bozu	拨付	1
-bodj	波段	1
 boda	拨打	1
 bodt	波导	1
 bode	博得	1
@@ -2115,7 +2113,6 @@ msoe	瞒着	1
 mso,	满洲	1
 msa'	漫长	1
 msa.	满城	1
-mses	满山	1
 msen	满身	1
 msei	满是	1
 ms'h	满载	1
@@ -2238,7 +2235,6 @@ m.m.	蒙蒙	1
 m.m;	蒙面	1
 m.za	萌发	1
 m.dt	梦到	1
-m.de	猛地	1
 m.dk	懵懂	1
 m.ns	猛男	1
 m.nq	蒙牛	1
@@ -2538,7 +2534,6 @@ mlh,	秒后	1
 mlhc	描绘	1
 mlil	渺小	1
 mlim	描写	1
-mlod	瞄准	1
 mlok	秒钟	1
 mlea	秒杀	1
 mlei	藐视	1
@@ -2694,11 +2689,11 @@ mozp	莫非	1
 modj	末端	1
 moda	莫大	1
 modt	摸到	1
-mod.	摩登	1
 modi	摸底	1
 mote	模特	1
 mot,	魔头	1
 moto	摩托	1
+mony	魔女	1
 mons	磨难	1
 moni	模拟	1
 mon;	末年	1
@@ -2788,10 +2783,7 @@ mumn	木门	1
 mum;	木棉	1
 mumb	牧民	1
 mumu	木木	1
-muds	牡丹	1
-mude	目地	1
 mudi	目的	1
-mudl	木雕	1
 mudu	目睹	1
 muts	木炭	1
 muti	母体	1
@@ -2887,7 +2879,7 @@ zals	发牢骚	1
 zal'	发廊	1
 zalt	法老	1
 zali	发力	1
-zalg	法轮功	1
+zalg	发亮	1
 zalr	法令	1
 zagj	法官	1
 zagg	发光	1
@@ -3419,7 +3411,6 @@ zpdi	飞抵	1
 zpd;	非典	1
 zpdl	费德勒	1
 zpdm	飞碟	1
-zpdu	飞度	1
 zpt.	沸腾	1
 zpt;	飞天	1
 zptr	飞艇	1
@@ -6790,7 +6781,6 @@ n;zn	年份	1
 n;zp	年费	1
 n;zo	念佛	1
 n;dh	年代	1
-n;dt	念叨	1
 n;de	年的	1
 n;di	年底	1
 n;du	年度	1
@@ -7440,7 +7430,6 @@ lpms	雷曼	1
 lpmr	雷鸣	1
 lpmu	类目	1
 lpz.	雷锋	1
-lpda	雷达	1
 lpde	累得	1
 lpd;	雷电	1
 lpth	擂台	1
@@ -7492,7 +7481,6 @@ lidh	历代	1
 lidt	力道	1
 lide	离得	1
 lidi	离地	1
-lid,	里都	1
 lidk	李东	1
 lidu	力度	1
 lido	利多	1
@@ -7942,9 +7930,7 @@ lrbs	领班	1
 lrph	令牌	1
 lrmb	灵敏	1
 lrmu	令人满意	1
-lrdh	领带	1
 lrd'	铃铛	1
-lrdt	领导	1
 lrdi	领地	1
 lrd;	零点	1
 lrdk	灵动	1
@@ -8196,7 +8182,6 @@ lum'	鲁莽	1
 lum;	路面	1
 luzp	路费	1
 ludj	路段	1
-lud.	路灯	1
 ludi	陆地	1
 lud;	露点	1
 luth	露台	1
@@ -8257,7 +8242,6 @@ lomo	落寞	1
 lomu	落幕	1
 lozu	洛夫	1
 lods	罗丹	1
-lode	落得	1
 lodi	落地	1
 lod;	落点	1
 lodr	螺钉	1
@@ -8352,7 +8336,6 @@ gjz'	官方	1
 gjzu	官府	1
 gjdt	管道	1
 gjde	管得	1
-gjd.	关灯	1
 gjdi	官邸	1
 gjd;	观点	1
 gjdl	关掉	1
@@ -8380,7 +8363,6 @@ gjkk	管控	1
 gjhr	关怀	1
 gjht	管好	1
 gjhu	关乎	1
-gjjd	冠军	1
 gjji	关机	1
 gjjz	管家	1
 gjj;	关键	1
@@ -9919,7 +9901,6 @@ kez,	可否	1
 kezu	客服	1
 keda	可达	1
 ked'	可当	1
-kedt	可到	1
 kede	可得	1
 ked,	蝌蚪	1
 kedu	刻度	1
@@ -10436,7 +10417,6 @@ hgzu	皇甫	1
 hgds	荒诞	1
 hgd'	晃荡	1
 hgdi	皇帝	1
-hgd,	黄豆	1
 hgdk	晃动	1
 hgt'	荒唐	1
 hgnq	黄牛	1
@@ -10718,6 +10698,7 @@ hshs	韩寒	1
 hsh,	憨厚	1
 hshk	韩红	1
 hshu	含糊	1
+hsjd	汉军	1
 hsjz	寒假	1
 hsj;	罕见	1
 hsjl	含金量	1
@@ -11284,6 +11265,7 @@ hkir	红星	1
 hkiq	红袖	1
 hkoa	轰炸	1
 hkok	红肿	1
+hkad	红唇	1
 hkaa	红茶	1
 hkan	红尘	1
 hket	红烧	1
@@ -11493,7 +11475,6 @@ hcz,	会否	1
 hczu	回复	1
 hcda	回答	1
 hcd'	回荡	1
-hcdt	回到	1
 hcde	慧德	1
 hcd;	回电	1
 hcdl	毁掉	1
@@ -11771,7 +11752,6 @@ jide	记得	1
 jidi	基地	1
 jid;	几点	1
 jidl	基调	1
-jidm	急跌	1
 jidr	既定	1
 jidk	激动	1
 jidu	嫉妒	1
@@ -11947,7 +11927,6 @@ jzz'	甲方	1
 jzzn	加分	1
 jzz.	夹缝	1
 jzzp	钾肥	1
-jzda	加大	1
 jzd'	家当	1
 jzdt	加到	1
 jzde	家的	1
@@ -12085,9 +12064,9 @@ j;dj	间断	1
 j;dh	简单化	1
 j;ds	简单	1
 j;dt	见到	1
+j;de	间的	1
 j;di	减低	1
 j;d;	检点	1
-j;dl	剪掉	1
 j;dm	间谍	1
 j;dr	鉴定	1
 j;du	监督	1
@@ -12212,7 +12191,6 @@ jlzp	缴费	1
 jlzu	交付	1
 jldj	较短	1
 jlda	较大	1
-jldh	交代	1
 jldt	教导	1
 jlde	叫得	1
 jldi	较低	1
@@ -12453,7 +12431,6 @@ jmzp	劫匪	1
 jmzu	姐夫	1
 jmdj	阶段	1
 jmda	解答	1
-jmdh	接待	1
 jmds	接单	1
 jmdt	接到	1
 jmdi	阶段性	1
@@ -13529,7 +13506,6 @@ qgm;	墙面	1
 qgza	枪法	1
 qgdj	抢断	1
 qgda	强大	1
-qgdt	强盗	1
 qgdi	强敌	1
 qgdl	强调	1
 qgdu	强度	1
@@ -14558,7 +14534,6 @@ ildt	笑道	1
 ilde	晓得	1
 ildi	小弟	1
 ild;	小店	1
-ildl	小调	1
 ildr	小丁	1
 ild,	小豆	1
 ildk	晓东	1
@@ -14628,7 +14603,6 @@ ilhu	小虎	1
 ilho	小伙	1
 ilhc	销毁	1
 iljj	小娟	1
-iljd	小家电	1
 ilji	消极	1
 iljz	小家	1
 iljl	小精灵	1
@@ -15155,7 +15129,7 @@ iran	星辰	1
 ira.	形成	1
 ires	行善	1
 ire.	兴盛	1
-irei	形而上学	1
+irei	形式	1
 irrn	行人	1
 irrk	形容	1
 irru	形如	1
@@ -15532,7 +15506,6 @@ osbt	战报	1
 osbp	战备	1
 osb;	沾边	1
 osbu	占卜	1
-osph	站牌	1
 ospb	展品	1
 ospr	战平	1
 osma	战马	1
@@ -15803,7 +15776,6 @@ oedj	这段	1
 oeda	浙大	1
 oed'	遮挡	1
 oedt	这道	1
-oed.	这等	1
 oed;	这点	1
 oedm	折叠	1
 oed,	这都	1
@@ -16010,7 +15982,6 @@ o.za	蒸发	1
 o.zs	正反	1
 o.z'	正方	1
 o.zu	政府	1
-o.dj	争端	1
 o.dd	整顿	1
 o.da	睁大	1
 o.d'	正当	1
@@ -16158,18 +16129,15 @@ oizp	直飞	1
 oizu	支付	1
 oida	之大	1
 oidh	制度化	1
-oid'	只当	1
 oidt	知道	1
 oide	值得	1
 oidi	之地	1
 oid;	指点	1
 oidm	知道吗	1
-oidr	制定	1
 oidk	制动	1
 oidu	制度	1
 oido	之多	1
 oidc	支队	1
-oits	只谈	1
 oiti	肢体	1
 oitl	纸条	1
 oit,	指头	1
@@ -16219,7 +16187,6 @@ oih.	制衡	1
 oih,	之后	1
 oiho	之火	1
 oihc	智慧	1
-oijd	只觉得	1
 oiji	之际	1
 oijz	之家	1
 oij;	之间	1
@@ -16519,7 +16486,6 @@ ouzp	煮沸	1
 ouzo	诸佛	1
 ouzu	祝福	1
 ouda	主打	1
-oudt	主导	1
 oude	住的	1
 oudi	主动性	1
 oudr	注定	1
@@ -17582,7 +17548,6 @@ audr	初定	1
 audk	触动	1
 auth	出台	1
 auts	初探	1
-autt	出逃	1
 auti	出题	1
 aut;	楚天	1
 autr	出庭	1
@@ -18364,6 +18329,7 @@ e.zu	胜负	1
 e.da	盛大	1
 e.dh	声带	1
 e.ds	圣诞	1
+e.dt	升到	1
 e.de	省得	1
 e.di	圣地	1
 e.d;	省电	1
@@ -18852,7 +18818,6 @@ euza	书法	1
 euz'	书房	1
 euzu	舒服	1
 eudt	疏导	1
-eude	输得	1
 eudi	属地	1
 eud;	书店	1
 eudl	输掉	1
@@ -19411,7 +19376,6 @@ r,si	肉丝	1
 r,us	肉眼	1
 rkbu	绒布	1
 rkmt	容貌	1
-rkd.	荣登	1
 rkdk	溶洞	1
 rktk	融通	1
 rkna	容纳	1
@@ -19451,7 +19415,6 @@ ruz'	乳房	1
 ruz.	如风	1
 rud'	入党	1
 rudk	蠕动	1
-rudc	如对	1
 ruti	如题	1
 rut,	乳头	1
 rutk	如同	1
@@ -20007,6 +19970,7 @@ rc;s	瑞安	1
 ',gt	走高	1
 ',g,	走狗	1
 ',go	走过	1
+',kh	走开	1
 ',ht	走好	1
 ',h,	走后	1
 ',hk	走红	1
@@ -20383,7 +20347,6 @@ chza	采伐	1
 chz'	采访	1
 chz.	裁缝	1
 chzu	财富	1
-chda	财大	1
 chds	菜单	1
 chdt	菜刀	1
 chde	才得	1
@@ -21224,7 +21187,6 @@ suml	素描	1
 sumr	宿命	1
 sumu	肃穆	1
 suzp	苏菲	1
-suds	苏丹	1
 sudi	速递	1
 sudk	速度快	1
 sudu	速度	1
@@ -21271,7 +21233,6 @@ somn	锁门	1
 soza	所发	1
 sozs	所犯	1
 soz'	缩放	1
-sodj	缩短	1
 sodh	所带	1
 sodt	索道	1
 sode	所得	1
@@ -21896,7 +21857,6 @@ utdi	要低	1
 utd;	要点	1
 utdk	摇动	1
 utdo	要多	1
-utdc	要对	1
 utt.	腰疼	1
 uttl	窈窕	1
 uttr	要听	1
@@ -22145,8 +22105,6 @@ uizu	衣服	1
 uidj	一段	1
 uidd	一点点	1
 uida	一大	1
-uidh	一代	1
-uids	一旦	1
 uid'	一大早	1
 uidt	一道	1
 uide	一滴水	1
@@ -22459,13 +22417,10 @@ urza	英法	1
 urz.	迎风	1
 urzu	应付	1
 urda	应答	1
-urd'	应当	1
 urde	赢得	1
 urdi	营地	1
 urdm	影碟	1
 urdu	硬度	1
-urdo	应多	1
-urdc	应对	1
 urth	映泰	1
 urts	影坛	1
 urtt	樱桃	1
@@ -22487,7 +22442,6 @@ urht	英豪	1
 urhe	迎合	1
 urh,	影后	1
 urhc	萦回	1
-urjd	英俊	1
 urji	应急	1
 urjz	赢家	1
 urj;	硬件	1
@@ -23031,7 +22985,6 @@ wsdd	万吨	1
 wsda	万达	1
 wsds	完蛋	1
 wsdt	玩到	1
-wsde	玩的	1
 wsd;	晚点	1
 wsd,	豌豆	1
 wsdo	万多	1
@@ -23340,7 +23293,6 @@ wpd;	位点	1
 wpdr	未定	1
 wpdk	卫东	1
 wpdu	唯独	1
-wpdc	卫队	1
 wpte	委托书	1
 wpt.	胃疼	1
 wpti	为题	1
@@ -23582,7 +23534,6 @@ wuzn	五分	1
 wuz.	无缝	1
 wuzp	无非	1
 wudj	无端	1
-wuda	五大	1
 wudh	五代	1
 wud'	武当	1
 wudt	舞蹈	1
@@ -23782,7 +23733,6 @@ wu;s	午安	1
 ;hmu	爱慕	1
 ;hzu	爱抚	1
 ;hda	挨打	1
-;hdh	爱戴	1
 ;hdt	哀悼	1
 ;hde	爱的	1
 ;hta	爱他	1
@@ -24773,7 +24723,6 @@ zn'l	分子量	1
 znsm	粉丝们	1
 z.be	封闭式	1
 z.tq	丰台区	1
-z.ha	凤凰城	1
 z.hw	凤凰网	1
 z.jq	风景区	1
 z.ag	风吹过	1
@@ -25594,7 +25543,6 @@ ltzr	老妇人	1
 ltdg	老大哥	1
 ltdz	劳动法	1
 ltdl	劳动力	1
-ltdj	劳动局	1
 ltdo	劳动者	1
 lttp	老太婆	1
 ltt'	老头子	1
@@ -26671,7 +26619,6 @@ jluw	教育网	1
 jlwa	教务处	1
 jgme	江门市	1
 jgdd	将达到	1
-jgdl	讲道理	1
 jgdo	奖得主	1
 jgna	江南春	1
 jgls	降落伞	1
@@ -28561,7 +28508,6 @@ uddz	运动服	1
 uddl	运动量	1
 uddh	运动会	1
 uddi	运动鞋	1
-udda	运动场	1
 uddu	运动员	1
 udne	云南省	1
 udej	运输机	1
@@ -28698,7 +28644,6 @@ uiel	艺术类	1
 ui''	一座座	1
 uicc	一次次	1
 uisl	以色列	1
-uiss	一丝丝	1
 uiuq	一夜情	1
 uiuz	医药费	1
 uium	一样吗	1
@@ -28900,7 +28845,6 @@ w.ml	翁美玲	1
 wpbl	微波炉	1
 wpzi	未发现	1
 wpze	潍坊市	1
-wpdl	未登录	1
 wpd'	微电子	1
 wptm	维他命	1
 wptr	委托人	1

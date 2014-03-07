@@ -11,7 +11,7 @@ import_tables:
  - zdvorak.first
  - zdvorak.second
  - zdvorak.spells
- #- zdvorak.words
+ - zdvorak.words
 ...
 bak	把	165484
 bakg	把	165484
@@ -483,7 +483,7 @@ plja	漂	901
 plm	朴	351
 plml	朴	351
 plc	嫖	326
-plca	嫖	326
+plca	缥	25
 ple	瞟	248
 plea	瞟	248
 plac	瓢	185
@@ -754,6 +754,7 @@ mlch	缪	117
 ml;	邈	62
 ml;,	邈	62
 mld,	藐	51
+mlce	缈	43
 mmo	咩	8191
 mmou	咩	8191
 mms	乜	2194
@@ -1300,6 +1301,8 @@ dmi	谍	74
 dmia	谍	74
 dm,	牒	55
 dm,a	牒	55
+dmo	喋	39
+dmoa	喋	39
 drt	顶	12733
 drta	顶	12733
 dra	丁	4011
@@ -4992,6 +4995,8 @@ aua	亍	80
 auat	亍	80
 aul	怵	55
 aulm	怵	55
+aut	矗	51
+autt	矗	51
 aubs	刍	45
 auau	础	40
 aoc	绰	152
