@@ -6,11 +6,3 @@
 周玺权	zhou xi quan
 徐会侠	xu hui xia
 赶集	gan ji
-别称	bie cheng
-简称	jian cheng
-能不能	neng bu neng
-计算机	ji suan ji
-编程	bian cheng
-终止	zhong zhi
-未接	wei jie
-已接	yi jie

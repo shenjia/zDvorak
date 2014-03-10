@@ -8252,8 +8252,8 @@
 铜业	tong ye	132
 同业	tong ye	266
 同一	tong yi	3996
-同意	tong yi	11860
 统一	tong yi	12220
+同意	tong yi	14860
 通用	tong yong	2854
 同于	tong yu	427
 通往	tong wang	736
@@ -8983,6 +8983,7 @@
 那位	nei wei	1587
 内务	nei wu	109
 泥巴	ni ba	358
+你俩	ni liang	200
 你比	ni bi	178
 你不	ni bu	3976
 你怕	ni pa	151
@@ -20815,8 +20816,8 @@
 薪资	xin zi	501
 新作	xin zuo	531
 心醉	xin zui	113
-心存	xin cun	438
 新村	xin cun	728
+心存	xin cun	838
 新词	xin ci	144
 辛酸	xin suan	394
 心酸	xin suan	439
@@ -21855,7 +21856,6 @@
 这使	zhe shi	350
 这事	zhe shi	2491
 这时	zhe shi	4722
-这是	zhe shi	38748
 这首	zhe shou	1129
 这书	zhe shu	131
 这让	zhe rang	699
@@ -22579,8 +22579,8 @@
 致使	zhi shi	1300
 之时	zhi shi	2006
 指示	zhi shi	2358
-知识	zhi shi	13022
 只是	zhi shi	58095
+知识	zhi shi	63022
 只手	zhi shou	130
 只收	zhi shou	169
 之首	zhi shou	474
@@ -23093,6 +23093,7 @@
 注解	zhu jie	250
 住进	zhu jin	435
 铸就	zhu jiu	167
+筑起	zhu qi	200
 主权	zhu quan	709
 朱雀	zhu que	218
 助学	zhu xue	400
@@ -24781,8 +24782,8 @@
 杀人	sha ren	2904
 杀入	sha ru	335
 沙子	sha zi	699
-傻子	sha zi	1235
 啥子	sha zi	3941
+傻子	sha zi	4235
 杀死	sha si	1575
 沙哑	sha ya	238
 傻眼	sha yan	177
@@ -38751,6 +38752,7 @@
 折价率	zhe jia lv	123
 这家伙	zhe jia huo	824
 这件事	zhe jian shi	2479
+这就是	zhe jiu shi	4000
 浙江省	zhe jiang sheng	1806
 浙江人	zhe jiang ren	163
 这句话	zhe ju hua	3717
@@ -40688,6 +40690,7 @@
 医疗费	yi liao fei	286
 医疗队	yi liao dui	108
 一辆车	yi liang che	385
+一个人	yi ge ren	400
 一个劲	yi ge jin	446
 一根烟	yi gen yan	107
 一块块	yi kuai kuai	117
@@ -41884,6 +41887,7 @@
 贸易公司	mao yi gong si	208
 贸易伙伴	mao yi huo ban	146
 贸易顺差	mao yi shun cha	294
+扪心自问	men xin zi wen	300
 门当户对	men dang hu dui	125
 门户网站	men hu wang zhan	936
 梦寐以求	meng mei yi qiu	274
@@ -42000,6 +42004,7 @@
 民意调查	min yi diao cha	154
 民营经济	min ying jing ji	334
 民营企业	min ying qi ye	1208
+明辨是非	ming bian shi fei	100
 名言警句	ming yan jing ju	200
 名牌大学	ming pai da xue	188
 名牌产品	ming pai chan pin	196
@@ -42144,6 +42149,7 @@
 反垄断法	fan long duan fa	117
 反馈信息	fan kui xin xi	122
 番茄花园	fan qie hua yuan	178
+反之亦然	fan zhi yi ran	100
 泛珠三角	fan zhu san jiao	126
 犯罪分子	fan zui fen zi	348
 犯罪行为	fan zui xing wei	221
@@ -42151,6 +42157,7 @@
 翻译公司	fan yi gong si	177
 反应速度	fan ying su du	120
 范围之内	fan wei zhi nei	295
+放虎归山	fang hu gui shan	200
 方便快捷	fang bian kuai jie	195
 防不胜防	fang bu sheng fang	125
 方法研究	fang fa yan jiu	145
@@ -42570,7 +42577,6 @@
 东南西北	dong nan xi bei	131
 动感地带	dong gan di dai	334
 东张西望	dong zhang xi wang	111
-冬虫夏草	dong chong xia cao	109
 董事长兼	dong shi zhang jian	204
 动手能力	dong shou neng li	126
 动员大会	dong yuan da hui	216
@@ -42709,6 +42715,7 @@
 天衣无缝	tian yi wu feng	134
 天文学家	tian wen xue jia	147
 天文数字	tian wen shu zi	118
+添砖加瓦	tian zhuan jia wa	100
 条条框框	tiao tiao kuang kuang	100
 条件反射	tiao jian fan she	148
 铁路建设	tie lu jian she	148
@@ -42953,6 +42960,7 @@
 垃圾邮件	la ji you jian	418
 来到这里	lai dao zhe li	346
 来电显示	lai dian xian shi	112
+来来去去	lai lai qu qu	200
 来来回回	lai lai hui hui	128
 来来往往	lai lai wang wang	187
 来龙去脉	lai long qu mai	188
@@ -43226,6 +43234,7 @@
 广州本田	guang zhou ben tian	182
 广州车展	guang zhou che zhan	112
 广州日报	guang zhou ri bao	118
+戛然而止	jia ran er zhi	100
 改变自己	gai bian zi ji	421
 改头换面	gai tou huan mian	122
 改革发展	gai ge fa zhan	466
@@ -43247,6 +43256,7 @@
 感觉不到	gan jue bu dao	348
 感觉真好	gan jue zhen hao	106
 感激不尽	gan ji bu jin	136
+感情用事	gan qing yong shi	200
 感情生活	gan qing sheng huo	131
 钢铁行业	gang tie hang ye	187
 钢铁企业	gang tie qi ye	226
@@ -43520,6 +43530,7 @@
 公安分局	gong an fen ju	349
 公安机关	gong an ji guan	1515
 公安局长	gong an ju zhang	134
+顾影自怜	gu ying zi lian	200
 股票投资	gu piao tou zi	170
 股票基金	gu piao ji jin	130
 股票价格	gu piao jia ge	202
@@ -45457,6 +45468,7 @@
 指标体系	zhi biao ti xi	224
 知不知道	zhi bu zhi dao	540
 支部书记	zhi bu shu ji	140
+执迷不悟	zhi mi bu wu	200
 知名品牌	zhi ming pin pai	409
 知名企业	zhi ming qi ye	286
 知名人士	zhi ming ren shi	136
@@ -46658,6 +46670,7 @@
 认识自己	ren shi zi ji	121
 人寿保险	ren shou bao xian	126
 人数最多	ren shu zui duo	110
+人人自危	ren ren zi wei	200
 人人都有	ren ren dou you	133
 认认真真	ren ren zhen zhen	200
 忍辱负重	ren ru fu zhong	105
@@ -47241,6 +47254,7 @@
 研究成果	yan jiu cheng guo	598
 研究生院	yan jiu sheng yuan	285
 研究人员	yan jiu ren yuan	718
+偃旗息鼓	yan qi xi gu	200
 言情小说	yan qing xiao shuo	134
 烟消云散	yan xiao yun san	175
 研制成功	yan zhi cheng gong	179
@@ -47256,6 +47270,7 @@
 养成良好	yang cheng liang hao	129
 央视春晚	yang shi chun wan	128
 仰卧起坐	yang wo qi zuo	128
+腰缠万贯	yao chan wan guan	200
 遥不可及	yao bu ke ji	175
 要多少钱	yao duo shao qian	169
 摇身一变	yao shen yi bian	141
@@ -47480,6 +47495,7 @@
 亿万富翁	yi wan fu weng	183
 一网打尽	yi wang da jin	167
 一望无际	yi wang wu ji	128
+一文不名	yi wen bu ming	100
 一文不值	yi wen bu zhi	107
 意味深长	yi wei shen chang	191
 以为自己	yi wei zi ji	744
@@ -47916,6 +47932,7 @@
 我一定会	wo yi ding hui	411
 我爱我家	wo ai wo jia	133
 无边无际	wu bian wu ji	110
+无不如此	wu bu ru ci	200
 无病呻吟	wu bing shen yin	128
 物美价廉	wu mei jia lian	186
 无法访问	wu fa fang wen	137

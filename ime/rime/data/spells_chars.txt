@@ -13162,10 +13162,10 @@
 刄	ren	72
 壬	ren	139
 韧	ren	230
-刃	ren	557
 仁	ren	2400
 认	ren	2412
-忍	ren	2612
+忍	ren	3312
+刃	ren	3557
 任	ren	7851
 人	ren	250285
 芿	reng	1

@@ -40,8 +40,8 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 		return;
 	}
 	// skip if have 4 chars but not a phrase
-	if (mb_strlen($word, 'utf-8') == 4 and !isset($phrases[$word])) {
-		$skip_words[] = $word;
+	if (mb_strlen($word, 'utf-8') >= 4 and !isset($phrases[$word])) {
+		$skip_words[$word] = $weight;
 		return;
 	}
 	// insert if not exists
@@ -51,9 +51,14 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 			'weight' => $weight
 		);
 	} 
+	// don't replace 2-chars phrase with 3-chars
+	else if (mb_strlen($word, 'utf-8') == 3 and mb_strlen($words[$code]['word'], 'utf-8') == 2) {
+		$skip_words[$word] = $weight;
+		return;
+	}
 	// swap x-chars phrase with 4-chars phrase
 	else if (mb_strlen($word, 'utf-8') == 4 and isset($phrases[$word]) and $words[$code]['word'] < 4) {
-		$skip_words[] = $words[$code]['word'];
+		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
 		$words[$code] = array(
 			'word' => $word,
 			'weight' => $weight
@@ -61,7 +66,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 	}
 	// swap if the new one got higher weight
 	else if ($weight >= $words[$code]['weight']) {
-		$skip_words[] = $words[$code]['word'];
+		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
 		$words[$code] = array(
 			'word' => $word,
 			'weight' => $weight
@@ -69,7 +74,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 	} 
 	// skip if the new one got lower weight
 	else {
-		$skip_words[] = $word;
+		$skip_words[$word] = $weight;
 	}
 });
 
@@ -79,7 +84,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words){
 	list($word, $spell, $weight) = explode("\t", trim($line));
 	$code = Encoder::ins()->encodeSpells($spell);
 	if (isset($words[$code])) {
-		$skip_words[] = $words[$code]['word'];
+		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
 	}
 	$words[$code] = array(
 		'word' => $word,
@@ -102,9 +107,10 @@ fclose($dict);
 
 // save skip 2-chars words
 $file = fopen(__DIR__ . '/../data/skiped_words.txt', 'w');
-foreach ($skip_words as $word) {
+arsort($skip_words);
+foreach ($skip_words as $word => $weight) {
 	if (mb_strlen($word, 'utf-8') == 2) {
-		fputs($file, $word . "\t" . PHP_EOL);
+		fputs($file, $word . "\t" . $weight. "\t" . PHP_EOL);
 	}
 }
 fclose($file);
