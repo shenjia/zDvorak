@@ -7,7 +7,7 @@ columns:
   - text
   - weight
 import_tables:
- #- zdvorak.symbols
+ - zdvorak.symbols
  - zdvorak.first
  - zdvorak.second
  - zdvorak.spells

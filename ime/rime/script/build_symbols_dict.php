@@ -20,9 +20,10 @@ $scanner->scan(function($line)use(&$maps){
 $dict = fopen(__DIR__ . '/../build/zdvorak.symbols.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.symbols.dict.yaml');
 fwrite($dict, $header);
+$weight = count($maps);
 foreach($maps as $code => $parts) {
 	foreach ($parts as $part) {
-		fputs($dict, $code . "\t" . $part . PHP_EOL);
+		fputs($dict, $code . "\t" . $part . "\t" . $weight-- . PHP_EOL);
 	}
 }
 fclose($dict);
