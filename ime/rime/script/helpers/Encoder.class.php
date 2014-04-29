@@ -107,7 +107,7 @@ class Encoder {
 		return $code[0] == ';' ? $code[1] : $code[0];
 	}
 
-	private function _getCharCode($char) {
+	public function getCharCode($char) {
 		if (isset($this->_chars_map[$char])) {
 			return $this->_chars_map[$char];
 		} else {
@@ -117,7 +117,7 @@ class Encoder {
 		}
 	}
 
-	private function _setCharCode($char, $code) {
+	public function setCharCode($char, $code) {
 		if (isset($this->_chars_map[$char])) {
 			echo 'duplicate code [' . $code . '] for char [' . $part . '].' . PHP_EOL;
 			$this->_duplicated[$char] = 1;
@@ -131,27 +131,29 @@ class Encoder {
 	}
 
 	private function _loadSymbolsMap() {
+		$encoder = $this;
 		$scanner = new Scanner(MAPS_SYMBOLS);
-		$scanner->scan(function($line){
+		$scanner->scan(function($line)use($encoder){
 			list($code, $parts) = explode("\t", trim($line));
 			$count = mb_strlen($parts, 'utf-8');
 			for ($i = 0; $i < $count; $i++) {
 				$symbol = mb_substr($parts, $i, 1, 'utf-8');
-				$this->_setCharCode($symbol, $code);
+				$encoder->setCharCode($symbol, $code);
 			}
 		});
 	}
 
 	private function _loadCharsMap() {
+		$encoder = $this;
 		$scanner = new Scanner(MAPS_CHARS);
-		$scanner->scan(function($line)use(&$symbols){
+		$scanner->scan(function($line)use(&$symbols, $encoder){
 			list($symbol, $chars) = explode("\t", trim($line));
 			if (empty($chars)) return;
-			if ($code = $this->_getCharCode($symbol)) {
+			if ($code = $encoder->getCharCode($symbol)) {
 				$count = mb_strlen($chars, 'utf-8');
 				for ($i = 0; $i < $count; $i++) {
 					$char = mb_substr($chars, $i, 1, 'utf-8');
-					$this->_setCharCode($char, $code);
+					$encoder->setCharCode($char, $code);
 				}
 			}
 		});
