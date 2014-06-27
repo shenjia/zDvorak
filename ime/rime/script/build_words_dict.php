@@ -56,6 +56,11 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cha
 		$skip_words[$word] = $weight;
 		return;
 	}
+	// don't replace 2-chars phrase with 4-chars
+	else if (mb_strlen($word, 'utf-8') == 4 and mb_strlen($words[$code]['word'], 'utf-8') == 2) {
+		$skip_words[$word] = $weight;
+		return;
+	}
 	// swap x-chars phrase with 4-chars phrase
 	else if (mb_strlen($word, 'utf-8') == 4 and isset($phrases[$word]) and $words[$code]['word'] < 4) {
 		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
