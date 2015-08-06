@@ -69,7 +69,7 @@ foreach ($spells as $spell => $chars) {
 		if ($charCode && $spellCode) {
 			$code = $spellCode . $charCode;
 			$short = $spellCode . substr($charCode, 0, 1);
-			
+
 			// skip if already take first or second code
 			if ($char == $first[substr($spellCode, 0, 1)]['char'] 
 		     || $char == $second[$spellCode]['char'] ) continue;
@@ -81,6 +81,9 @@ foreach ($spells as $spell => $chars) {
 					'weight' => $weight
 				));
 			}
+					if ($char=='合') {
+						var_dump($code, $short);
+					}
 			// if char have full code
 			if ($code != $short) {
 				// record char
@@ -89,9 +92,6 @@ foreach ($spells as $spell => $chars) {
 						'char' => $char,
 						'weight' => $weight
 					));
-					if ($short=='btb') {
-						//var_dump($codes[$code]);
-					}
 				}
 				// if the old one take short code, replace it
 				else if ($codes[$code][0]['char'] == $codes[$short][0]['char']) {
