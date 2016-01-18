@@ -5,6 +5,7 @@ require __DIR__ . '/helpers/Encoder.class.php';
 define('WORD_WEIGHT', 1);
 define('HIGH_WORD_WEIGHT', 3000);
 define('HIGH_CHAR_WEIGHT', 500);
+define('DEBUG_WORD', '');
 
 // load chars dict
 $codes = array();
@@ -41,7 +42,8 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 	if (isset($codes[$code]) && !empty($codes[$code])) {
 		// skip if deal with low weight word, or the code has conflict chars
 		if ($weight < HIGH_WORD_WEIGHT || count($codes[$code]) > 1) {
-			$conflict_words[] = $word;
+			$conflict_words[$word] = $weight;
+			if (DEBUG_WORD == $word) echo 'word [' . $word . '] conflicted or have low weight.' . PHP_EOL;
 			return;
 		}
 		// take code if char take both code
@@ -53,33 +55,38 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 		else if ($codes[$code][0]['weight'] < HIGH_CHAR_WEIGHT) {
 			echo 'word [' . $word . '] take code [' . $code . '] from char [' . $codes[$code][0]['char'] . '] and replaced it with [' . $short . '].' . PHP_EOL;
 			$codes[$short][] = array_shift($codes[$code]);
+		} 
+		// skip words cause it conflict with char
+		else {
+			$conflict_words[$word] = $weight;
+			if (DEBUG_WORD == $word) echo 'word [' . $word . '] conflict with char.' . PHP_EOL;
+			return;
 		}
 	}
 	// skip if have 4 chars but not a phrase
 	if (mb_strlen($word, 'utf-8') >= 4 and !isset($phrases[$word])) {
 		$skip_words[$word] = $weight;
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] skipped for have 4 chars but not a phrase.' . PHP_EOL;
 		return;
 	}
 	// insert if not exists
 	if (!isset($words[$code])) {
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] insert with code [' . $code . ']!' . PHP_EOL;
 		$words[$code] = array(
 			'word' => $word,
 			'weight' => $weight
 		);
 	} 
-	// don't replace 2-chars phrase with 3-chars
-	else if (mb_strlen($word, 'utf-8') == 3 and mb_strlen($words[$code]['word'], 'utf-8') == 2) {
+	// don't replace 2-chars phrase with 3/4-chars
+	else if (mb_strlen($word, 'utf-8') >= 3 and mb_strlen($words[$code]['word'], 'utf-8') == 2) {
 		$skip_words[$word] = $weight;
-		return;
-	}
-	// don't replace 2-chars phrase with 4-chars
-	else if (mb_strlen($word, 'utf-8') == 4 and mb_strlen($words[$code]['word'], 'utf-8') == 2) {
-		$skip_words[$word] = $weight;
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] skipped for prevent replace 2 chars words [' . $words[$code]['word'] . '].' . PHP_EOL;
 		return;
 	}
 	// swap x-chars phrase with 4-chars phrase
 	else if (mb_strlen($word, 'utf-8') == 4 and isset($phrases[$word]) and $words[$code]['word'] < 4) {
 		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] swap with word [' . $words[$code]['word'] . ']!' . PHP_EOL;
 		$words[$code] = array(
 			'word' => $word,
 			'weight' => $weight
@@ -88,6 +95,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 	// swap if the new one got higher weight
 	else if ($weight >= $words[$code]['weight']) {
 		$skip_words[$words[$code]['word']] = $words[$code]['weight'];
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] swap with word [' . $words[$code]['word'] . '] for higher weight!' . PHP_EOL;
 		$words[$code] = array(
 			'word' => $word,
 			'weight' => $weight
@@ -96,6 +104,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 	// skip if the new one got lower weight
 	else {
 		$skip_words[$word] = $weight;
+		if (DEBUG_WORD == $word) echo 'word [' . $word . '] skipped for lower weight.' . PHP_EOL;
 	}
 });
 
