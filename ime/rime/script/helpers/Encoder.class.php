@@ -127,7 +127,7 @@ class Encoder {
 	}
 
 	private function _loadSpellsMap() {
-		$this->_spells_map = require __DIR__ . '/../../data/maps_spells.php';
+		$this->_spells_map = require MAPS_SPELLS;
 	}
 
 	private function _loadSymbolsMap() {

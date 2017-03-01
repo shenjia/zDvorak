@@ -48,7 +48,12 @@ $scanner->scan(function($line)use($maps, &$spells, &$chars, $skip_spells, &$skip
 	// map spell
 	if (!isset($spells[$spell])) $spells[$spell] = array();
 	$spells[$spell][$char] = $weight; 
-	$chars[$char] = isset($chars[$char]) ? max($weight, $chars[$char]) : $weight;
+	if (!isset($chars[$char]) || $weight > $chars[$char]['weight']) {
+		$chars[$char] = array(
+			'spell' => $spell,
+			'weight' => $weight
+		);
+	}
 	//echo $maps[$spell] . "\t" . $char . "\t" . $weight . PHP_EOL;
 });
 
@@ -63,8 +68,8 @@ $letters_count = array();
 $dict = fopen(__DIR__ . '/../build/zdvorak.spells.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.spells.dict.yaml');
 fwrite($dict, $header);
-foreach($spells as $spell => $chars) {
-	foreach ($chars as $char => $weight) {
+foreach($spells as $spell => $spellChars) {
+	foreach ($spellChars as $char => $weight) {
 		fputs($dict, $maps[$spell] . "\t" . $char . "\t" . $weight . PHP_EOL);
 		// record count
 		$letter = $maps[$spell][1];
@@ -96,12 +101,9 @@ $output = fopen(__DIR__ . '/../data/spells_chars.php', 'w');
 fwrite($output, '<?php return ' . var_export($spells, true) . ';');
 fclose($output);
 
-// sort chars and save
-$output = fopen(__DIR__ . '/../data/chars.txt', 'w');
-arsort($chars);
-foreach ($chars as $char => $weight) {
-	fputs($output, $char . "\t" . PHP_EOL);
-}
+// save chars as array
+$output = fopen(__DIR__ . '/../data/chars_spells.php', 'w');
+fwrite($output, '<?php return ' . var_export($chars, true) . ';');
 fclose($output);
 
 // done

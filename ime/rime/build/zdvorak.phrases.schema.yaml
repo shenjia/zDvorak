@@ -1,0 +1,12 @@
+# Rime schema settings
+# enconding: utf-8
+
+# work around: currently we need a schema to build the dictionary 'zdvorak.phrases'
+
+schema:
+  schema_id: zdvorak.phrases
+  name: 'zdvorak phrases'
+  version: '1.0'
+
+translator:
+  dictionary: zdvorak.phrases

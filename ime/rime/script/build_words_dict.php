@@ -1,10 +1,12 @@
 <?php
 error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
+require __DIR__ . '/helpers/Speller.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
 define('WORD_WEIGHT', 1);
 define('HIGH_WORD_WEIGHT', 3000);
 define('HIGH_CHAR_WEIGHT', 500);
+define('PHRASE_PREFIX', '');
 define('DEBUG_WORD', '');
 
 // load chars dict
@@ -38,6 +40,10 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 	list($word, $spell, $weight) = explode("\t", trim($line));
 	$code = Encoder::ins()->encodeSpells($spell);
 	$short = substr($code, 0, 3);
+	// skip phrase words
+	if (mb_strlen($word, 'utf-8') >= 4 and isset($phrases[$word])) {
+		return;
+	}
 	// conflict with char
 	if (isset($codes[$code]) && !empty($codes[$code])) {
 		// skip if deal with low weight word, or the code has conflict chars
@@ -62,12 +68,6 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 			if (DEBUG_WORD == $word) echo 'word [' . $word . '] conflict with char.' . PHP_EOL;
 			return;
 		}
-	}
-	// skip if have 4 chars but not a phrase
-	if (mb_strlen($word, 'utf-8') >= 4 and !isset($phrases[$word])) {
-		$skip_words[$word] = $weight;
-		if (DEBUG_WORD == $word) echo 'word [' . $word . '] skipped for have 4 chars but not a phrase.' . PHP_EOL;
-		return;
 	}
 	// insert if not exists
 	if (!isset($words[$code])) {
@@ -147,7 +147,7 @@ foreach ($codes as $code => $chars) {
 }
 fclose($dict);
 
-// build work dict
+// build word dict
 $dict = fopen(__DIR__ . '/../build/zdvorak.words.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.words.dict.yaml');
 fwrite($dict, $header);
@@ -155,6 +155,22 @@ foreach ($words as $code => $word) {
 	fputs($dict, $code . "\t" . $word['word'] . "\t" . WORD_WEIGHT . PHP_EOL);
 }
 fclose($dict);
+
+// build phrase dict
+$dict = fopen(__DIR__ . '/../build/zdvorak.phrases.dict.yaml', 'w');
+$header = file_get_contents(__DIR__ . '/../template/zdvorak.phrases.dict.yaml');
+fwrite($dict, $header);
+foreach ($phrases as $phrase => $weight) {
+	$spell = Speller::ins()->spellWord($phrase);
+	if (!$spell) continue;
+	$code = Encoder::ins()->encodeSpells($spell);
+	if (!$code) continue;
+	fputs($dict, $code . "\t" . $phrase . "\t" . WORD_WEIGHT . PHP_EOL);
+}
+fclose($dict);
+echo 'missed spell: ' 
+   . count(Speller::ins()->missedChars()) . ' chars, ' 
+   . count(Speller::ins()->missedWords()) . ' phrases' . PHP_EOL;
 
 // save skip 2-chars words
 $file = fopen(__DIR__ . '/../data/skiped_words.txt', 'w');
