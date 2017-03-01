@@ -72,7 +72,7 @@ phrase:
   enable_user_dict: false
   enable_completion: true
   prefix: 'v'
-  tips: '〔成语模式〕按两下esc推出'
+  tips: '〔成语模式〕按esc退出'
 
 punctuator:
   import_preset: default

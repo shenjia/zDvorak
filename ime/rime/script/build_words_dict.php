@@ -27,8 +27,8 @@ $scanner->scan(function($line)use(&$codes){
 $phrases = array();
 $scanner = new Scanner(__DIR__ . '/../data/phrases.txt');
 $scanner->scan(function($line)use(&$phrases){
-	$phrase = trim($line);
-	$phrases[$phrase] = 1;
+	list($phrase, $weight) = explode("\t", trim($line));
+	$phrases[$phrase] = $weight;
 });
 
 // load words

@@ -2,7 +2,7 @@
 error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
 
-define('MIN_CHAR_WEIGHT', 7);
+define('MIN_CHAR_WEIGHT', 1);
 //define('LETTERS_COUNT', true);
 //define('COUNT_BY_WEIGHT', true);
 

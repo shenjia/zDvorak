@@ -6,7 +6,7 @@ define('SPELL_SPLITTER', ' ');
 
 class Speller
 {
-	private $_showMissed = false;
+	private $_showMissed = true;
 	private $_missedChars = array();
 	private $_missedWords = array();
 	private $_chars_spells_map = array();

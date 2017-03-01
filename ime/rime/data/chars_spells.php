@@ -1,4 +1,69 @@
 <?php return array (
+  '蚆' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '弝' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '抜' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '朳' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '覇' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '胈' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '豝' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '1',
+  ),
+  '癹' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '2',
+  ),
+  '矲' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '2',
+  ),
+  '壩' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '2',
+  ),
+  '菝' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '2',
+  ),
+  '犮' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '3',
+  ),
+  '鲅' => 
+  array (
+    'spell' => 'ba',
+    'weight' => '5',
+  ),
   '仈' => 
   array (
     'spell' => 'ba',
@@ -129,6 +194,26 @@
     'spell' => 'ba',
     'weight' => '385205',
   ),
+  '拝' => 
+  array (
+    'spell' => 'bai',
+    'weight' => '2',
+  ),
+  '擘' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '14',
+  ),
+  '粨' => 
+  array (
+    'spell' => 'bai',
+    'weight' => '3',
+  ),
+  '栢' => 
+  array (
+    'spell' => 'bai',
+    'weight' => '6',
+  ),
   '粺' => 
   array (
     'spell' => 'bai',
@@ -208,6 +293,61 @@
   array (
     'spell' => 'bai',
     'weight' => '15236',
+  ),
+  '鉡' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '1',
+  ),
+  '怑' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '1',
+  ),
+  '鈑' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '1',
+  ),
+  '昄' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '2',
+  ),
+  '姅' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '2',
+  ),
+  '柈' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '3',
+  ),
+  '蝂' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '3',
+  ),
+  '絆' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '3',
+  ),
+  '舨' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '3',
+  ),
+  '頒' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '3',
+  ),
+  '粄' => 
+  array (
+    'spell' => 'ban',
+    'weight' => '4',
   ),
   '湴' => 
   array (
@@ -329,6 +469,46 @@
     'spell' => 'ban',
     'weight' => '17518',
   ),
+  '縍' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '1',
+  ),
+  '搒' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '1',
+  ),
+  '鎊' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '1',
+  ),
+  '鞤' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '2',
+  ),
+  '塝' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '3',
+  ),
+  '謗' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '3',
+  ),
+  '蒡' => 
+  array (
+    'spell' => 'bang',
+    'weight' => '3',
+  ),
+  '旁' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '2491',
+  ),
   '綁' => 
   array (
     'spell' => 'bang',
@@ -413,6 +593,71 @@
   array (
     'spell' => 'bang',
     'weight' => '30125',
+  ),
+  '炮' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '1292',
+  ),
+  '虣' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '鴇' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '鑤' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '媬' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '珤' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '蕔' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '1',
+  ),
+  '窇' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '2',
+  ),
+  '笣' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '3',
+  ),
+  '趵' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '3',
+  ),
+  '瀑' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '194',
+  ),
+  '褓' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '6',
+  ),
+  '儤' => 
+  array (
+    'spell' => 'bao',
+    'weight' => '6',
   ),
   '鮑' => 
   array (
@@ -574,6 +819,26 @@
     'spell' => 'bao',
     'weight' => '15389',
   ),
+  '泍' => 
+  array (
+    'spell' => 'ben',
+    'weight' => '1',
+  ),
+  '錛' => 
+  array (
+    'spell' => 'ben',
+    'weight' => '1',
+  ),
+  '夯' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '135',
+  ),
+  '坌' => 
+  array (
+    'spell' => 'ben',
+    'weight' => '6',
+  ),
   '畚' => 
   array (
     'spell' => 'ben',
@@ -619,6 +884,41 @@
     'spell' => 'ben',
     'weight' => '24833',
   ),
+  '菶' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '1',
+  ),
+  '琫' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '1',
+  ),
+  '埲' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '2',
+  ),
+  '祊' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '3',
+  ),
+  '甏' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '4',
+  ),
+  '伻' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '6',
+  ),
+  '繃' => 
+  array (
+    'spell' => 'beng',
+    'weight' => '6',
+  ),
   '嘣' => 
   array (
     'spell' => 'beng',
@@ -653,6 +953,116 @@
   array (
     'spell' => 'beng',
     'weight' => '852',
+  ),
+  '糒' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '藣' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '骳' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '梖' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '狽' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '襬' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '憊' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '桮' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '鞁' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '1',
+  ),
+  '揹' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '2',
+  ),
+  '鋇' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '2',
+  ),
+  '誖' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '2',
+  ),
+  '椑' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '2',
+  ),
+  '庳' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '2',
+  ),
+  '鐾' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '3',
+  ),
+  '牬' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '3',
+  ),
+  '琲' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '3',
+  ),
+  '鞴' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '3',
+  ),
+  '褙' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '3',
+  ),
+  '鹎' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '4',
+  ),
+  '邶' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '5',
+  ),
+  '珼' => 
+  array (
+    'spell' => 'bei',
+    'weight' => '6',
   ),
   '偝' => 
   array (
@@ -788,6 +1198,276 @@
   array (
     'spell' => 'bei',
     'weight' => '138128',
+  ),
+  '奰' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '蜌' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '朼' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '駜' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '罼' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '疕' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '熚' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '貏' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '蓽' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '贔' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '腷' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '廦' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '獘' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '鏎' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '篳' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '坒' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '髲' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '鄪' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '怭' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '幤' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '愊' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '縪' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '舭' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '匂' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '蹕' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '閇' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '綼' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '珌' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '潷' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '1',
+  ),
+  '秘' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '608',
+  ),
+  '觱' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '皕' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '嗶' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '痺' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '邲' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '沘' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '獙' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '粊' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '賁' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '柀' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '狴' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '詖' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '2',
+  ),
+  '疪' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '3',
+  ),
+  '荸' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '3',
+  ),
+  '閟' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '3',
+  ),
+  '睥' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '3',
+  ),
+  '躄' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '3',
+  ),
+  '斃' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '4',
+  ),
+  '萆' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '4',
+  ),
+  '堛' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '4',
+  ),
+  '幣' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '5',
+  ),
+  '筚' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '6',
+  ),
+  '愎' => 
+  array (
+    'spell' => 'bi',
+    'weight' => '6',
+  ),
+  '泌' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '62',
   ),
   '嬶' => 
   array (
@@ -1079,6 +1759,106 @@
     'spell' => 'bi',
     'weight' => '68654',
   ),
+  '甂' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '惼' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '豍' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '艑' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '揙' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '萹' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '辧' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '1',
+  ),
+  '髟' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '辮' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '籩' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '窆' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '缏' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '碥' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '2',
+  ),
+  '箯' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '3',
+  ),
+  '抃' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '3',
+  ),
+  '貶' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '4',
+  ),
+  '鳊' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '4',
+  ),
+  '邉' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '5',
+  ),
+  '蝙' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '5',
+  ),
+  '辯' => 
+  array (
+    'spell' => 'bian',
+    'weight' => '6',
+  ),
   '忭' => 
   array (
     'spell' => 'bian',
@@ -1209,6 +1989,91 @@
     'spell' => 'bian',
     'weight' => '16095',
   ),
+  '瀌' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '墂' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '爂' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '贆' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '檦' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '滮' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '猋' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '瘭' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '鏢' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '熛' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '1',
+  ),
+  '鑣' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '驃' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '褾' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '藨' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '諘' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '儦' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '2',
+  ),
+  '飆' => 
+  array (
+    'spell' => 'biao',
+    'weight' => '6',
+  ),
   '鳔' => 
   array (
     'spell' => 'biao',
@@ -1304,6 +2169,51 @@
     'spell' => 'biao',
     'weight' => '18141',
   ),
+  '襒' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '虌' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '鼈' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '癟' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '柲' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '蟞' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '咇' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '鱉' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
+  '彆' => 
+  array (
+    'spell' => 'bie',
+    'weight' => '1',
+  ),
   '蹩' => 
   array (
     'spell' => 'bie',
@@ -1333,6 +2243,61 @@
   array (
     'spell' => 'bie',
     'weight' => '48130',
+  ),
+  '椕' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '虨' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '臏' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '濵' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '擯' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '蠙' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '瀕' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '1',
+  ),
+  '繽' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '2',
+  ),
+  '鬢' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '4',
+  ),
+  '濱' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '4',
+  ),
+  '邠' => 
+  array (
+    'spell' => 'bin',
+    'weight' => '6',
   ),
   '儐' => 
   array (
@@ -1428,6 +2393,101 @@
   array (
     'spell' => 'bin',
     'weight' => '1546',
+  ),
+  '鞆' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '庰' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '怲' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '窉' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '陃' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '誁' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '苪' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '檳' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '梹' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '1',
+  ),
+  '寎' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '2',
+  ),
+  '竝' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '2',
+  ),
+  '餠' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '2',
+  ),
+  '棅' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '2',
+  ),
+  '倂' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '3',
+  ),
+  '垪' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '4',
+  ),
+  '稟' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '4',
+  ),
+  '抦' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '5',
+  ),
+  '掤' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '6',
+  ),
+  '偋' => 
+  array (
+    'spell' => 'bing',
+    'weight' => '6',
   ),
   '昺' => 
   array (
@@ -1529,6 +2589,171 @@
     'spell' => 'bing',
     'weight' => '79035',
   ),
+  '蹳' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '餺' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '鑮' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '鉑' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '胉' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '葧' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '鋍' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '瓝' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '欂' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '懪' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '秡' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '糪' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '鉢' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '襮' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '犦' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '鈸' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '僠' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '譒' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '簙' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '詙' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '蔔' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '1',
+  ),
+  '狛' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '2',
+  ),
+  '蘗' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '2',
+  ),
+  '嶓' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '2',
+  ),
+  '駮' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '2',
+  ),
+  '鹁' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '3',
+  ),
+  '駁' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '5',
+  ),
+  '饽' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '5',
+  ),
+  '缽' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '5',
+  ),
+  '檗' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '6',
+  ),
+  '愽' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '6',
+  ),
+  '鎛' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '6',
+  ),
+  '踣' => 
+  array (
+    'spell' => 'bo',
+    'weight' => '6',
+  ),
   '浡' => 
   array (
     'spell' => 'bo',
@@ -1555,11 +2780,6 @@
     'weight' => '14',
   ),
   '僰' => 
-  array (
-    'spell' => 'bo',
-    'weight' => '14',
-  ),
-  '擘' => 
   array (
     'spell' => 'bo',
     'weight' => '14',
@@ -1694,6 +2914,76 @@
     'spell' => 'bo',
     'weight' => '5395',
   ),
+  '轐' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '1',
+  ),
+  '篰' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '1',
+  ),
+  '峬' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '1',
+  ),
+  '踄' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '1',
+  ),
+  '誧' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '2',
+  ),
+  '蔀' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '2',
+  ),
+  '醭' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '3',
+  ),
+  '餔' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '3',
+  ),
+  '鈽' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '3',
+  ),
+  '鳪' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '3',
+  ),
+  '鸔' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '4',
+  ),
+  '咘' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '5',
+  ),
+  '钸' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '5',
+  ),
+  '晡' => 
+  array (
+    'spell' => 'bu',
+    'weight' => '6',
+  ),
   '瓿' => 
   array (
     'spell' => 'bu',
@@ -1789,6 +3079,26 @@
     'spell' => 'bu',
     'weight' => '590643',
   ),
+  '跁' => 
+  array (
+    'spell' => 'pa',
+    'weight' => '1',
+  ),
+  '舥' => 
+  array (
+    'spell' => 'pa',
+    'weight' => '1',
+  ),
+  '鈀' => 
+  array (
+    'spell' => 'pa',
+    'weight' => '1',
+  ),
+  '袙' => 
+  array (
+    'spell' => 'pa',
+    'weight' => '2',
+  ),
   '筢' => 
   array (
     'spell' => 'pa',
@@ -1844,6 +3154,21 @@
     'spell' => 'pa',
     'weight' => '22787',
   ),
+  '犤' => 
+  array (
+    'spell' => 'pai',
+    'weight' => '2',
+  ),
+  '簰' => 
+  array (
+    'spell' => 'pai',
+    'weight' => '4',
+  ),
+  '棑' => 
+  array (
+    'spell' => 'pai',
+    'weight' => '5',
+  ),
   '蒎' => 
   array (
     'spell' => 'pai',
@@ -1893,6 +3218,81 @@
   array (
     'spell' => 'pai',
     'weight' => '18299',
+  ),
+  '縏' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '蒰' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '碆' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '蹣' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '沜' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '眅' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '詊' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '褩' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '1',
+  ),
+  '頖' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '2',
+  ),
+  '溿' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '2',
+  ),
+  '跘' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '3',
+  ),
+  '鞶' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '5',
+  ),
+  '牓' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '5',
+  ),
+  '磻' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '6',
+  ),
+  '蹒' => 
+  array (
+    'spell' => 'pan',
+    'weight' => '6',
   ),
   '拚' => 
   array (
@@ -2009,6 +3409,36 @@
     'spell' => 'pan',
     'weight' => '10536',
   ),
+  '夆' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '2',
+  ),
+  '徬' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '3',
+  ),
+  '汸' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '4',
+  ),
+  '龐' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '4',
+  ),
+  '耪' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '6',
+  ),
+  '雱' => 
+  array (
+    'spell' => 'pang',
+    'weight' => '6',
+  ),
   '尨' => 
   array (
     'spell' => 'pang',
@@ -2049,10 +3479,60 @@
     'spell' => 'pang',
     'weight' => '706',
   ),
-  '旁' => 
+  '蚫' => 
   array (
-    'spell' => 'pang',
-    'weight' => '2491',
+    'spell' => 'pao',
+    'weight' => '1',
+  ),
+  '奅' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '1',
+  ),
+  '皰' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '1',
+  ),
+  '鞄' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '1',
+  ),
+  '袌' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '1',
+  ),
+  '鉋' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '2',
+  ),
+  '垉' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '2',
+  ),
+  '麃' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '2',
+  ),
+  '萢' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '3',
+  ),
+  '瓟' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '4',
+  ),
+  '脬' => 
+  array (
+    'spell' => 'pao',
+    'weight' => '6',
   ),
   '砲' => 
   array (
@@ -2114,11 +3594,6 @@
     'spell' => 'pao',
     'weight' => '317',
   ),
-  '炮' => 
-  array (
-    'spell' => 'pao',
-    'weight' => '1292',
-  ),
   '抛' => 
   array (
     'spell' => 'pao',
@@ -2133,6 +3608,26 @@
   array (
     'spell' => 'pao',
     'weight' => '21815',
+  ),
+  '歕' => 
+  array (
+    'spell' => 'pen',
+    'weight' => '1',
+  ),
+  '翉' => 
+  array (
+    'spell' => 'pen',
+    'weight' => '1',
+  ),
+  '呠' => 
+  array (
+    'spell' => 'pen',
+    'weight' => '1',
+  ),
+  '衯' => 
+  array (
+    'spell' => 'pen',
+    'weight' => '1',
   ),
   '湓' => 
   array (
@@ -2153,6 +3648,81 @@
   array (
     'spell' => 'pen',
     'weight' => '2059',
+  ),
+  '軯' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '鬅' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '痭' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '匉' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '韸' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '漰' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '熢' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '錋' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '輣' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '絣' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '摓' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '磞' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '剻' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '1',
+  ),
+  '傰' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '3',
+  ),
+  '蟛' => 
+  array (
+    'spell' => 'peng',
+    'weight' => '6',
   ),
   '弸' => 
   array (
@@ -2264,6 +3834,71 @@
     'spell' => 'peng',
     'weight' => '2812',
   ),
+  '裵' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '1',
+  ),
+  '琣' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '1',
+  ),
+  '茷' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '1',
+  ),
+  '柸' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '1',
+  ),
+  '蓜' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '1',
+  ),
+  '轡' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '2',
+  ),
+  '浿' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '2',
+  ),
+  '俖' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '2',
+  ),
+  '锫' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '4',
+  ),
+  '衃' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '5',
+  ),
+  '賠' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '5',
+  ),
+  '伂' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '6',
+  ),
+  '帔' => 
+  array (
+    'spell' => 'pei',
+    'weight' => '6',
+  ),
   '姵' => 
   array (
     'spell' => 'pei',
@@ -2338,6 +3973,121 @@
   array (
     'spell' => 'pei',
     'weight' => '9129',
+  ),
+  '鈲' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '岯' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '蚽' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '錍' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '鴄' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '膍' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '阰' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '蚾' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '憵' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '鈚' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '羆' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '諀' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '鎞' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '1',
+  ),
+  '毞' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '2',
+  ),
+  '闢' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '2',
+  ),
+  '澼' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '3',
+  ),
+  '疋' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '7',
+  ),
+  '紕' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '4',
+  ),
+  '貔' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '4',
+  ),
+  '蚍' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '5',
+  ),
+  '埤' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '5',
+  ),
+  '陴' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '5',
+  ),
+  '毘' => 
+  array (
+    'spell' => 'pi',
+    'weight' => '6',
   ),
   '笓' => 
   array (
@@ -2539,6 +4289,66 @@
     'spell' => 'pi',
     'weight' => '5013',
   ),
+  '猵' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '跰' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '媥' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '璸' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '緶' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '諚' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '諞' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '1',
+  ),
+  '楩' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '2',
+  ),
+  '犏' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '4',
+  ),
+  '蹁' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '4',
+  ),
+  '楄' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '6',
+  ),
+  '胼' => 
+  array (
+    'spell' => 'pian',
+    'weight' => '6',
+  ),
   '騙' => 
   array (
     'spell' => 'pian',
@@ -2578,6 +4388,71 @@
   array (
     'spell' => 'pian',
     'weight' => '10277',
+  ),
+  '皫' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '醥' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '魒' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '翲' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '彯' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '顠' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '1',
+  ),
+  '慓' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '2',
+  ),
+  '縹' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '2',
+  ),
+  '莩' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '2',
+  ),
+  '飃' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '2',
+  ),
+  '僄' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '3',
+  ),
+  '謤' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '3',
+  ),
+  '薸' => 
+  array (
+    'spell' => 'piao',
+    'weight' => '3',
   ),
   '螵' => 
   array (
@@ -2644,6 +4519,31 @@
     'spell' => 'piao',
     'weight' => '8191',
   ),
+  '覕' => 
+  array (
+    'spell' => 'pie',
+    'weight' => '1',
+  ),
+  '暼' => 
+  array (
+    'spell' => 'pie',
+    'weight' => '1',
+  ),
+  '潎' => 
+  array (
+    'spell' => 'pie',
+    'weight' => '2',
+  ),
+  '嫳' => 
+  array (
+    'spell' => 'pie',
+    'weight' => '2',
+  ),
+  '氕' => 
+  array (
+    'spell' => 'pie',
+    'weight' => '2',
+  ),
   '苤' => 
   array (
     'spell' => 'pie',
@@ -2663,6 +4563,31 @@
   array (
     'spell' => 'pie',
     'weight' => '408',
+  ),
+  '砏' => 
+  array (
+    'spell' => 'pin',
+    'weight' => '1',
+  ),
+  '顰' => 
+  array (
+    'spell' => 'pin',
+    'weight' => '1',
+  ),
+  '矉' => 
+  array (
+    'spell' => 'pin',
+    'weight' => '2',
+  ),
+  '玭' => 
+  array (
+    'spell' => 'pin',
+    'weight' => '2',
+  ),
+  '嚬' => 
+  array (
+    'spell' => 'pin',
+    'weight' => '2',
   ),
   '貧' => 
   array (
@@ -2734,6 +4659,106 @@
     'spell' => 'pin',
     'weight' => '4693',
   ),
+  '蛢' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '缾' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '鮃' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '輧' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '淜' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '荓' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '鉼' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '軿' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '頩' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '蓱' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '1',
+  ),
+  '玶' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '2',
+  ),
+  '砯' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '2',
+  ),
+  '岼' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '2',
+  ),
+  '屛' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '2',
+  ),
+  '泙' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '2',
+  ),
+  '洴' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '3',
+  ),
+  '甁' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '3',
+  ),
+  '俜' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '4',
+  ),
+  '帡' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '4',
+  ),
+  '倗' => 
+  array (
+    'spell' => 'ping',
+    'weight' => '6',
+  ),
   '評' => 
   array (
     'spell' => 'ping',
@@ -2803,6 +4828,91 @@
   array (
     'spell' => 'ping',
     'weight' => '8010',
+  ),
+  '蒪' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '翍' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '溌' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '繁' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '724',
+  ),
+  '濼' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '醱' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '岥' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '謈' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '髆' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '尃' => 
+  array (
+    'spell' => 'po',
+    'weight' => '1',
+  ),
+  '桲' => 
+  array (
+    'spell' => 'po',
+    'weight' => '2',
+  ),
+  '哱' => 
+  array (
+    'spell' => 'po',
+    'weight' => '2',
+  ),
+  '钷' => 
+  array (
+    'spell' => 'po',
+    'weight' => '2',
+  ),
+  '昢' => 
+  array (
+    'spell' => 'po',
+    'weight' => '2',
+  ),
+  '笸' => 
+  array (
+    'spell' => 'po',
+    'weight' => '3',
+  ),
+  '櫇' => 
+  array (
+    'spell' => 'po',
+    'weight' => '5',
+  ),
+  '潑' => 
+  array (
+    'spell' => 'po',
+    'weight' => '6',
   ),
   '搫' => 
   array (
@@ -2884,6 +4994,26 @@
     'spell' => 'po',
     'weight' => '7313',
   ),
+  '捊' => 
+  array (
+    'spell' => 'pou',
+    'weight' => '1',
+  ),
+  '襃' => 
+  array (
+    'spell' => 'pou',
+    'weight' => '2',
+  ),
+  '垺' => 
+  array (
+    'spell' => 'pou',
+    'weight' => '6',
+  ),
+  '裒' => 
+  array (
+    'spell' => 'pou',
+    'weight' => '6',
+  ),
   '棓' => 
   array (
     'spell' => 'pou',
@@ -2908,6 +5038,81 @@
   array (
     'spell' => 'pou',
     'weight' => '251',
+  ),
+  '痡' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '鯆' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '鵏' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '舗' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '抪' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '蒱' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '1',
+  ),
+  '襆' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '2',
+  ),
+  '镤' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '2',
+  ),
+  '潽' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '3',
+  ),
+  '墣' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '3',
+  ),
+  '酺' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '3',
+  ),
+  '鐠' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '5',
+  ),
+  '僕' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '5',
+  ),
+  '舖' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '6',
+  ),
+  '樸' => 
+  array (
+    'spell' => 'pu',
+    'weight' => '6',
   ),
   '鋪' => 
   array (
@@ -2994,11 +5199,6 @@
     'spell' => 'pu',
     'weight' => '181',
   ),
-  '瀑' => 
-  array (
-    'spell' => 'pu',
-    'weight' => '194',
-  ),
   '噗' => 
   array (
     'spell' => 'pu',
@@ -3033,6 +5233,61 @@
   array (
     'spell' => 'pu',
     'weight' => '2269',
+  ),
+  '鬕' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '1',
+  ),
+  '痳' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '1',
+  ),
+  '螞' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '1',
+  ),
+  '禡' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '1',
+  ),
+  '摩' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '964',
+  ),
+  '犘' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '2',
+  ),
+  '痲' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '2',
+  ),
+  '嬤' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '2',
+  ),
+  '嘜' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '2',
+  ),
+  '傌' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '3',
+  ),
+  '犸' => 
+  array (
+    'spell' => 'ma',
+    'weight' => '4',
   ),
   '鎷' => 
   array (
@@ -3144,6 +5399,26 @@
     'spell' => 'ma',
     'weight' => '220136',
   ),
+  '嘪' => 
+  array (
+    'spell' => 'mai',
+    'weight' => '1',
+  ),
+  '霢' => 
+  array (
+    'spell' => 'mai',
+    'weight' => '1',
+  ),
+  '勱' => 
+  array (
+    'spell' => 'mai',
+    'weight' => '1',
+  ),
+  '邁' => 
+  array (
+    'spell' => 'mai',
+    'weight' => '5',
+  ),
   '荬' => 
   array (
     'spell' => 'mai',
@@ -3218,6 +5493,71 @@
   array (
     'spell' => 'mai',
     'weight' => '100275',
+  ),
+  '蟃' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '樠' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '鰻' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '矕' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '蘰' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '獌' => 
+  array (
+    'spell' => 'man',
+    'weight' => '1',
+  ),
+  '慲' => 
+  array (
+    'spell' => 'man',
+    'weight' => '2',
+  ),
+  '謾' => 
+  array (
+    'spell' => 'man',
+    'weight' => '2',
+  ),
+  '睌' => 
+  array (
+    'spell' => 'man',
+    'weight' => '2',
+  ),
+  '瞞' => 
+  array (
+    'spell' => 'man',
+    'weight' => '2',
+  ),
+  '縵' => 
+  array (
+    'spell' => 'man',
+    'weight' => '3',
+  ),
+  '僈' => 
+  array (
+    'spell' => 'man',
+    'weight' => '3',
+  ),
+  '镘' => 
+  array (
+    'spell' => 'man',
+    'weight' => '5',
   ),
   '墁' => 
   array (
@@ -3334,6 +5674,66 @@
     'spell' => 'man',
     'weight' => '14352',
   ),
+  '娏' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '蘉' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '龒' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '杗' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '哤' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '蠎' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '駹' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '汒' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '1',
+  ),
+  '硥' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '2',
+  ),
+  '牻' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '2',
+  ),
+  '鋩' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '3',
+  ),
+  '硭' => 
+  array (
+    'spell' => 'mang',
+    'weight' => '4',
+  ),
   '邙' => 
   array (
     'spell' => 'mang',
@@ -3388,6 +5788,116 @@
   array (
     'spell' => 'mang',
     'weight' => '29641',
+  ),
+  '枆' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '軞' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '鉚' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '蓩' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '酕' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '錨' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '皃' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '1',
+  ),
+  '冐' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '犛' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '媢' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '貿' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '鄮' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '眊' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '鄚' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '芼' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '2',
+  ),
+  '楙' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '3',
+  ),
+  '蝥' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '3',
+  ),
+  '秏' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '3',
+  ),
+  '氂' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '3',
+  ),
+  '瞀' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '3',
+  ),
+  '蟊' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '4',
+  ),
+  '泖' => 
+  array (
+    'spell' => 'mao',
+    'weight' => '6',
   ),
   '袤' => 
   array (
@@ -3519,6 +6029,61 @@
     'spell' => 'me',
     'weight' => '133',
   ),
+  '虋' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '椚' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '懣' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '璊' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '捫' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '殙' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '燜' => 
+  array (
+    'spell' => 'men',
+    'weight' => '1',
+  ),
+  '鍆' => 
+  array (
+    'spell' => 'men',
+    'weight' => '2',
+  ),
+  '菛' => 
+  array (
+    'spell' => 'men',
+    'weight' => '2',
+  ),
+  '钔' => 
+  array (
+    'spell' => 'men',
+    'weight' => '4',
+  ),
+  '暪' => 
+  array (
+    'spell' => 'men',
+    'weight' => '4',
+  ),
   '鞔' => 
   array (
     'spell' => 'men',
@@ -3583,6 +6148,96 @@
   array (
     'spell' => 'men',
     'weight' => '65806',
+  ),
+  '鄸' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '蕄' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '饛' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '錳' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '庬' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '罞' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '鄳' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '1',
+  ),
+  '甿' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '2',
+  ),
+  '鋂' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '2',
+  ),
+  '萠' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '2',
+  ),
+  '幪' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '2',
+  ),
+  '懞' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '3',
+  ),
+  '艨' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '3',
+  ),
+  '矇' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '4',
+  ),
+  '鼆' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '4',
+  ),
+  '儚' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '4',
+  ),
+  '曚' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '6',
+  ),
+  '蜢' => 
+  array (
+    'spell' => 'meng',
+    'weight' => '6',
   ),
   '艋' => 
   array (
@@ -3678,6 +6333,96 @@
   array (
     'spell' => 'meng',
     'weight' => '9302',
+  ),
+  '躾' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '蘪' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '燘' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '挴' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '徾' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '痗' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '瑂' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '黴' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '1',
+  ),
+  '禖' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '2',
+  ),
+  '猸' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '2',
+  ),
+  '楳' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '2',
+  ),
+  '苺' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '2',
+  ),
+  '镅' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '3',
+  ),
+  '眛' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '3',
+  ),
+  '郿' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '4',
+  ),
+  '煝' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '5',
+  ),
+  '鹛' => 
+  array (
+    'spell' => 'mei',
+    'weight' => '6',
+  ),
+  '糜' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '127',
   ),
   '渼' => 
   array (
@@ -3834,10 +6579,115 @@
     'spell' => 'mei',
     'weight' => '295035',
   ),
+  '幦' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '麛' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '榓' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '覛' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '鼏' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '蔝' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '蔤' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '爢' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '渳' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '灖' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '蓂' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '冞' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '穈' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '謐' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '瀰' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '羋' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '1',
+  ),
+  '幎' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '2',
+  ),
+  '祕' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '2',
+  ),
   '猕' => 
   array (
     'spell' => 'mi',
     'weight' => '600',
+  ),
+  '瞇' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '4',
+  ),
+  '敉' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '5',
+  ),
+  '覓' => 
+  array (
+    'spell' => 'mi',
+    'weight' => '6',
   ),
   '縻' => 
   array (
@@ -3914,11 +6764,6 @@
     'spell' => 'mi',
     'weight' => '61',
   ),
-  '泌' => 
-  array (
-    'spell' => 'mi',
-    'weight' => '62',
-  ),
   '宓' => 
   array (
     'spell' => 'mi',
@@ -3949,11 +6794,6 @@
     'spell' => 'mi',
     'weight' => '112',
   ),
-  '糜' => 
-  array (
-    'spell' => 'mi',
-    'weight' => '127',
-  ),
   '靡' => 
   array (
     'spell' => 'mi',
@@ -3979,11 +6819,6 @@
     'spell' => 'mi',
     'weight' => '529',
   ),
-  '秘' => 
-  array (
-    'spell' => 'mi',
-    'weight' => '608',
-  ),
   '蜜' => 
   array (
     'spell' => 'mi',
@@ -4008,6 +6843,86 @@
   array (
     'spell' => 'mi',
     'weight' => '15995',
+  ),
+  '蝒' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '1',
+  ),
+  '矏' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '1',
+  ),
+  '緜' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '1',
+  ),
+  '愐' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '1',
+  ),
+  '矊' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '2',
+  ),
+  '麺' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '2',
+  ),
+  '櫋' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '2',
+  ),
+  '渑' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '2',
+  ),
+  '鮸' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '3',
+  ),
+  '媔' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '3',
+  ),
+  '偭' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '4',
+  ),
+  '喕' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '4',
+  ),
+  '丏' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '5',
+  ),
+  '湎' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '5',
+  ),
+  '綿' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '5',
+  ),
+  '緬' => 
+  array (
+    'spell' => 'mian',
+    'weight' => '6',
   ),
   '俛' => 
   array (
@@ -4083,6 +6998,26 @@
   array (
     'spell' => 'mian',
     'weight' => '13022',
+  ),
+  '媌' => 
+  array (
+    'spell' => 'miao',
+    'weight' => '1',
+  ),
+  '訬' => 
+  array (
+    'spell' => 'miao',
+    'weight' => '2',
+  ),
+  '緲' => 
+  array (
+    'spell' => 'miao',
+    'weight' => '3',
+  ),
+  '嫹' => 
+  array (
+    'spell' => 'miao',
+    'weight' => '4',
   ),
   '廟' => 
   array (
@@ -4169,6 +7104,21 @@
     'spell' => 'miao',
     'weight' => '5204',
   ),
+  '懱' => 
+  array (
+    'spell' => 'mie',
+    'weight' => '1',
+  ),
+  '蠛' => 
+  array (
+    'spell' => 'mie',
+    'weight' => '4',
+  ),
+  '搣' => 
+  array (
+    'spell' => 'mie',
+    'weight' => '5',
+  ),
   '篾' => 
   array (
     'spell' => 'mie',
@@ -4198,6 +7148,86 @@
   array (
     'spell' => 'mie',
     'weight' => '8191',
+  ),
+  '琝' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '錉' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '蠠' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '鈱' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '罠' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '黽' => 
+  array (
+    'spell' => 'min',
+    'weight' => '1',
+  ),
+  '暋' => 
+  array (
+    'spell' => 'min',
+    'weight' => '2',
+  ),
+  '僶' => 
+  array (
+    'spell' => 'min',
+    'weight' => '3',
+  ),
+  '鳘' => 
+  array (
+    'spell' => 'min',
+    'weight' => '3',
+  ),
+  '閩' => 
+  array (
+    'spell' => 'min',
+    'weight' => '3',
+  ),
+  '緡' => 
+  array (
+    'spell' => 'min',
+    'weight' => '3',
+  ),
+  '敯' => 
+  array (
+    'spell' => 'min',
+    'weight' => '3',
+  ),
+  '潣' => 
+  array (
+    'spell' => 'min',
+    'weight' => '4',
+  ),
+  '閔' => 
+  array (
+    'spell' => 'min',
+    'weight' => '5',
+  ),
+  '苠' => 
+  array (
+    'spell' => 'min',
+    'weight' => '5',
+  ),
+  '崏' => 
+  array (
+    'spell' => 'min',
+    'weight' => '6',
   ),
   '旼' => 
   array (
@@ -4299,6 +7329,36 @@
     'spell' => 'min',
     'weight' => '4896',
   ),
+  '嫇' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '1',
+  ),
+  '榠' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '1',
+  ),
+  '覭' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '1',
+  ),
+  '眳' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '2',
+  ),
+  '詺' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '2',
+  ),
+  '掵' => 
+  array (
+    'spell' => 'ming',
+    'weight' => '3',
+  ),
   '姳' => 
   array (
     'spell' => 'ming',
@@ -4379,6 +7439,11 @@
     'spell' => 'ming',
     'weight' => '21788',
   ),
+  '謬' => 
+  array (
+    'spell' => 'miu',
+    'weight' => '3',
+  ),
   '繆' => 
   array (
     'spell' => 'miu',
@@ -4388,6 +7453,111 @@
   array (
     'spell' => 'miu',
     'weight' => '137',
+  ),
+  '瞙' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '饃' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '瀎' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '狢' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '暯' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '糢' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '袹' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '纆' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '驀' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '1',
+  ),
+  '嗼' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '藦' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '枺' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '劘' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '瘼' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '粖' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '2',
+  ),
+  '眽' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '3',
+  ),
+  '絔' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '4',
+  ),
+  '麿' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '4',
+  ),
+  '謨' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '4',
+  ),
+  '万' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '25941',
+  ),
+  '歿' => 
+  array (
+    'spell' => 'mo',
+    'weight' => '4',
   ),
   '攠' => 
   array (
@@ -4519,11 +7689,6 @@
     'spell' => 'mo',
     'weight' => '840',
   ),
-  '摩' => 
-  array (
-    'spell' => 'mo',
-    'weight' => '964',
-  ),
   '墨' => 
   array (
     'spell' => 'mo',
@@ -4564,6 +7729,26 @@
     'spell' => 'mo',
     'weight' => '4509',
   ),
+  '麰' => 
+  array (
+    'spell' => 'mou',
+    'weight' => '1',
+  ),
+  '鉾' => 
+  array (
+    'spell' => 'mou',
+    'weight' => '1',
+  ),
+  '洠' => 
+  array (
+    'spell' => 'mou',
+    'weight' => '2',
+  ),
+  '蛑' => 
+  array (
+    'spell' => 'mou',
+    'weight' => '3',
+  ),
   '鍪' => 
   array (
     'spell' => 'mou',
@@ -4603,6 +7788,91 @@
   array (
     'spell' => 'mou',
     'weight' => '12623',
+  ),
+  '楘' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '炑' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '鉧' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '萺' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '凩' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '毣' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '獏' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '茻' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '鉬' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '踇' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '縸' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '1',
+  ),
+  '幙' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '2',
+  ),
+  '毪' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '2',
+  ),
+  '牳' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '2',
+  ),
+  '莯' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '3',
+  ),
+  '霂' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '3',
+  ),
+  '坶' => 
+  array (
+    'spell' => 'mu',
+    'weight' => '4',
   ),
   '仫' => 
   array (
@@ -4709,6 +7979,36 @@
     'spell' => 'mu',
     'weight' => '6480',
   ),
+  '瞂' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '1',
+  ),
+  '醗' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '2',
+  ),
+  '沷' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '2',
+  ),
+  '琺' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '2',
+  ),
+  '閥' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '2',
+  ),
+  '砝' => 
+  array (
+    'spell' => 'fa',
+    'weight' => '6',
+  ),
   '髪' => 
   array (
     'spell' => 'fa',
@@ -4778,6 +8078,141 @@
   array (
     'spell' => 'fa',
     'weight' => '69515',
+  ),
+  '蠜' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '軬' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '払' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '瀪' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '飜' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '鐇' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '杋' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '釩' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '奿' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '礬' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '膰' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '軓' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '轓' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '笵' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '籵' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '1',
+  ),
+  '瀿' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '2',
+  ),
+  '薠' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '3',
+  ),
+  '旛' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '3',
+  ),
+  '繙' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '3',
+  ),
+  '蹯' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '4',
+  ),
+  '氾' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '4',
+  ),
+  '汎' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '4',
+  ),
+  '柉' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '4',
+  ),
+  '仮' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '5',
+  ),
+  '販' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '5',
+  ),
+  '辺' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '5',
+  ),
+  '墦' => 
+  array (
+    'spell' => 'fan',
+    'weight' => '5',
   ),
   '範' => 
   array (
@@ -4874,11 +8309,6 @@
     'spell' => 'fan',
     'weight' => '633',
   ),
-  '繁' => 
-  array (
-    'spell' => 'fan',
-    'weight' => '724',
-  ),
   '泛' => 
   array (
     'spell' => 'fan',
@@ -4923,6 +8353,41 @@
   array (
     'spell' => 'fan',
     'weight' => '11199',
+  ),
+  '淓' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '1',
+  ),
+  '瓬' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '1',
+  ),
+  '魴' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '2',
+  ),
+  '昞' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '2',
+  ),
+  '鈁' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '2',
+  ),
+  '邡' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '4',
+  ),
+  '紡' => 
+  array (
+    'spell' => 'fang',
+    'weight' => '5',
   ),
   '钫' => 
   array (
@@ -5013,6 +8478,131 @@
   array (
     'spell' => 'fang',
     'weight' => '26038',
+  ),
+  '梤' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '橨' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '幩' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '膹' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '弅' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '魵' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '轒' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '翂' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '豶' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '黺' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '坋' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '羵' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '1',
+  ),
+  '鈖' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '2',
+  ),
+  '雰' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '2',
+  ),
+  '妢' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '2',
+  ),
+  '蕡' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '2',
+  ),
+  '僨' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '3',
+  ),
+  '枌' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '3',
+  ),
+  '奮' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '3',
+  ),
+  '蒶' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '3',
+  ),
+  '憤' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '4',
+  ),
+  '糞' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '5',
+  ),
+  '昐' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '5',
+  ),
+  '紛' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '5',
+  ),
+  '棼' => 
+  array (
+    'spell' => 'fen',
+    'weight' => '6',
   ),
   '棻' => 
   array (
@@ -5128,6 +8718,81 @@
   array (
     'spell' => 'fen',
     'weight' => '28803',
+  ),
+  '麷' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '猦' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '桻' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '妦' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '堸' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '覂' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '犎' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '渢' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '1',
+  ),
+  '檒' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '2',
+  ),
+  '唪' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '2',
+  ),
+  '灃' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '2',
+  ),
+  '諷' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '4',
+  ),
+  '縫' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '5',
+  ),
+  '峯' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '5',
+  ),
+  '崶' => 
+  array (
+    'spell' => 'feng',
+    'weight' => '6',
   ),
   '偑' => 
   array (
@@ -5273,6 +8938,116 @@
   array (
     'spell' => 'feng',
     'weight' => '12099',
+  ),
+  '鯡' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '襏' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '曊' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '蟦' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '奜' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '騛' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '裶' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '蜰' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '廃' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '1',
+  ),
+  '騑' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '厞' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '暃' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '屝' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '誹' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '鲱' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '婓' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '剕' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '3',
+  ),
+  '癈' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '4',
+  ),
+  '怫' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '4',
+  ),
+  '馡' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '4',
+  ),
+  '櫠' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '5',
+  ),
+  '緋' => 
+  array (
+    'spell' => 'fei',
+    'weight' => '5',
   ),
   '棐' => 
   array (
@@ -5444,6 +9219,16 @@
     'spell' => 'fei',
     'weight' => '17475',
   ),
+  '坲' => 
+  array (
+    'spell' => 'fo',
+    'weight' => '1',
+  ),
+  '仏' => 
+  array (
+    'spell' => 'fo',
+    'weight' => '4',
+  ),
   '佛' => 
   array (
     'spell' => 'fo',
@@ -5463,6 +9248,336 @@
   array (
     'spell' => 'fou',
     'weight' => '3931',
+  ),
+  '蜅' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '鰒' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '烰' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '弣' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '髴' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '蕧' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '澓' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '蚥' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '釡' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '賻' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '萉' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '罦' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '紼' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '笰' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '怤' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '葍' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '柭' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '鳧' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '萯' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '椨' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '鮒' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '岪' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '蚹' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '輹' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '綒' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '琈' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '訃' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '坿' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '麩' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '砆' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '虙' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '刜' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '荂' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '緮' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '咈' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '榑' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '1',
+  ),
+  '垘' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '衭' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '泭' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '柎' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '蝜' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '枎' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '鳆' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '2',
+  ),
+  '箙' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '彿' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '紨' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '輻' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '紱' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '袚' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '3',
+  ),
+  '偪' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '冹' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '鈇' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '蜉' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '蚨' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '駙' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '枹' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '4',
+  ),
+  '簠' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '帗' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '祔' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '艴' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '姇' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '偩' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '菔' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '5',
+  ),
+  '砩' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '6',
+  ),
+  '縛' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '6',
+  ),
+  '郛' => 
+  array (
+    'spell' => 'fu',
+    'weight' => '6',
   ),
   '複' => 
   array (
@@ -5919,6 +10034,41 @@
     'spell' => 'fu',
     'weight' => '17045',
   ),
+  '籪' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '1',
+  ),
+  '腶' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '1',
+  ),
+  '毈' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '1',
+  ),
+  '葮' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '2',
+  ),
+  '簖' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '4',
+  ),
+  '偳' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '4',
+  ),
+  '緞' => 
+  array (
+    'spell' => 'duan',
+    'weight' => '5',
+  ),
   '鍛' => 
   array (
     'spell' => 'duan',
@@ -5968,6 +10118,51 @@
   array (
     'spell' => 'duan',
     'weight' => '7980',
+  ),
+  '撉' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '1',
+  ),
+  '镦' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '10',
+  ),
+  '躉' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '1',
+  ),
+  '遯' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '2',
+  ),
+  '鈍' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '2',
+  ),
+  '楯' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '3',
+  ),
+  '潡' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '3',
+  ),
+  '砘' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '5',
+  ),
+  '燉' => 
+  array (
+    'spell' => 'dun',
+    'weight' => '6',
   ),
   '噸' => 
   array (
@@ -6063,6 +10258,46 @@
   array (
     'spell' => 'dun',
     'weight' => '2100',
+  ),
+  '匒' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '韃' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '繨' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '羍' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '燵' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '薘' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '鐽' => 
+  array (
+    'spell' => 'da',
+    'weight' => '1',
+  ),
+  '躂' => 
+  array (
+    'spell' => 'da',
+    'weight' => '2',
   ),
   '咑' => 
   array (
@@ -6168,6 +10403,41 @@
   array (
     'spell' => 'da',
     'weight' => '107925',
+  ),
+  '獃' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '1',
+  ),
+  '紿' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '1',
+  ),
+  '柋' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '1',
+  ),
+  '襶' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '1',
+  ),
+  '軑' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '1',
+  ),
+  '瀻' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '2',
+  ),
+  '貸' => 
+  array (
+    'spell' => 'dai',
+    'weight' => '3',
   ),
   '帯' => 
   array (
@@ -6283,6 +10553,176 @@
   array (
     'spell' => 'dai',
     'weight' => '38459',
+  ),
+  '鴠' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '沊' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '髧' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '刐' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '澸' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '鄲' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '癚' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '贉' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '聸' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '甔' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '砃' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '嚪' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '狚' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '燀' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '匰' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '禫' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '觛' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '譂' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '1',
+  ),
+  '玬' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '2',
+  ),
+  '蜑' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '2',
+  ),
+  '酖' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '2',
+  ),
+  '襌' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '3',
+  ),
+  '柦' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '3',
+  ),
+  '瘅' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '3',
+  ),
+  '萏' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '3',
+  ),
+  '亻' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '30',
+  ),
+  '褝' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '4',
+  ),
+  '簞' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '4',
+  ),
+  '憺' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '4',
+  ),
+  '憚' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '4',
+  ),
+  '啿' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '4',
+  ),
+  '泹' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '5',
+  ),
+  '啗' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '5',
+  ),
+  '誕' => 
+  array (
+    'spell' => 'dan',
+    'weight' => '5',
   ),
   '殫' => 
   array (
@@ -6464,6 +10904,76 @@
     'spell' => 'dan',
     'weight' => '115581',
   ),
+  '艡' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '碭' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '澢' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '蟷' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '礑' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '璗' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '襠' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '1',
+  ),
+  '鐺' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '2',
+  ),
+  '盪' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '2',
+  ),
+  '讜' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '3',
+  ),
+  '簹' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '3',
+  ),
+  '璫' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '3',
+  ),
+  '菪' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '6',
+  ),
+  '蕩' => 
+  array (
+    'spell' => 'dang',
+    'weight' => '6',
+  ),
   '儅' => 
   array (
     'spell' => 'dang',
@@ -6548,6 +11058,96 @@
   array (
     'spell' => 'dang',
     'weight' => '52846',
+  ),
+  '釖' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '幬' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '嶹' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '壔' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '擣' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '禂' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '舠' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '帱' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '1',
+  ),
+  '嶌' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '2',
+  ),
+  '翿' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '2',
+  ),
+  '搗' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '2',
+  ),
+  '裯' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '2',
+  ),
+  '禱' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '3',
+  ),
+  '焘' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '45',
+  ),
+  '捯' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '4',
+  ),
+  '椡' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '4',
+  ),
+  '魛' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '4',
+  ),
+  '儔' => 
+  array (
+    'spell' => 'dao',
+    'weight' => '6',
   ),
   '稲' => 
   array (
@@ -6729,6 +11329,36 @@
     'spell' => 'de',
     'weight' => '4828294',
   ),
+  '嬁' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '1',
+  ),
+  '墱' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '1',
+  ),
+  '豋' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '4',
+  ),
+  '簦' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '4',
+  ),
+  '戥' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '6',
+  ),
+  '嶝' => 
+  array (
+    'spell' => 'deng',
+    'weight' => '6',
+  ),
   '鐙' => 
   array (
     'spell' => 'deng',
@@ -6798,6 +11428,181 @@
   array (
     'spell' => 'deng',
     'weight' => '182604',
+  ),
+  '藡' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '馰' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '鏑' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '蔋' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '釱' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '隄' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '廸' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '呧' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '阺' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '蔕' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '嚁' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '菧' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '彽' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '糴' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '踶' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '螮' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '苖' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '墑' => 
+  array (
+    'spell' => 'di',
+    'weight' => '1',
+  ),
+  '締' => 
+  array (
+    'spell' => 'di',
+    'weight' => '2',
+  ),
+  '蚳' => 
+  array (
+    'spell' => 'di',
+    'weight' => '2',
+  ),
+  '玓' => 
+  array (
+    'spell' => 'di',
+    'weight' => '2',
+  ),
+  '牴' => 
+  array (
+    'spell' => 'di',
+    'weight' => '3',
+  ),
+  '禘' => 
+  array (
+    'spell' => 'di',
+    'weight' => '4',
+  ),
+  '羝' => 
+  array (
+    'spell' => 'di',
+    'weight' => '4',
+  ),
+  '厎' => 
+  array (
+    'spell' => 'di',
+    'weight' => '4',
+  ),
+  '提' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '8578',
+  ),
+  '遞' => 
+  array (
+    'spell' => 'di',
+    'weight' => '5',
+  ),
+  '滌' => 
+  array (
+    'spell' => 'di',
+    'weight' => '5',
+  ),
+  '奀' => 
+  array (
+    'spell' => 'di',
+    'weight' => '5',
+  ),
+  '諦' => 
+  array (
+    'spell' => 'di',
+    'weight' => '5',
+  ),
+  '磾' => 
+  array (
+    'spell' => 'di',
+    'weight' => '6',
+  ),
+  '坻' => 
+  array (
+    'spell' => 'di',
+    'weight' => '6',
+  ),
+  '袛' => 
+  array (
+    'spell' => 'di',
+    'weight' => '6',
+  ),
+  '鞮' => 
+  array (
+    'spell' => 'di',
+    'weight' => '6',
+  ),
+  '墬' => 
+  array (
+    'spell' => 'di',
+    'weight' => '6',
   ),
   '聜' => 
   array (
@@ -6994,6 +11799,91 @@
     'spell' => 'dia',
     'weight' => '1341',
   ),
+  '澱' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '椣' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '阽' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '蹎' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '巓' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '婰' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '壂' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '蒧' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '1',
+  ),
+  '巔' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '2',
+  ),
+  '扂' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '3',
+  ),
+  '瘨' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '3',
+  ),
+  '癲' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '4',
+  ),
+  '墊' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '4',
+  ),
+  '磹' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '5',
+  ),
+  '傎' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '5',
+  ),
+  '厧' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '5',
+  ),
+  '顛' => 
+  array (
+    'spell' => 'dian',
+    'weight' => '6',
+  ),
   '坫' => 
   array (
     'spell' => 'dian',
@@ -7139,6 +12029,66 @@
     'spell' => 'dian',
     'weight' => '137956',
   ),
+  '殦' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '1',
+  ),
+  '虭' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '1',
+  ),
+  '鵰' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '1',
+  ),
+  '蓧' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '2',
+  ),
+  '彫' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '2',
+  ),
+  '琱' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '2',
+  ),
+  '铫' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '2',
+  ),
+  '鯛' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '3',
+  ),
+  '蛁' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '3',
+  ),
+  '魡' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '4',
+  ),
+  '伄' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '5',
+  ),
+  '弴' => 
+  array (
+    'spell' => 'diao',
+    'weight' => '5',
+  ),
   '釣' => 
   array (
     'spell' => 'diao',
@@ -7219,6 +12169,76 @@
     'spell' => 'diao',
     'weight' => '20677',
   ),
+  '蜨' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '嵽' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '胅' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '艓' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '絰' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '峌' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '咥' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '詄' => 
+  array (
+    'spell' => 'die',
+    'weight' => '1',
+  ),
+  '昳' => 
+  array (
+    'spell' => 'die',
+    'weight' => '3',
+  ),
+  '疂' => 
+  array (
+    'spell' => 'die',
+    'weight' => '4',
+  ),
+  '瓞' => 
+  array (
+    'spell' => 'die',
+    'weight' => '4',
+  ),
+  '諜' => 
+  array (
+    'spell' => 'die',
+    'weight' => '5',
+  ),
+  '蹀' => 
+  array (
+    'spell' => 'die',
+    'weight' => '5',
+  ),
+  '疊' => 
+  array (
+    'spell' => 'die',
+    'weight' => '6',
+  ),
   '垤' => 
   array (
     'spell' => 'die',
@@ -7288,6 +12308,61 @@
   array (
     'spell' => 'die',
     'weight' => '8772',
+  ),
+  '飣' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '1',
+  ),
+  '聢' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '1',
+  ),
+  '虰' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '1',
+  ),
+  '椗' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '1',
+  ),
+  '顁' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '2',
+  ),
+  '嵿' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '2',
+  ),
+  '帄' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '3',
+  ),
+  '錠' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '5',
+  ),
+  '掟' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '5',
+  ),
+  '萣' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '6',
+  ),
+  '耵' => 
+  array (
+    'spell' => 'ding',
+    'weight' => '6',
   ),
   '疔' => 
   array (
@@ -7389,6 +12464,11 @@
     'spell' => 'ding',
     'weight' => '14898',
   ),
+  '銩' => 
+  array (
+    'spell' => 'diu',
+    'weight' => '1',
+  ),
   '颩' => 
   array (
     'spell' => 'diu',
@@ -7408,6 +12488,56 @@
   array (
     'spell' => 'diu',
     'weight' => '5594',
+  ),
+  '餖' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '1',
+  ),
+  '浢' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '1',
+  ),
+  '酘' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '1',
+  ),
+  '唗' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '1',
+  ),
+  '郖' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '1',
+  ),
+  '读' => 
+  array (
+    'spell' => 'du',
+    'weight' => '12702',
+  ),
+  '鬪' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '2',
+  ),
+  '荳' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '2',
+  ),
+  '鈄' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '2',
+  ),
+  '竇' => 
+  array (
+    'spell' => 'dou',
+    'weight' => '3',
   ),
   '蚪' => 
   array (
@@ -7493,6 +12623,101 @@
   array (
     'spell' => 'dou',
     'weight' => '401877',
+  ),
+  '鼕' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '埬' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '菄' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '揰' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '鮗' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '蕫' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '迵' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '嬞' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '挏' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '1',
+  ),
+  '苳' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '2',
+  ),
+  '涷' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '2',
+  ),
+  '諌' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '2',
+  ),
+  '働' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '3',
+  ),
+  '蝀' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '3',
+  ),
+  '姛' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '3',
+  ),
+  '崠' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '4',
+  ),
+  '胨' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '4',
+  ),
+  '戙' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '6',
+  ),
+  '岽' => 
+  array (
+    'spell' => 'dong',
+    'weight' => '6',
   ),
   '凍' => 
   array (
@@ -7603,6 +12828,106 @@
   array (
     'spell' => 'dong',
     'weight' => '9465',
+  ),
+  '裻' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '韣' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '皾' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '韥' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '贕' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '蠧' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '詫' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '讟' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '櫝' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '蝳' => 
+  array (
+    'spell' => 'du',
+    'weight' => '1',
+  ),
+  '帾' => 
+  array (
+    'spell' => 'du',
+    'weight' => '2',
+  ),
+  '犢' => 
+  array (
+    'spell' => 'du',
+    'weight' => '2',
+  ),
+  '妬' => 
+  array (
+    'spell' => 'du',
+    'weight' => '2',
+  ),
+  '覩' => 
+  array (
+    'spell' => 'du',
+    'weight' => '2',
+  ),
+  '瀆' => 
+  array (
+    'spell' => 'du',
+    'weight' => '2',
+  ),
+  '髑' => 
+  array (
+    'spell' => 'du',
+    'weight' => '3',
+  ),
+  '秺' => 
+  array (
+    'spell' => 'du',
+    'weight' => '3',
+  ),
+  '鍍' => 
+  array (
+    'spell' => 'du',
+    'weight' => '4',
+  ),
+  '読' => 
+  array (
+    'spell' => 'du',
+    'weight' => '4',
+  ),
+  '黩' => 
+  array (
+    'spell' => 'du',
+    'weight' => '6',
   ),
   '涜' => 
   array (
@@ -7739,10 +13064,100 @@
     'spell' => 'du',
     'weight' => '11468',
   ),
-  '读' => 
+  '嶞' => 
   array (
-    'spell' => 'du',
-    'weight' => '12702',
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '趓' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '奲' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '敪' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '嚲' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '痑' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '剫' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '陊' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '柮' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '杕' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '1',
+  ),
+  '錞' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '2',
+  ),
+  '鐸' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '2',
+  ),
+  '跢' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '2',
+  ),
+  '墯' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '3',
+  ),
+  '裰' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '3',
+  ),
+  '沲' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '4',
+  ),
+  '躱' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '4',
+  ),
+  '驮' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '148',
+  ),
+  '朶' => 
+  array (
+    'spell' => 'duo',
+    'weight' => '5',
   ),
   '墮' => 
   array (
@@ -7854,10 +13269,50 @@
     'spell' => 'duo',
     'weight' => '154137',
   ),
-  '镦' => 
+  '痽' => 
   array (
     'spell' => 'dui',
-    'weight' => '10',
+    'weight' => '1',
+  ),
+  '鴭' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '1',
+  ),
+  '瀩' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '1',
+  ),
+  '譈' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '1',
+  ),
+  '薱' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '1',
+  ),
+  '濧' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '1',
+  ),
+  '懟' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '2',
+  ),
+  '搥' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '3',
+  ),
+  '憝' => 
+  array (
+    'spell' => 'dui',
+    'weight' => '5',
   ),
   '兌' => 
   array (
@@ -7909,6 +13364,46 @@
     'spell' => 'dui',
     'weight' => '279642',
   ),
+  '猯' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '1',
+  ),
+  '貒' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '1',
+  ),
+  '糰' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '1',
+  ),
+  '墥' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '1',
+  ),
+  '慱' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '2',
+  ),
+  '煓' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '3',
+  ),
+  '褖' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '3',
+  ),
+  '槫' => 
+  array (
+    'spell' => 'tuan',
+    'weight' => '4',
+  ),
   '団' => 
   array (
     'spell' => 'tuan',
@@ -7949,6 +13444,46 @@
     'spell' => 'tuan',
     'weight' => '7027',
   ),
+  '軘' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '畽' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '坉' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '庉' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '魨' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '焞' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '1',
+  ),
+  '褪' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '201',
+  ),
+  '呑' => 
+  array (
+    'spell' => 'tun',
+    'weight' => '6',
+  ),
   '饨' => 
   array (
     'spell' => 'tun',
@@ -7983,6 +13518,106 @@
   array (
     'spell' => 'tun',
     'weight' => '745',
+  ),
+  '榙' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '涾' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '毾' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '鞈' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '澾' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '鰨' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '獺' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '闥' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '濌' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '嚃' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '禢' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '鞳' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '誻' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '1',
+  ),
+  '鉈' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '2',
+  ),
+  '搨' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '2',
+  ),
+  '逹' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '3',
+  ),
+  '荅' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '3',
+  ),
+  '撘' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '4',
+  ),
+  '咜' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '6',
+  ),
+  '漯' => 
+  array (
+    'spell' => 'ta',
+    'weight' => '6',
   ),
   '拓' => 
   array (
@@ -8094,6 +13729,71 @@
     'spell' => 'ta',
     'weight' => '343908',
   ),
+  '嬯' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '1',
+  ),
+  '溙' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '1',
+  ),
+  '斄' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '1',
+  ),
+  '颱' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '1',
+  ),
+  '鈶' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '1',
+  ),
+  '咍' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '2',
+  ),
+  '擡' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '3',
+  ),
+  '鈦' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '3',
+  ),
+  '炱' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '3',
+  ),
+  '儓' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '4',
+  ),
+  '檯' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '4',
+  ),
+  '鲐' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '5',
+  ),
+  '態' => 
+  array (
+    'spell' => 'tai',
+    'weight' => '5',
+  ),
   '臺' => 
   array (
     'spell' => 'tai',
@@ -8173,6 +13873,171 @@
   array (
     'spell' => 'tai',
     'weight' => '71180',
+  ),
+  '顃' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '婒' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '舕' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '鉭' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '憛' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '黮' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '貚' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '裧' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '藫' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '賧' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '繵' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '嗿' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '餤' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '埮' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '嘾' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '撣' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '1',
+  ),
+  '譠' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '2',
+  ),
+  '罈' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '2',
+  ),
+  '醰' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '2',
+  ),
+  '癉' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '2',
+  ),
+  '壜' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '2',
+  ),
+  '儃' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '曇' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '菼' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '癱' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '灘' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '锬' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '僋' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '3',
+  ),
+  '醓' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '5',
+  ),
+  '歎' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '5',
+  ),
+  '忐' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '5',
+  ),
+  '怹' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '5',
+  ),
+  '憳' => 
+  array (
+    'spell' => 'tan',
+    'weight' => '6',
   ),
   '潬' => 
   array (
@@ -8349,6 +14214,136 @@
     'spell' => 'tan',
     'weight' => '13518',
   ),
+  '戃' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '橖' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '逿' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '攩' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '漡' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '蘯' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '矘' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '漟' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '鎕' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '赯' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '榶' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '愓' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '簜' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '1',
+  ),
+  '鏜' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '踼' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '摥' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '煻' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '惝' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '蝪' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '钂' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '2',
+  ),
+  '儻' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '4',
+  ),
+  '螗' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '4',
+  ),
+  '爣' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '4',
+  ),
+  '羰' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '5',
+  ),
+  '鎲' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '6',
+  ),
+  '燙' => 
+  array (
+    'spell' => 'tang',
+    'weight' => '6',
+  ),
   '帑' => 
   array (
     'spell' => 'tang',
@@ -8479,6 +14474,111 @@
     'spell' => 'tang',
     'weight' => '4871',
   ),
+  '駣' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '鞀' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '鋾' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '縚' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '醄' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '騊' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '絛' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '燾' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '槄' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '1',
+  ),
+  '搯' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '幍' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '迯' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '梼' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '檮' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '嫍' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '2',
+  ),
+  '慆' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '3',
+  ),
+  '韜' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '3',
+  ),
+  '匋' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '4',
+  ),
+  '綯' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '4',
+  ),
+  '鼗' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '5',
+  ),
+  '濤' => 
+  array (
+    'spell' => 'tao',
+    'weight' => '6',
+  ),
   '啕' => 
   array (
     'spell' => 'tao',
@@ -8513,11 +14613,6 @@
   array (
     'spell' => 'tao',
     'weight' => '35',
-  ),
-  '焘' => 
-  array (
-    'spell' => 'tao',
-    'weight' => '45',
   ),
   '绦' => 
   array (
@@ -8579,6 +14674,16 @@
     'spell' => 'tao',
     'weight' => '7960',
   ),
+  '貣' => 
+  array (
+    'spell' => 'te',
+    'weight' => '1',
+  ),
+  '铽' => 
+  array (
+    'spell' => 'te',
+    'weight' => '5',
+  ),
   '慝' => 
   array (
     'spell' => 'te',
@@ -8598,6 +14703,41 @@
   array (
     'spell' => 'te',
     'weight' => '9524',
+  ),
+  '邆' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '1',
+  ),
+  '熥' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '1',
+  ),
+  '籘' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '1',
+  ),
+  '謄' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '2',
+  ),
+  '籐' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '2',
+  ),
+  '縢' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '4',
+  ),
+  '螣' => 
+  array (
+    'spell' => 'teng',
+    'weight' => '6',
   ),
   '騰' => 
   array (
@@ -8633,6 +14773,161 @@
   array (
     'spell' => 'teng',
     'weight' => '4306',
+  ),
+  '鵜' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '屜' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '鶙' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '嵜' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '戻' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '楴' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '揥' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '蝭' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '趧' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '姼' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '徲' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '鯷' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '騠' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '鶗' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '籊' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '迖' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '1',
+  ),
+  '裼' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '綈' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '啑' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '悐' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '徥' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '珶' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '緹' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '2',
+  ),
+  '詆' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '3',
+  ),
+  '躰' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '3',
+  ),
+  '惿' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '3',
+  ),
+  '渧' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '3',
+  ),
+  '稊' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '3',
+  ),
+  '荑' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '12',
+  ),
+  '軆' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '4',
+  ),
+  '殢' => 
+  array (
+    'spell' => 'ti',
+    'weight' => '6',
   ),
   '褆' => 
   array (
@@ -8794,10 +15089,115 @@
     'spell' => 'ti',
     'weight' => '5566',
   ),
-  '提' => 
+  '磌' => 
   array (
-    'spell' => 'ti',
-    'weight' => '8578',
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '鴫' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '捵' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '餂' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '賟' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '淟' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '碵' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '闐' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '酟' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '鈿' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '窴' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '琠' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '菾' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '婖' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '舑' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '沺' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '1',
+  ),
+  '緂' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '2',
+  ),
+  '甛' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '2',
+  ),
+  '晪' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '2',
+  ),
+  '悿' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '3',
+  ),
+  '屇' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '3',
+  ),
+  '搷' => 
+  array (
+    'spell' => 'tian',
+    'weight' => '4',
   ),
   '湉' => 
   array (
@@ -8884,6 +15284,111 @@
     'spell' => 'tian',
     'weight' => '44055',
   ),
+  '鰷' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '趒' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '絩' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '咷' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '嬥' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '蓚' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '覜' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '鯈' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '鞗' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '糶' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '誂' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '蓨' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '1',
+  ),
+  '岧' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '2',
+  ),
+  '宨' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '3',
+  ),
+  '脁' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '3',
+  ),
+  '鲦' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '4',
+  ),
+  '髫' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '4',
+  ),
+  '笤' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '4',
+  ),
+  '祧' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '5',
+  ),
+  '朓' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '5',
+  ),
+  '儵' => 
+  array (
+    'spell' => 'tiao',
+    'weight' => '6',
+  ),
   '龆' => 
   array (
     'spell' => 'tiao',
@@ -8954,6 +15459,51 @@
     'spell' => 'tiao',
     'weight' => '12498',
   ),
+  '鴩' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '1',
+  ),
+  '蛈' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '1',
+  ),
+  '惵' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '1',
+  ),
+  '揲' => 
+  array (
+    'spell' => 'she',
+    'weight' => '3',
+  ),
+  '鉆' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '2',
+  ),
+  '怗' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '2',
+  ),
+  '鋨' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '2',
+  ),
+  '呫' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '2',
+  ),
+  '僣' => 
+  array (
+    'spell' => 'tie',
+    'weight' => '4',
+  ),
   '鐡' => 
   array (
     'spell' => 'tie',
@@ -8993,6 +15543,111 @@
   array (
     'spell' => 'tie',
     'weight' => '10562',
+  ),
+  '嵉' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '鋌' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '頲' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '楟' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '濎' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '烴' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '榳' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '桯' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '艼' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '娗' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '聤' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '1',
+  ),
+  '珵' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '2',
+  ),
+  '廰' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '2',
+  ),
+  '諪' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '2',
+  ),
+  '筳' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '2',
+  ),
+  '庁' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '2',
+  ),
+  '渟' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '4',
+  ),
+  '聴' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '4',
+  ),
+  '綎' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '4',
+  ),
+  '珽' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '5',
+  ),
+  '侹' => 
+  array (
+    'spell' => 'ting',
+    'weight' => '5',
   ),
   '莛' => 
   array (
@@ -9099,6 +15754,26 @@
     'spell' => 'ting',
     'weight' => '31156',
   ),
+  '黈' => 
+  array (
+    'spell' => 'tou',
+    'weight' => '1',
+  ),
+  '蘣' => 
+  array (
+    'spell' => 'tou',
+    'weight' => '1',
+  ),
+  '鍮' => 
+  array (
+    'spell' => 'tou',
+    'weight' => '1',
+  ),
+  '妵' => 
+  array (
+    'spell' => 'tou',
+    'weight' => '5',
+  ),
   '偸' => 
   array (
     'spell' => 'tou',
@@ -9133,6 +15808,101 @@
   array (
     'spell' => 'tou',
     'weight' => '20243',
+  ),
+  '狪' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '鮦' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '氃' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '膧' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '衕' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '犝' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '絧' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '1',
+  ),
+  '爞' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '2',
+  ),
+  '慟' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '2',
+  ),
+  '詷' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '2',
+  ),
+  '朣' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '2',
+  ),
+  '湩' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '2',
+  ),
+  '痌' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '3',
+  ),
+  '哃' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '4',
+  ),
+  '橦' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '5',
+  ),
+  '浵' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '5',
+  ),
+  '囲' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '6',
+  ),
+  '烔' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '6',
+  ),
+  '樋' => 
+  array (
+    'spell' => 'tong',
+    'weight' => '6',
   ),
   '粡' => 
   array (
@@ -9269,6 +16039,126 @@
     'spell' => 'tong',
     'weight' => '24012',
   ),
+  '峹' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '梌' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '涋' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '駼' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '嵞' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '捸' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '廜' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '跿' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '汢' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '唋' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '蒤' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '稌' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '葖' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '腯' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '鋀' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '瘏' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '1',
+  ),
+  '捈' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '2',
+  ),
+  '禿' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '2',
+  ),
+  '莵' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '2',
+  ),
+  '瑹' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '2',
+  ),
+  '湥' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '3',
+  ),
+  '酴' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '3',
+  ),
+  '兎' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '5',
+  ),
+  '図' => 
+  array (
+    'spell' => 'tu',
+    'weight' => '6',
+  ),
   '堍' => 
   array (
     'spell' => 'tu',
@@ -9358,6 +16248,101 @@
   array (
     'spell' => 'tu',
     'weight' => '20548',
+  ),
+  '毤' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '鴕' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '沰' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '鼉' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '楕' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '莌' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '驒' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '橢' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '跅' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '紽' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '嫷' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '嘽' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '騨' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '1',
+  ),
+  '駄' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '2',
+  ),
+  '飥' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '4',
+  ),
+  '駝' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '4',
+  ),
+  '侻' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '4',
+  ),
+  '鮀' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '5',
+  ),
+  '託' => 
+  array (
+    'spell' => 'tuo',
+    'weight' => '6',
   ),
   '馱' => 
   array (
@@ -9449,11 +16434,6 @@
     'spell' => 'tuo',
     'weight' => '89',
   ),
-  '驮' => 
-  array (
-    'spell' => 'tuo',
-    'weight' => '148',
-  ),
   '驼' => 
   array (
     'spell' => 'tuo',
@@ -9489,6 +16469,76 @@
     'spell' => 'tuo',
     'weight' => '4107',
   ),
+  '怢' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '蹪' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '橔' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '藬' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '頽' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '弚' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '僓' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '1',
+  ),
+  '隤' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '2',
+  ),
+  '穨' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '2',
+  ),
+  '蓷' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '2',
+  ),
+  '魋' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '2',
+  ),
+  '頹' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '3',
+  ),
+  '騩' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '4',
+  ),
+  '俀' => 
+  array (
+    'spell' => 'tui',
+    'weight' => '4',
+  ),
   '煺' => 
   array (
     'spell' => 'tui',
@@ -9504,11 +16554,6 @@
     'spell' => 'tui',
     'weight' => '125',
   ),
-  '褪' => 
-  array (
-    'spell' => 'tui',
-    'weight' => '201',
-  ),
   '腿' => 
   array (
     'spell' => 'tui',
@@ -9523,6 +16568,11 @@
   array (
     'spell' => 'tui',
     'weight' => '7395',
+  ),
+  '奻' => 
+  array (
+    'spell' => 'nuan',
+    'weight' => '3',
   ),
   '暖' => 
   array (
@@ -9543,6 +16593,26 @@
   array (
     'spell' => 'nue',
     'weight' => '744',
+  ),
+  '聏' => 
+  array (
+    'spell' => 'nv',
+    'weight' => '1',
+  ),
+  '衂' => 
+  array (
+    'spell' => 'nv',
+    'weight' => '1',
+  ),
+  '朒' => 
+  array (
+    'spell' => 'nv',
+    'weight' => '1',
+  ),
+  '恧' => 
+  array (
+    'spell' => 'nv',
+    'weight' => '4',
   ),
   '釹' => 
   array (
@@ -9568,6 +16638,61 @@
   array (
     'spell' => 'nv',
     'weight' => '22702',
+  ),
+  '軜' => 
+  array (
+    'spell' => 'na',
+    'weight' => '1',
+  ),
+  '貀' => 
+  array (
+    'spell' => 'na',
+    'weight' => '1',
+  ),
+  '魶' => 
+  array (
+    'spell' => 'na',
+    'weight' => '1',
+  ),
+  '秅' => 
+  array (
+    'spell' => 'na',
+    'weight' => '1',
+  ),
+  '笝' => 
+  array (
+    'spell' => 'na',
+    'weight' => '2',
+  ),
+  '鈉' => 
+  array (
+    'spell' => 'na',
+    'weight' => '2',
+  ),
+  '靹' => 
+  array (
+    'spell' => 'na',
+    'weight' => '2',
+  ),
+  '镎' => 
+  array (
+    'spell' => 'na',
+    'weight' => '2',
+  ),
+  '雫' => 
+  array (
+    'spell' => 'na',
+    'weight' => '3',
+  ),
+  '肭' => 
+  array (
+    'spell' => 'na',
+    'weight' => '3',
+  ),
+  '拏' => 
+  array (
+    'spell' => 'na',
+    'weight' => '6',
   ),
   '納' => 
   array (
@@ -9618,6 +16743,46 @@
   array (
     'spell' => 'na',
     'weight' => '269381',
+  ),
+  '錼' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '1',
+  ),
+  '耏' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '1',
+  ),
+  '釢' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '1',
+  ),
+  '孻' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '1',
+  ),
+  '渿' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '1',
+  ),
+  '廼' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '3',
+  ),
+  '佴' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '3',
+  ),
+  '褦' => 
+  array (
+    'spell' => 'nai',
+    'weight' => '3',
   ),
   '迺' => 
   array (
@@ -9673,6 +16838,66 @@
   array (
     'spell' => 'nai',
     'weight' => '3671',
+  ),
+  '萳' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '遖' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '婻' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '戁' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '妠' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '暔' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '1',
+  ),
+  '諵' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '2',
+  ),
+  '嫨' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '2',
+  ),
+  '枏' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '2',
+  ),
+  '湳' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '3',
+  ),
+  '娚' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '6',
+  ),
+  '莮' => 
+  array (
+    'spell' => 'nan',
+    'weight' => '6',
   ),
   '蝻' => 
   array (
@@ -9734,6 +16959,26 @@
     'spell' => 'nan',
     'weight' => '16792',
   ),
+  '灢' => 
+  array (
+    'spell' => 'nang',
+    'weight' => '1',
+  ),
+  '齉' => 
+  array (
+    'spell' => 'nang',
+    'weight' => '1',
+  ),
+  '嚢' => 
+  array (
+    'spell' => 'nang',
+    'weight' => '3',
+  ),
+  '擃' => 
+  array (
+    'spell' => 'nang',
+    'weight' => '4',
+  ),
   '攮' => 
   array (
     'spell' => 'nang',
@@ -9763,6 +17008,51 @@
   array (
     'spell' => 'nang',
     'weight' => '817',
+  ),
+  '嶩' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '1',
+  ),
+  '碙' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '1',
+  ),
+  '蟯' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '1',
+  ),
+  '撓' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '2',
+  ),
+  '夒' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '2',
+  ),
+  '臑' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '2',
+  ),
+  '惱' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '3',
+  ),
+  '硇' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '3',
+  ),
+  '蛲' => 
+  array (
+    'spell' => 'nao',
+    'weight' => '4',
   ),
   '閙' => 
   array (
@@ -9854,6 +17144,16 @@
     'spell' => 'nao',
     'weight' => '4470',
   ),
+  '眲' => 
+  array (
+    'spell' => 'ne',
+    'weight' => '2',
+  ),
+  '訥' => 
+  array (
+    'spell' => 'ne',
+    'weight' => '2',
+  ),
   '吶' => 
   array (
     'spell' => 'ne',
@@ -9889,6 +17189,16 @@
     'spell' => 'neng',
     'weight' => '161410',
   ),
+  '氝' => 
+  array (
+    'spell' => 'nei',
+    'weight' => '1',
+  ),
+  '餒' => 
+  array (
+    'spell' => 'nei',
+    'weight' => '1',
+  ),
   '馁' => 
   array (
     'spell' => 'nei',
@@ -9903,6 +17213,141 @@
   array (
     'spell' => 'nei',
     'weight' => '40881',
+  ),
+  '跜' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '堄' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '鈮' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '眤' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '蜺' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '狔' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '鯢' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '郳' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '抳' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '馜' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '婗' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '誽' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '1',
+  ),
+  '薿' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '縌' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '麑' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '檷' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '惄' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '晲' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '柅' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '2',
+  ),
+  '苨' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '3',
+  ),
+  '嫟' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '3',
+  ),
+  '迡' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '4',
+  ),
+  '暱' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '4',
+  ),
+  '隬' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '4',
+  ),
+  '貎' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '5',
+  ),
+  '齯' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '6',
+  ),
+  '灄' => 
+  array (
+    'spell' => 'ni',
+    'weight' => '6',
   ),
   '擬' => 
   array (
@@ -10034,6 +17479,31 @@
     'spell' => 'ni',
     'weight' => '973526',
   ),
+  '鯰' => 
+  array (
+    'spell' => 'nian',
+    'weight' => '1',
+  ),
+  '跈' => 
+  array (
+    'spell' => 'nian',
+    'weight' => '1',
+  ),
+  '輦' => 
+  array (
+    'spell' => 'nian',
+    'weight' => '2',
+  ),
+  '蹍' => 
+  array (
+    'spell' => 'nian',
+    'weight' => '2',
+  ),
+  '鮎' => 
+  array (
+    'spell' => 'nian',
+    'weight' => '3',
+  ),
   '哖' => 
   array (
     'spell' => 'nian',
@@ -10134,6 +17604,26 @@
     'spell' => 'nian',
     'weight' => '105268',
   ),
+  '裊' => 
+  array (
+    'spell' => 'niao',
+    'weight' => '1',
+  ),
+  '嫋' => 
+  array (
+    'spell' => 'niao',
+    'weight' => '1',
+  ),
+  '蔦' => 
+  array (
+    'spell' => 'niao',
+    'weight' => '2',
+  ),
+  '褭' => 
+  array (
+    'spell' => 'niao',
+    'weight' => '2',
+  ),
   '茑' => 
   array (
     'spell' => 'niao',
@@ -10164,6 +17654,21 @@
     'spell' => 'niao',
     'weight' => '1791',
   ),
+  '醸' => 
+  array (
+    'spell' => 'niang',
+    'weight' => '1',
+  ),
+  '釀' => 
+  array (
+    'spell' => 'niang',
+    'weight' => '5',
+  ),
+  '嬢' => 
+  array (
+    'spell' => 'niang',
+    'weight' => '6',
+  ),
   '孃' => 
   array (
     'spell' => 'niang',
@@ -10178,6 +17683,96 @@
   array (
     'spell' => 'niang',
     'weight' => '3079',
+  ),
+  '孼' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '踂' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '峊' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '嵲' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '臲' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '巕' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '櫱' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '躡' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '1',
+  ),
+  '齧' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '嚙' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '囓' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '苶' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '讘' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '陧' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '2',
+  ),
+  '敜' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '3',
+  ),
+  '摄' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1406',
+  ),
+  '聶' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '5',
+  ),
+  '摰' => 
+  array (
+    'spell' => 'nie',
+    'weight' => '5',
   ),
   '鎳' => 
   array (
@@ -10259,6 +17854,76 @@
     'spell' => 'nin',
     'weight' => '44386',
   ),
+  '鑏' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '濘' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '獰' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '薴' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '嬣' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '聹' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '嚀' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '1',
+  ),
+  '寍' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '3',
+  ),
+  '檸' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '4',
+  ),
+  '聍' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '4',
+  ),
+  '擰' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '5',
+  ),
+  '儜' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '5',
+  ),
+  '侫' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '5',
+  ),
+  '寗' => 
+  array (
+    'spell' => 'ning',
+    'weight' => '6',
+  ),
   '泞' => 
   array (
     'spell' => 'ning',
@@ -10314,6 +17979,26 @@
     'spell' => 'ning',
     'weight' => '3897',
   ),
+  '杻' => 
+  array (
+    'spell' => 'niu',
+    'weight' => '1',
+  ),
+  '怓' => 
+  array (
+    'spell' => 'niu',
+    'weight' => '1',
+  ),
+  '紐' => 
+  array (
+    'spell' => 'niu',
+    'weight' => '5',
+  ),
+  '鈕' => 
+  array (
+    'spell' => 'niu',
+    'weight' => '6',
+  ),
   '狃' => 
   array (
     'spell' => 'niu',
@@ -10354,10 +18039,55 @@
     'spell' => 'niu',
     'weight' => '13739',
   ),
+  '鎒' => 
+  array (
+    'spell' => 'nou',
+    'weight' => '1',
+  ),
+  '譨' => 
+  array (
+    'spell' => 'nou',
+    'weight' => '1',
+  ),
   '耨' => 
   array (
     'spell' => 'nou',
     'weight' => '63',
+  ),
+  '繷' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '1',
+  ),
+  '醲' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '1',
+  ),
+  '噥' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '2',
+  ),
+  '穠' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '2',
+  ),
+  '襛' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '3',
+  ),
+  '膿' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '3',
+  ),
+  '儂' => 
+  array (
+    'spell' => 'nong',
+    'weight' => '6',
   ),
   '農' => 
   array (
@@ -10399,6 +18129,21 @@
     'spell' => 'nong',
     'weight' => '24374',
   ),
+  '駑' => 
+  array (
+    'spell' => 'nu',
+    'weight' => '1',
+  ),
+  '笯' => 
+  array (
+    'spell' => 'nu',
+    'weight' => '1',
+  ),
+  '砮' => 
+  array (
+    'spell' => 'nu',
+    'weight' => '2',
+  ),
   '孥' => 
   array (
     'spell' => 'nu',
@@ -10434,6 +18179,46 @@
     'spell' => 'nu',
     'weight' => '2622',
   ),
+  '逽' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '1',
+  ),
+  '袲' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '1',
+  ),
+  '糑' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '1',
+  ),
+  '懧' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '2',
+  ),
+  '梛' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '3',
+  ),
+  '儺' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '3',
+  ),
+  '搦' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '5',
+  ),
+  '锘' => 
+  array (
+    'spell' => 'nuo',
+    'weight' => '6',
+  ),
   '諾' => 
   array (
     'spell' => 'nuo',
@@ -10468,6 +18253,56 @@
   array (
     'spell' => 'nuo',
     'weight' => '2244',
+  ),
+  '奱' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '圞' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '孿' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '孌' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '臠' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '羉' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '灤' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '1',
+  ),
+  '巒' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '2',
+  ),
+  '攣' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '3',
+  ),
+  '脔' => 
+  array (
+    'spell' => 'luan',
+    'weight' => '5',
   ),
   '鑾' => 
   array (
@@ -10539,6 +18374,16 @@
     'spell' => 'luan',
     'weight' => '12576',
   ),
+  '畧' => 
+  array (
+    'spell' => 'lue',
+    'weight' => '1',
+  ),
+  '锊' => 
+  array (
+    'spell' => 'lue',
+    'weight' => '2',
+  ),
   '掠' => 
   array (
     'spell' => 'lue',
@@ -10548,6 +18393,66 @@
   array (
     'spell' => 'lue',
     'weight' => '2038',
+  ),
+  '溣' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '菕' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '蜦' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '錀' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '睔' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '圇' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '掄' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '1',
+  ),
+  '棆' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '2',
+  ),
+  '稐' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '2',
+  ),
+  '淪' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '3',
+  ),
+  '侖' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '4',
+  ),
+  '惀' => 
+  array (
+    'spell' => 'lun',
+    'weight' => '5',
   ),
   '崙' => 
   array (
@@ -10618,6 +18523,151 @@
   array (
     'spell' => 'lun',
     'weight' => '6258',
+  ),
+  '祣' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '郘' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '瘻' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '蔞' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '哷' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '櫚' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '慺' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '膢' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '藘' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '謱' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '簍' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '勴' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '1',
+  ),
+  '葎' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '2',
+  ),
+  '褸' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '2',
+  ),
+  '梠' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '2',
+  ),
+  '櫨' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '2',
+  ),
+  '緑' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '儢' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '鋁' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '侶' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '録' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '稆' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '3',
+  ),
+  '嵂' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '4',
+  ),
+  '膂' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '4',
+  ),
+  '縷' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '4',
+  ),
+  '偻' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '7',
+  ),
+  '絽' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '5',
+  ),
+  '驢' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '5',
+  ),
+  '閭' => 
+  array (
+    'spell' => 'lv',
+    'weight' => '6',
   ),
   '繂' => 
   array (
@@ -10744,6 +18794,56 @@
     'spell' => 'lv',
     'weight' => '6211',
   ),
+  '藞' => 
+  array (
+    'spell' => 'la',
+    'weight' => '1',
+  ),
+  '翋' => 
+  array (
+    'spell' => 'la',
+    'weight' => '1',
+  ),
+  '柆' => 
+  array (
+    'spell' => 'la',
+    'weight' => '2',
+  ),
+  '楋' => 
+  array (
+    'spell' => 'la',
+    'weight' => '2',
+  ),
+  '臈' => 
+  array (
+    'spell' => 'la',
+    'weight' => '2',
+  ),
+  '鞡' => 
+  array (
+    'spell' => 'la',
+    'weight' => '3',
+  ),
+  '鬎' => 
+  array (
+    'spell' => 'la',
+    'weight' => '3',
+  ),
+  '溂' => 
+  array (
+    'spell' => 'la',
+    'weight' => '4',
+  ),
+  '臘' => 
+  array (
+    'spell' => 'la',
+    'weight' => '5',
+  ),
+  '蠟' => 
+  array (
+    'spell' => 'la',
+    'weight' => '6',
+  ),
   '旯' => 
   array (
     'spell' => 'la',
@@ -10813,6 +18913,91 @@
   array (
     'spell' => 'la',
     'weight' => '102549',
+  ),
+  '鯠' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '庲' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '誺' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '箂' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '藾' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '娕' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '睞' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '淶' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '錸' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '籟' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '徠' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '1',
+  ),
+  '崍' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '2',
+  ),
+  '頼' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '2',
+  ),
+  '癩' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '3',
+  ),
+  '騋' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '3',
+  ),
+  '棶' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '5',
+  ),
+  '崃' => 
+  array (
+    'spell' => 'lai',
+    'weight' => '6',
   ),
   '萊' => 
   array (
@@ -10898,6 +19083,176 @@
   array (
     'spell' => 'lai',
     'weight' => '233997',
+  ),
+  '讕' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '燗' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '糷' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '醂' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '擥' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '斕' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '浨' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '襤' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '爁' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '譋' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '欗' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '襴' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '灡' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '嚂' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '1',
+  ),
+  '躝' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '暕' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '纜' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '籣' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '闌' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '灠' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '欖' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '2',
+  ),
+  '嬾' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '3',
+  ),
+  '覽' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '3',
+  ),
+  '罱' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '3',
+  ),
+  '瀾' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '4',
+  ),
+  '壈' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '4',
+  ),
+  '攔' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '4',
+  ),
+  '濫' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '5',
+  ),
+  '覧' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '5',
+  ),
+  '儖' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '5',
+  ),
+  '欄' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '5',
+  ),
+  '漤' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '6',
+  ),
+  '籃' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '6',
+  ),
+  '灆' => 
+  array (
+    'spell' => 'lan',
+    'weight' => '6',
   ),
   '諫' => 
   array (
@@ -11039,6 +19394,61 @@
     'spell' => 'lan',
     'weight' => '7677',
   ),
+  '桹' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '1',
+  ),
+  '鋃' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '1',
+  ),
+  '硠' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '1',
+  ),
+  '羮' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '2',
+  ),
+  '誏' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '2',
+  ),
+  '瑯' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '3',
+  ),
+  '稂' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '3',
+  ),
+  '蒗' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '4',
+  ),
+  '塱' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '4',
+  ),
+  '烺' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '4',
+  ),
+  '锒' => 
+  array (
+    'spell' => 'lang',
+    'weight' => '6',
+  ),
   '閬' => 
   array (
     'spell' => 'lang',
@@ -11118,6 +19528,101 @@
   array (
     'spell' => 'lang',
     'weight' => '4237',
+  ),
+  '軂' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '浶' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '鮱' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '嘮' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '癆' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '澇' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '橑' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '銠' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '1',
+  ),
+  '恅' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '2',
+  ),
+  '铹' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '3',
+  ),
+  '络' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '407',
+  ),
+  '蛯' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '4',
+  ),
+  '労' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '4',
+  ),
+  '荖' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '4',
+  ),
+  '潦' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '28',
+  ),
+  '僗' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '5',
+  ),
+  '簩' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '5',
+  ),
+  '耢' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '6',
+  ),
+  '撈' => 
+  array (
+    'spell' => 'lao',
+    'weight' => '6',
   ),
   '栳' => 
   array (
@@ -11214,6 +19719,21 @@
     'spell' => 'lao',
     'weight' => '39924',
   ),
+  '砳' => 
+  array (
+    'spell' => 'le',
+    'weight' => '2',
+  ),
+  '氻' => 
+  array (
+    'spell' => 'le',
+    'weight' => '2',
+  ),
+  '竻' => 
+  array (
+    'spell' => 'le',
+    'weight' => '3',
+  ),
   '鰳' => 
   array (
     'spell' => 'le',
@@ -11274,6 +19794,31 @@
     'spell' => 'le',
     'weight' => '1500186',
   ),
+  '薐' => 
+  array (
+    'spell' => 'leng',
+    'weight' => '1',
+  ),
+  '睖' => 
+  array (
+    'spell' => 'leng',
+    'weight' => '1',
+  ),
+  '堎' => 
+  array (
+    'spell' => 'leng',
+    'weight' => '2',
+  ),
+  '崚' => 
+  array (
+    'spell' => 'leng',
+    'weight' => '3',
+  ),
+  '稜' => 
+  array (
+    'spell' => 'leng',
+    'weight' => '6',
+  ),
   '塄' => 
   array (
     'spell' => 'leng',
@@ -11298,6 +19843,146 @@
   array (
     'spell' => 'leng',
     'weight' => '6135',
+  ),
+  '櫐' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '鸓' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '轠' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '虆' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '讄' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '瓃' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '蘲' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '蘱' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '癗' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '樏' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '誄' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '鐳' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '礧' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '塁' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '縲' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '1',
+  ),
+  '絫' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '2',
+  ),
+  '蔂' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '2',
+  ),
+  '纇' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '2',
+  ),
+  '礌' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '2',
+  ),
+  '磥' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '2',
+  ),
+  '灅' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '3',
+  ),
+  '郲' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '3',
+  ),
+  '檑' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '3',
+  ),
+  '藟' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '3',
+  ),
+  '畾' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '4',
+  ),
+  '壘' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '5',
+  ),
+  '嫘' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '6',
+  ),
+  '罍' => 
+  array (
+    'spell' => 'lei',
+    'weight' => '6',
   ),
   '儡' => 
   array (
@@ -11408,6 +20093,401 @@
   array (
     'spell' => 'lei',
     'weight' => '19235',
+  ),
+  '峛' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '礰' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '靋' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '欚' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '壢' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '蜧' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '鑗' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '邐' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '鴗' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '鱧' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '蔾' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '秝' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '隷' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '刕' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '菞' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '屴' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '赲' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '娳' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '盭' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '茘' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '搮' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '蠫' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '廲' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '岦' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '癧' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '跞' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '讈' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '癘' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '櫪' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '轢' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '粴' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '朸' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '驪' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '縭' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '蠣' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '蘺' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '砅' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '檪' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '鋰' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '樆' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '礪' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '灕' => 
+  array (
+    'spell' => 'li',
+    'weight' => '1',
+  ),
+  '謧' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '犂' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '扐' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '孋' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '濿' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '醨' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '鲡' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '栃' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '嚦' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '瓥' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '鯉' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '栵' => 
+  array (
+    'spell' => 'li',
+    'weight' => '2',
+  ),
+  '剺' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '瑮' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '蒞' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '苙' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '瓅' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '儮' => 
+  array (
+    'spell' => 'li',
+    'weight' => '3',
+  ),
+  '磿' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '慄' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '瀝' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '轹' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '篥' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '涖' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '籬' => 
+  array (
+    'spell' => 'li',
+    'weight' => '4',
+  ),
+  '劙' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '蜊' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '曆' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '悷' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '嫠' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '厲' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '浬' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '釐' => 
+  array (
+    'spell' => 'li',
+    'weight' => '5',
+  ),
+  '隸' => 
+  array (
+    'spell' => 'li',
+    'weight' => '6',
+  ),
+  '儷' => 
+  array (
+    'spell' => 'li',
+    'weight' => '6',
+  ),
+  '粝' => 
+  array (
+    'spell' => 'li',
+    'weight' => '6',
+  ),
+  '歴' => 
+  array (
+    'spell' => 'li',
+    'weight' => '6',
   ),
   '厤' => 
   array (
@@ -11849,6 +20929,141 @@
     'spell' => 'lia',
     'weight' => '5217',
   ),
+  '覝' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '瀲' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '匳' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '襝' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '浰' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '奩' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '鰊' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '磏' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '鬑' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '翴' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '謰' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '嗹' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '錬' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '1',
+  ),
+  '薕' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '2',
+  ),
+  '歛' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '2',
+  ),
+  '璉' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '2',
+  ),
+  '聨' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '2',
+  ),
+  '漣' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '2',
+  ),
+  '僆' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '3',
+  ),
+  '蔹' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '3',
+  ),
+  '縺' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '3',
+  ),
+  '裣' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '4',
+  ),
+  '鎌' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '4',
+  ),
+  '裢' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '5',
+  ),
+  '槤' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '5',
+  ),
+  '憐' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '5',
+  ),
+  '簾' => 
+  array (
+    'spell' => 'lian',
+    'weight' => '5',
+  ),
   '鐮' => 
   array (
     'spell' => 'lian',
@@ -12034,6 +21249,116 @@
     'spell' => 'lian',
     'weight' => '26463',
   ),
+  '轑' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '炓' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '豂' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '嵺' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '蟟' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '膋' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '鷯' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '蟧' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '膫' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '窌' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '鄝' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '1',
+  ),
+  '尞' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '2',
+  ),
+  '窷' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '2',
+  ),
+  '摎' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '2',
+  ),
+  '憀' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '3',
+  ),
+  '嫽' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '3',
+  ),
+  '樛' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '3',
+  ),
+  '釕' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '3',
+  ),
+  '遼' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '3',
+  ),
+  '療' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '4',
+  ),
+  '敹' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '4',
+  ),
+  '繚' => 
+  array (
+    'spell' => 'liao',
+    'weight' => '5',
+  ),
   '鹩' => 
   array (
     'spell' => 'liao',
@@ -12073,11 +21398,6 @@
   array (
     'spell' => 'liao',
     'weight' => '23',
-  ),
-  '潦' => 
-  array (
-    'spell' => 'liao',
-    'weight' => '28',
   ),
   '缭' => 
   array (
@@ -12153,6 +21473,96 @@
   array (
     'spell' => 'liao',
     'weight' => '15975',
+  ),
+  '魎' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '蜋' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '啢' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '綡' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '鍄' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '簗' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '輌' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '緉' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '駺' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '1',
+  ),
+  '裲' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '2',
+  ),
+  '湸' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '2',
+  ),
+  '墚' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '3',
+  ),
+  '輛' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '4',
+  ),
+  '倞' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '4',
+  ),
+  '俍' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '4',
+  ),
+  '喨' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '4',
+  ),
+  '糧' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '5',
+  ),
+  '諒' => 
+  array (
+    'spell' => 'liang',
+    'weight' => '6',
   ),
   '両' => 
   array (
@@ -12259,6 +21669,71 @@
     'spell' => 'liang',
     'weight' => '16584',
   ),
+  '猟' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '茢' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '蛚' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '毟' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '綟' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '迾' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '櫑' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '颲' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '埓' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '鴷' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '1',
+  ),
+  '儠' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '2',
+  ),
+  '獵' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '3',
+  ),
+  '躐' => 
+  array (
+    'spell' => 'lie',
+    'weight' => '4',
+  ),
   '姴' => 
   array (
     'spell' => 'lie',
@@ -12328,6 +21803,136 @@
   array (
     'spell' => 'lie',
     'weight' => '6282',
+  ),
+  '橉' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '藺' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '隣' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '轔' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '懍' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '躙' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '惏' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '鏻' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '悋' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '躪' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '賃' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '1',
+  ),
+  '僯' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '菻' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '廩' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '繗' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '凜' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '鱗' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '潾' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '瞵' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '2',
+  ),
+  '燐' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '3',
+  ),
+  '躏' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '4',
+  ),
+  '亃' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '4',
+  ),
+  '驎' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '4',
+  ),
+  '鄰' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '4',
+  ),
+  '箖' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '5',
+  ),
+  '疄' => 
+  array (
+    'spell' => 'lin',
+    'weight' => '6',
   ),
   '辚' => 
   array (
@@ -12458,6 +22063,161 @@
   array (
     'spell' => 'lin',
     'weight' => '12069',
+  ),
+  '昤' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '婈' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '砱' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '裬' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '櫺' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '輘' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '錂' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '蔆' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '欞' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '鯪' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '鴒' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '醽' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '爧' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '詅' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '琌' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '皊' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '齢' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '1',
+  ),
+  '軨' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '姈' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '笭' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '霝' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '蕶' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '岺' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '炩' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '2',
+  ),
+  '彾' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '3',
+  ),
+  '倰' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '3',
+  ),
+  '澪' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '4',
+  ),
+  '鲮' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '5',
+  ),
+  '霊' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '5',
+  ),
+  '淩' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '5',
+  ),
+  '齡' => 
+  array (
+    'spell' => 'ling',
+    'weight' => '5',
   ),
   '嶺' => 
   array (
@@ -12629,6 +22389,136 @@
     'spell' => 'ling',
     'weight' => '10842',
   ),
+  '綹' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '鷚' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '塯' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '藰' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '裗' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '嚠' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '畄' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '鎦' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '鶹' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '騮' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '餾' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '懰' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '鰡' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '廇' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '澑' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '霤' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '1',
+  ),
+  '罶' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '2',
+  ),
+  '栁' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '2',
+  ),
+  '鏐' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '2',
+  ),
+  '瀏' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '3',
+  ),
+  '嵧' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '3',
+  ),
+  '鹨' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '5',
+  ),
+  '珋' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '5',
+  ),
+  '媹' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '5',
+  ),
+  '锍' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '6',
+  ),
+  '蹓' => 
+  array (
+    'spell' => 'liu',
+    'weight' => '6',
+  ),
   '瑠' => 
   array (
     'spell' => 'liu',
@@ -12754,12 +22644,82 @@
     'spell' => 'lo',
     'weight' => '27403',
   ),
-  '摟' => 
+  '鞻' => 
   array (
     'spell' => 'lou',
-    'weight' => '7',
+    'weight' => '1',
   ),
-  '偻' => 
+  '熡' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '窶' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '艛' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '螻' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '嶁' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '耬' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '1',
+  ),
+  '塿' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '瞜' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '鏤' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '瘺' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '僂' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '廔' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '2',
+  ),
+  '嵝' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '5',
+  ),
+  '髅' => 
+  array (
+    'spell' => 'lou',
+    'weight' => '5',
+  ),
+  '摟' => 
   array (
     'spell' => 'lou',
     'weight' => '7',
@@ -12843,6 +22803,146 @@
   array (
     'spell' => 'lou',
     'weight' => '12718',
+  ),
+  '豅' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '蘢' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '梇' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '徿' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '谾' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '礱' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '躘' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '朧' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '鸗' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '蠬' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '篢' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '矓' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '襱' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '櫳' => 
+  array (
+    'spell' => 'long',
+    'weight' => '1',
+  ),
+  '嚨' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '隴' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '瓏' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '巃' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '哢' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '鑨' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '壟' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '聾' => 
+  array (
+    'spell' => 'long',
+    'weight' => '2',
+  ),
+  '瀧' => 
+  array (
+    'spell' => 'long',
+    'weight' => '3',
+  ),
+  '蠪' => 
+  array (
+    'spell' => 'long',
+    'weight' => '3',
+  ),
+  '攏' => 
+  array (
+    'spell' => 'long',
+    'weight' => '4',
+  ),
+  '癃' => 
+  array (
+    'spell' => 'long',
+    'weight' => '5',
+  ),
+  '儱' => 
+  array (
+    'spell' => 'long',
+    'weight' => '6',
+  ),
+  '籠' => 
+  array (
+    'spell' => 'long',
+    'weight' => '6',
   ),
   '曨' => 
   array (
@@ -12943,6 +23043,291 @@
   array (
     'spell' => 'long',
     'weight' => '9924',
+  ),
+  '漊' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '螰' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '硉' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '轤' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '壚' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '熝' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '錴' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '轆' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '踛' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '璷' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '艪' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '蔍' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '艫' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '磠' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '氌' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '瀘' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '鏕' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '鑪' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '觻' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '翏' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '纑' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '坴' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '鱸' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '挔' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '淥' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '臚' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '顱' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '賂' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '廘' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '擼' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '睩' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '滷' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '1',
+  ),
+  '鷺' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '穋' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '鹵' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '盝' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '醁' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '琭' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '摝' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '2',
+  ),
+  '濾' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '僇' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '籙' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '騄' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '菉' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '彔' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '3',
+  ),
+  '櫓' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '4',
+  ),
+  '蘆' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '4',
+  ),
+  '轳' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '4',
+  ),
+  '枦' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '4',
+  ),
+  '虜' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '4',
+  ),
+  '簏' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '5',
+  ),
+  '擄' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '5',
+  ),
+  '鈩' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '5',
+  ),
+  '稑' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '5',
+  ),
+  '廬' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '6',
+  ),
+  '镥' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '6',
+  ),
+  '嚕' => 
+  array (
+    'spell' => 'lu',
+    'weight' => '6',
   ),
   '栌' => 
   array (
@@ -13179,6 +23564,136 @@
     'spell' => 'lu',
     'weight' => '20471',
   ),
+  '腡' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '鱳' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '蓏' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '鮥' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '覶' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '鸁' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '詻' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '臝' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '攭' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '邏' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '儽' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '1',
+  ),
+  '礫' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '皪' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '犖' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '籮' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '峈' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '纙' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '駱' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '2',
+  ),
+  '茖' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '3',
+  ),
+  '絡' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '4',
+  ),
+  '脶' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '4',
+  ),
+  '欙' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '5',
+  ),
+  '猓' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '6',
+  ),
+  '鑼' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '6',
+  ),
+  '儸' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '6',
+  ),
+  '蘿' => 
+  array (
+    'spell' => 'luo',
+    'weight' => '6',
+  ),
   '荦' => 
   array (
     'spell' => 'luo',
@@ -13279,11 +23794,6 @@
     'spell' => 'luo',
     'weight' => '329',
   ),
-  '络' => 
-  array (
-    'spell' => 'luo',
-    'weight' => '407',
-  ),
   '骆' => 
   array (
     'spell' => 'luo',
@@ -13303,6 +23813,61 @@
   array (
     'spell' => 'luo',
     'weight' => '7793',
+  ),
+  '颪' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '1',
+  ),
+  '詿' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '1',
+  ),
+  '括' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '194',
+  ),
+  '騧' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '2',
+  ),
+  '緺' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '2',
+  ),
+  '劀' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '2',
+  ),
+  '苽' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '2',
+  ),
+  '剮' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '2',
+  ),
+  '罣' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '4',
+  ),
+  '鸹' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '5',
+  ),
+  '诖' => 
+  array (
+    'spell' => 'gua',
+    'weight' => '6',
   ),
   '掛' => 
   array (
@@ -13358,6 +23923,86 @@
   array (
     'spell' => 'gua',
     'weight' => '12144',
+  ),
+  '樌' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '1',
+  ),
+  '鸛' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '1',
+  ),
+  '爟' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '1',
+  ),
+  '毌' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '2',
+  ),
+  '悺' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '2',
+  ),
+  '蒄' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '2',
+  ),
+  '筦' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '2',
+  ),
+  '舘' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '3',
+  ),
+  '鑵' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '3',
+  ),
+  '錧' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '3',
+  ),
+  '悹' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '4',
+  ),
+  '閞' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '4',
+  ),
+  '摜' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '5',
+  ),
+  '瘝' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '5',
+  ),
+  '貫' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '6',
+  ),
+  '慣' => 
+  array (
+    'spell' => 'guan',
+    'weight' => '6',
   ),
   '矜' => 
   array (
@@ -13494,6 +24139,36 @@
     'spell' => 'guan',
     'weight' => '15029',
   ),
+  '茪' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '1',
+  ),
+  '銧' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '1',
+  ),
+  '珖' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '2',
+  ),
+  '撗' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '3',
+  ),
+  '俇' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '4',
+  ),
+  '垙' => 
+  array (
+    'spell' => 'guang',
+    'weight' => '6',
+  ),
   '侊' => 
   array (
     'spell' => 'guang',
@@ -13549,6 +24224,36 @@
     'spell' => 'guang',
     'weight' => '12327',
   ),
+  '鯀' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '1',
+  ),
+  '袞' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '3',
+  ),
+  '輥' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '3',
+  ),
+  '惃' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '3',
+  ),
+  '磙' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '4',
+  ),
+  '棞' => 
+  array (
+    'spell' => 'gun',
+    'weight' => '5',
+  ),
   '绲' => 
   array (
     'spell' => 'gun',
@@ -13589,6 +24294,31 @@
     'spell' => 'gun',
     'weight' => '3811',
   ),
+  '罫' => 
+  array (
+    'spell' => 'guai',
+    'weight' => '1',
+  ),
+  '枴' => 
+  array (
+    'spell' => 'guai',
+    'weight' => '1',
+  ),
+  '柺' => 
+  array (
+    'spell' => 'guai',
+    'weight' => '2',
+  ),
+  '掴' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '73',
+  ),
+  '恠' => 
+  array (
+    'spell' => 'guai',
+    'weight' => '6',
+  ),
   '夬' => 
   array (
     'spell' => 'guai',
@@ -13608,6 +24338,11 @@
   array (
     'spell' => 'guai',
     'weight' => '18529',
+  ),
+  '尜' => 
+  array (
+    'spell' => 'ga',
+    'weight' => '6',
   ),
   '夹' => 
   array (
@@ -13658,6 +24393,56 @@
   array (
     'spell' => 'ga',
     'weight' => '6258',
+  ),
+  '豥' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '1',
+  ),
+  '漑' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '1',
+  ),
+  '賅' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '1',
+  ),
+  '槪' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '1',
+  ),
+  '瓂' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '2',
+  ),
+  '戤' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '2',
+  ),
+  '葢' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '2',
+  ),
+  '荄' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '2',
+  ),
+  '祴' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '4',
+  ),
+  '鈣' => 
+  array (
+    'spell' => 'gai',
+    'weight' => '4',
   ),
   '芥' => 
   array (
@@ -13728,6 +24513,81 @@
   array (
     'spell' => 'gai',
     'weight' => '48251',
+  ),
+  '尷' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '玵' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '骭' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '筸' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '凎' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '笴' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '稈' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '贛' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '1',
+  ),
+  '簳' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '2',
+  ),
+  '紺' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '3',
+  ),
+  '澉' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '4',
+  ),
+  '玕' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '5',
+  ),
+  '旰' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '5',
+  ),
+  '桿' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '6',
+  ),
+  '詌' => 
+  array (
+    'spell' => 'gan',
+    'weight' => '6',
   ),
   '泔' => 
   array (
@@ -13864,6 +24724,46 @@
     'spell' => 'gan',
     'weight' => '22116',
   ),
+  '堈' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '1',
+  ),
+  '犅' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '1',
+  ),
+  '堽' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '2',
+  ),
+  '筻' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '2',
+  ),
+  '棡' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '3',
+  ),
+  '釭' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '5',
+  ),
+  '槓' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '5',
+  ),
+  '綱' => 
+  array (
+    'spell' => 'gang',
+    'weight' => '6',
+  ),
   '扛' => 
   array (
     'spell' => 'kang',
@@ -13943,6 +24843,61 @@
   array (
     'spell' => 'gang',
     'weight' => '33324',
+  ),
+  '鋯' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '1',
+  ),
+  '鼛' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '1',
+  ),
+  '祰' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '1',
+  ),
+  '韟' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '2',
+  ),
+  '櫜' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '3',
+  ),
+  '縞' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '3',
+  ),
+  '槹' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '3',
+  ),
+  '皐' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '3',
+  ),
+  '誥' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '3',
+  ),
+  '槔' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '4',
+  ),
+  '檺' => 
+  array (
+    'spell' => 'gao',
+    'weight' => '5',
   ),
   '髙' => 
   array (
@@ -14043,6 +24998,106 @@
   array (
     'spell' => 'gao',
     'weight' => '45167',
+  ),
+  '吤' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '韐' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '合' => 
+  array (
+    'spell' => 'he',
+    'weight' => '6297',
+  ),
+  '觡' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '鎘' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '滒' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '塥' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '1',
+  ),
+  '轕' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '2',
+  ),
+  '鴿' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '2',
+  ),
+  '仡' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '3',
+  ),
+  '鉻' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '3',
+  ),
+  '獦' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '3',
+  ),
+  '蛤' => 
+  array (
+    'spell' => 'ha',
+    'weight' => '247',
+  ),
+  '袼' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '4',
+  ),
+  '閤' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '4',
+  ),
+  '虼' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '4',
+  ),
+  '佮' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '4',
+  ),
+  '擱' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '5',
+  ),
+  '搿' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '5',
+  ),
+  '哿' => 
+  array (
+    'spell' => 'ge',
+    'weight' => '5',
   ),
   '謌' => 
   array (
@@ -14204,6 +25259,11 @@
     'spell' => 'ge',
     'weight' => '245957',
   ),
+  '茛' => 
+  array (
+    'spell' => 'gen',
+    'weight' => '6',
+  ),
   '亘' => 
   array (
     'spell' => 'gen',
@@ -14228,6 +25288,56 @@
   array (
     'spell' => 'gen',
     'weight' => '74632',
+  ),
+  '郠' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '1',
+  ),
+  '堩' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '1',
+  ),
+  '鯁' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '1',
+  ),
+  '賡' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '1',
+  ),
+  '緪' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '1',
+  ),
+  '挭' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '2',
+  ),
+  '浭' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '3',
+  ),
+  '畊' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '3',
+  ),
+  '亙' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '5',
+  ),
+  '綆' => 
+  array (
+    'spell' => 'geng',
+    'weight' => '6',
   ),
   '颈' => 
   array (
@@ -14298,6 +25408,81 @@
   array (
     'spell' => 'gei',
     'weight' => '191937',
+  ),
+  '韝' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '1',
+  ),
+  '覯' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '1',
+  ),
+  '雊' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '1',
+  ),
+  '耇' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '2',
+  ),
+  '搆' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '2',
+  ),
+  '冓' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '2',
+  ),
+  '簼' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '2',
+  ),
+  '構' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '2',
+  ),
+  '鈎' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '3',
+  ),
+  '袧' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '3',
+  ),
+  '芶' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '4',
+  ),
+  '購' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '4',
+  ),
+  '鞲' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '5',
+  ),
+  '緱' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '6',
+  ),
+  '笱' => 
+  array (
+    'spell' => 'gou',
+    'weight' => '6',
   ),
   '佝' => 
   array (
@@ -14414,6 +25599,66 @@
     'spell' => 'gou',
     'weight' => '14732',
   ),
+  '熕' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '1',
+  ),
+  '匑' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '1',
+  ),
+  '輁' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '1',
+  ),
+  '拲' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '3',
+  ),
+  '龔' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '3',
+  ),
+  '红' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '12941',
+  ),
+  '鞏' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '3',
+  ),
+  '塨' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '4',
+  ),
+  '幊' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '5',
+  ),
+  '栱' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '5',
+  ),
+  '貢' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '5',
+  ),
+  '蚣' => 
+  array (
+    'spell' => 'gong',
+    'weight' => '5',
+  ),
   '珙' => 
   array (
     'spell' => 'gong',
@@ -14508,6 +25753,161 @@
   array (
     'spell' => 'gong',
     'weight' => '9924',
+  ),
+  '鮕' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '硲' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '瀔' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '蛌' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '錮' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '鴣' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '蓇' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '啒' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '嫴' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '尳' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '軱' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '峠' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '皷' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '1',
+  ),
+  '凅' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '泒' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '轂' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '柧' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '愲' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '榾' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '盬' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '堌' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '2',
+  ),
+  '詁' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '3',
+  ),
+  '羖' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '3',
+  ),
+  '牿' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '3',
+  ),
+  '僱' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '4',
+  ),
+  '嘏' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '4',
+  ),
+  '鈷' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '4',
+  ),
+  '稒' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '5',
+  ),
+  '梏' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '5',
+  ),
+  '蠱' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '6',
+  ),
+  '鸪' => 
+  array (
+    'spell' => 'gu',
+    'weight' => '6',
   ),
   '鲴' => 
   array (
@@ -14719,6 +26119,76 @@
     'spell' => 'gu',
     'weight' => '16667',
   ),
+  '蔮' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '1',
+  ),
+  '慖' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '1',
+  ),
+  '褁' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '1',
+  ),
+  '嘓' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '1',
+  ),
+  '圀' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '1',
+  ),
+  '槨' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '2',
+  ),
+  '墎' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '3',
+  ),
+  '瘑' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '3',
+  ),
+  '摑' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '3',
+  ),
+  '鐹' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '4',
+  ),
+  '彉' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '4',
+  ),
+  '蜾' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '4',
+  ),
+  '崞' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '5',
+  ),
+  '惈' => 
+  array (
+    'spell' => 'guo',
+    'weight' => '5',
+  ),
   '馘' => 
   array (
     'spell' => 'guo',
@@ -14804,11 +26274,6 @@
     'spell' => 'guo',
     'weight' => '62',
   ),
-  '掴' => 
-  array (
-    'spell' => 'guo',
-    'weight' => '73',
-  ),
   '過' => 
   array (
     'spell' => 'guo',
@@ -14843,6 +26308,141 @@
   array (
     'spell' => 'guo',
     'weight' => '111897',
+  ),
+  '蛫' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '禬' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '鳺' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '椢' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '觤' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '蟡' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '氿' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '撌' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '厬' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '槶' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '劊' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '匭' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '閨' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '庪' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '摫' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '1',
+  ),
+  '媯' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '2',
+  ),
+  '帰' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '2',
+  ),
+  '袿' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '2',
+  ),
+  '詭' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '3',
+  ),
+  '軌' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '3',
+  ),
+  '瞡' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '4',
+  ),
+  '邽' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '4',
+  ),
+  '刽' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '4',
+  ),
+  '鳜' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '5',
+  ),
+  '亀' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '6',
+  ),
+  '劌' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '6',
+  ),
+  '宄' => 
+  array (
+    'spell' => 'gui',
+    'weight' => '6',
   ),
   '槼' => 
   array (
@@ -15029,6 +26629,36 @@
     'spell' => 'gui',
     'weight' => '13963',
   ),
+  '舿' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '1',
+  ),
+  '絓' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '1',
+  ),
+  '銙' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '1',
+  ),
+  '錁' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '1',
+  ),
+  '骻' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '1',
+  ),
+  '姱' => 
+  array (
+    'spell' => 'kua',
+    'weight' => '3',
+  ),
   '誇' => 
   array (
     'spell' => 'kua',
@@ -15064,6 +26694,11 @@
     'spell' => 'kua',
     'weight' => '2090',
   ),
+  '窾' => 
+  array (
+    'spell' => 'kuan',
+    'weight' => '1',
+  ),
   '寬' => 
   array (
     'spell' => 'kuan',
@@ -15088,6 +26723,121 @@
   array (
     'spell' => 'kuan',
     'weight' => '6685',
+  ),
+  '絋' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '軠' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '軦' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '貺' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '懭' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '鉱' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '穬' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '恇' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '絖' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '誆' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '爌' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '矌' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '鑛' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '丱' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '1',
+  ),
+  '鄺' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '2',
+  ),
+  '礦' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '2',
+  ),
+  '洭' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '3',
+  ),
+  '壙' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '3',
+  ),
+  '鵟' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '3',
+  ),
+  '狅' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '3',
+  ),
+  '纩' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '4',
+  ),
+  '誑' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '4',
+  ),
+  '纊' => 
+  array (
+    'spell' => 'kuang',
+    'weight' => '6',
   ),
   '況' => 
   array (
@@ -15179,6 +26929,81 @@
     'spell' => 'kuang',
     'weight' => '4205',
   ),
+  '涃' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '錕' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '裍' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '豤' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '鯤' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '菎' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '騉' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '稛' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '臗' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '鶤' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '鰥' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '梱' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '1',
+  ),
+  '壼' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '2',
+  ),
+  '綑' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '3',
+  ),
+  '晜' => 
+  array (
+    'spell' => 'kun',
+    'weight' => '4',
+  ),
   '阃' => 
   array (
     'spell' => 'kun',
@@ -15259,6 +27084,41 @@
     'spell' => 'kun',
     'weight' => '3946',
   ),
+  '膾' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '1',
+  ),
+  '璯' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '1',
+  ),
+  '鄶' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '1',
+  ),
+  '澮' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '1',
+  ),
+  '鱠' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '2',
+  ),
+  '狯' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '3',
+  ),
+  '儈' => 
+  array (
+    'spell' => 'kuai',
+    'weight' => '3',
+  ),
   '郐' => 
   array (
     'spell' => 'kuai',
@@ -15314,6 +27174,31 @@
     'spell' => 'kuai',
     'weight' => '48011',
   ),
+  '裃' => 
+  array (
+    'spell' => 'ka',
+    'weight' => '1',
+  ),
+  '擖' => 
+  array (
+    'spell' => 'ka',
+    'weight' => '1',
+  ),
+  '鉲' => 
+  array (
+    'spell' => 'ka',
+    'weight' => '2',
+  ),
+  '胩' => 
+  array (
+    'spell' => 'ka',
+    'weight' => '4',
+  ),
+  '垰' => 
+  array (
+    'spell' => 'ka',
+    'weight' => '4',
+  ),
   '佧' => 
   array (
     'spell' => 'ka',
@@ -15333,6 +27218,61 @@
   array (
     'spell' => 'ka',
     'weight' => '30770',
+  ),
+  '烗' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '1',
+  ),
+  '颽' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '1',
+  ),
+  '剴' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '1',
+  ),
+  '鎧' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '2',
+  ),
+  '愷' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '2',
+  ),
+  '闓' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '3',
+  ),
+  '鍇' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '3',
+  ),
+  '欬' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '3',
+  ),
+  '锎' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '3',
+  ),
+  '暟' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '5',
+  ),
+  '垲' => 
+  array (
+    'spell' => 'kai',
+    'weight' => '5',
   ),
   '忾' => 
   array (
@@ -15398,6 +27338,56 @@
   array (
     'spell' => 'kai',
     'weight' => '54927',
+  ),
+  '轗' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '1',
+  ),
+  '栞' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '2',
+  ),
+  '衎' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '2',
+  ),
+  '檻' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '3',
+  ),
+  '墈' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '3',
+  ),
+  '崁' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '4',
+  ),
+  '莰' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '4',
+  ),
+  '顑' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '5',
+  ),
+  '矙' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '5',
+  ),
+  '竷' => 
+  array (
+    'spell' => 'kan',
+    'weight' => '6',
   ),
   '嵌' => 
   array (
@@ -15469,6 +27459,21 @@
     'spell' => 'kan',
     'weight' => '245039',
   ),
+  '漮' => 
+  array (
+    'spell' => 'kang',
+    'weight' => '1',
+  ),
+  '邟' => 
+  array (
+    'spell' => 'kang',
+    'weight' => '1',
+  ),
+  '鏮' => 
+  array (
+    'spell' => 'kang',
+    'weight' => '1',
+  ),
   '犺' => 
   array (
     'spell' => 'kang',
@@ -15534,6 +27539,16 @@
     'spell' => 'kang',
     'weight' => '3971',
   ),
+  '銬' => 
+  array (
+    'spell' => 'kao',
+    'weight' => '1',
+  ),
+  '攷' => 
+  array (
+    'spell' => 'kao',
+    'weight' => '6',
+  ),
   '洘' => 
   array (
     'spell' => 'kao',
@@ -15578,6 +27593,141 @@
   array (
     'spell' => 'kao',
     'weight' => '30617',
+  ),
+  '犐' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '樖' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '趷' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '嵙' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '萪' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '薖' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '騍' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '毼' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '磆' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '搕' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '堁' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '濭' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '鉿' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '頦' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '龕' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '1',
+  ),
+  '渇' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '2',
+  ),
+  '悈' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '2',
+  ),
+  '軻' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '2',
+  ),
+  '痾' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '3',
+  ),
+  '匼' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '3',
+  ),
+  '砢' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '3',
+  ),
+  '榼' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '3',
+  ),
+  '锞' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '5',
+  ),
+  '牁' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '5',
+  ),
+  '剋' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '5',
+  ),
+  '鈳' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '5',
+  ),
+  '蚵' => 
+  array (
+    'spell' => 'ke',
+    'weight' => '6',
   ),
   '钶' => 
   array (
@@ -15764,6 +27914,26 @@
     'spell' => 'ke',
     'weight' => '68911',
   ),
+  '掯' => 
+  array (
+    'spell' => 'ken',
+    'weight' => '1',
+  ),
+  '墾' => 
+  array (
+    'spell' => 'ken',
+    'weight' => '2',
+  ),
+  '龈' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '32',
+  ),
+  '懇' => 
+  array (
+    'spell' => 'ken',
+    'weight' => '4',
+  ),
   '裉' => 
   array (
     'spell' => 'ken',
@@ -15789,6 +27959,31 @@
     'spell' => 'ken',
     'weight' => '2642',
   ),
+  '銵' => 
+  array (
+    'spell' => 'keng',
+    'weight' => '1',
+  ),
+  '牼' => 
+  array (
+    'spell' => 'keng',
+    'weight' => '1',
+  ),
+  '誙' => 
+  array (
+    'spell' => 'keng',
+    'weight' => '1',
+  ),
+  '阬' => 
+  array (
+    'spell' => 'keng',
+    'weight' => '2',
+  ),
+  '鏗' => 
+  array (
+    'spell' => 'keng',
+    'weight' => '2',
+  ),
   '鍞' => 
   array (
     'spell' => 'keng',
@@ -15813,6 +28008,41 @@
   array (
     'spell' => 'keng',
     'weight' => '1708',
+  ),
+  '怐' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '1',
+  ),
+  '滱' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '1',
+  ),
+  '瞉' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '1',
+  ),
+  '摳' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '3',
+  ),
+  '釦' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '4',
+  ),
+  '冦' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '4',
+  ),
+  '彄' => 
+  array (
+    'spell' => 'kou',
+    'weight' => '4',
   ),
   '芤' => 
   array (
@@ -15859,6 +28089,21 @@
     'spell' => 'kou',
     'weight' => '8827',
   ),
+  '硿' => 
+  array (
+    'spell' => 'kong',
+    'weight' => '1',
+  ),
+  '鞚' => 
+  array (
+    'spell' => 'kong',
+    'weight' => '3',
+  ),
+  '悾' => 
+  array (
+    'spell' => 'kong',
+    'weight' => '4',
+  ),
   '崆' => 
   array (
     'spell' => 'kong',
@@ -15893,6 +28138,56 @@
   array (
     'spell' => 'kong',
     'weight' => '10992',
+  ),
+  '捁' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '1',
+  ),
+  '跍' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '1',
+  ),
+  '嚳' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '1',
+  ),
+  '瘔' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '2',
+  ),
+  '搰' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '2',
+  ),
+  '朏' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '2',
+  ),
+  '袴' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '4',
+  ),
+  '矻' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '4',
+  ),
+  '楛' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '4',
+  ),
+  '喾' => 
+  array (
+    'spell' => 'ku',
+    'weight' => '6',
   ),
   '褲' => 
   array (
@@ -15959,6 +28254,51 @@
     'spell' => 'ku',
     'weight' => '9073',
   ),
+  '鞹' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '1',
+  ),
+  '筈' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '1',
+  ),
+  '懖' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '1',
+  ),
+  '适' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '846',
+  ),
+  '濶' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '3',
+  ),
+  '拡' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '3',
+  ),
+  '萿' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '4',
+  ),
+  '蛞' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '5',
+  ),
+  '擴' => 
+  array (
+    'spell' => 'kuo',
+    'weight' => '5',
+  ),
   '闊' => 
   array (
     'spell' => 'kuo',
@@ -15969,11 +28309,6 @@
     'spell' => 'kuo',
     'weight' => '100',
   ),
-  '括' => 
-  array (
-    'spell' => 'kuo',
-    'weight' => '194',
-  ),
   '阔' => 
   array (
     'spell' => 'kuo',
@@ -15983,6 +28318,131 @@
   array (
     'spell' => 'kuo',
     'weight' => '659',
+  ),
+  '鐀' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '頄' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '簣' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '餽' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '顝' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '闚' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '躨' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '楏' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '嘳' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '頍' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '蹞' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '聵' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '憒' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '卼' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '騤' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '聧' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '1',
+  ),
+  '蕢' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '2',
+  ),
+  '饋' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '2',
+  ),
+  '跬' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '2',
+  ),
+  '刲' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '3',
+  ),
+  '煃' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '3',
+  ),
+  '暌' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '4',
+  ),
+  '隗' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '25',
+  ),
+  '窺' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '6',
+  ),
+  '匱' => 
+  array (
+    'spell' => 'kui',
+    'weight' => '6',
   ),
   '櫆' => 
   array (
@@ -16144,6 +28604,116 @@
     'spell' => 'heng',
     'weight' => '2072',
   ),
+  '鷨' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '硴' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '澅' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '魤' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '諙' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '摦' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '驊' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '繣' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '吪' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '杹' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '1',
+  ),
+  '譁' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '2',
+  ),
+  '崋' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '2',
+  ),
+  '搳' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '2',
+  ),
+  '螖' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '2',
+  ),
+  '嫿' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '2',
+  ),
+  '嘩' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '3',
+  ),
+  '砉' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '3',
+  ),
+  '槬' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '4',
+  ),
+  '椛' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '4',
+  ),
+  '糀' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '4',
+  ),
+  '劃' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '6',
+  ),
+  '埖' => 
+  array (
+    'spell' => 'hua',
+    'weight' => '6',
+  ),
   '錵' => 
   array (
     'spell' => 'hua',
@@ -16238,6 +28808,166 @@
   array (
     'spell' => 'hua',
     'weight' => '57807',
+  ),
+  '攌' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '羦' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '闤' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '瑍' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '嚾' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '豲' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '繯' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '鴅' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '鍰' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '犿' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '荁' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '豩' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '峘' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '瘓' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '奐' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '澴' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '渙' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '1',
+  ),
+  '潅' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '睆' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '貆' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '雚' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '懽' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '澣' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '歓' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '2',
+  ),
+  '轘' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '3',
+  ),
+  '讙' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '3',
+  ),
+  '锾' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '4',
+  ),
+  '萑' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '4',
+  ),
+  '漶' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '5',
+  ),
+  '緩' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '6',
+  ),
+  '逭' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '6',
+  ),
+  '煥' => 
+  array (
+    'spell' => 'huan',
+    'weight' => '6',
   ),
   '鲩' => 
   array (
@@ -16394,6 +29124,136 @@
     'spell' => 'huan',
     'weight' => '32585',
   ),
+  '趪' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '堭' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '炾' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '鰉' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '鐄' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '衁' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '榥' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '諻' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '艎' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '熿' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '兤' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '獚' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '穔' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '1',
+  ),
+  '媓' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '2',
+  ),
+  '巟' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '2',
+  ),
+  '鳇' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '2',
+  ),
+  '蟥' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '2',
+  ),
+  '汻' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '3',
+  ),
+  '謊' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '3',
+  ),
+  '晄' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '3',
+  ),
+  '喤' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '4',
+  ),
+  '皝' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '4',
+  ),
+  '癀' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '4',
+  ),
+  '滉' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '5',
+  ),
+  '崲' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '5',
+  ),
+  '怳' => 
+  array (
+    'spell' => 'huang',
+    'weight' => '5',
+  ),
   '偟' => 
   array (
     'spell' => 'huang',
@@ -16524,6 +29384,71 @@
     'spell' => 'huang',
     'weight' => '16135',
   ),
+  '睯' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '觨' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '緄' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '慁' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '涽' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '琿' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '諢' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '1',
+  ),
+  '圂' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '2',
+  ),
+  '渾' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '4',
+  ),
+  '倱' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '4',
+  ),
+  '珲' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '25',
+  ),
+  '惛' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '6',
+  ),
+  '掍' => 
+  array (
+    'spell' => 'hun',
+    'weight' => '6',
+  ),
   '诨' => 
   array (
     'spell' => 'hun',
@@ -16584,6 +29509,31 @@
     'spell' => 'hun',
     'weight' => '7535',
   ),
+  '褱' => 
+  array (
+    'spell' => 'huai',
+    'weight' => '1',
+  ),
+  '櫰' => 
+  array (
+    'spell' => 'huai',
+    'weight' => '1',
+  ),
+  '蘾' => 
+  array (
+    'spell' => 'huai',
+    'weight' => '1',
+  ),
+  '褢' => 
+  array (
+    'spell' => 'huai',
+    'weight' => '1',
+  ),
+  '懐' => 
+  array (
+    'spell' => 'huai',
+    'weight' => '3',
+  ),
   '壊' => 
   array (
     'spell' => 'huai',
@@ -16639,15 +29589,40 @@
     'spell' => 'xia',
     'weight' => '1515',
   ),
-  '蛤' => 
-  array (
-    'spell' => 'ha',
-    'weight' => '247',
-  ),
   '哈' => 
   array (
     'spell' => 'ha',
     'weight' => '53642',
+  ),
+  '駴' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '1',
+  ),
+  '塰' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '2',
+  ),
+  '絯' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '3',
+  ),
+  '烸' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '3',
+  ),
+  '胲' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '4',
+  ),
+  '侅' => 
+  array (
+    'spell' => 'hai',
+    'weight' => '5',
   ),
   '駭' => 
   array (
@@ -16708,6 +29683,136 @@
   array (
     'spell' => 'hai',
     'weight' => '12451',
+  ),
+  '睅' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '顄' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '蜬' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '涆' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '駻' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '鋡' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '銲' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '頷' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '鋎' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '魽' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '蔊' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '哻' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '谽' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '虷' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '凾' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '暵' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '釬' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '閈' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '豃' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '唅' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '頇' => 
+  array (
+    'spell' => 'han',
+    'weight' => '1',
+  ),
+  '螒' => 
+  array (
+    'spell' => 'han',
+    'weight' => '2',
+  ),
+  '撖' => 
+  array (
+    'spell' => 'han',
+    'weight' => '2',
+  ),
+  '榦' => 
+  array (
+    'spell' => 'han',
+    'weight' => '3',
+  ),
+  '晥' => 
+  array (
+    'spell' => 'han',
+    'weight' => '4',
+  ),
+  '犴' => 
+  array (
+    'spell' => 'han',
+    'weight' => '4',
   ),
   '扞' => 
   array (
@@ -16869,6 +29974,51 @@
     'spell' => 'han',
     'weight' => '13318',
   ),
+  '蚢' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '魧' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '笐' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '貥' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '苀' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '迒' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '1',
+  ),
+  '颃' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '2',
+  ),
+  '斻' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '2',
+  ),
+  '垳' => 
+  array (
+    'spell' => 'hang',
+    'weight' => '5',
+  ),
   '沆' => 
   array (
     'spell' => 'hang',
@@ -16884,11 +30034,6 @@
     'spell' => 'xiang',
     'weight' => '800',
   ),
-  '夯' => 
-  array (
-    'spell' => 'hang',
-    'weight' => '135',
-  ),
   '杭' => 
   array (
     'spell' => 'hang',
@@ -16903,6 +30048,61 @@
   array (
     'spell' => 'xing',
     'weight' => '35822',
+  ),
+  '譹' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '1',
+  ),
+  '鄗' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '2',
+  ),
+  '哠' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '2',
+  ),
+  '暠' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '3',
+  ),
+  '晧' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '4',
+  ),
+  '蠔' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '4',
+  ),
+  '顥' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '5',
+  ),
+  '澔' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '5',
+  ),
+  '皞' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '5',
+  ),
+  '皜' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '6',
+  ),
+  '灝' => 
+  array (
+    'spell' => 'hao',
+    'weight' => '6',
   ),
   '淏' => 
   array (
@@ -17023,6 +30223,116 @@
   array (
     'spell' => 'hao',
     'weight' => '378543',
+  ),
+  '齕' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '靍' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '閡' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '魺' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '鶡' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '紇' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '寉' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '煂' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '渮' => 
+  array (
+    'spell' => 'he',
+    'weight' => '1',
+  ),
+  '覈' => 
+  array (
+    'spell' => 'he',
+    'weight' => '2',
+  ),
+  '龢' => 
+  array (
+    'spell' => 'he',
+    'weight' => '2',
+  ),
+  '澕' => 
+  array (
+    'spell' => 'he',
+    'weight' => '2',
+  ),
+  '熇' => 
+  array (
+    'spell' => 'he',
+    'weight' => '2',
+  ),
+  '熆' => 
+  array (
+    'spell' => 'he',
+    'weight' => '2',
+  ),
+  '盉' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '鉌' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '翯' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '闔' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '挌' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '粭' => 
+  array (
+    'spell' => 'he',
+    'weight' => '3',
+  ),
+  '佫' => 
+  array (
+    'spell' => 'he',
+    'weight' => '5',
+  ),
+  '姀' => 
+  array (
+    'spell' => 'he',
+    'weight' => '6',
   ),
   '敆' => 
   array (
@@ -17174,11 +30484,6 @@
     'spell' => 'he',
     'weight' => '3946',
   ),
-  '合' => 
-  array (
-    'spell' => 'he',
-    'weight' => '6297',
-  ),
   '盒' => 
   array (
     'spell' => 'he',
@@ -17199,6 +30504,16 @@
     'spell' => 'he',
     'weight' => '664874',
   ),
+  '拫' => 
+  array (
+    'spell' => 'hen',
+    'weight' => '2',
+  ),
+  '鞎' => 
+  array (
+    'spell' => 'hen',
+    'weight' => '3',
+  ),
   '痕' => 
   array (
     'spell' => 'hen',
@@ -17218,6 +30533,16 @@
   array (
     'spell' => 'hen',
     'weight' => '160208',
+  ),
+  '鑅' => 
+  array (
+    'spell' => 'heng',
+    'weight' => '1',
+  ),
+  '啈' => 
+  array (
+    'spell' => 'heng',
+    'weight' => '1',
   ),
   '烆' => 
   array (
@@ -17284,6 +30609,11 @@
     'spell' => 'heng',
     'weight' => '2622',
   ),
+  '潶' => 
+  array (
+    'spell' => 'hei',
+    'weight' => '6',
+  ),
   '黒' => 
   array (
     'spell' => 'hei',
@@ -17298,6 +30628,66 @@
   array (
     'spell' => 'hei',
     'weight' => '14316',
+  ),
+  '茩' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '1',
+  ),
+  '翭' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '1',
+  ),
+  '鍭' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '2',
+  ),
+  '帿' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '2',
+  ),
+  '郈' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '2',
+  ),
+  '腄' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '2',
+  ),
+  '葔' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '2',
+  ),
+  '詬' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '3',
+  ),
+  '糇' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '4',
+  ),
+  '洉' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '4',
+  ),
+  '齁' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '4',
+  ),
+  '瘊' => 
+  array (
+    'spell' => 'hou',
+    'weight' => '5',
   ),
   '垕' => 
   array (
@@ -17368,6 +30758,161 @@
   array (
     'spell' => 'hou',
     'weight' => '134560',
+  ),
+  '妅' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '霟' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '霐' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '閎' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '嚝' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '軣' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '鈜' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '竤' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '彋' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '吰' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '谼' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '谹' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '嗊' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '玒' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '訌' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '渱' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '1',
+  ),
+  '灴' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '汯' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '澋' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '澒' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '浤' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '鉷' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '2',
+  ),
+  '讧' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '3',
+  ),
+  '葒' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '3',
+  ),
+  '翃' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '4',
+  ),
+  '鋐' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '4',
+  ),
+  '愩' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '5',
+  ),
+  '魟' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '5',
+  ),
+  '蕻' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '6',
+  ),
+  '垬' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '6',
+  ),
+  '轟' => 
+  array (
+    'spell' => 'hong',
+    'weight' => '6',
   ),
   '仜' => 
   array (
@@ -17479,10 +31024,225 @@
     'spell' => 'hong',
     'weight' => '2665',
   ),
-  '红' => 
+  '昒' => 
   array (
-    'spell' => 'hong',
-    'weight' => '12941',
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '昈' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '螜' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '歑' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '媩' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '曶' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '鯱' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '雽' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '匢' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '槴' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '淲' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '瀫' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '抇' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '楜' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '鬍' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '垀' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '熩' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '沍' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '箎' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '縎' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '淈' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '鰗' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '1',
+  ),
+  '淴' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '鵠' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '轷' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '滸' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '冱' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '虖' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '粐' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '2',
+  ),
+  '冴' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '3',
+  ),
+  '鄠' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '3',
+  ),
+  '鹱' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '3',
+  ),
+  '岵' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '醐' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '縠' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '枑' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '猢' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '嫮' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '4',
+  ),
+  '滬' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '5',
+  ),
+  '烀' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '5',
+  ),
+  '俿' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '6',
+  ),
+  '嫭' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '6',
+  ),
+  '鹕' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '6',
+  ),
+  '囫' => 
+  array (
+    'spell' => 'hu',
+    'weight' => '6',
   ),
   '乕' => 
   array (
@@ -17704,6 +31464,116 @@
     'spell' => 'hu',
     'weight' => '6006',
   ),
+  '穫' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '癨' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '騞' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '矐' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '嗀' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '曤' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '膕' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '謋' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '咊' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '1',
+  ),
+  '姡' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '2',
+  ),
+  '臛' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '2',
+  ),
+  '秮' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '2',
+  ),
+  '濩' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '3',
+  ),
+  '锪' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '4',
+  ),
+  '湱' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '4',
+  ),
+  '劐' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '4',
+  ),
+  '攉' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '4',
+  ),
+  '鑊' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '4',
+  ),
+  '吙' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '5',
+  ),
+  '漷' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '5',
+  ),
+  '捇' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '5',
+  ),
+  '蠖' => 
+  array (
+    'spell' => 'huo',
+    'weight' => '6',
+  ),
   '耠' => 
   array (
     'spell' => 'huo',
@@ -17819,6 +31689,236 @@
     'spell' => 'huo',
     'weight' => '83282',
   ),
+  '暳' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '芔' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '蘳' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '憓' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '痐' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '禈' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '豗' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '獩' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '譿' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '闠' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '蔧' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '噅' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '烠' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '薉' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '潓' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '圚' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '螝' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '橞' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '譓' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '毇' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '硊' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '篲' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '顪' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '翬' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '燬' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '1',
+  ),
+  '輠' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '嘒' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '賄' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '詼' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '燴' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '襘' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '檜' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '洃' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '徻' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '鐬' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '2',
+  ),
+  '槥' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '3',
+  ),
+  '薈' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '3',
+  ),
+  '撝' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '3',
+  ),
+  '恛' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '3',
+  ),
+  '彙' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '3',
+  ),
+  '誨' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '4',
+  ),
+  '暉' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '4',
+  ),
+  '穢' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '4',
+  ),
+  '缋' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '6',
+  ),
+  '諱' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '6',
+  ),
+  '佪' => 
+  array (
+    'spell' => 'hui',
+    'weight' => '6',
+  ),
   '蟪' => 
   array (
     'spell' => 'hui',
@@ -17903,11 +32003,6 @@
   array (
     'spell' => 'hui',
     'weight' => '24',
-  ),
-  '珲' => 
-  array (
-    'spell' => 'hui',
-    'weight' => '25',
   ),
   '恚' => 
   array (
@@ -18054,6 +32149,101 @@
     'spell' => 'hui',
     'weight' => '31665',
   ),
+  '絭' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '裐' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '菤' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '臇' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '淃' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '鋑' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '睠' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '帣' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '睊' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '呟' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '朘' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '鵑' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '1',
+  ),
+  '羂' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '2',
+  ),
+  '雋' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '2',
+  ),
+  '罥' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '3',
+  ),
+  '锩' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '3',
+  ),
+  '絹' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '4',
+  ),
+  '鐫' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '5',
+  ),
+  '桊' => 
+  array (
+    'spell' => 'juan',
+    'weight' => '6',
+  ),
   '捲' => 
   array (
     'spell' => 'juan',
@@ -18133,6 +32323,156 @@
   array (
     'spell' => 'juan',
     'weight' => '3792',
+  ),
+  '彏' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '鱖' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '镼' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '貜' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '瘚' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '刔' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '臄' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '屩' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '觼' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '虳' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '玃' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '殌' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '鴃' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '玨' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '譎' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '1',
+  ),
+  '爝' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '2',
+  ),
+  '芵' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '2',
+  ),
+  '鐍' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '2',
+  ),
+  '趉' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '2',
+  ),
+  '蕝' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '3',
+  ),
+  '駃' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '3',
+  ),
+  '觖' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '3',
+  ),
+  '钁' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '3',
+  ),
+  '憰' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '4',
+  ),
+  '絶' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '4',
+  ),
+  '鷢' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '4',
+  ),
+  '赽' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '5',
+  ),
+  '脚' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '5573',
+  ),
+  '劂' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '6',
+  ),
+  '訣' => 
+  array (
+    'spell' => 'jue',
+    'weight' => '6',
   ),
   '獗' => 
   array (
@@ -18304,6 +32644,91 @@
     'spell' => 'jue',
     'weight' => '2815',
   ),
+  '蔨' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '燇' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '焌' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '餕' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '皸' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '鮶' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '晙' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '1',
+  ),
+  '皹' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '2',
+  ),
+  '莙' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '2',
+  ),
+  '埈' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '2',
+  ),
+  '皲' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '3',
+  ),
+  '儁' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '3',
+  ),
+  '麇' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '3',
+  ),
+  '畯' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '4',
+  ),
+  '箟' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '4',
+  ),
+  '駿' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '4',
+  ),
+  '寯' => 
+  array (
+    'spell' => 'jun',
+    'weight' => '5',
+  ),
   '鍕' => 
   array (
     'spell' => 'jun',
@@ -18388,6 +32813,471 @@
   array (
     'spell' => 'jun',
     'weight' => '9826',
+  ),
+  '蘮' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '檕' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '轚' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '庴' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '痵' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '懻' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鏶' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '齏' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '穊' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '槉' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鰶' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '瀱' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '裚' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鱭' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '禝' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '嶯' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '谻' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '齌' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '隮' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '蘻' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '簎' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '堲' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鸄' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '膌' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '踖' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '簊' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '臮' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '覘' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '揤' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '覬' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '撠' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鮆' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '觙' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '蹐' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '齎' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鞿' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '覊' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '蹟' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '躋' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '叝' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '皀' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '璣' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '羇' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '諔' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '霽' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '鶺' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '塈' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '枅' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '覿' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '1',
+  ),
+  '虀' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '蕀' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '鷄' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '穄' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '徛' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '諅' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '驥' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '泲' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '漃' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '飢' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '薊' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '薺' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '羈' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '繋' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '惎' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '湒' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '暩' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '旣' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '2',
+  ),
+  '誋' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '妀' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '蒺' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '継' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '饑' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '犄' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '嘰' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '3',
+  ),
+  '卽' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '跽' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '譏' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '诘' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '49',
+  ),
+  '鲚' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '磯' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '茤' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '緝' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '潗' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '彶' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '4',
+  ),
+  '蠀' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '5',
+  ),
+  '茍' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '5',
+  ),
+  '偮' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '5',
+  ),
+  '際' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '5',
+  ),
+  '忣' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '5',
+  ),
+  '岋' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '6',
+  ),
+  '跡' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '6',
+  ),
+  '蕺' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '6',
+  ),
+  '鶏' => 
+  array (
+    'spell' => 'ji',
+    'weight' => '6',
   ),
   '姞' => 
   array (
@@ -19059,6 +33949,136 @@
     'spell' => 'ji',
     'weight' => '77186',
   ),
+  '梜' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '猳' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '抸' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '椵' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '毠' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '郟' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '婽' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '犌' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '貑' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '鋏' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '頬' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '糘' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '耞' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '莢' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '1',
+  ),
+  '鉀' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '2',
+  ),
+  '泇' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '2',
+  ),
+  '筴' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '3',
+  ),
+  '豭' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '3',
+  ),
+  '頰' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '3',
+  ),
+  '斝' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '4',
+  ),
+  '蛱' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '5',
+  ),
+  '跏' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '5',
+  ),
+  '幏' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '5',
+  ),
+  '榎' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '5',
+  ),
+  '恝' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '5',
+  ),
+  '袈' => 
+  array (
+    'spell' => 'jia',
+    'weight' => '6',
+  ),
   '胛' => 
   array (
     'spell' => 'jia',
@@ -19243,6 +34263,271 @@
   array (
     'spell' => 'jia',
     'weight' => '52256',
+  ),
+  '鵳' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '瑐' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '螹' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '襺' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '藆' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '鰹' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '櫼' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '蕑' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '椷' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '襉' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '菺' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '珔' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '熞' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '譾' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '礛' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '餞' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '籛' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '諓' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '瀸' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '縑' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '劔' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '1',
+  ),
+  '瞷' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '鋻' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '緘' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '戩' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '戔' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '劗' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '鞬' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '2',
+  ),
+  '惤' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '磵' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '樫' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '鹼' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '艱' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '繭' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '3',
+  ),
+  '湕' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '4',
+  ),
+  '踐' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '4',
+  ),
+  '墹' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '4',
+  ),
+  '浅' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1637',
+  ),
+  '鲣' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '4',
+  ),
+  '箋' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '監' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '賎' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '澗' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '瑊' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '彅' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '揀' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '検' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '挸' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '劒' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '剱' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '5',
+  ),
+  '鑒' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '6',
+  ),
+  '俴' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '6',
+  ),
+  '薦' => 
+  array (
+    'spell' => 'jian',
+    'weight' => '6',
   ),
   '鹣' => 
   array (
@@ -19714,6 +34999,191 @@
     'spell' => 'jian',
     'weight' => '26266',
   ),
+  '穚' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '鷮' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '敿' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '嶕' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '譥' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '樔' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '蟭' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '煍' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '釂' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '曒' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '餃' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '鮫' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '鉸' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '撟' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '皭' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '鵁' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '摷' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '1',
+  ),
+  '憿' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '膲' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '珓' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '轎' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '挍' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '簥' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '嘂' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '勦' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '2',
+  ),
+  '斠' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '劋' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '矯' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '獥' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '僥' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '皦' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '3',
+  ),
+  '絞' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '4',
+  ),
+  '筊' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '4',
+  ),
+  '灚' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '4',
+  ),
+  '驕' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '5',
+  ),
+  '澆' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '5',
+  ),
+  '艽' => 
+  array (
+    'spell' => 'jiao',
+    'weight' => '6',
+  ),
   '撹' => 
   array (
     'spell' => 'jiao',
@@ -19974,11 +35444,6 @@
     'spell' => 'jiao',
     'weight' => '1356',
   ),
-  '脚' => 
-  array (
-    'spell' => 'jiao',
-    'weight' => '5573',
-  ),
   '较' => 
   array (
     'spell' => 'jiao',
@@ -19998,6 +35463,106 @@
   array (
     'spell' => 'jiao',
     'weight' => '55685',
+  ),
+  '袶' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '顜' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '韁' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '螿' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '膙' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '橿' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '醤' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '奬' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '謽' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '1',
+  ),
+  '强' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '19428',
+  ),
+  '奨' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '3',
+  ),
+  '櫤' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '3',
+  ),
+  '畺' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '3',
+  ),
+  '槳' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '3',
+  ),
+  '糨' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '3',
+  ),
+  '漿' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '4',
+  ),
+  '傋' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '4',
+  ),
+  '絳' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '4',
+  ),
+  '薑' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '5',
+  ),
+  '礓' => 
+  array (
+    'spell' => 'jiang',
+    'weight' => '5',
   ),
   '醬' => 
   array (
@@ -20134,6 +35699,191 @@
     'spell' => 'jiang',
     'weight' => '119239',
   ),
+  '蛶' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '鉣' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '幯' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '跲' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '嵥' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '昅' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '頡' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '楶' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '趌' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '桝' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '刧' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '砎' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '迼' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '犗' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '痎' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '衱' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '蝍' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '袺' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '妎' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '癤' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '狤' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '1',
+  ),
+  '岊' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '2',
+  ),
+  '楬' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '2',
+  ),
+  '耤' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '2',
+  ),
+  '褯' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '2',
+  ),
+  '滐' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '2',
+  ),
+  '訐' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '3',
+  ),
+  '鲒' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '3',
+  ),
+  '詰' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '4',
+  ),
+  '檞' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '4',
+  ),
+  '倢' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '4',
+  ),
+  '岕' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '4',
+  ),
+  '骱' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '4',
+  ),
+  '誡' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '5',
+  ),
+  '曁' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '5',
+  ),
+  '掲' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '5',
+  ),
+  '崨' => 
+  array (
+    'spell' => 'jie',
+    'weight' => '6',
+  ),
   '階' => 
   array (
     'spell' => 'jie',
@@ -20228,11 +35978,6 @@
   array (
     'spell' => 'ju',
     'weight' => '215',
-  ),
-  '诘' => 
-  array (
-    'spell' => 'jie',
-    'weight' => '49',
   ),
   '羯' => 
   array (
@@ -20388,6 +36133,156 @@
   array (
     'spell' => 'jie',
     'weight' => '17760',
+  ),
+  '惍' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '珒' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '壗' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '贐' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '覲' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '縉' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '藎' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '觔' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '蓳' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '璡' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '嬧' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '燼' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '璶' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '嚍' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '1',
+  ),
+  '搢' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '2',
+  ),
+  '巹' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '2',
+  ),
+  '侭' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '2',
+  ),
+  '紟' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '3',
+  ),
+  '笒' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '3',
+  ),
+  '儘' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '3',
+  ),
+  '僸' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '3',
+  ),
+  '祲' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '3',
+  ),
+  '廑' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '4',
+  ),
+  '菫' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '4',
+  ),
+  '赆' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '4',
+  ),
+  '寖' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '4',
+  ),
+  '溍' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '5',
+  ),
+  '賮' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '6',
+  ),
+  '卺' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '6',
+  ),
+  '馑' => 
+  array (
+    'spell' => 'jin',
+    'weight' => '6',
   ),
   '枃' => 
   array (
@@ -20593,6 +36488,141 @@
   array (
     'spell' => 'jin',
     'weight' => '24648',
+  ),
+  '桱' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '獷' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '幜' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '婛' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '痙' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '涇' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '憼' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '1',
+  ),
+  '穽' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '鼱' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '旍' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '鶄' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '逕' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '橸' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '汫' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '劤' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '2',
+  ),
+  '浄' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '3',
+  ),
+  '鯨' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '3',
+  ),
+  '暻' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '3',
+  ),
+  '莖' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '3',
+  ),
+  '弳' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '荊' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '凈' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '徑' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '丼' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '亰' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '4',
+  ),
+  '獍' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '5',
+  ),
+  '蟼' => 
+  array (
+    'spell' => 'jing',
+    'weight' => '5',
   ),
   '頸' => 
   array (
@@ -20834,6 +36864,61 @@
     'spell' => 'jing',
     'weight' => '13284',
   ),
+  '燛' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '臩' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '絅' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '駉' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '坰' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '褧' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '1',
+  ),
+  '烱' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '2',
+  ),
+  '泂' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '2',
+  ),
+  '浻' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '2',
+  ),
+  '臦' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '2',
+  ),
+  '熲' => 
+  array (
+    'spell' => 'jiong',
+    'weight' => '2',
+  ),
   '扃' => 
   array (
     'spell' => 'jiong',
@@ -20873,6 +36958,71 @@
   array (
     'spell' => 'jiong',
     'weight' => '2904',
+  ),
+  '揫' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '杦' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '慦' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '廄' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '萛' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '糺' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '韮' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '1',
+  ),
+  '勼' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '2',
+  ),
+  '殧' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '3',
+  ),
+  '鷲' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '3',
+  ),
+  '糾' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '4',
+  ),
+  '鬏' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '4',
+  ),
+  '鳩' => 
+  array (
+    'spell' => 'jiu',
+    'weight' => '5',
   ),
   '阄' => 
   array (
@@ -21003,6 +37153,281 @@
   array (
     'spell' => 'jiu',
     'weight' => '558432',
+  ),
+  '梮' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '痀' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '蜛' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '狊' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '颶' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '涺' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '襷' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '豦' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '澽' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '駶' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '鶪' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '蒟' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '淗' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '櫸' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '犑' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '駏' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '壉' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '湨' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '屨' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '娵' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '犋' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '蚷' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '1',
+  ),
+  '岨' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '鵙' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '懅' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '匊' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '椇' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '擧' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '虡' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '踘' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '车' => 
+  array (
+    'spell' => 'che',
+    'weight' => '26005',
+  ),
+  '罝' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '輂' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '挙' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '駒' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '2',
+  ),
+  '侷' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '岠' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '埧' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '泃' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '鋸' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '俥' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '挶' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '3',
+  ),
+  '詎' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '4',
+  ),
+  '粔' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '4',
+  ),
+  '鉅' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '4',
+  ),
+  '懼' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '4',
+  ),
+  '筥' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '4',
+  ),
+  '且' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '12175',
+  ),
+  '踽' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '5',
+  ),
+  '醵' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '5',
+  ),
+  '崌' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '5',
+  ),
+  '秬' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '6',
+  ),
+  '窭' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '6',
+  ),
+  '龃' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '6',
+  ),
+  '洰' => 
+  array (
+    'spell' => 'ju',
+    'weight' => '6',
   ),
   '鞫' => 
   array (
@@ -21279,6 +37704,141 @@
     'spell' => 'ju',
     'weight' => '13756',
   ),
+  '酄' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '蠸' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '輇' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '瑔' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '姾' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '觠' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '綣' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '勧' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '矔' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '汱' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '絟' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '腃' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '1',
+  ),
+  '顴' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '2',
+  ),
+  '婘' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '2',
+  ),
+  '湶' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '2',
+  ),
+  '踡' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '2',
+  ),
+  '銓' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '3',
+  ),
+  '畎' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '3',
+  ),
+  '埢' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '3',
+  ),
+  '烇' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '3',
+  ),
+  '辁' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '4',
+  ),
+  '牶' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '4',
+  ),
+  '詮' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '4',
+  ),
+  '弮' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '5',
+  ),
+  '牷' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '5',
+  ),
+  '惓' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '5',
+  ),
+  '権' => 
+  array (
+    'spell' => 'quan',
+    'weight' => '5',
+  ),
   '圏' => 
   array (
     'spell' => 'quan',
@@ -21399,6 +37959,86 @@
     'spell' => 'quan',
     'weight' => '25876',
   ),
+  '慤' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '蚗' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '躤' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '礭' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '碻' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '硞' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '毃' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '蒛' => 
+  array (
+    'spell' => 'que',
+    'weight' => '1',
+  ),
+  '鵲' => 
+  array (
+    'spell' => 'que',
+    'weight' => '2',
+  ),
+  '殻' => 
+  array (
+    'spell' => 'que',
+    'weight' => '2',
+  ),
+  '塙' => 
+  array (
+    'spell' => 'que',
+    'weight' => '2',
+  ),
+  '愨' => 
+  array (
+    'spell' => 'que',
+    'weight' => '2',
+  ),
+  '礐' => 
+  array (
+    'spell' => 'que',
+    'weight' => '3',
+  ),
+  '闋' => 
+  array (
+    'spell' => 'que',
+    'weight' => '3',
+  ),
+  '闕' => 
+  array (
+    'spell' => 'que',
+    'weight' => '4',
+  ),
+  '埆' => 
+  array (
+    'spell' => 'que',
+    'weight' => '5',
+  ),
   '確' => 
   array (
     'spell' => 'que',
@@ -21469,6 +38109,36 @@
     'spell' => 'que',
     'weight' => '43347',
   ),
+  '峮' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '1',
+  ),
+  '宭' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '1',
+  ),
+  '麕' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '1',
+  ),
+  '箘' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '2',
+  ),
+  '羣' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '3',
+  ),
+  '逡' => 
+  array (
+    'spell' => 'qun',
+    'weight' => '6',
+  ),
   '囷' => 
   array (
     'spell' => 'qun',
@@ -21488,6 +38158,326 @@
   array (
     'spell' => 'qun',
     'weight' => '13451',
+  ),
+  '捿' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '蟣' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '魌' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '肐' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '磎' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '鬾' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '桼' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '肵' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '咠' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '緕' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '朞' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '褄' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '疧' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '栔' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '纃' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '藄' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '鬿' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '鄿' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '榿' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '躩' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '鼜' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '鏚' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '慼' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '呇' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '毄' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '扢' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '蚑' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '愒' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '芞' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '1',
+  ),
+  '竒' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '諆' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '觭' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '璂' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '蚚' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '慽' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '禨' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '婍' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '郪' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '棊' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '臍' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '盵' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '鰭' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '懠' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '僛' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '迉' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '訖' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '2',
+  ),
+  '敧' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '憇' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '淒' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '噐' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '鬐' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '娸' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '湆' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '碕' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '3',
+  ),
+  '騹' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '4',
+  ),
+  '唭' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '棨' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '棲' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '斉' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '俟' => 
+  array (
+    'spell' => 'si',
+    'weight' => '66',
+  ),
+  '騏' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '玘' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '悽' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '5',
+  ),
+  '倛' => 
+  array (
+    'spell' => 'qi',
+    'weight' => '6',
   ),
   '啓' => 
   array (
@@ -21909,6 +38899,51 @@
     'spell' => 'qi',
     'weight' => '29383',
   ),
+  '酠' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '殎' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '硈' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '愘' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '鮚' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '鞐' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '1',
+  ),
+  '帢' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '2',
+  ),
+  '冾' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '3',
+  ),
+  '袷' => 
+  array (
+    'spell' => 'qia',
+    'weight' => '6',
+  ),
   '葜' => 
   array (
     'spell' => 'qia',
@@ -21933,6 +38968,241 @@
   array (
     'spell' => 'qia',
     'weight' => '789',
+  ),
+  '顅' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '篟' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '騝' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '蕁' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '婜' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '篏' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '濳' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '塹' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '欿' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '朁' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '揃' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '軡' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '鑯' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '韆' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '岒' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '繾' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '歁' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '櫏' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '葥' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '1',
+  ),
+  '譴' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '縴' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '媊' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '檶' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '鰜' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '棈' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '唊' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '鈐' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '騫' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '挳' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '輤' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '籤' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '奷' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '2',
+  ),
+  '拑' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '僉' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '鉗' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '岍' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '揵' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '椠' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '3',
+  ),
+  '刋' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '4',
+  ),
+  '汧' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '4',
+  ),
+  '肷' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '4',
+  ),
+  '傔' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '4',
+  ),
+  '槧' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '4',
+  ),
+  '銭' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '5',
+  ),
+  '鉛' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '5',
+  ),
+  '箞' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '6',
+  ),
+  '潛' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '6',
   ),
   '仱' => 
   array (
@@ -22159,11 +39429,6 @@
     'spell' => 'qian',
     'weight' => '927',
   ),
-  '浅' => 
-  array (
-    'spell' => 'qian',
-    'weight' => '1637',
-  ),
   '欠' => 
   array (
     'spell' => 'qian',
@@ -22188,6 +39453,161 @@
   array (
     'spell' => 'qian',
     'weight' => '55755',
+  ),
+  '幧' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '釥' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '躈' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '礄' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '鄡' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '嘺' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '嶠' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '嫶' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '犞' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '譑' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '缲' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '磝' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '鍬' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '蕎' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '1',
+  ),
+  '摮' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '2',
+  ),
+  '誚' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '2',
+  ),
+  '荍' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '2',
+  ),
+  '帩' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '2',
+  ),
+  '蹺' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '2',
+  ),
+  '趫' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '3',
+  ),
+  '竅' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '3',
+  ),
+  '潐' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '3',
+  ),
+  '燋' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '3',
+  ),
+  '蹻' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '4',
+  ),
+  '磽' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '4',
+  ),
+  '譙' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '4',
+  ),
+  '繑' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '5',
+  ),
+  '鞒' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '5',
+  ),
+  '僑' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '5',
+  ),
+  '硗' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '6',
+  ),
+  '劁' => 
+  array (
+    'spell' => 'qiao',
+    'weight' => '6',
   ),
   '墽' => 
   array (
@@ -22344,6 +39764,136 @@
     'spell' => 'qiao',
     'weight' => '4360',
   ),
+  '蹡' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '蹌' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '羥' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '謒' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '戧' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '鶬' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '薔' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '檣' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '斨' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '鏘' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '鏹' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '漒' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '嬙' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '繦' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '1',
+  ),
+  '墏' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '2',
+  ),
+  '瑲' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '2',
+  ),
+  '矼' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '2',
+  ),
+  '鎗' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '2',
+  ),
+  '牄' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '2',
+  ),
+  '锖' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '4',
+  ),
+  '繈' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '4',
+  ),
+  '襁' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '5',
+  ),
+  '墻' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '5',
+  ),
+  '嗆' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '5',
+  ),
+  '彊' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '6',
+  ),
+  '蜣' => 
+  array (
+    'spell' => 'qiang',
+    'weight' => '6',
+  ),
   '跄' => 
   array (
     'spell' => 'qiang',
@@ -22454,10 +40004,55 @@
     'spell' => 'qiang',
     'weight' => '7639',
   ),
-  '强' => 
+  '蛣' => 
   array (
-    'spell' => 'qiang',
-    'weight' => '19428',
+    'spell' => 'qie',
+    'weight' => '1',
+  ),
+  '踥' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '1',
+  ),
+  '疌' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '1',
+  ),
+  '癿' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '1',
+  ),
+  '篋' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '2',
+  ),
+  '朅' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '3',
+  ),
+  '椄' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '4',
+  ),
+  '厒' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '4',
+  ),
+  '洯' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '5',
+  ),
+  '竊' => 
+  array (
+    'spell' => 'qie',
+    'weight' => '5',
   ),
   '鐑' => 
   array (
@@ -22519,10 +40114,165 @@
     'spell' => 'qie',
     'weight' => '9716',
   ),
-  '且' => 
+  '螼' => 
   array (
-    'spell' => 'qie',
-    'weight' => '12175',
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '埐' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '蚙' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '鋟' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '耹' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '顉' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '埁' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '斳' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '藽' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '菳' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '櫬' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '澿' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '嶔' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '梫' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '扲' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '昑' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '庈' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '頜' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '蘄' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '唚' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '瀙' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '1',
+  ),
+  '駸' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '2',
+  ),
+  '忴' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '2',
+  ),
+  '墐' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '2',
+  ),
+  '懃' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '3',
+  ),
+  '靲' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '3',
+  ),
+  '锓' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '3',
+  ),
+  '螓' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '3',
+  ),
+  '檎' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '4',
+  ),
+  '慬' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '4',
+  ),
+  '欽' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '6',
+  ),
+  '吣' => 
+  array (
+    'spell' => 'qin',
+    'weight' => '6',
   ),
   '儭' => 
   array (
@@ -22643,6 +40393,71 @@
   array (
     'spell' => 'qin',
     'weight' => '6778',
+  ),
+  '硜' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '廎' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '樈' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '郬' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '掅' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '碃' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '渹' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '靘' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '1',
+  ),
+  '鑋' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '2',
+  ),
+  '頃' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '4',
+  ),
+  '綮' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '5',
+  ),
+  '鲭' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '6',
+  ),
+  '淸' => 
+  array (
+    'spell' => 'qing',
+    'weight' => '6',
   ),
   '蜻' => 
   array (
@@ -22799,6 +40614,46 @@
     'spell' => 'qing',
     'weight' => '55964',
   ),
+  '惸' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '1',
+  ),
+  '蛬' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '1',
+  ),
+  '舼' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '1',
+  ),
+  '璚' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '1',
+  ),
+  '藭' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '2',
+  ),
+  '煢' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '2',
+  ),
+  '筇' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '6',
+  ),
+  '銎' => 
+  array (
+    'spell' => 'qiong',
+    'weight' => '6',
+  ),
   '瓊' => 
   array (
     'spell' => 'qiong',
@@ -22843,6 +40698,146 @@
   array (
     'spell' => 'qiong',
     'weight' => '4376',
+  ),
+  '媝' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '趥' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '觓' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '鞦' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '蟗' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '朹' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '煪' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '鰽' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '巰' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '虯' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '觩' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '鰍' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '緧' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '賕' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '訄' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '逎' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '莍' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '殏' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '坵' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '1',
+  ),
+  '崷' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '2',
+  ),
+  '璆' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '3',
+  ),
+  '鼽' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '3',
+  ),
+  '絿' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '3',
+  ),
+  '捄' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '3',
+  ),
+  '蝤' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '4',
+  ),
+  '銶' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '5',
+  ),
+  '蚯' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '5',
+  ),
+  '赇' => 
+  array (
+    'spell' => 'qiu',
+    'weight' => '6',
   ),
   '犰' => 
   array (
@@ -22948,6 +40943,226 @@
   array (
     'spell' => 'qiu',
     'weight' => '8740',
+  ),
+  '鶌' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '竘' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '蠷' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '髷' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '鴝' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '絇' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '匤' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '軥' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '蟝' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '刞' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '抾' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '匷' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '躣' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '郥' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '籧' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '鼁' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '螶' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '翵' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '胠' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '趍' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '欋' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '趜' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '鐻' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '麮' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '浀' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '駆' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '1',
+  ),
+  '跼' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '2',
+  ),
+  '鮈' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '2',
+  ),
+  '覷' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '2',
+  ),
+  '臞' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '2',
+  ),
+  '磲' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '2',
+  ),
+  '癯' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '3',
+  ),
+  '軀' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '3',
+  ),
+  '蠼' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '3',
+  ),
+  '驅' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '3',
+  ),
+  '敺' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '4',
+  ),
+  '麹' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '5',
+  ),
+  '鸲' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '5',
+  ),
+  '岖' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '5',
+  ),
+  '詘' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '5',
+  ),
+  '鼩' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '5',
+  ),
+  '彡' => 
+  array (
+    'spell' => 'san',
+    'weight' => '87',
+  ),
+  '趨' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '6',
+  ),
+  '蛐' => 
+  array (
+    'spell' => 'qu',
+    'weight' => '6',
   ),
   '劬' => 
   array (
@@ -23139,6 +41354,176 @@
     'spell' => 'qu',
     'weight' => '330876',
   ),
+  '轋' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '贙' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '蝖' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '蓒' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '揈' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '蜁' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '讂' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '咺' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '昍' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '獧' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '媗' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '琁' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '琄' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '懁' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '諠' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '昡' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '嫙' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '癬' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '鐶' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '晅' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '鋗' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '1',
+  ),
+  '諼' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '鞙' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '蠉' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '鉉' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '衒' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '縼' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '2',
+  ),
+  '痃' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '3',
+  ),
+  '袨' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '3',
+  ),
+  '狟' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '3',
+  ),
+  '絢' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '4',
+  ),
+  '璿' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '4',
+  ),
+  '碹' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '5',
+  ),
+  '揎' => 
+  array (
+    'spell' => 'xuan',
+    'weight' => '6',
+  ),
   '翾' => 
   array (
     'spell' => 'xuan',
@@ -23314,6 +41699,91 @@
     'spell' => 'xuan',
     'weight' => '13705',
   ),
+  '梋' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '鷽' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '澩' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '岤' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '泧' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '怴' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '觷' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '樰' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '膤' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '鱈' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '轌' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '1',
+  ),
+  '謔' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '2',
+  ),
+  '泬' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '2',
+  ),
+  '吷' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '2',
+  ),
+  '壆' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '3',
+  ),
+  '泶' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '4',
+  ),
+  '趐' => 
+  array (
+    'spell' => 'xue',
+    'weight' => '5',
+  ),
   '踅' => 
   array (
     'spell' => 'xue',
@@ -23373,6 +41843,161 @@
   array (
     'spell' => 'xue',
     'weight' => '28803',
+  ),
+  '蔒' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '愻' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '咰' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '襑' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '燻' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '鱘' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '揗' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '矄' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '撏' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '栒' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '壎' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '紃' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '1',
+  ),
+  '攳' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '璕' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '焄' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '塤' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '灥' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '鄩' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '馴' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '勛' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '眴' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '噚' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '葷' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '2',
+  ),
+  '蟳' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '3',
+  ),
+  '噀' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '3',
+  ),
+  '纁' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '3',
+  ),
+  '薫' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '4',
+  ),
+  '燂' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '4',
+  ),
+  '侚' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '5',
+  ),
+  '勲' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '5',
+  ),
+  '詢' => 
+  array (
+    'spell' => 'xun',
+    'weight' => '6',
   ),
   '潯' => 
   array (
@@ -23558,6 +42183,401 @@
   array (
     'spell' => 'xun',
     'weight' => '2300',
+  ),
+  '飁' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '恄' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鰼' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '豯' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '爔' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '琋' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鰓' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '釳' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '貕' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '餼' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '蹝' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '獡' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '雟' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '熂' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鯑' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '渓' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '譆' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '徆' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '酅' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '凞' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '暿' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '恓' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '焟' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '摡' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鄎' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '蟢' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '覤' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鈒' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鱚' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '銑' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '鬩' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '綌' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '霫' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '嶍' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '覡' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '郋' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '睎' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '虩' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '蓆' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '謵' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '巇' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '縰' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '燨' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '赩' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '1',
+  ),
+  '憘' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '犧' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '潝' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '徯' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '肸' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '戱' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '狶' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '觿' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '蠵' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '諰' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '惁' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '枲' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '潟' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '碏' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '2',
+  ),
+  '盻' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '嶲' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '纚' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '忥' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '愾' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '氥' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '犠' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '礂' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '俙' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '鼷' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '鸂' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '巂' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '3',
+  ),
+  '璽' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '憙' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '瘜' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '卌' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '蓰' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '扱' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '谿' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '瓕' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '4',
+  ),
+  '歙' => 
+  array (
+    'spell' => 'she',
+    'weight' => '18',
   ),
   '菥' => 
   array (
@@ -24019,6 +43039,141 @@
     'spell' => 'xi',
     'weight' => '9937',
   ),
+  '鏬' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '舝' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '鶷' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '魻' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '縖' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '赮' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '谺' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '螛' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '硤' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '陜' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '欱' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '浹' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '蕸' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '笚' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '1',
+  ),
+  '謑' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '鰕' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '烚' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '諕' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '舺' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '煆' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '2',
+  ),
+  '廈' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '3',
+  ),
+  '轄' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '3',
+  ),
+  '圷' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '3',
+  ),
+  '徦' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '3',
+  ),
+  '峽' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '3',
+  ),
+  '狹' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '4',
+  ),
+  '珨' => 
+  array (
+    'spell' => 'xia',
+    'weight' => '4',
+  ),
   '柙' => 
   array (
     'spell' => 'xia',
@@ -24159,6 +43314,381 @@
     'spell' => 'xia',
     'weight' => '163638',
   ),
+  '埳' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '蘞' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '莧' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '纎' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '杴' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '錎' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '胘' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '褼' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '槏' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '澖' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '釤' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '奾' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '襳' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '鰔' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '獫' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '陥' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '撊' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '譣' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '赻' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '盷' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '鶱' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '蘚' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '壏' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '峴' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '豏' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '韱' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '筧' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '嫺' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '廯' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '涀' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '珗' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '譀' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '姭' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '尟' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '蜆' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '溓' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '鏾' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '猃' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '誸' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '1',
+  ),
+  '孅' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '姺' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '禰' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '繊' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '忺' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '銛' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '啣' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '秈' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '幰' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '僴' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '2',
+  ),
+  '玁' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '灦' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '慳' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '僊' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '餡' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '娊' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '堿' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '諴' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '3',
+  ),
+  '銜' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '燹' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '羨' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '晛' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '禒' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '尠' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '仚' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '絃' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '俔' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '4',
+  ),
+  '綅' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '5',
+  ),
+  '僩' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '5',
+  ),
+  '筅' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '5',
+  ),
+  '伭' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '5',
+  ),
+  '顕' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '5',
+  ),
+  '綫' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '6',
+  ),
+  '莶' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '6',
+  ),
+  '憸' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '6',
+  ),
+  '纖' => 
+  array (
+    'spell' => 'xian',
+    'weight' => '6',
+  ),
   '獮' => 
   array (
     'spell' => 'xian',
@@ -24183,11 +43713,6 @@
   array (
     'spell' => 'xian',
     'weight' => '7',
-  ),
-  '彡' => 
-  array (
-    'spell' => 'san',
-    'weight' => '87',
   ),
   '鮮' => 
   array (
@@ -24479,6 +44004,306 @@
     'spell' => 'xian',
     'weight' => '84326',
   ),
+  '驍' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '髐' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '熽' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '蠨' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '虈' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '郩' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '蟂' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '髇' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '藃' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '燆' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '痟' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '涍' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '歊' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '轇' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '獢' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '謞' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '萷' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '莦' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '膮' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '穘' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '嗃' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '恔' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '恷' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '謏' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '窙' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '縿' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '嘵' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '斅' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '謼' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '漻' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '1',
+  ),
+  '翛' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '灱' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '詨' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '骹' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '梟' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '囂' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '鴞' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '嘐' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '憢' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '瀟' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '譊' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '綃' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '2',
+  ),
+  '睄' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '3',
+  ),
+  '橚' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '3',
+  ),
+  '毊' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '3',
+  ),
+  '呺' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '3',
+  ),
+  '啋' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '3',
+  ),
+  '洨' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '4',
+  ),
+  '効' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '4',
+  ),
+  '枵' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '4',
+  ),
+  '皛' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '4',
+  ),
+  '潚' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '5',
+  ),
+  '猇' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '5',
+  ),
+  '銷' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '5',
+  ),
+  '箾' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '5',
+  ),
+  '暁' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '5',
+  ),
+  '蛸' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '8',
+  ),
+  '嘯' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '6',
+  ),
+  '崤' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '6',
+  ),
+  '簫' => 
+  array (
+    'spell' => 'xiao',
+    'weight' => '6',
+  ),
   '虓' => 
   array (
     'spell' => 'xiao',
@@ -24643,6 +44468,151 @@
   array (
     'spell' => 'xiao',
     'weight' => '92013',
+  ),
+  '晑' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '鱌' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '鬨' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '忀' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '饟' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '膷' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '鄕' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '衖' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '閧' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '銗' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '薌' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '鐌' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '曏' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '驤' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '纕' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '1',
+  ),
+  '襐' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '萫' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '廂' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '啌' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '饗' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '蠁' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '餉' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '2',
+  ),
+  '緗' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '3',
+  ),
+  '瓖' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '3',
+  ),
+  '郷' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '3',
+  ),
+  '珦' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '4',
+  ),
+  '姠' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '5',
+  ),
+  '嚮' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '5',
+  ),
+  '蟓' => 
+  array (
+    'spell' => 'xiang',
+    'weight' => '6',
   ),
   '鑲' => 
   array (
@@ -24823,6 +44793,221 @@
   array (
     'spell' => 'xiang',
     'weight' => '141790',
+  ),
+  '嗋' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '慀' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '燲' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '齛' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '裌' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '屓' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '薢' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '奊' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '魼' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '祄' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '猲' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '蠏' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '恊' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '垥' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '觟' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '熁' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '襭' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '擷' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '躠' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '觧' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '1',
+  ),
+  '屭' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '褻' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '灺' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '僁' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '揳' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '嶰' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '卨' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '繲' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '脇' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '屧' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '2',
+  ),
+  '媟' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '3',
+  ),
+  '榍' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '3',
+  ),
+  '諧' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '3',
+  ),
+  '叶' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '6660',
+  ),
+  '瑎' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '4',
+  ),
+  '滊' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '4',
+  ),
+  '愶' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '4',
+  ),
+  '澥' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '5',
+  ),
+  '脅' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '5',
+  ),
+  '蠍' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '5',
+  ),
+  '劦' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '5',
+  ),
+  '緳' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '5',
+  ),
+  '伳' => 
+  array (
+    'spell' => 'xie',
+    'weight' => '6',
   ),
   '渫' => 
   array (
@@ -25069,6 +45254,76 @@
     'spell' => 'xie',
     'weight' => '40881',
   ),
+  '橝' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '妡' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '釁' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '盺' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '庍' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '惞' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '廞' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '馫' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '舋' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1',
+  ),
+  '焮' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '2',
+  ),
+  '撢' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '2',
+  ),
+  '鋅' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '5',
+  ),
+  '枔' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '5',
+  ),
+  '镡' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '6',
+  ),
   '杺' => 
   array (
     'spell' => 'xin',
@@ -25188,6 +45443,96 @@
   array (
     'spell' => 'xin',
     'weight' => '77282',
+  ),
+  '箵' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '莕' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '裄' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '娙' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '鋞' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '坙' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '鉶' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '鈃' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '巠' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '騂' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '1',
+  ),
+  '瑆' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '2',
+  ),
+  '哘' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '2',
+  ),
+  '涬' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '3',
+  ),
+  '陘' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '4',
+  ),
+  '狌' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '4',
+  ),
+  '婞' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '5',
+  ),
+  '垶' => 
+  array (
+    'spell' => 'xing',
+    'weight' => '5',
+  ),
+  '荥' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '7',
   ),
   '陉' => 
   array (
@@ -25319,6 +45664,46 @@
     'spell' => 'xing',
     'weight' => '24434',
   ),
+  '哅' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '忷' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '恟' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '赨' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '詗' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '洶' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '1',
+  ),
+  '敻' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '5',
+  ),
+  '兇' => 
+  array (
+    'spell' => 'xiong',
+    'weight' => '6',
+  ),
   '汹' => 
   array (
     'spell' => 'xiong',
@@ -25363,6 +45748,81 @@
   array (
     'spell' => 'xiong',
     'weight' => '3811',
+  ),
+  '苬' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '樇' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '鎀' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '鏥' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '櫹' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '銝' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '烋' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '滫' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '臭' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2596',
+  ),
+  '嚊' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '1',
+  ),
+  '鏽' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '2',
+  ),
+  '茠' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '3',
+  ),
+  '鸺' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '3',
+  ),
+  '繍' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '4',
+  ),
+  '珛' => 
+  array (
+    'spell' => 'xiu',
+    'weight' => '5',
   ),
   '髹' => 
   array (
@@ -25473,6 +45933,261 @@
   array (
     'spell' => 'xiu',
     'weight' => '6710',
+  ),
+  '欨' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '鄦' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '胊' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '蚼' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '殈' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '訹' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '頊' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '漵' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '稰' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '縃' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '楈' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '魖' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '幁' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '蕦' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '鑐' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '喣' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '諿' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '壻' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '暊' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '緰' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '珝' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '聟' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '旴' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '昫' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '詡' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '冔' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '嬃' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '魆' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '1',
+  ),
+  '卹' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '謳' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '欻' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '諝' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '掝' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '慉' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '2',
+  ),
+  '洫' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '3',
+  ),
+  '鬚' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '3',
+  ),
+  '糈' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '3',
+  ),
+  '湑' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '3',
+  ),
+  '勗' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '4',
+  ),
+  '姁' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '4',
+  ),
+  '噓' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '4',
+  ),
+  '侐' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '4',
+  ),
+  '醑' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '4',
+  ),
+  '銊' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '5',
+  ),
+  '敍' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '溆' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '垿' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '続' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '訏' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '敘' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
+  ),
+  '蓿' => 
+  array (
+    'spell' => 'xu',
+    'weight' => '6',
   ),
   '歔' => 
   array (
@@ -25649,6 +46364,16 @@
     'spell' => 'xu',
     'weight' => '6368',
   ),
+  '檛' => 
+  array (
+    'spell' => 'zhua',
+    'weight' => '1',
+  ),
+  '簻' => 
+  array (
+    'spell' => 'zhua',
+    'weight' => '3',
+  ),
   '挝' => 
   array (
     'spell' => 'zhua',
@@ -25663,6 +46388,121 @@
   array (
     'spell' => 'zhua',
     'weight' => '8029',
+  ),
+  '瑼' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '篿' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '甎' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '恮' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '鱄' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '膞' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '諯' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '嫥' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '縳' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '塼' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '譔' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '饌' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '1',
+  ),
+  '剸' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '2',
+  ),
+  '瑑' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '2',
+  ),
+  '囀' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '2',
+  ),
+  '摶' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '2',
+  ),
+  '漙' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '2',
+  ),
+  '僝' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '3',
+  ),
+  '耑' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '4',
+  ),
+  '磚' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '4',
+  ),
+  '転' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '5',
+  ),
+  '専' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '6',
+  ),
+  '簨' => 
+  array (
+    'spell' => 'zhuan',
+    'weight' => '6',
   ),
   '顓' => 
   array (
@@ -25734,6 +46574,41 @@
     'spell' => 'zhuan',
     'weight' => '16584',
   ),
+  '焋' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '1',
+  ),
+  '獞' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '1',
+  ),
+  '戇' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '1',
+  ),
+  '樁' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '2',
+  ),
+  '粧' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '4',
+  ),
+  '湷' => 
+  array (
+    'spell' => 'zhuang',
+    'weight' => '5',
+  ),
+  '奘' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '6',
+  ),
   '壯' => 
   array (
     'spell' => 'zhuang',
@@ -25804,6 +46679,66 @@
     'spell' => 'zhuang',
     'weight' => '20962',
   ),
+  '宒' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '1',
+  ),
+  '旽' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '1',
+  ),
+  '訰' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '1',
+  ),
+  '稕' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '1',
+  ),
+  '甽' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '2',
+  ),
+  '諄' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '2',
+  ),
+  '忳' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '2',
+  ),
+  '窀' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '3',
+  ),
+  '啍' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '3',
+  ),
+  '埻' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '3',
+  ),
+  '迍' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '5',
+  ),
+  '凖' => 
+  array (
+    'spell' => 'zhun',
+    'weight' => '6',
+  ),
   '谆' => 
   array (
     'spell' => 'zhun',
@@ -25833,6 +46768,146 @@
   array (
     'spell' => 'zhuai',
     'weight' => '1139',
+  ),
+  '抯' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '鞢' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '挿' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '苲' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '譗' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '溠' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '鰈' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '觰' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '1',
+  ),
+  '鮓' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '扠' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '揷' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '潳' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '閘' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '煠' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '奓' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '2',
+  ),
+  '箚' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '3',
+  ),
+  '挓' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '3',
+  ),
+  '皻' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '3',
+  ),
+  '喥' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '3',
+  ),
+  '詐' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '3',
+  ),
+  '軋' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '4',
+  ),
+  '剳' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '4',
+  ),
+  '劄' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '4',
+  ),
+  '霅' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '4',
+  ),
+  '囃' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '4',
+  ),
+  '齄' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '5',
+  ),
+  '哳' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '5',
+  ),
+  '偞' => 
+  array (
+    'spell' => 'zha',
+    'weight' => '6',
   ),
   '蚱' => 
   array (
@@ -25964,6 +47039,46 @@
     'spell' => 'zha',
     'weight' => '2358',
   ),
+  '骴' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '1',
+  ),
+  '捚' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '1',
+  ),
+  '檡' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '1',
+  ),
+  '駘' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '1',
+  ),
+  '嚌' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '2',
+  ),
+  '侧' => 
+  array (
+    'spell' => 'ce',
+    'weight' => '2221',
+  ),
+  '瘵' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '4',
+  ),
+  '斎' => 
+  array (
+    'spell' => 'zhai',
+    'weight' => '4',
+  ),
   '債' => 
   array (
     'spell' => 'zhai',
@@ -26018,6 +47133,151 @@
   array (
     'spell' => 'zhai',
     'weight' => '1103',
+  ),
+  '黵' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '轏' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '魙' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '輚' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '橏' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '譧' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '蛅' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '譫' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '襢' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '薝' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '桟' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '嫸' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '饘' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '颭' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '鱣' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '欃' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '1',
+  ),
+  '輾' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '跕' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '綻' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '詀' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '氈' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '盞' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '2',
+  ),
+  '搌' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '3',
+  ),
+  '鳽' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '3',
+  ),
+  '棧' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '4',
+  ),
+  '偡' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '4',
+  ),
+  '嶄' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '5',
+  ),
+  '嵁' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '6',
+  ),
+  '栴' => 
+  array (
+    'spell' => 'zhan',
+    'weight' => '6',
   ),
   '惉' => 
   array (
@@ -26143,6 +47403,51 @@
   array (
     'spell' => 'zhan',
     'weight' => '13654',
+  ),
+  '慞' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '1',
+  ),
+  '粀' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '1',
+  ),
+  '鞝' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '1',
+  ),
+  '扙' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '2',
+  ),
+  '傽' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '2',
+  ),
+  '嫜' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '2',
+  ),
+  '賬' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '3',
+  ),
+  '脹' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '4',
+  ),
+  '暲' => 
+  array (
+    'spell' => 'zhang',
+    'weight' => '5',
   ),
   '粻' => 
   array (
@@ -26279,6 +47584,81 @@
     'spell' => 'zhang',
     'weight' => '27300',
   ),
+  '釽' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '鮡' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '瑵' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '嘲' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '141',
+  ),
+  '盄' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '鉊' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '釗' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '1',
+  ),
+  '旐' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '2',
+  ),
+  '妱' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '2',
+  ),
+  '皽' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '3',
+  ),
+  '笊' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '3',
+  ),
+  '啁' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '3',
+  ),
+  '詔' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '5',
+  ),
+  '箌' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '5',
+  ),
+  '垗' => 
+  array (
+    'spell' => 'zhao',
+    'weight' => '6',
+  ),
   '鍣' => 
   array (
     'spell' => 'zhao',
@@ -26378,6 +47758,86 @@
   array (
     'spell' => 'zhao',
     'weight' => '78056',
+  ),
+  '讋' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '砓' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '虴' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '鷓' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '謺' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '輙' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '蟅' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '囁' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '1',
+  ),
+  '蟄' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '2',
+  ),
+  '轍' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '2',
+  ),
+  '謫' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '3',
+  ),
+  '鍺' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '3',
+  ),
+  '淛' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '3',
+  ),
+  '鹧' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '3',
+  ),
+  '嫬' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '5',
+  ),
+  '粍' => 
+  array (
+    'spell' => 'zhe',
+    'weight' => '6',
   ),
   '輒' => 
   array (
@@ -26508,6 +47968,206 @@
   array (
     'spell' => 'zhe',
     'weight' => '178109',
+  ),
+  '鱵' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '栚' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '遉' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '寊' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '轃' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '珎' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '葴' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '鬒' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '籈' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '敶' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '鴆' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '揕' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '絼' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '賑' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '鍼' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '桭' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '塡' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '1',
+  ),
+  '碪' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '眹' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '枮' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '誫' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '紖' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '軫' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '眕' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '挋' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '2',
+  ),
+  '槇' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '3',
+  ),
+  '謓' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '3',
+  ),
+  '縝' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '3',
+  ),
+  '沴' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '3',
+  ),
+  '侲' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '袗' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '楨' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '紾' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '瑱' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '獉' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '4',
+  ),
+  '禎' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '5',
+  ),
+  '椹' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '5',
+  ),
+  '診' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '5',
+  ),
+  '畛' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '6',
+  ),
+  '瑧' => 
+  array (
+    'spell' => 'zhen',
+    'weight' => '6',
   ),
   '鎭' => 
   array (
@@ -26724,6 +48384,121 @@
     'spell' => 'zhen',
     'weight' => '65153',
   ),
+  '浧' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '脀' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '糽' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '眐' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '篜' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '錚' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '撜' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '炡' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '鯖' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '1',
+  ),
+  '諍' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '2',
+  ),
+  '鉦' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '2',
+  ),
+  '埥' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '2',
+  ),
+  '媜' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '2',
+  ),
+  '鮏' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '2',
+  ),
+  '箏' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '3',
+  ),
+  '睜' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '3',
+  ),
+  '幀' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '4',
+  ),
+  '崢' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '4',
+  ),
+  '姃' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '4',
+  ),
+  '掙' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '5',
+  ),
+  '癥' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '5',
+  ),
+  '崝' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '5',
+  ),
+  '倀' => 
+  array (
+    'spell' => 'zheng',
+    'weight' => '6',
+  ),
   '烝' => 
   array (
     'spell' => 'zheng',
@@ -26868,6 +48643,436 @@
   array (
     'spell' => 'zheng',
     'weight' => '20523',
+  ),
+  '隲' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '懫' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '螲' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '鷙' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '搘' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '墆' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '樲' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '懥' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '猘' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '杝' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '擳' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '阤' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '胑' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '汥' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '梔' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '秪' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '洷' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '识' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1779',
+  ),
+  '鑕' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '鴙' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '嚔' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '巵' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '騺' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '縶' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '疻' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '贄' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '楖' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '胵' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '躓' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '晊' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '觶' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '瓡' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '蹛' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '捗' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '跱' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '袟' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '穉' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '泜' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '摨' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '犆' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '慹' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '酈' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '鳷' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '淽' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '櫛' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '櫍' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '1',
+  ),
+  '銍' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '恉' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '栺' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '幟' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '礩' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '貭' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '轾' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '緻' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '軹' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '蚔' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '廌' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '臷' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '秖' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '秷' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '鋕' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '椥' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '擿' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '2',
+  ),
+  '觝' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '氏' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2548',
+  ),
+  '歭' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '滍' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '軽' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '臸' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '稙' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '謢' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '偫' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '紩' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '瘈' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '3',
+  ),
+  '傂' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '4',
+  ),
+  '扺' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '4',
+  ),
+  '踬' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '5',
+  ),
+  '迣' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '5',
+  ),
+  '禔' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '5',
+  ),
+  '阯' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '5',
+  ),
+  '樀' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '5',
+  ),
+  '擲' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '6',
+  ),
+  '徴' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '6',
+  ),
+  '踯' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '6',
+  ),
+  '夛' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '6',
+  ),
+  '寘' => 
+  array (
+    'spell' => 'zhi',
+    'weight' => '6',
   ),
   '埴' => 
   array (
@@ -27389,6 +49594,151 @@
     'spell' => 'zhi',
     'weight' => '49530',
   ),
+  '輖' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '珘' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '婤' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '賙' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '輈' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '翢' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '睭' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '譸' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '謅' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '咮' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '椆' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '胕' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '1',
+  ),
+  '淍' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '荮' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '詶' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '縐' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '薵' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '箒' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '紂' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '驟' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '鈾' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '2',
+  ),
+  '喌' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '3',
+  ),
+  '盩' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '3',
+  ),
+  '僽' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '3',
+  ),
+  '甃' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '3',
+  ),
+  '冑' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '4',
+  ),
+  '侜' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '4',
+  ),
+  '紬' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '5',
+  ),
+  '呪' => 
+  array (
+    'spell' => 'zhou',
+    'weight' => '6',
+  ),
   '碡' => 
   array (
     'spell' => 'zhou',
@@ -27524,6 +49874,86 @@
     'spell' => 'zhou',
     'weight' => '16297',
   ),
+  '鈆' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '1',
+  ),
+  '籦' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '1',
+  ),
+  '衶' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '1',
+  ),
+  '迚' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '1',
+  ),
+  '彸' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '1',
+  ),
+  '螤' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '2',
+  ),
+  '祌' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '2',
+  ),
+  '穜' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '2',
+  ),
+  '蔠' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '3',
+  ),
+  '緟' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '3',
+  ),
+  '舯' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '4',
+  ),
+  '尰' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '5',
+  ),
+  '狆' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '5',
+  ),
+  '腫' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '5',
+  ),
+  '螽' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '5',
+  ),
+  '衆' => 
+  array (
+    'spell' => 'zhong',
+    'weight' => '6',
+  ),
   '煄' => 
   array (
     'spell' => 'zhong',
@@ -27638,6 +50068,271 @@
   array (
     'spell' => 'zhong',
     'weight' => '243213',
+  ),
+  '鴸' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '馵' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '嵀' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '罜' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '竚' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '跦' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '蠩' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '孎' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '茿' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '磩' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '藷' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '蓫' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '蠾' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '莇' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '尌' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '陼' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '跙' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '鋳' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '篴' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '鸀' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '跓' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '祩' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '墸' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '斸' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '藸' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '砫' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '1',
+  ),
+  '芧' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '袾' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '櫫' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '灟' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '軴' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '劯' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '窋' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '欘' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '鉒' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '銖' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '2',
+  ),
+  '貯' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '3',
+  ),
+  '柷' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '3',
+  ),
+  '属' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '4306',
+  ),
+  '殶' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '3',
+  ),
+  '櫧' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '4',
+  ),
+  '蠋' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '4',
+  ),
+  '鑄' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '4',
+  ),
+  '矚' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '4',
+  ),
+  '誅' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '5',
+  ),
+  '囑' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '5',
+  ),
+  '築' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '5',
+  ),
+  '舳' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '5',
+  ),
+  '橥' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '6',
+  ),
+  '疰' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '6',
+  ),
+  '钃' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '6',
+  ),
+  '术' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '2278',
+  ),
+  '槠' => 
+  array (
+    'spell' => 'zhu',
+    'weight' => '6',
   ),
   '瀦' => 
   array (
@@ -27914,6 +50609,161 @@
     'spell' => 'zhu',
     'weight' => '21924',
   ),
+  '藋' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '罬' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '穛' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '斮' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '梲' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '棳' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '蠿' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '鐲' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '櫡' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '蠗' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '捔' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '汋' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '琸' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '篧' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '諑' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '趠' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '1',
+  ),
+  '蝃' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '2',
+  ),
+  '謶' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '2',
+  ),
+  '椓' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '2',
+  ),
+  '灂' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '2',
+  ),
+  '斀' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '蹠' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '啅' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '矠' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '圴' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '噣' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '3',
+  ),
+  '穱' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '4',
+  ),
+  '鷟' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '4',
+  ),
+  '斲' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '4',
+  ),
+  '禚' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '5',
+  ),
+  '诼' => 
+  array (
+    'spell' => 'zhuo',
+    'weight' => '6',
+  ),
   '浞' => 
   array (
     'spell' => 'zhuo',
@@ -28024,6 +50874,76 @@
     'spell' => 'zhuo',
     'weight' => '1329',
   ),
+  '醀' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '錣' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '餟' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '醊' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '諈' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '騅' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '娷' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '1',
+  ),
+  '贅' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '2',
+  ),
+  '硾' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '2',
+  ),
+  '錐' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '2',
+  ),
+  '縋' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '2',
+  ),
+  '綴' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '3',
+  ),
+  '箠' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '5',
+  ),
+  '缒' => 
+  array (
+    'spell' => 'zhui',
+    'weight' => '6',
+  ),
   '惴' => 
   array (
     'spell' => 'zhui',
@@ -28094,6 +51014,46 @@
     'spell' => 'zhui',
     'weight' => '5643',
   ),
+  '玔' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '賗' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '歂' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '汌' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '釧' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '瑏' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '1',
+  ),
+  '踳' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '2',
+  ),
+  '舡' => 
+  array (
+    'spell' => 'chuan',
+    'weight' => '3',
+  ),
   '遄' => 
   array (
     'spell' => 'chuan',
@@ -28159,6 +51119,51 @@
     'spell' => 'chuan',
     'weight' => '14227',
   ),
+  '窓' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '1',
+  ),
+  '刱' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '1',
+  ),
+  '剏' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '1',
+  ),
+  '牀' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '2',
+  ),
+  '愴' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '2',
+  ),
+  '傸' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '2',
+  ),
+  '瘡' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '4',
+  ),
+  '摐' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '4',
+  ),
+  '闖' => 
+  array (
+    'spell' => 'chuang',
+    'weight' => '6',
+  ),
   '創' => 
   array (
     'spell' => 'chuang',
@@ -28193,6 +51198,61 @@
   array (
     'spell' => 'chuang',
     'weight' => '3976',
+  ),
+  '瑃' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '鶉' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '萶' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '杶' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '漘' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '惷' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '犉' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '蓴' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '橁' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '1',
+  ),
+  '暙' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '2',
+  ),
+  '賰' => 
+  array (
+    'spell' => 'chun',
+    'weight' => '3',
   ),
   '偆' => 
   array (
@@ -28259,6 +51319,26 @@
     'spell' => 'chun',
     'weight' => '5269',
   ),
+  '欼' => 
+  array (
+    'spell' => 'chuai',
+    'weight' => '1',
+  ),
+  '膪' => 
+  array (
+    'spell' => 'chuai',
+    'weight' => '1',
+  ),
+  '嘬' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '67',
+  ),
+  '搋' => 
+  array (
+    'spell' => 'chuai',
+    'weight' => '3',
+  ),
   '啜' => 
   array (
     'spell' => 'chuo',
@@ -28273,6 +51353,71 @@
   array (
     'spell' => 'chuai',
     'weight' => '587',
+  ),
+  '蹅' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '1',
+  ),
+  '疀' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '1',
+  ),
+  '靫' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '1',
+  ),
+  '奼' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '1',
+  ),
+  '臿' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '2',
+  ),
+  '嗏' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '2',
+  ),
+  '垞' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '3',
+  ),
+  '馇' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '3',
+  ),
+  '査' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '4',
+  ),
+  '猹' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '4',
+  ),
+  '鍤' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '4',
+  ),
+  '锸' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '5',
+  ),
+  '侘' => 
+  array (
+    'spell' => 'cha',
+    'weight' => '6',
   ),
   '偛' => 
   array (
@@ -28374,6 +51519,36 @@
     'spell' => 'cha',
     'weight' => '16939',
   ),
+  '祡' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '1',
+  ),
+  '蠆' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '1',
+  ),
+  '喍' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '1',
+  ),
+  '儕' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '4',
+  ),
+  '釵' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '4',
+  ),
+  '瘥' => 
+  array (
+    'spell' => 'chai',
+    'weight' => '4',
+  ),
   '虿' => 
   array (
     'spell' => 'chai',
@@ -28408,6 +51583,201 @@
   array (
     'spell' => 'chai',
     'weight' => '2529',
+  ),
+  '嚵' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '囅' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '滻' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '簅' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '懴' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '梴' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '繟' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '纒' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '壥' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '蕆' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '旵' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '幨' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '嵼' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '灛' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '産' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '1',
+  ),
+  '剷' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '嬋' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '骣' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '鏟' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '湹' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '諂' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '摲' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '闡' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '毚' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '丳' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '2',
+  ),
+  '棎' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '讒' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '冁' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '饞' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '瀺' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '懺' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '摻' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '辿' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '3',
+  ),
+  '巉' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '4',
+  ),
+  '襜' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '4',
+  ),
+  '蟬' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '4',
+  ),
+  '劖' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '4',
+  ),
+  '鋋' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '5',
+  ),
+  '瀍' => 
+  array (
+    'spell' => 'chan',
+    'weight' => '6',
   ),
   '纏' => 
   array (
@@ -28553,6 +51923,96 @@
   array (
     'spell' => 'chan',
     'weight' => '2648',
+  ),
+  '鯧' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '琩' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '裮' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '淐' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '膓' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '椙' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '蟐' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '韔' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '甞' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '錩' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '1',
+  ),
+  '僘' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '2',
+  ),
+  '厰' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '2',
+  ),
+  '悵' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '3',
+  ),
+  '萇' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '3',
+  ),
+  '嚐' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '4',
+  ),
+  '鋹' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '4',
+  ),
+  '腸' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '6',
+  ),
+  '償' => 
+  array (
+    'spell' => 'chang',
+    'weight' => '6',
   ),
   '暢' => 
   array (
@@ -28704,6 +52164,46 @@
     'spell' => 'chang',
     'weight' => '7744',
   ),
+  '鄛' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '1',
+  ),
+  '眧' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '1',
+  ),
+  '漅' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '1',
+  ),
+  '巣' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '1',
+  ),
+  '弨' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '2',
+  ),
+  '怊' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '3',
+  ),
+  '鈔' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '4',
+  ),
+  '耖' => 
+  array (
+    'spell' => 'chao',
+    'weight' => '6',
+  ),
   '牊' => 
   array (
     'spell' => 'chao',
@@ -28713,11 +52213,6 @@
   array (
     'spell' => 'chao',
     'weight' => '65',
-  ),
-  '嘲' => 
-  array (
-    'spell' => 'chao',
-    'weight' => '141',
   ),
   '绰' => 
   array (
@@ -28759,6 +52254,31 @@
     'spell' => 'chao',
     'weight' => '9875',
   ),
+  '硨' => 
+  array (
+    'spell' => 'che',
+    'weight' => '1',
+  ),
+  '迠' => 
+  array (
+    'spell' => 'che',
+    'weight' => '1',
+  ),
+  '尺' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '764',
+  ),
+  '砗' => 
+  array (
+    'spell' => 'che',
+    'weight' => '5',
+  ),
+  '偖' => 
+  array (
+    'spell' => 'che',
+    'weight' => '6',
+  ),
   '徹' => 
   array (
     'spell' => 'che',
@@ -28799,10 +52319,115 @@
     'spell' => 'che',
     'weight' => '2261',
   ),
-  '车' => 
+  '肜' => 
   array (
-    'spell' => 'che',
-    'weight' => '26005',
+    'spell' => 'rong',
+    'weight' => '7',
+  ),
+  '螴' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '墋' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '贂' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '嚫' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '磣' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '莐' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '諶' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '茞' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '煁' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '諃' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '踸' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '蔯' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '1',
+  ),
+  '沈' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '6710',
+  ),
+  '疢' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '2',
+  ),
+  '棽' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '2',
+  ),
+  '讖' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '2',
+  ),
+  '襯' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '4',
+  ),
+  '傖' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '4',
+  ),
+  '榇' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '5',
+  ),
+  '龀' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '5',
+  ),
+  '伧' => 
+  array (
+    'spell' => 'chen',
+    'weight' => '5',
   ),
   '塵' => 
   array (
@@ -28908,6 +52533,96 @@
   array (
     'spell' => 'chen',
     'weight' => '12941',
+  ),
+  '赬' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '筬' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '蟶' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '碀' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '檉' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '庱' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '鋮' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '峸' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '騁' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '棦' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '1',
+  ),
+  '荿' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '2',
+  ),
+  '掁' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '2',
+  ),
+  '橕' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '3',
+  ),
+  '牚' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '3',
+  ),
+  '懲' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '3',
+  ),
+  '珹' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '3',
+  ),
+  '郕' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '5',
+  ),
+  '酲' => 
+  array (
+    'spell' => 'cheng',
+    'weight' => '6',
   ),
   '澂' => 
   array (
@@ -29073,6 +52788,131 @@
   array (
     'spell' => 'cheng',
     'weight' => '33117',
+  ),
+  '瞝' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '蚇' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '遫' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '鴟' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '遅' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '痸' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '淔' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '攡' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '抶' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '荎' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '妛' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '1',
+  ),
+  '鉓' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '2',
+  ),
+  '眵' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '2',
+  ),
+  '鶒' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '2',
+  ),
+  '踟' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '3',
+  ),
+  '喫' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '4',
+  ),
+  '懘' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '4',
+  ),
+  '勅' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '5',
+  ),
+  '熾' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '5',
+  ),
+  '癡' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '5',
+  ),
+  '摛' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '5',
+  ),
+  '絺' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '6',
+  ),
+  '馳' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '6',
+  ),
+  '齒' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '6',
+  ),
+  '恥' => 
+  array (
+    'spell' => 'chi',
+    'weight' => '6',
   ),
   '瘛' => 
   array (
@@ -29254,11 +53094,6 @@
     'spell' => 'chi',
     'weight' => '711',
   ),
-  '尺' => 
-  array (
-    'spell' => 'chi',
-    'weight' => '764',
-  ),
   '赤' => 
   array (
     'spell' => 'chi',
@@ -29283,6 +53118,86 @@
   array (
     'spell' => 'chi',
     'weight' => '65315',
+  ),
+  '懤' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '躊' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '燽' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '雔' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '杽' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '讐' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '殠' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '1',
+  ),
+  '絒' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '菗' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '綢' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '犨' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '吜' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '篘' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '2',
+  ),
+  '讎' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '3',
+  ),
+  '疇' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '3',
+  ),
+  '栦' => 
+  array (
+    'spell' => 'chou',
+    'weight' => '6',
   ),
   '籌' => 
   array (
@@ -29354,11 +53269,6 @@
     'spell' => 'chou',
     'weight' => '1988',
   ),
-  '臭' => 
-  array (
-    'spell' => 'chou',
-    'weight' => '2596',
-  ),
   '丑' => 
   array (
     'spell' => 'chou',
@@ -29368,6 +53278,31 @@
   array (
     'spell' => 'chou',
     'weight' => '4805',
+  ),
+  '罿' => 
+  array (
+    'spell' => 'chong',
+    'weight' => '1',
+  ),
+  '珫' => 
+  array (
+    'spell' => 'chong',
+    'weight' => '1',
+  ),
+  '銃' => 
+  array (
+    'spell' => 'chong',
+    'weight' => '2',
+  ),
+  '茺' => 
+  array (
+    'spell' => 'chong',
+    'weight' => '4',
+  ),
+  '艟' => 
+  array (
+    'spell' => 'chong',
+    'weight' => '5',
   ),
   '寵' => 
   array (
@@ -29443,6 +53378,136 @@
   array (
     'spell' => 'chong',
     'weight' => '8294',
+  ),
+  '躕' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '臅' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '珿' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '鄐' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '幮' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '蒭' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '犓' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '懨' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '趎' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '礎' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '豖' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '耡' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '鶵' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '1',
+  ),
+  '斶' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '鋤' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '蒢' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '篨' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '歜' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '蜍' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '摴' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '櫥' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '雛' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '2',
+  ),
+  '貙' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '3',
+  ),
+  '廚' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '3',
+  ),
+  '芻' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '3',
+  ),
+  '觸' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '6',
   ),
   '憷' => 
   array (
@@ -29619,6 +53684,56 @@
     'spell' => 'chu',
     'weight' => '55547',
   ),
+  '嚽' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '1',
+  ),
+  '齪' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '1',
+  ),
+  '逴' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '1',
+  ),
+  '惙' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '1',
+  ),
+  '輟' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '2',
+  ),
+  '娖' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '2',
+  ),
+  '歠' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '2',
+  ),
+  '綽' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '2',
+  ),
+  '磭' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '3',
+  ),
+  '踔' => 
+  array (
+    'spell' => 'chuo',
+    'weight' => '6',
+  ),
   '龊' => 
   array (
     'spell' => 'chuo',
@@ -29633,6 +53748,21 @@
   array (
     'spell' => 'chuo',
     'weight' => '679',
+  ),
+  '鎚' => 
+  array (
+    'spell' => 'chui',
+    'weight' => '2',
+  ),
+  '錘' => 
+  array (
+    'spell' => 'chui',
+    'weight' => '2',
+  ),
+  '圌' => 
+  array (
+    'spell' => 'chui',
+    'weight' => '5',
   ),
   '缍' => 
   array (
@@ -29714,6 +53844,61 @@
     'spell' => 'shuan',
     'weight' => '479',
   ),
+  '縔' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '灀' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '艭' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '慡' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '礵' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '漺' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '驦' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '1',
+  ),
+  '樉' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '2',
+  ),
+  '孇' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '2',
+  ),
+  '塽' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '3',
+  ),
+  '滝' => 
+  array (
+    'spell' => 'shuang',
+    'weight' => '5',
+  ),
   '孀' => 
   array (
     'spell' => 'shuang',
@@ -29738,6 +53923,26 @@
   array (
     'spell' => 'shuang',
     'weight' => '10536',
+  ),
+  '瞚' => 
+  array (
+    'spell' => 'shun',
+    'weight' => '1',
+  ),
+  '輴' => 
+  array (
+    'spell' => 'shun',
+    'weight' => '1',
+  ),
+  '橓' => 
+  array (
+    'spell' => 'shun',
+    'weight' => '1',
+  ),
+  '蕣' => 
+  array (
+    'spell' => 'shun',
+    'weight' => '1',
   ),
   '順' => 
   array (
@@ -29793,6 +53998,51 @@
   array (
     'spell' => 'shuai',
     'weight' => '6051',
+  ),
+  '喢' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '1',
+  ),
+  '翣' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '1',
+  ),
+  '繌' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '2',
+  ),
+  '杉' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '337',
+  ),
+  '乷' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '3',
+  ),
+  '歃' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '3',
+  ),
+  '唼' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '4',
+  ),
+  '鯊' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '6',
+  ),
+  '箑' => 
+  array (
+    'spell' => 'sha',
+    'weight' => '6',
   ),
   '铩' => 
   array (
@@ -29889,6 +54139,31 @@
     'spell' => 'sha',
     'weight' => '40526',
   ),
+  '閷' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '1',
+  ),
+  '攦' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '1',
+  ),
+  '篩' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '1',
+  ),
+  '簁' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '2',
+  ),
+  '酾' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '2',
+  ),
   '色' => 
   array (
     'spell' => 'se',
@@ -29908,6 +54183,196 @@
   array (
     'spell' => 'shai',
     'weight' => '3130',
+  ),
+  '饍' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '覢' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '騸' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '杣' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '謆' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '蔪' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '圸' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '閊' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '灗' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '鱔' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '訕' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '譱' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '襂' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '赸' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '穇' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '痁' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '猭' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '贍' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '攙' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '陝' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '1',
+  ),
+  '剼' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '2',
+  ),
+  '柵' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '2',
+  ),
+  '埏' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '2',
+  ),
+  '羶' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '2',
+  ),
+  '姍' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '3',
+  ),
+  '煔' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '3',
+  ),
+  '墡' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '3',
+  ),
+  '舢' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '3',
+  ),
+  '晱' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '4',
+  ),
+  '掞' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '4',
+  ),
+  '繕' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '4',
+  ),
+  '単' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '4',
+  ),
+  '纔' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '5',
+  ),
+  '敾' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '5',
+  ),
+  '僤' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '5',
+  ),
+  '笘' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '6',
+  ),
+  '潸' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '6',
+  ),
+  '鐥' => 
+  array (
+    'spell' => 'shan',
+    'weight' => '6',
   ),
   '鄯' => 
   array (
@@ -30044,11 +54509,6 @@
     'spell' => 'shan',
     'weight' => '284',
   ),
-  '杉' => 
-  array (
-    'spell' => 'shan',
-    'weight' => '337',
-  ),
   '珊' => 
   array (
     'spell' => 'shan',
@@ -30083,6 +54543,36 @@
   array (
     'spell' => 'shan',
     'weight' => '10951',
+  ),
+  '蠰' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '1',
+  ),
+  '謪' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '1',
+  ),
+  '觴' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '2',
+  ),
+  '慯' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '3',
+  ),
+  '塲' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '3',
+  ),
+  '殤' => 
+  array (
+    'spell' => 'shang',
+    'weight' => '6',
   ),
   '尙' => 
   array (
@@ -30164,12 +54654,57 @@
     'spell' => 'shang',
     'weight' => '284918',
   ),
-  '紹' => 
+  '輎' => 
   array (
     'spell' => 'shao',
-    'weight' => '8',
+    'weight' => '1',
   ),
-  '蛸' => 
+  '玿' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '1',
+  ),
+  '髾' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '1',
+  ),
+  '旓' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '2',
+  ),
+  '弰' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '2',
+  ),
+  '焼' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '2',
+  ),
+  '筲' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '2',
+  ),
+  '卲' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '3',
+  ),
+  '艄' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '5',
+  ),
+  '潲' => 
+  array (
+    'spell' => 'shao',
+    'weight' => '6',
+  ),
+  '紹' => 
   array (
     'spell' => 'shao',
     'weight' => '8',
@@ -30239,6 +54774,66 @@
     'spell' => 'shao',
     'weight' => '31117',
   ),
+  '慴' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '挕' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '輋' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '檨' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '蔎' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '猞' => 
+  array (
+    'spell' => 'she',
+    'weight' => '1',
+  ),
+  '韘' => 
+  array (
+    'spell' => 'she',
+    'weight' => '2',
+  ),
+  '懾' => 
+  array (
+    'spell' => 'she',
+    'weight' => '2',
+  ),
+  '賒' => 
+  array (
+    'spell' => 'she',
+    'weight' => '2',
+  ),
+  '渉' => 
+  array (
+    'spell' => 'she',
+    'weight' => '2',
+  ),
+  '舎' => 
+  array (
+    'spell' => 'she',
+    'weight' => '3',
+  ),
+  '蠂' => 
+  array (
+    'spell' => 'she',
+    'weight' => '3',
+  ),
   '涻' => 
   array (
     'spell' => 'she',
@@ -30278,11 +54873,6 @@
   array (
     'spell' => 'she',
     'weight' => '16',
-  ),
-  '歙' => 
-  array (
-    'spell' => 'she',
-    'weight' => '18',
   ),
   '麝' => 
   array (
@@ -30329,11 +54919,6 @@
     'spell' => 'she',
     'weight' => '875',
   ),
-  '摄' => 
-  array (
-    'spell' => 'she',
-    'weight' => '1406',
-  ),
   '舍' => 
   array (
     'spell' => 'she',
@@ -30358,6 +54943,181 @@
   array (
     'spell' => 'she',
     'weight' => '3787',
+  ),
+  '峷' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '覾' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '鰺' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '眒' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '邥' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '駪' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '罧' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '瞫' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '讅' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '氠' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '葠' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '詵' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '抌' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '愼' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '鯓' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '1',
+  ),
+  '瀋' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '紳' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '訷' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '堔' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '滲' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '槮' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '侺' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '棯' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '綝' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '2',
+  ),
+  '淰' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '3',
+  ),
+  '嬸' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '3',
+  ),
+  '葚' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '7',
+  ),
+  '渖' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '3',
+  ),
+  '伔' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '4',
+  ),
+  '甡' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '4',
+  ),
+  '嫀' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '4',
+  ),
+  '幓' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '5',
+  ),
+  '蔘' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '6',
+  ),
+  '娠' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '6',
+  ),
+  '妽' => 
+  array (
+    'spell' => 'shen',
+    'weight' => '6',
   ),
   '榊' => 
   array (
@@ -30524,11 +55284,6 @@
     'spell' => 'shen',
     'weight' => '5764',
   ),
-  '沈' => 
-  array (
-    'spell' => 'shen',
-    'weight' => '6710',
-  ),
   '深' => 
   array (
     'spell' => 'shen',
@@ -30538,6 +55293,71 @@
   array (
     'spell' => 'shen',
     'weight' => '9418',
+  ),
+  '焺' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '1',
+  ),
+  '呏' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '1',
+  ),
+  '貹' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '1',
+  ),
+  '乗' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '2',
+  ),
+  '鉎' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '2',
+  ),
+  '憴' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '3',
+  ),
+  '渻' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '4',
+  ),
+  '賸' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '4',
+  ),
+  '湦' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '5',
+  ),
+  '繩' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '5',
+  ),
+  '陞' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '6',
+  ),
+  '剰' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '6',
+  ),
+  '偗' => 
+  array (
+    'spell' => 'sheng',
+    'weight' => '6',
   ),
   '泩' => 
   array (
@@ -30638,6 +55458,181 @@
   array (
     'spell' => 'shui',
     'weight' => '41704',
+  ),
+  '釃' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '遾' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '枾' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '貰' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '襫' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '邿' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鼫' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '絁' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鼭' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '觢' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鈰' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '葹' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鰤' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '忯' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '笶' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '澨' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鰣' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '鉽' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '蝨' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '榯' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '1',
+  ),
+  '恀' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '釈' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '飭' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '湤' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '蒔' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '鍉' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '遰' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '溼' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '咶' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '2',
+  ),
+  '祏' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '3',
+  ),
+  '簭' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '3',
+  ),
+  '贳' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '4',
+  ),
+  '諡' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '4',
+  ),
+  '鲥' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '5',
+  ),
+  '獅' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '6',
   ),
   '駛' => 
   array (
@@ -30949,11 +55944,6 @@
     'spell' => 'shi',
     'weight' => '766',
   ),
-  '适' => 
-  array (
-    'spell' => 'shi',
-    'weight' => '846',
-  ),
   '势' => 
   array (
     'spell' => 'shi',
@@ -30974,11 +55964,6 @@
     'spell' => 'shi',
     'weight' => '1525',
   ),
-  '识' => 
-  array (
-    'spell' => 'shi',
-    'weight' => '1779',
-  ),
   '失' => 
   array (
     'spell' => 'shi',
@@ -30993,11 +55978,6 @@
   array (
     'spell' => 'shi',
     'weight' => '2309',
-  ),
-  '氏' => 
-  array (
-    'spell' => 'shi',
-    'weight' => '2548',
   ),
   '视' => 
   array (
@@ -31083,6 +56063,16 @@
   array (
     'spell' => 'shi',
     'weight' => '1180957',
+  ),
+  '獣' => 
+  array (
+    'spell' => 'shou',
+    'weight' => '4',
+  ),
+  '綬' => 
+  array (
+    'spell' => 'shou',
+    'weight' => '5',
   ),
   '獸' => 
   array (
@@ -31174,10 +56164,140 @@
     'spell' => 'shou',
     'weight' => '16855',
   ),
-  '疋' => 
+  '襩' => 
   array (
     'spell' => 'shu',
-    'weight' => '7',
+    'weight' => '1',
+  ),
+  '踈' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '虪' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '攄' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '鏣' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '軗' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '襡' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '竪' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '鄃' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '璹' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '陎' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '癙' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '1',
+  ),
+  '橾' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '2',
+  ),
+  '杸' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '2',
+  ),
+  '婌' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '2',
+  ),
+  '鉥' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '2',
+  ),
+  '疎' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '3',
+  ),
+  '糬' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '3',
+  ),
+  '贖' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '3',
+  ),
+  '朮' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '3',
+  ),
+  '樞' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '3',
+  ),
+  '綀' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '4',
+  ),
+  '潻' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '4',
+  ),
+  '毹' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '5',
+  ),
+  '摅' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '6',
+  ),
+  '腧' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '6',
+  ),
+  '豎' => 
+  array (
+    'spell' => 'shu',
+    'weight' => '6',
   ),
   '鼡' => 
   array (
@@ -31404,16 +56524,6 @@
     'spell' => 'shu',
     'weight' => '1693',
   ),
-  '术' => 
-  array (
-    'spell' => 'shu',
-    'weight' => '2278',
-  ),
-  '属' => 
-  array (
-    'spell' => 'shu',
-    'weight' => '4306',
-  ),
   '输' => 
   array (
     'spell' => 'shu',
@@ -31433,6 +56543,31 @@
   array (
     'spell' => 'shu',
     'weight' => '19044',
+  ),
+  '鎙' => 
+  array (
+    'spell' => 'shuo',
+    'weight' => '1',
+  ),
+  '爍' => 
+  array (
+    'spell' => 'shuo',
+    'weight' => '4',
+  ),
+  '碩' => 
+  array (
+    'spell' => 'shuo',
+    'weight' => '4',
+  ),
+  '蒴' => 
+  array (
+    'spell' => 'shuo',
+    'weight' => '6',
+  ),
+  '妁' => 
+  array (
+    'spell' => 'shuo',
+    'weight' => '6',
   ),
   '搠' => 
   array (
@@ -31474,6 +56609,31 @@
     'spell' => 'shuo',
     'weight' => '338803',
   ),
+  '裞' => 
+  array (
+    'spell' => 'shui',
+    'weight' => '1',
+  ),
+  '閖' => 
+  array (
+    'spell' => 'shui',
+    'weight' => '3',
+  ),
+  '脽' => 
+  array (
+    'spell' => 'shui',
+    'weight' => '3',
+  ),
+  '帨' => 
+  array (
+    'spell' => 'shui',
+    'weight' => '4',
+  ),
+  '涗' => 
+  array (
+    'spell' => 'shui',
+    'weight' => '6',
+  ),
   '稅' => 
   array (
     'spell' => 'shui',
@@ -31504,6 +56664,36 @@
     'spell' => 'shui',
     'weight' => '27608',
   ),
+  '瓀' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '1',
+  ),
+  '壖' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '1',
+  ),
+  '緛' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '2',
+  ),
+  '耎' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '2',
+  ),
+  '檽' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '3',
+  ),
+  '堧' => 
+  array (
+    'spell' => 'ruan',
+    'weight' => '4',
+  ),
   '軟' => 
   array (
     'spell' => 'ruan',
@@ -31524,6 +56714,11 @@
     'spell' => 'ruan',
     'weight' => '3419',
   ),
+  '閏' => 
+  array (
+    'spell' => 'run',
+    'weight' => '3',
+  ),
   '潤' => 
   array (
     'spell' => 'run',
@@ -31538,6 +56733,26 @@
   array (
     'spell' => 'run',
     'weight' => '1431',
+  ),
+  '袡' => 
+  array (
+    'spell' => 'ran',
+    'weight' => '1',
+  ),
+  '呥' => 
+  array (
+    'spell' => 'ran',
+    'weight' => '1',
+  ),
+  '熯' => 
+  array (
+    'spell' => 'ran',
+    'weight' => '1',
+  ),
+  '姌' => 
+  array (
+    'spell' => 'ran',
+    'weight' => '2',
   ),
   '蚺' => 
   array (
@@ -31573,6 +56788,46 @@
   array (
     'spell' => 'ran',
     'weight' => '4290',
+  ),
+  '穣' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '1',
+  ),
+  '獽' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '1',
+  ),
+  '懹' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '1',
+  ),
+  '壌' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '2',
+  ),
+  '勷' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '2',
+  ),
+  '蘘' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '2',
+  ),
+  '瀼' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '4',
+  ),
+  '譲' => 
+  array (
+    'spell' => 'rang',
+    'weight' => '6',
   ),
   '禳' => 
   array (
@@ -31613,6 +56868,41 @@
   array (
     'spell' => 'rang',
     'weight' => '97928',
+  ),
+  '襓' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '1',
+  ),
+  '犪' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '2',
+  ),
+  '嬈' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '2',
+  ),
+  '橈' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '3',
+  ),
+  '遶' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '3',
+  ),
+  '擾' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '3',
+  ),
+  '饒' => 
+  array (
+    'spell' => 'rao',
+    'weight' => '4',
   ),
   '荛' => 
   array (
@@ -31664,12 +56954,102 @@
     'spell' => 're',
     'weight' => '12281',
   ),
-  '仭' => 
+  '肕' => 
   array (
     'spell' => 'ren',
-    'weight' => '7',
+    'weight' => '1',
   ),
-  '葚' => 
+  '靭' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '訒' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '荵' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '銋' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '綛' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '紉' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '袵' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '扨' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '栠' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '軔' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '1',
+  ),
+  '涊' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '2',
+  ),
+  '牣' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '2',
+  ),
+  '腍' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '3',
+  ),
+  '芢' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '3',
+  ),
+  '屻' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '3',
+  ),
+  '韌' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '4',
+  ),
+  '姙' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '4',
+  ),
+  '饪' => 
+  array (
+    'spell' => 'ren',
+    'weight' => '6',
+  ),
+  '仭' => 
   array (
     'spell' => 'ren',
     'weight' => '7',
@@ -31698,11 +57078,6 @@
   array (
     'spell' => 'ren',
     'weight' => '21',
-  ),
-  '亻' => 
-  array (
-    'spell' => 'ren',
-    'weight' => '30',
   ),
   '稔' => 
   array (
@@ -31769,6 +57144,16 @@
     'spell' => 'ren',
     'weight' => '250285',
   ),
+  '芿' => 
+  array (
+    'spell' => 'reng',
+    'weight' => '1',
+  ),
+  '陾' => 
+  array (
+    'spell' => 'reng',
+    'weight' => '2',
+  ),
   '礽' => 
   array (
     'spell' => 'reng',
@@ -31784,6 +57169,11 @@
     'spell' => 'reng',
     'weight' => '8751',
   ),
+  '馹' => 
+  array (
+    'spell' => 'ri',
+    'weight' => '5',
+  ),
   '鈤' => 
   array (
     'spell' => 'ri',
@@ -31793,6 +57183,56 @@
   array (
     'spell' => 'ri',
     'weight' => '70124',
+  ),
+  '鰇' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '騥' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '楺' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '蝚' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '輮' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '媃' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '1',
+  ),
+  '煣' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '2',
+  ),
+  '宍' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '3',
+  ),
+  '葇' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '3',
+  ),
+  '禸' => 
+  array (
+    'spell' => 'rou',
+    'weight' => '4',
   ),
   '粈' => 
   array (
@@ -31839,10 +57279,70 @@
     'spell' => 'rou',
     'weight' => '6416',
   ),
-  '肜' => 
+  '嶸' => 
   array (
     'spell' => 'rong',
-    'weight' => '7',
+    'weight' => '1',
+  ),
+  '軵' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '1',
+  ),
+  '褣' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '1',
+  ),
+  '毧' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '1',
+  ),
+  '瀜' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '1',
+  ),
+  '絨' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '1',
+  ),
+  '媶' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '2',
+  ),
+  '鎔' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '3',
+  ),
+  '傇' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '3',
+  ),
+  '嫆' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '4',
+  ),
+  '狨' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '5',
+  ),
+  '栄' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '6',
+  ),
+  '瑢' => 
+  array (
+    'spell' => 'rong',
+    'weight' => '6',
   ),
   '蝾' => 
   array (
@@ -31913,6 +57413,91 @@
   array (
     'spell' => 'rong',
     'weight' => '3233',
+  ),
+  '醹' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '蕠' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '縟' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '獳' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '颥' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '鄏' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '挐' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '擩' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '1',
+  ),
+  '袽' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '2',
+  ),
+  '帤' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '2',
+  ),
+  '筎' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '2',
+  ),
+  '銣' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '2',
+  ),
+  '薷' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '4',
+  ),
+  '込' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '4',
+  ),
+  '媷' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '4',
+  ),
+  '曘' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '5',
+  ),
+  '嗕' => 
+  array (
+    'spell' => 'ru',
+    'weight' => '6',
   ),
   '侞' => 
   array (
@@ -32014,6 +57599,56 @@
     'spell' => 'ru',
     'weight' => '37936',
   ),
+  '鰯' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '鶸' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '撋' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '楉' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '篛' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '鄀' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '1',
+  ),
+  '蒻' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '2',
+  ),
+  '渃' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '2',
+  ),
+  '婼' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '4',
+  ),
+  '爇' => 
+  array (
+    'spell' => 'ruo',
+    'weight' => '5',
+  ),
   '箬' => 
   array (
     'spell' => 'ruo',
@@ -32033,6 +57668,36 @@
   array (
     'spell' => 'ruo',
     'weight' => '11227',
+  ),
+  '蕋' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '1',
+  ),
+  '桵' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '1',
+  ),
+  '兊' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '2',
+  ),
+  '銳' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '3',
+  ),
+  '枘' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '4',
+  ),
+  '汭' => 
+  array (
+    'spell' => 'rui',
+    'weight' => '4',
   ),
   '蚋' => 
   array (
@@ -32079,6 +57744,36 @@
     'spell' => 'rui',
     'weight' => '2391',
   ),
+  '揝' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
+  '躦' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
+  '籫' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
+  '鑚' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
+  '篹' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
+  '纘' => 
+  array (
+    'spell' => 'zuan',
+    'weight' => '1',
+  ),
   '躜' => 
   array (
     'spell' => 'zuan',
@@ -32114,6 +57809,81 @@
     'spell' => 'zuan',
     'weight' => '2213',
   ),
+  '跧' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '踆' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '袸' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '噂' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '嶟' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '繜' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '瀳' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '罇' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '1',
+  ),
+  '譐' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '2',
+  ),
+  '僎' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '2',
+  ),
+  '撙' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '2',
+  ),
+  '墫' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '3',
+  ),
+  '僔' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '4',
+  ),
+  '拵' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '4',
+  ),
+  '鳟' => 
+  array (
+    'spell' => 'zun',
+    'weight' => '6',
+  ),
   '鐏' => 
   array (
     'spell' => 'zun',
@@ -32138,6 +57908,21 @@
   array (
     'spell' => 'zun',
     'weight' => '1653',
+  ),
+  '雥' => 
+  array (
+    'spell' => 'za',
+    'weight' => '1',
+  ),
+  '鉔' => 
+  array (
+    'spell' => 'za',
+    'weight' => '1',
+  ),
+  '磼' => 
+  array (
+    'spell' => 'za',
+    'weight' => '3',
   ),
   '噈' => 
   array (
@@ -32178,6 +57963,11 @@
   array (
     'spell' => 'za',
     'weight' => '6923',
+  ),
+  '渽' => 
+  array (
+    'spell' => 'zai',
+    'weight' => '1',
   ),
   '賳' => 
   array (
@@ -32244,6 +58034,81 @@
     'spell' => 'zai',
     'weight' => '974740',
   ),
+  '禶' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '寁' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '噆' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '臢' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '囋' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '蹔' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '鏨' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '賛' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '1',
+  ),
+  '讃' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '2',
+  ),
+  '糌' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '2',
+  ),
+  '鐕' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '2',
+  ),
+  '喒' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '2',
+  ),
+  '灒' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '3',
+  ),
+  '儹' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '5',
+  ),
+  '瓚' => 
+  array (
+    'spell' => 'zan',
+    'weight' => '6',
+  ),
   '暫' => 
   array (
     'spell' => 'zan',
@@ -32309,6 +58174,36 @@
     'spell' => 'zan',
     'weight' => '5532',
   ),
+  '弉' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '1',
+  ),
+  '贓' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '2',
+  ),
+  '賍' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '2',
+  ),
+  '臓' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '2',
+  ),
+  '臟' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '3',
+  ),
+  '牂' => 
+  array (
+    'spell' => 'zang',
+    'weight' => '5',
+  ),
   '驵' => 
   array (
     'spell' => 'zang',
@@ -32348,6 +58243,81 @@
   array (
     'spell' => 'zang',
     'weight' => '1786',
+  ),
+  '喿' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '蹧' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '繰' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '簉' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '竈' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '譟' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '梍' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '煰' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '傮' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '繅' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '璅' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '璪' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '1',
+  ),
+  '皁' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '3',
+  ),
+  '慥' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '3',
+  ),
+  '唣' => 
+  array (
+    'spell' => 'zao',
+    'weight' => '4',
   ),
   '蚤' => 
   array (
@@ -32424,6 +58394,76 @@
     'spell' => 'zao',
     'weight' => '25302',
   ),
+  '庂' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '稄' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '樍' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '賾' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '嘖' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '謮' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '蘀' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '択' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '1',
+  ),
+  '伬' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '3',
+  ),
+  '迮' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '4',
+  ),
+  '箦' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '5',
+  ),
+  '舴' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '6',
+  ),
+  '責' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '6',
+  ),
+  '擇' => 
+  array (
+    'spell' => 'ze',
+    'weight' => '6',
+  ),
   '厠' => 
   array (
     'spell' => 'ze',
@@ -32494,6 +58534,21 @@
     'spell' => 'ze',
     'weight' => '28270',
   ),
+  '囎' => 
+  array (
+    'spell' => 'zen',
+    'weight' => '1',
+  ),
+  '譛' => 
+  array (
+    'spell' => 'zen',
+    'weight' => '1',
+  ),
+  '譖' => 
+  array (
+    'spell' => 'zen',
+    'weight' => '1',
+  ),
   '谮' => 
   array (
     'spell' => 'zen',
@@ -32503,6 +58558,41 @@
   array (
     'spell' => 'zen',
     'weight' => '1920',
+  ),
+  '矰' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '2',
+  ),
+  '璔' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '2',
+  ),
+  '縡' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '2',
+  ),
+  '磳' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '2',
+  ),
+  '鄫' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '3',
+  ),
+  '曽' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '4',
+  ),
+  '繒' => 
+  array (
+    'spell' => 'zeng',
+    'weight' => '5',
   ),
   '锃' => 
   array (
@@ -32559,6 +58649,16 @@
     'spell' => 'ceng',
     'weight' => '8019',
   ),
+  '鯽' => 
+  array (
+    'spell' => 'zei',
+    'weight' => '1',
+  ),
+  '蠈' => 
+  array (
+    'spell' => 'zei',
+    'weight' => '3',
+  ),
   '賊' => 
   array (
     'spell' => 'zei',
@@ -32568,6 +58668,186 @@
   array (
     'spell' => 'zei',
     'weight' => '3971',
+  ),
+  '輜' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '穧' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '矷' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '鄑' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '椔' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '胏' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '杍' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '錙' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '璾' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '鼒' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '觜' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '16',
+  ),
+  '眥' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '薋' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '胾' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '貲' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '鎡' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '訿' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '鈭' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '1',
+  ),
+  '緇' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '澬' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '漬' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '玆' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '栥' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '諮' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '秶' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '芓' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '胔' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '姉' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '2',
+  ),
+  '釨' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '3',
+  ),
+  '沝' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '4',
+  ),
+  '锱' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '5',
+  ),
+  '剚' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '5',
+  ),
+  '粢' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '5',
+  ),
+  '嵫' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '5',
+  ),
+  '茈' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '6',
+  ),
+  '牸' => 
+  array (
+    'spell' => 'zi',
+    'weight' => '6',
   ),
   '辎' => 
   array (
@@ -32759,6 +59039,86 @@
     'spell' => 'zi',
     'weight' => '19769',
   ),
+  '騶' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '媰' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '棷' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '菆' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '郰' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '緅' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '齺' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '棸' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '搊' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '掫' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '1',
+  ),
+  '楱' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '2',
+  ),
+  '鲰' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '2',
+  ),
+  '諏' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '4',
+  ),
+  '偢' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '6',
+  ),
+  '鄹' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '6',
+  ),
+  '鄒' => 
+  array (
+    'spell' => 'zou',
+    'weight' => '6',
+  ),
   '陬' => 
   array (
     'spell' => 'zou',
@@ -32798,6 +59158,111 @@
   array (
     'spell' => 'zou',
     'weight' => '48130',
+  ),
+  '騣' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '蓗' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '蝬' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '潀' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '愡' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '椶' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '艐' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '昮' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '鬷' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '錝' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '縦' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '蓯' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '1',
+  ),
+  '瘲' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '2',
+  ),
+  '豵' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '2',
+  ),
+  '摠' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '2',
+  ),
+  '嵕' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '2',
+  ),
+  '惣' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '2',
+  ),
+  '傯' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '3',
+  ),
+  '綜' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '3',
+  ),
+  '倧' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '5',
+  ),
+  '蹤' => 
+  array (
+    'spell' => 'zong',
+    'weight' => '5',
   ),
   '総' => 
   array (
@@ -32863,6 +59328,121 @@
   array (
     'spell' => 'zong',
     'weight' => '28517',
+  ),
+  '踤' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '葅' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '趲' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '駔' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '蒩' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '靻' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '怚' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '鉐' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '踿' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '謯' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '珇' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '詛' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '砠' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '哫' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '傶' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '箤' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '1',
+  ),
+  '綷' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '3',
+  ),
+  '柤' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '3',
+  ),
+  '伹' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '4',
+  ),
+  '爼' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '4',
+  ),
+  '倅' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '4',
+  ),
+  '鉏' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '5',
+  ),
+  '伜' => 
+  array (
+    'spell' => 'zu',
+    'weight' => '5',
   ),
   '菹' => 
   array (
@@ -32939,6 +59519,71 @@
     'spell' => 'zu',
     'weight' => '22421',
   ),
+  '繓' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '1',
+  ),
+  '葄' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '1',
+  ),
+  '筰' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '2',
+  ),
+  '葃' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '2',
+  ),
+  '侳' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '3',
+  ),
+  '稓' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '3',
+  ),
+  '鈼' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '3',
+  ),
+  '蓙' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '3',
+  ),
+  '捽' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '5',
+  ),
+  '胙' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '5',
+  ),
+  '笮' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '6',
+  ),
+  '莋' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '6',
+  ),
+  '阼' => 
+  array (
+    'spell' => 'zuo',
+    'weight' => '6',
+  ),
   '鑿' => 
   array (
     'spell' => 'zuo',
@@ -32953,11 +59598,6 @@
   array (
     'spell' => 'zuo',
     'weight' => '14',
-  ),
-  '嘬' => 
-  array (
-    'spell' => 'zuo',
-    'weight' => '67',
   ),
   '祚' => 
   array (
@@ -33004,6 +59644,96 @@
     'spell' => 'zuo',
     'weight' => '154137',
   ),
+  '欈' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '絊' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '嶊' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '祽' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '璻' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '鋷' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '嗺' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '嶵' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '檌' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '濢' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '噿' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '酨' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '1',
+  ),
+  '酔' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '2',
+  ),
+  '睟' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '2',
+  ),
+  '樶' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '2',
+  ),
+  '檇' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '2',
+  ),
+  '嫢' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '2',
+  ),
+  '晬' => 
+  array (
+    'spell' => 'zui',
+    'weight' => '5',
+  ),
   '厜' => 
   array (
     'spell' => 'zui',
@@ -33023,11 +59753,6 @@
   array (
     'spell' => 'zui',
     'weight' => '12',
-  ),
-  '觜' => 
-  array (
-    'spell' => 'zui',
-    'weight' => '16',
   ),
   '蕞' => 
   array (
@@ -33053,6 +59778,31 @@
   array (
     'spell' => 'zui',
     'weight' => '65806',
+  ),
+  '巑' => 
+  array (
+    'spell' => 'cuan',
+    'weight' => '1',
+  ),
+  '攅' => 
+  array (
+    'spell' => 'cuan',
+    'weight' => '1',
+  ),
+  '镩' => 
+  array (
+    'spell' => 'cuan',
+    'weight' => '5',
+  ),
+  '攢' => 
+  array (
+    'spell' => 'cuan',
+    'weight' => '6',
+  ),
+  '竄' => 
+  array (
+    'spell' => 'cuan',
+    'weight' => '6',
   ),
   '撺' => 
   array (
@@ -33083,6 +59833,11 @@
   array (
     'spell' => 'cuan',
     'weight' => '581',
+  ),
+  '籿' => 
+  array (
+    'spell' => 'cun',
+    'weight' => '1',
   ),
   '邨' => 
   array (
@@ -33119,6 +59874,11 @@
     'spell' => 'cun',
     'weight' => '11088',
   ),
+  '礸' => 
+  array (
+    'spell' => 'ca',
+    'weight' => '1',
+  ),
   '礤' => 
   array (
     'spell' => 'ca',
@@ -33128,6 +59888,31 @@
   array (
     'spell' => 'ca',
     'weight' => '2753',
+  ),
+  '跴' => 
+  array (
+    'spell' => 'cai',
+    'weight' => '1',
+  ),
+  '埰' => 
+  array (
+    'spell' => 'cai',
+    'weight' => '1',
+  ),
+  '寀' => 
+  array (
+    'spell' => 'cai',
+    'weight' => '3',
+  ),
+  '棌' => 
+  array (
+    'spell' => 'cai',
+    'weight' => '5',
+  ),
+  '綵' => 
+  array (
+    'spell' => 'cai',
+    'weight' => '5',
   ),
   '偲' => 
   array (
@@ -33209,6 +59994,46 @@
     'spell' => 'cai',
     'weight' => '69949',
   ),
+  '澯' => 
+  array (
+    'spell' => 'can',
+    'weight' => '1',
+  ),
+  '慙' => 
+  array (
+    'spell' => 'can',
+    'weight' => '1',
+  ),
+  '驂' => 
+  array (
+    'spell' => 'can',
+    'weight' => '1',
+  ),
+  '飡' => 
+  array (
+    'spell' => 'can',
+    'weight' => '1',
+  ),
+  '慚' => 
+  array (
+    'spell' => 'can',
+    'weight' => '3',
+  ),
+  '蠶' => 
+  array (
+    'spell' => 'can',
+    'weight' => '3',
+  ),
+  '黪' => 
+  array (
+    'spell' => 'can',
+    'weight' => '6',
+  ),
+  '燦' => 
+  array (
+    'spell' => 'can',
+    'weight' => '6',
+  ),
   '憯' => 
   array (
     'spell' => 'can',
@@ -33274,6 +60099,26 @@
     'spell' => 'can',
     'weight' => '3630',
   ),
+  '獊' => 
+  array (
+    'spell' => 'cang',
+    'weight' => '1',
+  ),
+  '鑶' => 
+  array (
+    'spell' => 'cang',
+    'weight' => '1',
+  ),
+  '欌' => 
+  array (
+    'spell' => 'cang',
+    'weight' => '2',
+  ),
+  '艙' => 
+  array (
+    'spell' => 'cang',
+    'weight' => '3',
+  ),
   '滄' => 
   array (
     'spell' => 'cang',
@@ -33308,6 +60153,26 @@
   array (
     'spell' => 'cang',
     'weight' => '2113',
+  ),
+  '襙' => 
+  array (
+    'spell' => 'cao',
+    'weight' => '1',
+  ),
+  '騲' => 
+  array (
+    'spell' => 'cao',
+    'weight' => '2',
+  ),
+  '艚' => 
+  array (
+    'spell' => 'cao',
+    'weight' => '4',
+  ),
+  '艸' => 
+  array (
+    'spell' => 'cao',
+    'weight' => '6',
   ),
   '螬' => 
   array (
@@ -33364,6 +60229,21 @@
     'spell' => 'cao',
     'weight' => '7871',
   ),
+  '萴' => 
+  array (
+    'spell' => 'ce',
+    'weight' => '1',
+  ),
+  '惻' => 
+  array (
+    'spell' => 'ce',
+    'weight' => '1',
+  ),
+  '廁' => 
+  array (
+    'spell' => 'ce',
+    'weight' => '3',
+  ),
   '冊' => 
   array (
     'spell' => 'ce',
@@ -33404,15 +60284,15 @@
     'spell' => 'ce',
     'weight' => '1123',
   ),
-  '侧' => 
-  array (
-    'spell' => 'ce',
-    'weight' => '2221',
-  ),
   '测' => 
   array (
     'spell' => 'ce',
     'weight' => '3189',
+  ),
+  '梣' => 
+  array (
+    'spell' => 'cen',
+    'weight' => '4',
   ),
   '涔' => 
   array (
@@ -33423,6 +60303,16 @@
   array (
     'spell' => 'cen',
     'weight' => '332',
+  ),
+  '驓' => 
+  array (
+    'spell' => 'ceng',
+    'weight' => '1',
+  ),
+  '嶒' => 
+  array (
+    'spell' => 'ceng',
+    'weight' => '4',
   ),
   '層' => 
   array (
@@ -33443,6 +60333,56 @@
   array (
     'spell' => 'ceng',
     'weight' => '6480',
+  ),
+  '趀' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '1',
+  ),
+  '濨' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '1',
+  ),
+  '莿' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '1',
+  ),
+  '柌' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '1',
+  ),
+  '蛓' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '1',
+  ),
+  '跐' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '2',
+  ),
+  '朿' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '2',
+  ),
+  '庛' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '3',
+  ),
+  '絘' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '4',
+  ),
+  '嬨' => 
+  array (
+    'spell' => 'ci',
+    'weight' => '4',
   ),
   '佌' => 
   array (
@@ -33564,6 +60504,21 @@
     'spell' => 'ci',
     'weight' => '21278',
   ),
+  '輳' => 
+  array (
+    'spell' => 'cou',
+    'weight' => '1',
+  ),
+  '玼' => 
+  array (
+    'spell' => 'cou',
+    'weight' => '1',
+  ),
+  '辏' => 
+  array (
+    'spell' => 'cou',
+    'weight' => '5',
+  ),
   '湊' => 
   array (
     'spell' => 'cou',
@@ -33578,6 +60533,96 @@
   array (
     'spell' => 'cou',
     'weight' => '1847',
+  ),
+  '瞛' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '瑽' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '樅' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '蟌' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '藂' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '鏦' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '欉' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '暰' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '謥' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '1',
+  ),
+  '慒' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '2',
+  ),
+  '孮' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '2',
+  ),
+  '驄' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '2',
+  ),
+  '賨' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '2',
+  ),
+  '悤' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '3',
+  ),
+  '怱' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '3',
+  ),
+  '叢' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '5',
+  ),
+  '聡' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '5',
+  ),
+  '悰' => 
+  array (
+    'spell' => 'cong',
+    'weight' => '6',
   ),
   '囪' => 
   array (
@@ -33669,6 +60714,46 @@
     'spell' => 'cong',
     'weight' => '126905',
   ),
+  '踀' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '1',
+  ),
+  '踧' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '1',
+  ),
+  '觕' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '1',
+  ),
+  '麤' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '2',
+  ),
+  '顣' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '3',
+  ),
+  '麁' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '3',
+  ),
+  '憱' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '4',
+  ),
+  '瘯' => 
+  array (
+    'spell' => 'cu',
+    'weight' => '5',
+  ),
   '殂' => 
   array (
     'spell' => 'cu',
@@ -33718,6 +60803,66 @@
   array (
     'spell' => 'cu',
     'weight' => '2172',
+  ),
+  '蓌' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '蒫' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '銼' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '莝' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '鹺' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '醝' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '1',
+  ),
+  '瑳' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '2',
+  ),
+  '剒' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '2',
+  ),
+  '齹' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '4',
+  ),
+  '脞' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '5',
+  ),
+  '剉' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '6',
+  ),
+  '棤' => 
+  array (
+    'spell' => 'cuo',
+    'weight' => '6',
   ),
   '嵯' => 
   array (
@@ -33794,6 +60939,56 @@
     'spell' => 'cuo',
     'weight' => '22088',
   ),
+  '翆' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '忰' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '磪' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '膬' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '焠' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '凗' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '膵' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '墔' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '1',
+  ),
+  '漼' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '2',
+  ),
+  '榱' => 
+  array (
+    'spell' => 'cui',
+    'weight' => '5',
+  ),
   '毳' => 
   array (
     'spell' => 'cui',
@@ -33859,6 +61054,26 @@
     'spell' => 'cui',
     'weight' => '2436',
   ),
+  '痠' => 
+  array (
+    'spell' => 'suan',
+    'weight' => '1',
+  ),
+  '筭' => 
+  array (
+    'spell' => 'suan',
+    'weight' => '2',
+  ),
+  '匴' => 
+  array (
+    'spell' => 'suan',
+    'weight' => '2',
+  ),
+  '狻' => 
+  array (
+    'spell' => 'suan',
+    'weight' => '6',
+  ),
   '蒜' => 
   array (
     'spell' => 'suan',
@@ -33873,6 +61088,36 @@
   array (
     'spell' => 'suan',
     'weight' => '29938',
+  ),
+  '蕵' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '1',
+  ),
+  '喰' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '1',
+  ),
+  '潠' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '1',
+  ),
+  '蓀' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '2',
+  ),
+  '筍' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '3',
+  ),
+  '狲' => 
+  array (
+    'spell' => 'sun',
+    'weight' => '5',
   ),
   '損' => 
   array (
@@ -33919,6 +61164,46 @@
     'spell' => 'sun',
     'weight' => '5484',
   ),
+  '隡' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '1',
+  ),
+  '攃' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '1',
+  ),
+  '馺' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '1',
+  ),
+  '挲' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '7',
+  ),
+  '靸' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '2',
+  ),
+  '脎' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '2',
+  ),
+  '颯' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '3',
+  ),
+  '摋' => 
+  array (
+    'spell' => 'sa',
+    'weight' => '6',
+  ),
   '灑' => 
   array (
     'spell' => 'sa',
@@ -33959,6 +61244,16 @@
     'spell' => 'sa',
     'weight' => '18028',
   ),
+  '毢' => 
+  array (
+    'spell' => 'sai',
+    'weight' => '1',
+  ),
+  '僿' => 
+  array (
+    'spell' => 'sai',
+    'weight' => '1',
+  ),
   '賽' => 
   array (
     'spell' => 'sai',
@@ -33989,6 +61284,36 @@
     'spell' => 'sai',
     'weight' => '4086',
   ),
+  '鏒' => 
+  array (
+    'spell' => 'san',
+    'weight' => '1',
+  ),
+  '鬖' => 
+  array (
+    'spell' => 'san',
+    'weight' => '1',
+  ),
+  '帴' => 
+  array (
+    'spell' => 'san',
+    'weight' => '3',
+  ),
+  '毵' => 
+  array (
+    'spell' => 'san',
+    'weight' => '5',
+  ),
+  '馓' => 
+  array (
+    'spell' => 'san',
+    'weight' => '5',
+  ),
+  '繖' => 
+  array (
+    'spell' => 'san',
+    'weight' => '6',
+  ),
   '傘' => 
   array (
     'spell' => 'san',
@@ -34013,6 +61338,21 @@
   array (
     'spell' => 'san',
     'weight' => '26761',
+  ),
+  '顙' => 
+  array (
+    'spell' => 'sang',
+    'weight' => '1',
+  ),
+  '磉' => 
+  array (
+    'spell' => 'sang',
+    'weight' => '2',
+  ),
+  '褬' => 
+  array (
+    'spell' => 'sang',
+    'weight' => '3',
   ),
   '颡' => 
   array (
@@ -34043,6 +61383,56 @@
   array (
     'spell' => 'sang',
     'weight' => '1415',
+  ),
+  '慅' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '1',
+  ),
+  '鄵' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '1',
+  ),
+  '鐰' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '1',
+  ),
+  '掻' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '1',
+  ),
+  '髞' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '1',
+  ),
+  '騒' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '2',
+  ),
+  '矂' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '2',
+  ),
+  '懆' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '3',
+  ),
+  '溞' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '4',
+  ),
+  '鳋' => 
+  array (
+    'spell' => 'sao',
+    'weight' => '5',
   ),
   '埽' => 
   array (
@@ -34093,6 +61483,56 @@
   array (
     'spell' => 'sao',
     'weight' => '2033',
+  ),
+  '栜' => 
+  array (
+    'spell' => 'se',
+    'weight' => '1',
+  ),
+  '濏' => 
+  array (
+    'spell' => 'se',
+    'weight' => '1',
+  ),
+  '穡' => 
+  array (
+    'spell' => 'se',
+    'weight' => '1',
+  ),
+  '澁' => 
+  array (
+    'spell' => 'se',
+    'weight' => '1',
+  ),
+  '璱' => 
+  array (
+    'spell' => 'se',
+    'weight' => '1',
+  ),
+  '嗇' => 
+  array (
+    'spell' => 'se',
+    'weight' => '2',
+  ),
+  '譅' => 
+  array (
+    'spell' => 'se',
+    'weight' => '2',
+  ),
+  '鉍' => 
+  array (
+    'spell' => 'se',
+    'weight' => '2',
+  ),
+  '粣' => 
+  array (
+    'spell' => 'se',
+    'weight' => '2',
+  ),
+  '渋' => 
+  array (
+    'spell' => 'se',
+    'weight' => '2',
   ),
   '銫' => 
   array (
@@ -34148,6 +61588,126 @@
   array (
     'spell' => 'seng',
     'weight' => '792',
+  ),
+  '蕼' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '覗' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '禠' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '梩' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '蕬' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '蟴' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '貄' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '楒' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '媤' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '凘' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '緦' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '鼶' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '泀' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '駟' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '竢' => 
+  array (
+    'spell' => 'si',
+    'weight' => '1',
+  ),
+  '柶' => 
+  array (
+    'spell' => 'si',
+    'weight' => '2',
+  ),
+  '飼' => 
+  array (
+    'spell' => 'si',
+    'weight' => '2',
+  ),
+  '廝' => 
+  array (
+    'spell' => 'si',
+    'weight' => '2',
+  ),
+  '颸' => 
+  array (
+    'spell' => 'si',
+    'weight' => '3',
+  ),
+  '儩' => 
+  array (
+    'spell' => 'si',
+    'weight' => '3',
+  ),
+  '虒' => 
+  array (
+    'spell' => 'si',
+    'weight' => '4',
+  ),
+  '蛳' => 
+  array (
+    'spell' => 'si',
+    'weight' => '4',
+  ),
+  '洍' => 
+  array (
+    'spell' => 'si',
+    'weight' => '5',
+  ),
+  '鸶' => 
+  array (
+    'spell' => 'si',
+    'weight' => '5',
   ),
   '缌' => 
   array (
@@ -34218,11 +61778,6 @@
   array (
     'spell' => 'si',
     'weight' => '48',
-  ),
-  '俟' => 
-  array (
-    'spell' => 'si',
-    'weight' => '66',
   ),
   '纟' => 
   array (
@@ -34319,6 +61874,71 @@
     'spell' => 'si',
     'weight' => '36726',
   ),
+  '鄋' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '1',
+  ),
+  '欶' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '1',
+  ),
+  '餿' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '1',
+  ),
+  '擻' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '1',
+  ),
+  '櫢' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '1',
+  ),
+  '籔' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '2',
+  ),
+  '藪' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '2',
+  ),
+  '醙' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '2',
+  ),
+  '锼' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '3',
+  ),
+  '蒐' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '3',
+  ),
+  '捜' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '3',
+  ),
+  '嗾' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '5',
+  ),
+  '瞍' => 
+  array (
+    'spell' => 'sou',
+    'weight' => '5',
+  ),
   '飕' => 
   array (
     'spell' => 'sou',
@@ -34378,6 +61998,76 @@
   array (
     'spell' => 'sou',
     'weight' => '2944',
+  ),
+  '憁' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '棇' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '駷' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '慫' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '硹' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '漎' => 
+  array (
+    'spell' => 'song',
+    'weight' => '1',
+  ),
+  '鍶' => 
+  array (
+    'spell' => 'song',
+    'weight' => '2',
+  ),
+  '濍' => 
+  array (
+    'spell' => 'song',
+    'weight' => '2',
+  ),
+  '枩' => 
+  array (
+    'spell' => 'song',
+    'weight' => '3',
+  ),
+  '倯' => 
+  array (
+    'spell' => 'song',
+    'weight' => '3',
+  ),
+  '傱' => 
+  array (
+    'spell' => 'song',
+    'weight' => '4',
+  ),
+  '聳' => 
+  array (
+    'spell' => 'song',
+    'weight' => '4',
+  ),
+  '訟' => 
+  array (
+    'spell' => 'song',
+    'weight' => '5',
+  ),
+  '娀' => 
+  array (
+    'spell' => 'song',
+    'weight' => '5',
   ),
   '愯' => 
   array (
@@ -34483,6 +62173,126 @@
   array (
     'spell' => 'song',
     'weight' => '19211',
+  ),
+  '蘓' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '泝' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '謖' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '膆' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '洬' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '玊' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '驌' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '鋉' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '穌' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '囌' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '縤' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '蹜' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '樕' => 
+  array (
+    'spell' => 'su',
+    'weight' => '1',
+  ),
+  '餗' => 
+  array (
+    'spell' => 'su',
+    'weight' => '2',
+  ),
+  '遡' => 
+  array (
+    'spell' => 'su',
+    'weight' => '2',
+  ),
+  '嫊' => 
+  array (
+    'spell' => 'su',
+    'weight' => '2',
+  ),
+  '憟' => 
+  array (
+    'spell' => 'su',
+    'weight' => '2',
+  ),
+  '摵' => 
+  array (
+    'spell' => 'su',
+    'weight' => '2',
+  ),
+  '棴' => 
+  array (
+    'spell' => 'su',
+    'weight' => '3',
+  ),
+  '粛' => 
+  array (
+    'spell' => 'su',
+    'weight' => '3',
+  ),
+  '觫' => 
+  array (
+    'spell' => 'su',
+    'weight' => '4',
+  ),
+  '傃' => 
+  array (
+    'spell' => 'su',
+    'weight' => '5',
+  ),
+  '肅' => 
+  array (
+    'spell' => 'su',
+    'weight' => '6',
+  ),
+  '缩' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '956',
   ),
   '訴' => 
   array (
@@ -34604,17 +62414,92 @@
     'spell' => 'su',
     'weight' => '4957',
   ),
+  '莏' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '縒' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '鎈' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '魦' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '趖' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '溹' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '簑' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '靃' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '1',
+  ),
+  '鎍' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '2',
+  ),
+  '瑣' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '2',
+  ),
+  '摍' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '2',
+  ),
+  '嗩' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '3',
+  ),
+  '鮻' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '4',
+  ),
+  '唢' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '5',
+  ),
+  '葰' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '5',
+  ),
+  '睃' => 
+  array (
+    'spell' => 'suo',
+    'weight' => '6',
+  ),
   '縮' => 
   array (
     'spell' => 'suo',
     'weight' => '7',
   ),
   '桫' => 
-  array (
-    'spell' => 'suo',
-    'weight' => '7',
-  ),
-  '挲' => 
   array (
     'spell' => 'suo',
     'weight' => '7',
@@ -34674,11 +62559,6 @@
     'spell' => 'suo',
     'weight' => '443',
   ),
-  '缩' => 
-  array (
-    'spell' => 'suo',
-    'weight' => '956',
-  ),
   '索' => 
   array (
     'spell' => 'suo',
@@ -34693,6 +62573,141 @@
   array (
     'spell' => 'suo',
     'weight' => '44055',
+  ),
+  '哸' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '繸' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '滖' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '荾' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '陏' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '禭' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '浽' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '璲' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '穟' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '娞' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '縗' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '襚' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '髄' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '1',
+  ),
+  '埣' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '2',
+  ),
+  '瀡' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '2',
+  ),
+  '賥' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '2',
+  ),
+  '粋' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '2',
+  ),
+  '砕' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '2',
+  ),
+  '繀' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '3',
+  ),
+  '倠' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '3',
+  ),
+  '繐' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '4',
+  ),
+  '脺' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '5',
+  ),
+  '歳' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '5',
+  ),
+  '綏' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '5',
+  ),
+  '荽' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '5',
+  ),
+  '誶' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '5',
+  ),
+  '谇' => 
+  array (
+    'spell' => 'sui',
+    'weight' => '6',
   ),
   '鏸' => 
   array (
@@ -34813,6 +62828,211 @@
   array (
     'spell' => 'sui',
     'weight' => '10074',
+  ),
+  '嬽' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '肙' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '蝝' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '鋺' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '獂' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '葾' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '騵' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '蝯' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '楥' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '羱' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '禐' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '裷' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '鴛' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '薗' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '夗' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '輐' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '櫞' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '1',
+  ),
+  '笎' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '鳶' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '謜' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '寃' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '駌' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '渕' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '轅' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '灁' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '鵷' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '蜎' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '杬' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '蚖' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '2',
+  ),
+  '蒝' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '3',
+  ),
+  '悁' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '3',
+  ),
+  '湲' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '3',
+  ),
+  '媴' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '3',
+  ),
+  '縁' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '4',
+  ),
+  '惌' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '4',
+  ),
+  '薳' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '4',
+  ),
+  '眢' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '5',
+  ),
+  '鎱' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '5',
+  ),
+  '妧' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '5',
+  ),
+  '箢' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '6',
+  ),
+  '妴' => 
+  array (
+    'spell' => 'yuan',
+    'weight' => '6',
   ),
   '褑' => 
   array (
@@ -35029,6 +63249,126 @@
     'spell' => 'yuan',
     'weight' => '30885',
   ),
+  '蘥' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '躒' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '礿' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '矱' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '蚎' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '鑠' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '鋭' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '臒' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '鸑' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '擽' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '扚' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '戉' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '蛻' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '1',
+  ),
+  '爚' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '2',
+  ),
+  '櫟' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '2',
+  ),
+  '鉞' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '2',
+  ),
+  '軏' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '2',
+  ),
+  '趯' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '3',
+  ),
+  '嶽' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '3',
+  ),
+  '噦' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '3',
+  ),
+  '鈅' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '4',
+  ),
+  '躍' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '4',
+  ),
+  '籥' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '5',
+  ),
+  '粵' => 
+  array (
+    'spell' => 'yue',
+    'weight' => '6',
+  ),
   '箹' => 
   array (
     'spell' => 'yue',
@@ -35143,6 +63483,186 @@
   array (
     'spell' => 'yue',
     'weight' => '65397',
+  ),
+  '馧' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '熉' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '鄖' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '橒' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '抎' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '荺' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '惲' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '畇' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '馻' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '鄆' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '奫' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '熅' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '縕' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '轀' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '韞' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '玧' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '篔' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '1',
+  ),
+  '薀' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '繧' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '隕' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '慍' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '蕓' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '妘' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '紜' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '2',
+  ),
+  '頵' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '3',
+  ),
+  '餫' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '3',
+  ),
+  '殞' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '3',
+  ),
+  '醞' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '3',
+  ),
+  '緷' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '3',
+  ),
+  '涒' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '4',
+  ),
+  '狁' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '4',
+  ),
+  '澐' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '4',
+  ),
+  '褞' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '4',
+  ),
+  '蘊' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '6',
+  ),
+  '沄' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '6',
+  ),
+  '勻' => 
+  array (
+    'spell' => 'yun',
+    'weight' => '6',
   ),
   '煇' => 
   array (
@@ -35313,6 +63833,151 @@
   array (
     'spell' => 'yun',
     'weight' => '35555',
+  ),
+  '孲' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '圠' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '磍' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '穵' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '輵' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '圔' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '襾' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '厊' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '錏' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '庌' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '唖' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '輅' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '堐' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '齾' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '姶' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '1',
+  ),
+  '訝' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '2',
+  ),
+  '蕥' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '2',
+  ),
+  '鴉' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '2',
+  ),
+  '婭' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '2',
+  ),
+  '椏' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '4',
+  ),
+  '呾' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '4',
+  ),
+  '埡' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '4',
+  ),
+  '揠' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '4',
+  ),
+  '犽' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '5',
+  ),
+  '猰' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '5',
+  ),
+  '岈' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '5',
+  ),
+  '迓' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '5',
+  ),
+  '鐚' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '6',
+  ),
+  '厓' => 
+  array (
+    'spell' => 'ya',
+    'weight' => '6',
   ),
   '砑' => 
   array (
@@ -35498,6 +64163,466 @@
   array (
     'spell' => 'ya',
     'weight' => '79232',
+  ),
+  '齴' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '酀' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '嬐' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '敥' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '篶' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '噞' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '爓' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '莚' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '猒' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '抁' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '觾' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '贋' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '橪' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '薟' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '錟' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '烻' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '黭' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '揅' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '珚' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '鷰' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '牪' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '壛' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '嵓' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '焔' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '湺' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '鰋' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '漹' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '裺' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '淊' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '釅' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '蝘' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '贗' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '閆' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '挩' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '嶮' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '嵒' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '溎' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '喭' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '扊' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '渰' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '媕' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '黶' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '魘' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '匽' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '郔' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '燄' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '豜' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '唌' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '1',
+  ),
+  '碞' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '鴈' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '娮' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '鴳' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '殷' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '984',
+  ),
+  '臙' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '棪' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '讌' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '鷃' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '沇' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '厳' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '讞' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '厴' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '簷' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '醼' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '2',
+  ),
+  '揜' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '顩' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '嵃' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '巌' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '椻' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '灩' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '巘' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '儼' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '姸' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '諺' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '醃' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '甗' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '椼' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '嚥' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '3',
+  ),
+  '洝' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '4',
+  ),
+  '硯' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '4',
+  ),
+  '喦' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '4',
+  ),
+  '褗' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '4',
+  ),
+  '塩' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '4',
+  ),
+  '艶' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '5',
+  ),
+  '巖' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '5',
+  ),
+  '綖' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '5',
+  ),
+  '菴' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '5',
+  ),
+  '龑' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
+  ),
+  '罨' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
+  ),
+  '艷' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
+  ),
+  '鼹' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
+  ),
+  '弇' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
+  ),
+  '兗' => 
+  array (
+    'spell' => 'yan',
+    'weight' => '6',
   ),
   '驗' => 
   array (
@@ -35909,6 +65034,136 @@
     'spell' => 'yan',
     'weight' => '6142',
   ),
+  '雵' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '軮' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '歍' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '抰' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '鸉' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '珜' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '鴦' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '婸' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '眻' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '煬' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '瘍' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '瀁' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '颺' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '1',
+  ),
+  '坱' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '2',
+  ),
+  '崸' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '2',
+  ),
+  '鍈' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '2',
+  ),
+  '姎' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '2',
+  ),
+  '瑒' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '2',
+  ),
+  '羕' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '3',
+  ),
+  '敭' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '4',
+  ),
+  '昜' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '4',
+  ),
+  '潒' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '4',
+  ),
+  '崵' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '5',
+  ),
+  '癢' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '5',
+  ),
+  '佒' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '6',
+  ),
+  '卬' => 
+  array (
+    'spell' => 'yang',
+    'weight' => '6',
+  ),
   '怏' => 
   array (
     'spell' => 'yang',
@@ -36083,6 +65338,221 @@
   array (
     'spell' => 'yang',
     'weight' => '14677',
+  ),
+  '鷂' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '驁' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '軺' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '鰩' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '溔' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '玅' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '覞' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '穾' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '恌' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '艞' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '嗂' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '銚' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '噛' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '摿' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '顤' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '曣' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '靿' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '蕘' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '撽' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '榚' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '殀' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '窰' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '1',
+  ),
+  '詏' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '嶢' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '謡' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '窔' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '榣' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '抭' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '尭' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '訞' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '騕' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '獟' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '揺' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '轺' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '颻' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '2',
+  ),
+  '窯' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '3',
+  ),
+  '燿' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '3',
+  ),
+  '葯' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '3',
+  ),
+  '祅' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '3',
+  ),
+  '謠' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '3',
+  ),
+  '鴢' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '4',
+  ),
+  '岆' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '6',
+  ),
+  '堯' => 
+  array (
+    'spell' => 'yao',
+    'weight' => '6',
   ),
   '殽' => 
   array (
@@ -36304,6 +65774,121 @@
     'spell' => 'yao',
     'weight' => '396900',
   ),
+  '瞱' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '鵺' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '擫' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '鎑' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '曄' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '楪' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '鍱' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '嶪' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '痷' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '窫' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '殕' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '澲' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '1',
+  ),
+  '靨' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '2',
+  ),
+  '殗' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '2',
+  ),
+  '燁' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '2',
+  ),
+  '瓛' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '3',
+  ),
+  '埜' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '3',
+  ),
+  '緤' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '3',
+  ),
+  '謁' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '4',
+  ),
+  '枒' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '5',
+  ),
+  '堨' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '5',
+  ),
+  '倻' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '6',
+  ),
+  '暍' => 
+  array (
+    'spell' => 'ye',
+    'weight' => '6',
+  ),
   '鄴' => 
   array (
     'spell' => 'ye',
@@ -36429,11 +66014,6 @@
     'spell' => 'ye',
     'weight' => '5470',
   ),
-  '叶' => 
-  array (
-    'spell' => 'ye',
-    'weight' => '6660',
-  ),
   '页' => 
   array (
     'spell' => 'ye',
@@ -36443,6 +66023,716 @@
   array (
     'spell' => 'ye',
     'weight' => '404388',
+  ),
+  '唈' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '轙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '匇' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '郼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '膉' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '桋' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '醳' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '衵' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '迆' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '襼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '蛦' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '欥' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '搤' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '鏔' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '冝' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '賹' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '檥' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '藙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '檍' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '瘱' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '嗌' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '23',
+  ),
+  '恞' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '羛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '螔' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '燱' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '檹' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '銕' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '阣' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '蛜' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '沶' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '澺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '戺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '蘙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '槷' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '鮨' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '熤' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '狋' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '貤' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '掜' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '謻' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '峓' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '熈' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '瘞' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '圛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '囈' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '醷' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '跇' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '詍' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '縊' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '譺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '嫛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '靾' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '迻' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '飴' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '絏' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '珆' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '紲' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '浂' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '毉' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '寱' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '殔' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '瑿' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '豷' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '螘' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '椸' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '繶' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '黓' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '柂' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '箷' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '詑' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1',
+  ),
+  '鷁' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '懌' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '畩' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '宧' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '禕' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '劮' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '扡' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '歖' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '蓺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '釶' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '輗' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '杙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '軼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '暆' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '帠' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '釔' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '嫕' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '鶂' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '繹' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '壱' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '詒' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '觺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '訑' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '洢' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '謚' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '曀' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '踦' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '靉' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '酏' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '袘' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '2',
+  ),
+  '帟' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '苅' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '驛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '敼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '枍' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '銥' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '垼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '栘' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '伿' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '匜' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '亄' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '曵' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '鉯' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '裛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '埶' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '廙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '彜' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '齮' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '錡' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '簃' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '3',
+  ),
+  '佁' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '眙' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '枻' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '繄' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '崺' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '頤' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '誼' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '勩' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '4',
+  ),
+  '泆' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '彛' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '貽' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '偯' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '钀' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '詣' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '儗' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '5',
+  ),
+  '誃' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '駅' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '俋' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '衪' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '瀷' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '扆' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
+  ),
+  '斁' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '6',
   ),
   '訳' => 
   array (
@@ -36535,11 +66825,6 @@
     'weight' => '12',
   ),
   '遺' => 
-  array (
-    'spell' => 'yi',
-    'weight' => '12',
-  ),
-  '荑' => 
   array (
     'spell' => 'yi',
     'weight' => '12',
@@ -37104,6 +67389,251 @@
     'spell' => 'yi',
     'weight' => '134392',
   ),
+  '趛' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '蔩' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '酓' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '霠' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '歅' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '朄' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '酳' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '苂' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '霒' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '檭' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '螾' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '鷣' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '硍' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '蘟' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '駰' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '讔' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '荶' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '梀' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '圁' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '蟫' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '銦' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '韾' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '1',
+  ),
+  '鈏' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '凐' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '檃' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '飮' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '憖' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '堷' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '殥' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '嚚' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '隠' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '靷' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '傿' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '婬' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '釿' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '2',
+  ),
+  '誾' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '3',
+  ),
+  '粌' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '3',
+  ),
+  '瘖' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '3',
+  ),
+  '垽' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '3',
+  ),
+  '諲' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '4',
+  ),
+  '裀' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '4',
+  ),
+  '癮' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '4',
+  ),
+  '廕' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '5',
+  ),
+  '闉' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '5',
+  ),
+  '夤' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '5',
+  ),
+  '絪' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '5',
+  ),
+  '犾' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '6',
+  ),
+  '禋' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '6',
+  ),
+  '蔭' => 
+  array (
+    'spell' => 'yin',
+    'weight' => '6',
+  ),
   '狺' => 
   array (
     'spell' => 'yin',
@@ -37214,11 +67744,6 @@
     'spell' => 'yin',
     'weight' => '30',
   ),
-  '龈' => 
-  array (
-    'spell' => 'yin',
-    'weight' => '32',
-  ),
   '铟' => 
   array (
     'spell' => 'yin',
@@ -37258,11 +67783,6 @@
   array (
     'spell' => 'yin',
     'weight' => '719',
-  ),
-  '殷' => 
-  array (
-    'spell' => 'yin',
-    'weight' => '984',
   ),
   '淫' => 
   array (
@@ -37314,10 +67834,275 @@
     'spell' => 'yin',
     'weight' => '19893',
   ),
-  '荥' => 
+  '賏' => 
   array (
     'spell' => 'ying',
-    'weight' => '7',
+    'weight' => '1',
+  ),
+  '蘡' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '韹' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '嚶' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '鴬' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '攍' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '蠳' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '珱' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '癭' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '濚' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '廮' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '旲' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '甖' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '碤' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '蝧' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '瀠' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '礯' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '鎣' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '頴' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '蝿' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '瀴' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '濴' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '籯' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '謍' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '覮' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '蛍' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '塋' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '攖' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '褮' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '譻' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '罃' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '熒' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '韺' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '摬' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '滎' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '嫈' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '1',
+  ),
+  '瀅' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '2',
+  ),
+  '潁' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '2',
+  ),
+  '霙' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '2',
+  ),
+  '縄' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '2',
+  ),
+  '瓔' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '2',
+  ),
+  '暎' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '3',
+  ),
+  '煐' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '3',
+  ),
+  '鶯' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '3',
+  ),
+  '縈' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '3',
+  ),
+  '纓' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '3',
+  ),
+  '螢' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '4',
+  ),
+  '瀯' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '4',
+  ),
+  '営' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '4',
+  ),
+  '偀' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '4',
+  ),
+  '蠅' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '5',
+  ),
+  '俓' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '6',
+  ),
+  '灐' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '6',
+  ),
+  '応' => 
+  array (
+    'spell' => 'ying',
+    'weight' => '6',
   ),
   '嬰' => 
   array (
@@ -37584,6 +68369,191 @@
     'spell' => 'yo',
     'weight' => '7696',
   ),
+  '魷' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '獶' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '肬' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '貁' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '鄾' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '秞' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '浟' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '怞' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '嚘' => 
+  array (
+    'spell' => 'you',
+    'weight' => '1',
+  ),
+  '逌' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '牰' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '莤' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '耰' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '蚘' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '怮' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '銹' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '庮' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '麀' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '訧' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '迶' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '苃' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '槱' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '泑' => 
+  array (
+    'spell' => 'you',
+    'weight' => '2',
+  ),
+  '蝣' => 
+  array (
+    'spell' => 'you',
+    'weight' => '3',
+  ),
+  '戭' => 
+  array (
+    'spell' => 'you',
+    'weight' => '3',
+  ),
+  '輶' => 
+  array (
+    'spell' => 'you',
+    'weight' => '3',
+  ),
+  '沋' => 
+  array (
+    'spell' => 'you',
+    'weight' => '3',
+  ),
+  '郵' => 
+  array (
+    'spell' => 'you',
+    'weight' => '4',
+  ),
+  '楢' => 
+  array (
+    'spell' => 'you',
+    'weight' => '4',
+  ),
+  '峟' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '銪' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '狖' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '懮' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '纋' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '櫌' => 
+  array (
+    'spell' => 'you',
+    'weight' => '5',
+  ),
+  '姷' => 
+  array (
+    'spell' => 'you',
+    'weight' => '6',
+  ),
+  '羑' => 
+  array (
+    'spell' => 'you',
+    'weight' => '6',
+  ),
   '褎' => 
   array (
     'spell' => 'you',
@@ -37839,6 +68809,91 @@
     'spell' => 'you',
     'weight' => '613906',
   ),
+  '鷛' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '嫞' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '愑' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '禜' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '廱' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '揘' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '癰' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '嗈' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '雝' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '踴' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '鄘' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '1',
+  ),
+  '筩' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '2',
+  ),
+  '澭' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '2',
+  ),
+  '喁' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '2',
+  ),
+  '鏞' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '3',
+  ),
+  '怺' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '4',
+  ),
+  '傭' => 
+  array (
+    'spell' => 'yong',
+    'weight' => '5',
+  ),
   '擁' => 
   array (
     'spell' => 'yong',
@@ -37998,6 +69053,596 @@
   array (
     'spell' => 'yong',
     'weight' => '168186',
+  ),
+  '鄅' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '澞' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '蘛' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '羭' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鵒' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鷸' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '艅' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '蟈' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '稢' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '欝' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '蕷' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '獝' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鋊' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '蕍' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '睮' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '盓' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '淢' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '翑' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '緎' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '荢' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '罭' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '轝' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鸒' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '蝺' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鋙' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鸆' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '覦' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '璵' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鱊' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '穻' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '藇' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '汚' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鱮' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '澦' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '峿' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '砡' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '麌' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '錥' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '鴥' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '戫' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '齵' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '隃' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '隩' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '爩' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '嫗' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '挧' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '歈' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '衧' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '袬' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '陓' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '礇' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '楡' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '喩' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '扜' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '醧' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '灪' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '旟' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '1',
+  ),
+  '釪' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '謣' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '諛' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '栯' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '玗' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '籲' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '媮' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '蓣' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '兪' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '杅' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '歟' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '娯' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '紆' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '寙' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '萭' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '薁' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '魊' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '馭' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '貍' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '癒' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '蔚' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '381',
+  ),
+  '堬' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '2',
+  ),
+  '傴' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '邘' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '儥' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '嶼' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '僪' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '崳' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '瘉' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '禦' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '祤' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '3',
+  ),
+  '敔' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '淯' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '伛' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '棫' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '潏' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '蝓' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '4',
+  ),
+  '獄' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '俁' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '燏' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '蜮' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '窬' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '輿' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '諭' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '伃' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '5',
+  ),
+  '鬱' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '貐' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '唹' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '悇' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '漁' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '預' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '譽' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '偊' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '尉' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '160',
+  ),
+  '舁' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '褕' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '瘐' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '臾' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '窳' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '噳' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
+  ),
+  '饫' => 
+  array (
+    'spell' => 'yu',
+    'weight' => '6',
   ),
   '遹' => 
   array (
@@ -38519,6 +70164,66 @@
     'spell' => 'yu',
     'weight' => '202250',
   ),
+  '膃' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '1',
+  ),
+  '瓲' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '1',
+  ),
+  '韈' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '1',
+  ),
+  '韎' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '1',
+  ),
+  '媧' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '1',
+  ),
+  '窐' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '2',
+  ),
+  '窊' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '2',
+  ),
+  '嗢' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '2',
+  ),
+  '窪' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '3',
+  ),
+  '漥' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '4',
+  ),
+  '襪' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '4',
+  ),
+  '腽' => 
+  array (
+    'spell' => 'wa',
+    'weight' => '5',
+  ),
   '唲' => 
   array (
     'spell' => 'wa',
@@ -38569,6 +70274,11 @@
     'spell' => 'wa',
     'weight' => '15817',
   ),
+  '咼' => 
+  array (
+    'spell' => 'wai',
+    'weight' => '1',
+  ),
   '喎' => 
   array (
     'spell' => 'wai',
@@ -38588,6 +70298,111 @@
   array (
     'spell' => 'wai',
     'weight' => '20471',
+  ),
+  '抏' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '忨' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '睕' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '鋄' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '杤' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '岏' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '綩' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '輓' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '捥' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '薍' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '紈' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '1',
+  ),
+  '綰' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '澫' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '刓' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '槾' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '琓' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '翫' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '2',
+  ),
+  '汍' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '3',
+  ),
+  '鄤' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '3',
+  ),
+  '倇' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '4',
+  ),
+  '頑' => 
+  array (
+    'spell' => 'wan',
+    'weight' => '5',
   ),
   '関' => 
   array (
@@ -38784,15 +70599,55 @@
     'spell' => 'wan',
     'weight' => '24072',
   ),
-  '万' => 
-  array (
-    'spell' => 'wan',
-    'weight' => '25941',
-  ),
   '玩' => 
   array (
     'spell' => 'wan',
     'weight' => '67131',
+  ),
+  '菵' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '1',
+  ),
+  '抂' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '1',
+  ),
+  '盳' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '1',
+  ),
+  '迋' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '2',
+  ),
+  '辋' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '4',
+  ),
+  '尪' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '4',
+  ),
+  '朢' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '5',
+  ),
+  '仼' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '5',
+  ),
+  '徃' => 
+  array (
+    'spell' => 'wang',
+    'weight' => '6',
   ),
   '魍' => 
   array (
@@ -38873,6 +70728,76 @@
   array (
     'spell' => 'wang',
     'weight' => '21198',
+  ),
+  '抆' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '1',
+  ),
+  '豱' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '1',
+  ),
+  '殟' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '1',
+  ),
+  '魰' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '2',
+  ),
+  '塭' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '2',
+  ),
+  '呅' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '3',
+  ),
+  '忞' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '3',
+  ),
+  '馼' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '3',
+  ),
+  '絻' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '3',
+  ),
+  '呡' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '3',
+  ),
+  '鰛' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '4',
+  ),
+  '穏' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '4',
+  ),
+  '瑥' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '4',
+  ),
+  '顐' => 
+  array (
+    'spell' => 'wen',
+    'weight' => '5',
   ),
   '妏' => 
   array (
@@ -39019,6 +70944,51 @@
     'spell' => 'wen',
     'weight' => '49777',
   ),
+  '鶲' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '罋' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '暡' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '齆' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '螉' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '奣' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '1',
+  ),
+  '聬' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '2',
+  ),
+  '蕹' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '2',
+  ),
+  '甕' => 
+  array (
+    'spell' => 'weng',
+    'weight' => '4',
+  ),
   '蓊' => 
   array (
     'spell' => 'weng',
@@ -39043,6 +71013,341 @@
   array (
     'spell' => 'weng',
     'weight' => '995',
+  ),
+  '躗' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '潿' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '巋' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '犩' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '癐' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '瀢' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '褽' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '覣' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '愄' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '覹' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '磈' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '讆' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '踓' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蜼' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '峞' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '渨' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蜲' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蝛' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '鏏' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '鄬' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '椲' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '犚' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '詴' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '芛' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '磑' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '縅' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '喡' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '藯' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '媦' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '峗' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '霺' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '餧' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '鮪' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '徫' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '鮇' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '癓' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蔿' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蘶' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '濰' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '趡' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '衞' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '諉' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '碨' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '1',
+  ),
+  '蝟' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '霨' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '瞶' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '溈' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '蓶' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '軎' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '痏' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '壝' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '湋' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '2',
+  ),
+  '頠' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '3',
+  ),
+  '鮠' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '3',
+  ),
+  '洈' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '3',
+  ),
+  '煒' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '3',
+  ),
+  '蒍' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '3',
+  ),
+  '撱' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '4',
+  ),
+  '鲔' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '4',
+  ),
+  '葦' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '4',
+  ),
+  '廆' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '4',
+  ),
+  '儰' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '4',
+  ),
+  '崣' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '5',
+  ),
+  '僞' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '5',
+  ),
+  '韡' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '5',
+  ),
+  '菋' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '6',
+  ),
+  '餵' => 
+  array (
+    'spell' => 'wei',
+    'weight' => '6',
   ),
   '違' => 
   array (
@@ -39199,11 +71504,6 @@
     'spell' => 'wei',
     'weight' => '24',
   ),
-  '隗' => 
-  array (
-    'spell' => 'wei',
-    'weight' => '25',
-  ),
   '謂' => 
   array (
     'spell' => 'wei',
@@ -39279,11 +71579,6 @@
     'spell' => 'wei',
     'weight' => '157',
   ),
-  '尉' => 
-  array (
-    'spell' => 'wei',
-    'weight' => '160',
-  ),
   '巍' => 
   array (
     'spell' => 'wei',
@@ -39313,11 +71608,6 @@
   array (
     'spell' => 'wei',
     'weight' => '314',
-  ),
-  '蔚' => 
-  array (
-    'spell' => 'wei',
-    'weight' => '381',
   ),
   '玮' => 
   array (
@@ -39439,6 +71729,101 @@
     'spell' => 'wei',
     'weight' => '210479',
   ),
+  '瞃' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '捼' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '濣' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '婑' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '撾' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '焥' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '猧' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '萵' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '蝸' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '腛' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '踒' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '齷' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '踠' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '擭' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '1',
+  ),
+  '雘' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '2',
+  ),
+  '渦' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '3',
+  ),
+  '瓁' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '3',
+  ),
+  '涴' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '4',
+  ),
+  '仴' => 
+  array (
+    'spell' => 'wo',
+    'weight' => '6',
+  ),
   '莴' => 
   array (
     'spell' => 'wo',
@@ -39538,6 +71923,241 @@
   array (
     'spell' => 'wo',
     'weight' => '1192789',
+  ),
+  '恶' => 
+  array (
+    'spell' => 'e',
+    'weight' => '7036',
+  ),
+  '雺' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '岉' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '鯃' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '趶' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '瞴' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '杇' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '鷡' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '鎢' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '窏' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '蘁' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '幠' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '碔' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '扤' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '霿' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '玝' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '莁' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '膴' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '騖' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '郚' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '嵨' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '剭' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '1',
+  ),
+  '墲' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '旿' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '廡' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '啎' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '塢' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '鄔' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '牾' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '躌' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '2',
+  ),
+  '粅' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '3',
+  ),
+  '呉' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '3',
+  ),
+  '嫵' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '3',
+  ),
+  '靰' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '3',
+  ),
+  '迕' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '3',
+  ),
+  '俉' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '4',
+  ),
+  '鹉' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '4',
+  ),
+  '沕' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '4',
+  ),
+  '禑' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '4',
+  ),
+  '杌' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '4',
+  ),
+  '珷' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '5',
+  ),
+  '譕' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '5',
+  ),
+  '潕' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '5',
+  ),
+  '誣' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '5',
+  ),
+  '汙' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '5',
+  ),
+  '橆' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '6',
+  ),
+  '蕪' => 
+  array (
+    'spell' => 'wu',
+    'weight' => '6',
   ),
   '倵' => 
   array (
@@ -39879,6 +72499,96 @@
     'spell' => 'a',
     'weight' => '83803',
   ),
+  '鴱' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '皚' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '靄' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '騃' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '昹' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '溾' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '譪' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '藹' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '1',
+  ),
+  '娭' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '2',
+  ),
+  '瞹' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '2',
+  ),
+  '璦' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '2',
+  ),
+  '啀' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '2',
+  ),
+  '锿' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '3',
+  ),
+  '曖' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '3',
+  ),
+  '礙' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '3',
+  ),
+  '敳' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '3',
+  ),
+  '砹' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '3',
+  ),
+  '鑀' => 
+  array (
+    'spell' => 'ai',
+    'weight' => '4',
+  ),
   '壒' => 
   array (
     'spell' => 'ai',
@@ -39908,11 +72618,6 @@
   array (
     'spell' => 'ai',
     'weight' => '20',
-  ),
-  '嗌' => 
-  array (
-    'spell' => 'ai',
-    'weight' => '23',
   ),
   '瑷' => 
   array (
@@ -40014,6 +72719,96 @@
     'spell' => 'ai',
     'weight' => '31546',
   ),
+  '腤' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '馣' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '峖' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '啽' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '萻' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '韽' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '豻' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '錌' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '銨' => 
+  array (
+    'spell' => 'an',
+    'weight' => '1',
+  ),
+  '諳' => 
+  array (
+    'spell' => 'an',
+    'weight' => '2',
+  ),
+  '鮟' => 
+  array (
+    'spell' => 'an',
+    'weight' => '2',
+  ),
+  '荌' => 
+  array (
+    'spell' => 'an',
+    'weight' => '2',
+  ),
+  '揞' => 
+  array (
+    'spell' => 'an',
+    'weight' => '2',
+  ),
+  '埯' => 
+  array (
+    'spell' => 'an',
+    'weight' => '3',
+  ),
+  '鹌' => 
+  array (
+    'spell' => 'an',
+    'weight' => '4',
+  ),
+  '侒' => 
+  array (
+    'spell' => 'an',
+    'weight' => '4',
+  ),
+  '儑' => 
+  array (
+    'spell' => 'an',
+    'weight' => '5',
+  ),
+  '盦' => 
+  array (
+    'spell' => 'an',
+    'weight' => '6',
+  ),
   '垵' => 
   array (
     'spell' => 'an',
@@ -40099,6 +72894,16 @@
     'spell' => 'an',
     'weight' => '25812',
   ),
+  '骯' => 
+  array (
+    'spell' => 'ang',
+    'weight' => '1',
+  ),
+  '昻' => 
+  array (
+    'spell' => 'ang',
+    'weight' => '2',
+  ),
   '肮' => 
   array (
     'spell' => 'ang',
@@ -40113,6 +72918,71 @@
   array (
     'spell' => 'ang',
     'weight' => '1474',
+  ),
+  '岰' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '嶴' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '扷' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '镺' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '鼇' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '襖' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '擙' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '1',
+  ),
+  '墺' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '2',
+  ),
+  '謷' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '2',
+  ),
+  '鰲' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '2',
+  ),
+  '聱' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '3',
+  ),
+  '芺' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '3',
+  ),
+  '奡' => 
+  array (
+    'spell' => 'ao',
+    'weight' => '4',
   ),
   '廒' => 
   array (
@@ -40228,6 +73098,146 @@
   array (
     'spell' => 'ao',
     'weight' => '5814',
+  ),
+  '軶' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '歞' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '鶚' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '鰐' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '峉' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '蝁' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '鑩' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '堊' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '廅' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '砐' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '遻' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '堮' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '軛' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '咢' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '頞' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '鵞' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '譌' => 
+  array (
+    'spell' => 'e',
+    'weight' => '1',
+  ),
+  '諤' => 
+  array (
+    'spell' => 'e',
+    'weight' => '2',
+  ),
+  '睋' => 
+  array (
+    'spell' => 'e',
+    'weight' => '2',
+  ),
+  '鱷' => 
+  array (
+    'spell' => 'e',
+    'weight' => '2',
+  ),
+  '崿' => 
+  array (
+    'spell' => 'e',
+    'weight' => '2',
+  ),
+  '阨' => 
+  array (
+    'spell' => 'e',
+    'weight' => '3',
+  ),
+  '悪' => 
+  array (
+    'spell' => 'e',
+    'weight' => '3',
+  ),
+  '珴' => 
+  array (
+    'spell' => 'e',
+    'weight' => '4',
+  ),
+  '娾' => 
+  array (
+    'spell' => 'e',
+    'weight' => '4',
+  ),
+  '迗' => 
+  array (
+    'spell' => 'e',
+    'weight' => '4',
+  ),
+  '搹' => 
+  array (
+    'spell' => 'e',
+    'weight' => '5',
+  ),
+  '囮' => 
+  array (
+    'spell' => 'e',
+    'weight' => '5',
   ),
   '顎' => 
   array (
@@ -40429,11 +73439,6 @@
     'spell' => 'o',
     'weight' => '15582',
   ),
-  '恶' => 
-  array (
-    'spell' => 'e',
-    'weight' => '7036',
-  ),
   '呃' => 
   array (
     'spell' => 'e',
@@ -40454,6 +73459,11 @@
     'spell' => 'e',
     'weight' => '12039',
   ),
+  '峎' => 
+  array (
+    'spell' => 'en',
+    'weight' => '2',
+  ),
   '蒽' => 
   array (
     'spell' => 'en',
@@ -40473,6 +73483,111 @@
   array (
     'spell' => 'en',
     'weight' => '162015',
+  ),
+  '鮞' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '駬' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '鴯' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '峏' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '輀' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '胹' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '栮' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '薾' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '刵' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '荋' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '粫' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '貮' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '咡' => 
+  array (
+    'spell' => 'er',
+    'weight' => '1',
+  ),
+  '陑' => 
+  array (
+    'spell' => 'er',
+    'weight' => '2',
+  ),
+  '毦' => 
+  array (
+    'spell' => 'er',
+    'weight' => '2',
+  ),
+  '弐' => 
+  array (
+    'spell' => 'er',
+    'weight' => '3',
+  ),
+  '邇' => 
+  array (
+    'spell' => 'er',
+    'weight' => '3',
+  ),
+  '鉺' => 
+  array (
+    'spell' => 'er',
+    'weight' => '3',
+  ),
+  '鲕' => 
+  array (
+    'spell' => 'er',
+    'weight' => '4',
+  ),
+  '餌' => 
+  array (
+    'spell' => 'er',
+    'weight' => '4',
+  ),
+  '侕' => 
+  array (
+    'spell' => 'er',
+    'weight' => '5',
   ),
   '貳' => 
   array (
@@ -40573,6 +73688,66 @@
   array (
     'spell' => 'o',
     'weight' => '7268',
+  ),
+  '慪' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '吘' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '熰' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '漚' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '甌' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '鴎' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '1',
+  ),
+  '鷗' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '2',
+  ),
+  '蕅' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '3',
+  ),
+  '毆' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '4',
+  ),
+  '嘔' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '4',
+  ),
+  '櫙' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '4',
+  ),
+  '藲' => 
+  array (
+    'spell' => 'ou',
+    'weight' => '6',
   ),
   '讴' => 
   array (
