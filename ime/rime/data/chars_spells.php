@@ -53469,11 +53469,6 @@
     'spell' => 'chu',
     'weight' => '2',
   ),
-  '蜍' => 
-  array (
-    'spell' => 'chu',
-    'weight' => '2',
-  ),
   '摴' => 
   array (
     'spell' => 'chu',
@@ -53608,6 +53603,11 @@
   array (
     'spell' => 'chu',
     'weight' => '55',
+  ),
+  '蜍' => 
+  array (
+    'spell' => 'chu',
+    'weight' => '57',
   ),
   '處' => 
   array (
@@ -56004,11 +56004,6 @@
     'spell' => 'shi',
     'weight' => '3635',
   ),
-  '食' => 
-  array (
-    'spell' => 'shi',
-    'weight' => '3981',
-  ),
   '诗' => 
   array (
     'spell' => 'shi',
@@ -56048,6 +56043,11 @@
   array (
     'spell' => 'shi',
     'weight' => '34422',
+  ),
+  '食' => 
+  array (
+    'spell' => 'shi',
+    'weight' => '35810',
   ),
   '事' => 
   array (

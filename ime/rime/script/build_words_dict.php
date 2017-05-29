@@ -1,7 +1,6 @@
 <?php
 error_reporting(E_ALL^E_NOTICE);
 require __DIR__ . '/helpers/Scanner.class.php';
-require __DIR__ . '/helpers/Speller.class.php';
 require __DIR__ . '/helpers/Encoder.class.php';
 define('WORD_WEIGHT', 1);
 define('HIGH_WORD_WEIGHT', 3000);
@@ -27,8 +26,11 @@ $scanner->scan(function($line)use(&$codes){
 $phrases = array();
 $scanner = new Scanner(__DIR__ . '/../data/phrases.txt');
 $scanner->scan(function($line)use(&$phrases){
-	list($phrase, $weight) = explode("\t", trim($line));
-	$phrases[$phrase] = $weight;
+	list($phrase, $spell, $weight) = explode("\t", trim($line));
+	$phrases[$phrase] = array(
+		'spell' => $spell,
+		'weight' => $weight
+	);
 });
 
 // load words
@@ -36,6 +38,7 @@ $words = array();
 $skip_words = array();
 $conflict_words = array();
 $scanner = new Scanner(__DIR__ . '/../data/spells_words.txt');
+var_dump(DEBUG_WORD);
 $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$codes, &$phrases){
 	list($word, $spell, $weight) = explode("\t", trim($line));
 	$code = Encoder::ins()->encodeSpells($spell);
@@ -160,17 +163,12 @@ fclose($dict);
 $dict = fopen(__DIR__ . '/../build/zdvorak.phrases.dict.yaml', 'w');
 $header = file_get_contents(__DIR__ . '/../template/zdvorak.phrases.dict.yaml');
 fwrite($dict, $header);
-foreach ($phrases as $phrase => $weight) {
-	$spell = Speller::ins()->spellWord($phrase);
-	if (!$spell) continue;
-	$code = Encoder::ins()->encodeSpells($spell);
+foreach ($phrases as $phrase => $config) {
+	$code = Encoder::ins()->encodeSpells($config['spell']);
 	if (!$code) continue;
-	fputs($dict, $code . "\t" . $phrase . "\t" . WORD_WEIGHT . PHP_EOL);
+	fputs($dict, $code . "\t" . $phrase . "\t" . $config['weight'] . PHP_EOL);
 }
 fclose($dict);
-echo 'missed spell: ' 
-   . count(Speller::ins()->missedChars()) . ' chars, ' 
-   . count(Speller::ins()->missedWords()) . ' phrases' . PHP_EOL;
 
 // save skip 2-chars words
 $file = fopen(__DIR__ . '/../data/skiped_words.txt', 'w');
