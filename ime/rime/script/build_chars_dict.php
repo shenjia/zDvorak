@@ -81,9 +81,6 @@ foreach ($spells as $spell => $chars) {
 					'weight' => $weight
 				));
 			}
-					if ($char=='合') {
-						var_dump($code, $short);
-					}
 			// if char have full code
 			if ($code != $short) {
 				// record char

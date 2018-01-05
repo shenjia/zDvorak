@@ -13730,7 +13730,6 @@
 鑿	zuo	9
 怍	zuo	11
 酢	zuo	14
-凿	zuo	27
 嘬	zuo	67
 祚	zuo	84
 琢	zuo	100
