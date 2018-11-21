@@ -1192,7 +1192,6 @@ zp.u	痱	24
 zpj	沸	175
 zpju	沸	175
 zps	翡	121
-zpsu	翡	121
 zpa	霏	119
 zpau	霏	119
 zpo	吠	111
@@ -3288,7 +3287,6 @@ ksme	槛	80
 kshq	龛	53
 kse	瞰	27
 kses	瞰	27
-ksuu	嵌	8
 k'.	康	3377
 k'.l	康	3377
 k'k	扛	796
@@ -5006,7 +5004,6 @@ i;ec	县	7573
 i;t	现	7027
 i;tn	现	7027
 i;o	咁	5076
-i;ou	咁	5076
 i;n	闲	3241
 i;nm	闲	3241
 i;h	仙	2749
@@ -5192,15 +5189,14 @@ ibc	欣	1587
 ibcb	欣	1587
 ib,	馨	1521
 ib,t	馨	1521
+ibd	薪	1462
+ibd.	莘	119
 ibhh	鑫	1415
 ib.	辛	1361
 ib.t	辛	1361
-ibd	芯	1078
 ibd'	芯	1078
 ibr	锌	739
 ibr.	锌	739
-ibd.	薪	462
-ibd.	莘	119
 ibe	昕	393
 ibec	昕	393
 ib.b	歆	144
@@ -6078,7 +6074,6 @@ a,el	畴	354
 a,e,	瞅	348
 a,,n	稠	316
 a,a	酬	230
-a,a'	酬	230
 a,c	绸	142
 a,cn	绸	142
 a,hl	俦	22
@@ -7655,6 +7650,7 @@ ur.	赢	5076
 ur.n	膺	42
 urd	英	4588
 urd	荧	62
+urd	萦	99
 urdh	英	4588
 urq	硬	4526
 urqh	硬	4526
@@ -7683,7 +7679,6 @@ urj	瀛	131
 urj.	瀛	131
 urjd	滢	114
 urcc	缨	103
-urdc	萦	99
 urdl	萤	89
 uro	郢	87
 urop	郢	87

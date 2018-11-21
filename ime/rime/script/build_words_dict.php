@@ -55,7 +55,7 @@ $scanner->scan(function($line)use(&$words, &$skip_words, &$conflict_words, &$cod
 			if (DEBUG_WORD == $word) echo 'word [' . $word . '] conflicted or have low weight.' . PHP_EOL;
 			return;
 		}
-		// take code if char take both code
+		// take code if char take more than one code
 		if ($codes[$short][0]['char'] == $codes[$code][0]['char']) {
 			echo 'word [' . $word . '] take code [' . $code . '] from char [' . $codes[$code][0]['char'] . '] because it have [' . $short . '].' . PHP_EOL;
 			array_shift($codes[$code]);

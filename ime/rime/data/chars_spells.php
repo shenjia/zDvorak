@@ -27389,11 +27389,6 @@
     'spell' => 'kan',
     'weight' => '6',
   ),
-  '嵌' => 
-  array (
-    'spell' => 'qian',
-    'weight' => '318',
-  ),
   '戡' => 
   array (
     'spell' => 'kan',
@@ -39384,6 +39379,11 @@
     'spell' => 'qian',
     'weight' => '270',
   ),
+  '嵌' => 
+  array (
+    'spell' => 'qian',
+    'weight' => '318',
+  ),
   '黔' => 
   array (
     'spell' => 'qian',
@@ -45394,11 +45394,6 @@
     'spell' => 'xin',
     'weight' => '393',
   ),
-  '薪' => 
-  array (
-    'spell' => 'xin',
-    'weight' => '462',
-  ),
   '锌' => 
   array (
     'spell' => 'xin',
@@ -45418,6 +45413,11 @@
   array (
     'spell' => 'xin',
     'weight' => '1415',
+  ),
+  '薪' => 
+  array (
+    'spell' => 'xin',
+    'weight' => '1462',
   ),
   '馨' => 
   array (

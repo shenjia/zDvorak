@@ -6271,7 +6271,6 @@
 顑	kan	5
 矙	kan	5
 竷	kan	6
-嵌	kan	8
 戡	kan	16
 丬	kan	25
 磡	kan	26
@@ -10431,11 +10430,11 @@
 忻	xin	131
 歆	xin	144
 昕	xin	393
-薪	xin	462
 锌	xin	739
 芯	xin	1078
 辛	xin	1361
 鑫	xin	1415
+薪	xin	1462
 馨	xin	1521
 欣	xin	1587
 信	xin	11312

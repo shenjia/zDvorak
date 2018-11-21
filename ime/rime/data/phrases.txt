@@ -6027,6 +6027,7 @@
 视微知着	shi wei zhi zhe	1
 视为畏途	shi wei wei tu	50
 视为知己	shi wei zhi ji	10
+尸位素餐	shi wei su can	50
 誓不两立	shi bu liang li	27
 誓死不从	shi si bu cong	34
 适得其反	shi de qi fan	3208
