@@ -2992,7 +2992,7 @@
   '埔' => 
   array (
     'spell' => 'pu',
-    'weight' => '142',
+    'weight' => '50',
   ),
   '佈' => 
   array (
@@ -15778,11 +15778,6 @@
   array (
     'spell' => 'tou',
     'weight' => '9',
-  ),
-  '骰' => 
-  array (
-    'spell' => 'tou',
-    'weight' => '48',
   ),
   '頭' => 
   array (
@@ -54174,6 +54169,11 @@
     'spell' => 'shai',
     'weight' => '11',
   ),
+  '骰' => 
+  array (
+    'spell' => 'shai',
+    'weight' => '200',
+  ),
   '筛' => 
   array (
     'spell' => 'shai',
@@ -67263,6 +67263,11 @@
   array (
     'spell' => 'yi',
     'weight' => '859',
+  ),
+  '祎' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1000',
   ),
   '怡' => 
   array (

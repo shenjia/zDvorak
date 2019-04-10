@@ -1203,13 +1203,13 @@
 堡	pu	27
 脯	pu	28
 菩	pu	41
+埔	pu	50
 莆	pu	51
 曝	pu	64
 溥	pu	79
 濮	pu	119
 圃	pu	126
 璞	pu	135
-埔	pu	142
 葡	pu	174
 仆	pu	181
 瀑	pu	194
@@ -3650,7 +3650,6 @@
 妵	tou	5
 偸	tou	9
 钭	tou	12
-骰	tou	48
 頭	tou	95
 透	tou	1771
 偷	tou	3462
@@ -12464,7 +12463,6 @@
 傻	sha	7160
 杀	sha	22449
 啥	sha	40526
-骰	shai	0
 繺	shai	0
 閷	shai	1
 攦	shai	1
@@ -12473,6 +12471,7 @@
 酾	shai	2
 色	shai	7
 曬	shai	11
+骰	shai	200
 筛	shai	271
 晒	shai	3130
 狦	shan	0
@@ -15517,6 +15516,7 @@
 疑	yi	784
 壹	yi	785
 尾	yi	859
+祎	yi	1000
 怡	yi	1103
 移	yi	1116
 译	yi	1129
