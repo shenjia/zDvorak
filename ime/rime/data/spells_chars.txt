@@ -10044,7 +10044,6 @@
 綅	xian	5
 僩	xian	5
 筅	xian	5
-洗	xian	5
 伭	xian	5
 顕	xian	5
 綫	xian	6
@@ -10093,7 +10092,7 @@
 舷	xian	72
 涎	xian	76
 酰	xian	84
-冼	xian	148
+冼	xian	0
 羡	xian	223
 纤	xian	239
 见	xian	251

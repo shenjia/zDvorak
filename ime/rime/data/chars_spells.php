@@ -43884,11 +43884,6 @@
     'spell' => 'xian',
     'weight' => '84',
   ),
-  '冼' => 
-  array (
-    'spell' => 'xian',
-    'weight' => '148',
-  ),
   '羡' => 
   array (
     'spell' => 'xian',
