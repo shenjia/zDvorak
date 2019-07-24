@@ -34817,7 +34817,7 @@
   '笺' => 
   array (
     'spell' => 'jian',
-    'weight' => '147',
+    'weight' => '47',
   ),
   '践' => 
   array (

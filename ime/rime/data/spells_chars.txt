@@ -7967,7 +7967,7 @@
 艰	jian	104
 柬	jian	105
 見	jian	111
-笺	jian	147
+笺	jian	47
 践	jian	154
 谏	jian	188
 俭	jian	224
