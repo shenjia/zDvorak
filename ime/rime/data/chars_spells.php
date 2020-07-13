@@ -67214,11 +67214,6 @@
     'spell' => 'yi',
     'weight' => '424',
   ),
-  '遗' => 
-  array (
-    'spell' => 'yi',
-    'weight' => '504',
-  ),
   '咦' => 
   array (
     'spell' => 'yi',
@@ -67308,6 +67303,11 @@
   array (
     'spell' => 'yi',
     'weight' => '1390',
+  ),
+  '遗' => 
+  array (
+    'spell' => 'yi',
+    'weight' => '1504',
   ),
   '益' => 
   array (

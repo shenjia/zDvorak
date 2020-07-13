@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZDVORAK_PATH="/Users/zhangshenjia/Cloud/works/github/zDvorak"
+ZDVORAK_PATH="/Users/zhangshenjia/Documents/我的坚果云/works/github/zDvorak"
 PHP_PARSER="/usr/bin/php"
 RIME_EXEC_PATH="/Library/Input Methods/Squirrel.app/Contents/MacOS"
 RIME_CONF_PATH="/Users/zhangshenjia/Library/Rime"
