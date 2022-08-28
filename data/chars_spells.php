@@ -8232,7 +8232,7 @@
   '璠' => 
   array (
     'spell' => 'fan',
-    'weight' => '20',
+    'weight' => '2000',
   ),
   '煩' => 
   array (
@@ -42782,7 +42782,7 @@
   '莃' => 
   array (
     'spell' => 'xi',
-    'weight' => '38',
+    'weight' => '380',
   ),
   '郗' => 
   array (
@@ -42909,11 +42909,6 @@
     'spell' => 'xi',
     'weight' => '175',
   ),
-  '玺' => 
-  array (
-    'spell' => 'xi',
-    'weight' => '183',
-  ),
   '奚' => 
   array (
     'spell' => 'xi',
@@ -42973,6 +42968,11 @@
   array (
     'spell' => 'xi',
     'weight' => '869',
+  ),
+  '玺' => 
+  array (
+    'spell' => 'xi',
+    'weight' => '883',
   ),
   '熙' => 
   array (
@@ -55797,7 +55797,7 @@
   '湜' => 
   array (
     'spell' => 'shi',
-    'weight' => '47',
+    'weight' => '470',
   ),
   '實' => 
   array (

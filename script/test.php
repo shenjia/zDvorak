@@ -1,5 +1,6 @@
 <?php
-error_reporting(E_ALL^E_NOTICE);
+error_reporting(E_ERROR);
+ini_set("display_errors","Off");
 define('WORKING_TABLE', __DIR__ . '/../data/working.txt');
 define('STRUCTURE_TABLE', __DIR__ . '/../data/structure.txt');
 require __DIR__ . '/helpers/Scanner.class.php';

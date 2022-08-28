@@ -6644,7 +6644,6 @@
 洞里	dong li	286
 动力	dong li	5580
 栋梁	dong liang	188
-东路	dong lu	754
 冬瓜	dong gua	471
 东莞	dong guan	2548
 动感	dong gan	1078
@@ -8906,6 +8905,7 @@
 能做	neng zuo	1292
 能从	neng cong	500
 能源	neng yuan	4420
+能行	neng xing	3000
 能以	neng yi	238
 能赢	neng ying	115
 能有	neng you	1887
@@ -12551,6 +12551,7 @@
 贵妃	gui fei	239
 贵妇	gui fu	110
 归档	gui dang	524
+归因	gui yin	3000
 轨道	gui dao	1773
 贵的	gui de	266
 跪地	gui di	115
@@ -15449,7 +15450,7 @@
 祭拜	ji bai	111
 击败	ji bai	1199
 几百	ji bai	2542
-羁绊	ji ban	144
+羁绊	ji ban	644
 基板	ji ban	173
 季报	ji bao	312
 几本	ji ben	524
@@ -15618,8 +15619,8 @@
 激光	ji guang	1474
 技改	ji gai	271
 极高	ji gao	884
-及格	ji ge	803
-几个	ji ge	31704
+及格	ji ge	3803
+几个	ji ge	3170
 几根	ji gen	303
 寄给	ji gei	550
 机构	ji gou	13998
@@ -21509,7 +21510,7 @@
 张斌	zhang bin	251
 长胖	zhang pang	205
 张鹏	zhang peng	132
-帐篷	zhang peng	973
+帐篷	zhang peng	9730
 长满	zhang man	231
 掌门	zhang men	270
 账面	zhang mian	333
@@ -29378,7 +29379,7 @@
 死鱼	si yu	129
 思域	si yu	148
 私语	si yu	264
-死于	si yu	693
+私域	si yu	693
 丝袜	si wa	762
 四万	si wan	173
 死亡	si wang	5917
@@ -33007,7 +33008,7 @@
 猥亵	wei xie	335
 威胁	wei xie	4371
 违心	wei xin	134
-威信	wei xin	287
+微信	wei xin	2870
 微星	wei xing	335
 微型	wei xing	559
 卫星	wei xing	2338
@@ -33182,7 +33183,7 @@
 我将	wo jiang	596
 握紧	wo jin	175
 我就	wo jiu	15010
-我局	wo ju	550
+莴苣	wo ju	5500
 我却	wo que	1321
 我区	wo qu	860
 我去	wo qu	5369
@@ -35575,6 +35576,7 @@
 东南亚	dong nan ya	1070
 动脑筋	dong nao jin	155
 动力学	dong li xue	412
+冬令营	dong ling ying	4120
 东莞市	dong guan shi	534
 动画片	dong hua pian	1136
 动起来	dong qi lai	162
@@ -39594,7 +39596,6 @@
 适合做	shi he zuo	250
 世纪末	shi ji mo	256
 世纪初	shi ji chu	280
-实际上	shi ji shang	6795
 十几万	shi ji wan	244
 市纪委	shi ji wei	161
 是假的	shi jia de	750
